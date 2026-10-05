@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import hashlib
 import html as htmllib
 import json
 import re
@@ -205,14 +206,30 @@ def write_search_index(days: dict[str, dict]) -> list[str]:
     return sorted(by_month, reverse=True)
 
 
+def data_fingerprint() -> str:
+    """Hash of every saved story file, so 'updated' only moves when stories change."""
+    h = hashlib.sha256()
+    for p in sorted(DATA_DIR.rglob("*.json")):
+        if p.name != "index.json":
+            h.update(p.relative_to(DATA_DIR).as_posix().encode())
+            h.update(p.read_bytes())
+    return h.hexdigest()[:16]
+
+
 def write_index(days: dict[str, dict], months: list[str]) -> None:
+    path = DATA_DIR / "index.json"
+    old = json.loads(path.read_text()) if path.exists() else {}
+    fingerprint = data_fingerprint()
     index = {
-        "updated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+        "updated": old.get("updated"),
+        "fingerprint": fingerprint,
         "newsletters": NEWSLETTERS,
         "days": sorted(days, reverse=True),
         "search_months": months,
     }
-    (DATA_DIR / "index.json").write_text(json.dumps(index, indent=1) + "\n")
+    if old.get("fingerprint") != fingerprint or {**old, "updated": None} != {**index, "updated": None}:
+        index["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    path.write_text(json.dumps(index, indent=1) + "\n")
 
 
 def last_weekday_before(today: dt.date) -> dt.date:

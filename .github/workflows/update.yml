@@ -2,8 +2,9 @@ name: Update news and deploy site
 
 on:
   schedule:
-    # TLDR sends in the US morning; run a few times so late issues are picked up.
-    - cron: "17 13,17,22 * * *"
+    # Every 30 minutes. Runs with no new stories don't commit or redeploy.
+    # (GitHub may start scheduled runs late or skip some when busy.)
+    - cron: "*/30 * * * *"
   workflow_dispatch:
     inputs:
       days:
@@ -27,6 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       problems: ${{ steps.fetch.outputs.problems }}
+      publish: ${{ steps.commit.outputs.changed == 'true' || github.event_name != 'schedule' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -50,6 +52,7 @@ jobs:
           name: scrape-problems
           path: errors.log
       - name: Commit new data
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,16 +60,21 @@ jobs:
           if git diff --cached --quiet; then
             echo "No new stories."
           else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
             git commit -m "Update news data $(date -u +%Y-%m-%d)"
             git push
           fi
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      # Scheduled runs only republish when there's something new.
+      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/configure-pages@v5
+      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
     needs: scrape
+    if: needs.scrape.outputs.publish == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -83,5 +91,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
+          # Scheduled runs happen every 30 min; only fail (and email) once a day, around 15:00 UTC.
+          if [ "${{ github.event_name }}" = "schedule" ] && { [ "$(date -u +%H)" != "15" ] || [ "$(date -u +%M)" -ge 30 ]; }; then
+            echo "::warning::The TLDR scraper hit problems (alert email is sent by the ~15:00 UTC run)."
+            exit 0
+          fi
           echo "::error::The TLDR scraper hit problems. See the 'Fetch issues' step log or the scrape-problems artifact."
           exit 1
