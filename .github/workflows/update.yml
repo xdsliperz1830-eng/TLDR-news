@@ -3,8 +3,8 @@ name: Update news and deploy site
 on:
   schedule:
     # Every 30 minutes. Runs with no new stories don't commit or redeploy.
-    # (GitHub may start scheduled runs late or skip some when busy.)
-    - cron: "*/30 * * * *"
+    # Off the :00/:30 marks, which GitHub delays or drops most when busy.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       days:
