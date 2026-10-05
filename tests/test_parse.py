@@ -19,6 +19,7 @@ def test_parse_issue():
     assert not first["sponsored"]
 
     assert stories[1]["sponsored"]
+    assert stories[1]["url"] == "https://sponsor.example.com/?a=1&utm_campaign=sponsor"
     assert stories[1]["title"] == "Ship AI Faster With Acme"
 
     repo = stories[2]

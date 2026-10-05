@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import html as htmllib
 import json
 import re
 import sys
@@ -78,7 +79,8 @@ def parse_issue(html: str, slug: str, date: str) -> list[dict]:
             title_el.extract()
             summary = clean(article.get_text(" "))
 
-        url = link["href"]
+        # Some hrefs are double-escaped in the page source ("&amp;amp;").
+        url = htmllib.unescape(link["href"].strip())
         section = section_for(article)
         sponsored = kind == "sponsor" or "sponsor" in section.lower() or "utm_campaign=sponsor" in url.lower()
         stories.append(
