@@ -4,7 +4,10 @@ A personal website that collects the [TLDR](https://tldr.tech) newsletters
 from their public web archive and shows them as one filterable news feed.
 
 - **Filter by newsletter** (TLDR, AI, Web Dev, InfoSec, …). Your choice is remembered.
-- **Search** headlines and summaries, with matches highlighted.
+- **Search** headlines and summaries across the whole archive, with matches highlighted.
+- **My topics:** list words you care about (e.g. `Apple, Rust, security`); matching stories get a ★ badge,
+  and *My topics only* shows just those.
+- Stories that appear in several newsletters are shown once, labelled with each newsletter.
 - **Hide sponsored** stories (on by default).
 - **Save** stories for later and see them with *Saved only*. Stories you've opened are dimmed.
 
@@ -16,6 +19,7 @@ Saved stories and read history are kept in your browser (localStorage) only.
 scraper/scrape.py        fetches https://tldr.tech/<newsletter>/<date>, parses the stories
 docs/data/<date>.json    one file per day, all newsletters combined
 docs/data/index.json     list of available days
+docs/data/search/        every story, de-duplicated, one file per month (used by search)
 docs/                    the static website (index.html, app.js, style.css)
 .github/workflows/       runs the scraper 3x a day, commits new data, deploys to GitHub Pages
 ```
@@ -46,6 +50,7 @@ python -m http.server -d docs 8000       # open http://localhost:8000
 
 ## If stories stop showing up
 
-The scraper depends on the HTML layout of tldr.tech. If TLDR redesigns it, the
-workflow will run but find no stories. Fix `parse_issue()` in `scraper/scrape.py`
+The scraper depends on the HTML layout of tldr.tech. If an issue page can't be
+parsed, or no issues are found for the last weekday, the workflow's **alert** job
+fails and GitHub emails you (stories it did find are still saved and published). Fix `parse_issue()` in `scraper/scrape.py`
 and update `tests/fixtures/ai-sample.html` to match.

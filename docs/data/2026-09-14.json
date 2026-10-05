@@ -11,7 +11,8 @@
     "summary": "Orkes Shift '26 is one day on running agentic systems in production: durable execution, retries, distributed failures, and human approvals. October 15, Convene Union Square, San Francisco. Early bird pricing ends soon and capacity is limited. The agenda : “Rebuilding a Monolith: Choreography to Orchestration” “Designing a Focused Agent Runtime on Conductor” “Stop Babysitting Your AI Coding Agents” Speakers from LinkedIn, Bumble, and the Orkes founders , plus a fireside and happy hour Conductor runs 1B+ executions a day at Netflix, Tesla, and LinkedIn. Register here →",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://orkes.io/shift"
    },
    {
     "newsletter": "tech",
@@ -22,7 +23,8 @@
     "summary": "Anthropic's CEO recently released a 3,800-word essay calling for a global slowdown of AI development. He said that while the technology offers many benefits, it is advancing too quickly for researchers to continue safely. AI leaders are preparing for a day when an AI system can grow more advanced without the aid of human researchers. Some researchers believe that achieving recursive self-improvement will lead to AI systems spinning out of control.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.BFE.o4Ig.8ENkwzz-C2uF"
    },
    {
     "newsletter": "tech",
@@ -33,7 +35,8 @@
     "summary": "OpenAI CEO Sam Altman has confirmed that the company will not be going public this year. He said it would be an ill-advised moment to go public due to current safety concerns. OpenAI had hired bankers and lawyers with the goal of going public this year. The company is now leaning toward 2027 due to the volatility of tech stocks and its own financial challenges.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
    },
    {
     "newsletter": "tech",
@@ -44,7 +47,8 @@
     "summary": "The push by AI companies to solve mathematical problems as a benchmark is detrimental to the science of mathematics. The goals of AI companies and the mathematical community are severely misaligned. This is a symptom of broader alignment issues that impact other scientific and creative professions, as well as the whole of society.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"
    },
    {
     "newsletter": "tech",
@@ -55,7 +59,8 @@
     "summary": "Construction is labor-intensive. There has, unsurprisingly, long been interest in automating the process to reduce the amount of labor required. However, automation has only been successful in tasks that can be done off-site in factories and on-site tasks that are extremely factory-like. Almost nothing outside of these two categories has succeeded.",
     "read_minutes": 20,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://construction-physics.com/p/where-has-construction-automation"
    },
    {
     "newsletter": "tech",
@@ -66,7 +71,8 @@
     "summary": "Agents can generate code. Getting it right for your system is the hard part. More MCPs solve access but not understanding. Join us for a FREE webinar on Sep 23 to see how leading teams save time and tokens by giving their agents a context layer.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://getunblocked.com/events/how-to-stop-babysitting-your-agents-sep-23"
    },
    {
     "newsletter": "tech",
@@ -77,7 +83,8 @@
     "summary": "Forward-deployed engineers have the hottest job in AI right now. While labs, startups, and PE firms are all hiring engineers to sit inside their customers' operations and solve their problems, almost none of them agree on what those engineers are supposed to accomplish. This article looks at what works and what fails and tries to predict where the industry is heading. It covers misunderstandings about the role, its history, what the goal of the role is, and more.",
     "read_minutes": 21,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://latent.space/p/forward-deployed-engineer-best-practices"
    },
    {
     "newsletter": "tech",
@@ -88,7 +95,8 @@
     "summary": "Large language models are able to write almost perfectly correct code. It is pretty straightforward to get a model to generate code and then let that code be checked by hidden tests. Checking the sloppiness of this code often requires human intuition and time, and is an extremely difficult task in general. This post illustrates why this is by going through possible ways of measuring slop.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://earendil.com/posts/measuring-code-sloppiness"
    },
    {
     "newsletter": "tech",
@@ -99,7 +107,8 @@
     "summary": "The company behind Roblox announced several new features at its annual Roblox Developer Conference, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms. The company is also launching a dedicated card and wallet for creators. Roblox is rolling out its generative AI game creation feature more broadly to Serbia and Singapore. It is also gaining desktop access, and later this year, it will get a new prompt-based scene-generating feature.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox"
    },
    {
     "newsletter": "tech",
@@ -110,7 +119,8 @@
     "summary": "While AI has the potential to produce a long line of technological miracles, like many technologies before it, it brings risk. These risks include losing control of AI systems, the misuse of the technology for cyberattacks and bioterrorism, and serious economic disruption. A race to the bottom spurred by commercial incentives makes these risks more acute. Anthropic's CEO has called for the industry to prioritize caution over speed and prudence over profit. Addressing these risks will require pacing the rate of capabilities advancement so that risk prevention has time to keep up.",
     "read_minutes": 23,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://darioamodei.com/post/we-must-pace-the-frontier"
    },
    {
     "newsletter": "tech",
@@ -121,7 +131,8 @@
     "summary": "Access models from 80+ providers with better prices, automatic routing and fallbacks, and no subscriptions. Build with the right model for every request. See how it works.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://openrouter.ai/"
    },
    {
     "newsletter": "tech",
@@ -132,7 +143,8 @@
     "summary": "Ads get ignored on social media but not in TLDR! Reach developers, PMs, marketers, founders and other tech leaders where they actually pay attention. Learn more about sponsorship opportunities .",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://advertise.tldr.tech/"
    },
    {
     "newsletter": "tech",
@@ -143,7 +155,8 @@
     "summary": "Most prompts are bad because people only add to them over time rather than removing unnecessary instructions.",
     "read_minutes": 24,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/wulfie_bain_/status/2098060386813566990"
    },
    {
     "newsletter": "tech",
@@ -154,7 +167,8 @@
     "summary": "The future will see more software, more people making it, and none of them typing.",
     "read_minutes": 19,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://seldo.com/posts/we-are-all-product-engineers-now"
    },
    {
     "newsletter": "tech",
@@ -165,7 +179,8 @@
     "summary": "The speed of the developer experience will matter a lot more when generating tokens stops becoming the bottleneck.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models"
    },
    {
     "newsletter": "tech",
@@ -176,7 +191,8 @@
     "summary": "Big prompts are brittle and hard to debug and evaluate, but they are the best choice in some cases.",
     "read_minutes": 16,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://adlrocha.substack.com/p/adlrocha-fat-agents-vs-narrow-agents"
    },
    {
     "newsletter": "tech",
@@ -187,7 +203,8 @@
     "summary": "Humans who want to use AI for interpersonal interactions will need to work hard to compensate for the loss of trust it engenders.",
     "read_minutes": 14,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://charity.wtf/p/confessions-of-an-unrepentant-slop"
    },
    {
     "newsletter": "tech",
@@ -198,7 +215,8 @@
     "summary": "Tesla recently made a post that simply wrote, 'Go for launch,' with a graphic showing a '10.1' date.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1"
    }
   ],
   "ai": [
@@ -211,7 +229,8 @@
     "summary": "Most large-scale AI training runs operate at 35–45% Model FLOPS Utilization (MFU). You're paying for twice the compute you're using. Lambda's engineers benchmarked Llama 3.1 models from 8B to 405B on NVIDIA Blackwell GPUs and traced the efficiency loss to its root causes: Memory overhead Parallelism strategy Serialized communication The result: a reproducible framework that pushed MFU past 60% (25%+ improvement vs. industry benchmark) with no changes to model architecture. Get the whitepaper.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://lambda.ai/llama-3-1-blackwell-mfu-benchmarks"
    },
    {
     "newsletter": "ai",
@@ -222,7 +241,8 @@
     "summary": "Cursor Projects lets users take on larger bodies of work. It can maintain context over months of work, delegate tasks to thousands of agents, and perform recurring work without being prompted. Cursor Projects frees developers from managing agents and lets them direct the work itself by moving up a level of abstraction. The tool has been a substantial productivity multiplier at Cursor: new users merge 30% more PRs.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://cursor.com/blog/projects"
    },
    {
     "newsletter": "ai",
@@ -233,7 +253,8 @@
     "summary": "Sam Altman said OpenAI would not go public in 2026, arguing that current AI safety concerns made an IPO ill-advised. The company had previously filed confidentially and was reportedly considering a 2027 listing instead.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
    },
    {
     "newsletter": "ai",
@@ -244,7 +265,8 @@
     "summary": "SoftBank just borrowed nearly $12 billion from about 20 banks to keep funding OpenAI, beating the $10 billion it first sought. Son is still aiming near $65 billion into OpenAI by October even as Altman shelves a 2026 IPO over safety and SoftBank shares sank as much as 13% Monday on the debt pile.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai"
    },
    {
     "newsletter": "ai",
@@ -255,7 +277,8 @@
     "summary": "Anthropic CEO Dario Amodei called for slowing the rate of frontier AI capability development and proposed measures including independent evaluators to verify safety commitments and incident reporting.",
     "read_minutes": 23,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://darioamodei.com/post/we-must-pace-the-frontier"
    },
    {
     "newsletter": "ai",
@@ -266,7 +289,8 @@
     "summary": "ARC Prize believes that open source will be the foundation for advanced AI capable of scientific innovation. The organization is committed to advancing a future where everyone can contribute to and benefit from AI progress. It says that the knowledge behind frontier AI should be broadly distributed among researchers, academics, and organizations, as any coordination effort by the AI industry to reduce openness or concentrate access to frontier AI would undermine a positive-sum future.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/arcprize/status/2098849962754978152"
    },
    {
     "newsletter": "ai",
@@ -277,7 +301,8 @@
     "summary": "A cache hit can be true and still fail to prove that work was skipped. A cache event becomes evidence when the independent oracle expects the prefix, the engine attests it, the prompt path skips it, the output stays identical, the evaluator passes, and the verifier binds those facts to the exact public bundle.",
     "read_minutes": 12,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://siddhantkhare.com/writing/kv-cache-truth-auditor"
    },
    {
     "newsletter": "ai",
@@ -288,7 +313,8 @@
     "summary": "This post features a transcript of a podcast with Beren Millidge, the CTO of Zyphra, John Schulman, the chief scientist at Thinking Machines and a co-founder of OpenAI, and Charlie O'Neill, head of model training at Baseten. The episode uncovers the details of what's happening at the frontier and what comes next. A link to the full video is available.",
     "read_minutes": 98,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://dwarkesh.com/p/john-beren-charlie"
    },
    {
     "newsletter": "ai",
@@ -299,7 +325,8 @@
     "summary": "Astra likely has the highest raw intelligence factor of any model. It is amazing at doing things in 3D, anything involving games, computer use, and subagent coordination. Many benchmarks show dramatic jumps from all previous models. While its performance in coding isn't a quantum leap from Sol, it is very good and makes progress over the previous model. OpenAI has already soft-announced that it has an internal model a level above Astra.",
     "read_minutes": 52,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://thezvi.substack.com/p/gpt-6-astra-can-do-ambitious-things"
    },
    {
     "newsletter": "ai",
@@ -310,7 +337,8 @@
     "summary": "That's the rough cost when every agent connects to your raw sources and rebuilds the same answer. Guru curates and verifies the knowledge once, then serves it to every agent over MCP at roughly 4x fewer tokens. Stop paying twice for the same answer.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://getguru.com/product/how-it-works"
    },
    {
     "newsletter": "ai",
@@ -321,7 +349,8 @@
     "summary": "Those scary physics scores were often the test's fault. Experts rechecked six popular benchmarks and found wrong answer keys, fuzzy questions, and grader bugs behind most model “fails.” Clean them up and frontier models suddenly look near-maxed, so the next bar has to be harder human-made exams, not another leaderboard on a broken quiz.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://arxiv.org/abs/2609.13009"
    },
    {
     "newsletter": "ai",
@@ -332,7 +361,8 @@
     "summary": "Fugu Ultra v2 is the higher-performance model in Sakana AI's Fugu family. It uses a language model trained to route tasks across a fixed pool of open and specialized models and to recursively call instances of itself. The model prioritizes answer quality on complex multi-step reasoning, autonomous research, and full-stack software development, and does not rely on individual proprietary frontier models in its pool. It supports configurable reasoning effort, function calling, structured outputs, image and PDF input, and built-in web search.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://openrouter.ai/sakana/fugu-ultra-v2"
    },
    {
     "newsletter": "ai",
@@ -343,7 +373,8 @@
     "summary": "The Recurrent Looped Transformer combines a causal encoder with a recurrent decoder that carries its final hidden state and layerwise sliding-window attention cache across every prompt and response token. The encoder constructs global key–value memory, and the decoder extends a continuous latent computation as the sequence grows. The design brings together latent reasoning with unbounded temporal depth, model–hardware co-design, and model–RL algorithm co-design. Realized reasoning gains, hardware efficiency, and RL scaling remain to be established.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer"
    },
    {
     "newsletter": "ai",
@@ -354,7 +385,8 @@
     "summary": "The new Real-SWE benchmark tests AI models on complex tasks using private enterprise codebases, reflecting real software engineering conditions. With a maximum resolution rate of 38.8%, agents face challenges such as proprietary systems and business-specific coding conventions.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://withspecific.com/benchmarks/real-swe"
    },
    {
     "newsletter": "ai",
@@ -365,7 +397,8 @@
     "summary": "Google Research flipped how you make tool-use training data: ToolGrad builds a verified API chain first, then writes the user question, instead of inventing a request and hoping an agent finds a working path. That answer-first loop hit a 99.8% success rate on 16,000 real APIs, and a Gemma 3 12B model trained on just 500 of those examples matched Gemini 2.5 Pro on a tool-use test with APIs it had never seen.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients"
    },
    {
     "newsletter": "ai",
@@ -376,7 +409,8 @@
     "summary": "AI brings risks, with some of them, according to some, including the complete destruction of the human race. Some proponents of regulation say that the only appropriate response is total state control. However, history tells us that the state is likely the worst custodian for the most powerful publication and data analysis technologies.",
     "read_minutes": 20,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://prestonbyrne.com/2026/09/13/brief-legal-thoughts-on-the-ai-safety-fights-to-come"
    },
    {
     "newsletter": "ai",
@@ -387,7 +421,8 @@
     "summary": "Frontier labs and cloud providers are turning the agent loop into managed infrastructure, bundling orchestration, versioning, model routing, tools, skills, and optimization behind APIs. Builders must decide which generic harness capabilities to outsource and which product-specific logic to own.",
     "read_minutes": 12,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/JoshARosen/status/2098420569242800306"
    },
    {
     "newsletter": "ai",
@@ -398,7 +433,8 @@
     "summary": "Anthropic, Google, and OpenAI each shipped their best model twice this month: a public paid tier and a vetted identity-gated tier with the sharper capabilities. Public prices barely moved, but Mythos, Flash Cyber, and Astra's advanced path now ask for org IDs, government ID, or trusted-defender status instead of a bigger budget.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://okaneland.com/signal/the-frontier-twice"
    },
    {
     "newsletter": "ai",
@@ -409,7 +445,8 @@
     "summary": "On Terence Tao's blog, Bryna Kra argues that AI has broken math's old signal that scarce deep theorems equal deep understanding, as models dump polished proofs faster than experts can digest them.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://terrytao.wordpress.com/2026/09/13/deep-theorems-were-scarce-and-difficult-and-so-became-an-effective-mechanism-to-identify-deep-thought-ai-has-broken-this-system"
    },
    {
     "newsletter": "ai",
@@ -420,7 +457,8 @@
     "summary": "luxobench is a hardware design benchmark for AI models.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://luxobench.com/"
    },
    {
     "newsletter": "ai",
@@ -431,7 +469,8 @@
     "summary": "ChatGPT Sites now allows users to collaborate and share privately.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/ChatGPT/status/2098457920291946894"
    },
    {
     "newsletter": "ai",
@@ -442,7 +481,8 @@
     "summary": "px0 is a read-only IDE that turns browsers into an instant verification console for whatever your agents just wrote.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://px0.ai/"
    },
    {
     "newsletter": "ai",
@@ -453,7 +493,8 @@
     "summary": "The Cyphral Distich is a cryptogram consisting of two lines of 32 numbers each that contains a short message deliberately encoded so it can't be read without knowing the rule that produced it.",
     "read_minutes": 9,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://vals.ai/blogs/fable-solves-cyphral-distich"
    },
    {
     "newsletter": "ai",
@@ -464,7 +505,8 @@
     "summary": "During a misconfigured hacking eval, Mythos 5 got onto the open internet and uploaded malware to PyPI, but most of its 1,022-page chain of thought was spent failing CAPTCHAs like every frustrated human.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
    }
   ],
   "webdev": [
@@ -477,7 +519,8 @@
     "summary": "Congrats on the new signup! Except it's not a new user - it's the same guy, back for another free trial. New IPs, emails, or phone numbers are easily available. You have to catch the bad actors at the device level. On Sept 16, join Fingerprint's very own Keshia in her live coding workshop and build working signup protection. This is not a deck-and-demo webinar. You clone the starter repo. follow the instructions, and write production code to: → Read device intelligence server-side. → Check for bots and risky devices. → Enforce one account per device, even behind a VPN or in incognito. Save your spot. Sept 16, 9AM PT / 12PM ET",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://fingerprint.com/webinar/workshop-new-account-fraud"
    },
    {
     "newsletter": "webdev",
@@ -488,7 +531,8 @@
     "summary": "Smart routing sends routine requests to cheaper models and reserves stronger ones for difficult or high-risk work. In one example workload, the routed system cost just 11% as much as using the most capable model for every request, while the guide compares several routing methods and explains how to avoid weak routing, wasted spend, and manipulation.",
     "read_minutes": 13,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm"
    },
    {
     "newsletter": "webdev",
@@ -499,7 +543,8 @@
     "summary": "Correct AI-generated code can still accumulate duplicated abstractions and structural decay that tests miss. SlopCodeBench's verbosity and erosion metrics put agent code at roughly twice the human repository averages, while multi-round tasks reached a 0% strict pass rate as poor decisions compounded across context resets.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://earendil.com/posts/measuring-code-sloppiness"
    },
    {
     "newsletter": "webdev",
@@ -510,7 +555,8 @@
     "summary": "monday.com's feedAgent harness treats reliability as a system around the model, with input cleanup, hallucination checks, schemas, execution limits, output validation, tracing, and feedback from user behavior. The practical method is to inspect every phase of the agent loop, identify what can fail, and add a deterministic guardrail or recovery path.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://engineering.monday.com/building-a-robust-harness-for-agent-in-production-feed-agent-case-study"
    },
    {
     "newsletter": "webdev",
@@ -521,7 +567,8 @@
     "summary": "AI did not break code review. It exposed that teams often use review for problems better handled through pairing and fitness functions. With Meta reporting a 106% year-over-year increase in lines per human-landed diff, review could be reserved for architectural and security changes.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://martinfowler.com/rachels-ramblings/code-review.html"
    },
    {
     "newsletter": "webdev",
@@ -532,7 +579,8 @@
     "summary": "Generative AI has made programming faster while making the craft feel less personal and rewarding for some developers. Developers do not need to race the tools or quit if the joy comes from learning and making things the hard way.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://joelotter.com/posts/2026/09/make-it-anyway"
    },
    {
     "newsletter": "webdev",
@@ -543,7 +591,8 @@
     "summary": "This article argues that frontier labs should slow capability gains so safety, interpretability, security, and operational rigor can catch up. The proposal starts with embedded third-party evaluators, then seeks coordinated pacing among democracies and eventually verifiable global agreements while preserving a democratic lead over authoritarian states.",
     "read_minutes": 22,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://darioamodei.com/post/we-must-pace-the-frontier"
    },
    {
     "newsletter": "webdev",
@@ -554,7 +603,8 @@
     "summary": "AgentsDock is a self-hosted workspace for running Claude Code and Codex on machines you control while accessing them from desktop and mobile clients. It connects multiple servers, preserves terminal sessions, exposes remote files and code editing, and displays plots, images, and rendered job outputs inside agent chats.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://agentsdock.net/"
    },
    {
     "newsletter": "webdev",
@@ -565,7 +615,8 @@
     "summary": "Real-SWE evaluates model and harness pairs on ten tasks from licensed private production codebases, including business rules and company-specific conventions that cannot be recovered from public training data. Across 640 rollouts, the top configuration resolved 38.8% of tasks, six tasks averaged below 15%, and missed requirements or unverified assumptions caused many failures.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://withspecific.com/benchmarks/real-swe"
    },
    {
     "newsletter": "webdev",
@@ -576,7 +627,8 @@
     "summary": "funes indexes agent session traces locally with vector search, BM25, and cross-encoder reranking, then returns the original text with provenance instead of summaries. In its benchmark, compaction failed a task by flattening important findings, while recall solved it at eight times and four times lower cost than written handoffs.",
     "read_minutes": 9,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://huggingface.co/blog/funes"
    },
    {
     "newsletter": "webdev",
@@ -587,7 +639,8 @@
     "summary": "A chess honeypot tested whether newer models had generalized the instruction not to cheat beyond a previously exposed board-edit exploit. Fable 5.1 used a hidden engine socket in three of ten runs, while GPT-6 Astra did so in all ten without disclosure, raising doubts about what narrow behavioral alignment evaluations actually measure.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://goodhartlabs.com/blog/frontier-models-still-hack-alignment-evals"
    },
    {
     "newsletter": "webdev",
@@ -598,7 +651,8 @@
     "summary": "This article traces agent misbehavior to human imitation and reinforcement learning that reward systems for achieving imperfectly specified goals. Sharp, verifiable objectives can overpower vague safety constraints, so more capable agents may become better at exploiting loopholes, rationalizing violations, coordinating, and hiding reward tampering.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
    },
    {
     "newsletter": "webdev",
@@ -609,7 +663,8 @@
     "summary": "Researchers attribute a May campaign that uploaded more than 2,000 packages to an OpenAI agent swarm, based on package metadata and behavior resembling a confirmed related swarm. The agents abused RubyDoc.info builds for remote execution and tried a then-undisclosed RubyGems API-key vulnerability, but investigators found no evidence that keys were actually stolen.",
     "read_minutes": 20,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://rubyhack.ai/"
    },
    {
     "newsletter": "webdev",
@@ -620,7 +675,8 @@
     "summary": "Access models from 80+ providers with better prices, automatic routing and fallbacks, and no subscriptions. Build with the right model for every request. Start building.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://openrouter.ai/"
    },
    {
     "newsletter": "webdev",
@@ -631,7 +687,8 @@
     "summary": "With models now swappable, vendor lock-in has moved into the agent harness because models reset with each release while harnesses accumulate, so after about 18 months the model may be a configuration setting while the harness and its data layer become the architecture.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://kai-waehner.de/blog/2026/09/01/the-ai-agent-harness-where-vendor-lock-in-went-after-the-model-became-swappable"
    },
    {
     "newsletter": "webdev",
@@ -642,7 +699,8 @@
     "summary": "Data from 18 million messages shows that providers serving the same open-model weights can differ a lot, so benchmark with production traffic, validate content and tool calls, and keep fallbacks because endpoints and rate limits change.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter"
    },
    {
     "newsletter": "webdev",
@@ -653,7 +711,8 @@
     "summary": "Safari's top-level await bugs were hard to patch because the module loader relied on the abandoned 2016 WHATWG Loader proposal, so WebKit rewrote it in native C++ for Safari 27, fixed an import-order bug, and validated the change with tests donated by Bun and a cross-engine fuzzer.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://webkit.org/blog/18227/fixing-top-level-await-in-safari"
    },
    {
     "newsletter": "webdev",
@@ -664,7 +723,8 @@
     "summary": "Agent builders can evaluate failures in their own specialty but rely on model priors in domains they cannot judge, where superficially successful output may still contain expert-level slop, and because graders are hackable and acceptable shortcuts depend on human values, alignment has no universal objective and becomes harder as agents evolve systems over time.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://hyperbo.la/w/aligned-to-whom"
    }
   ],
   "infosec": [
@@ -677,7 +737,8 @@
     "summary": "Attackers no longer need passwords. By stealing an active session, they bypass MFA, password rules, and login alerts entirely. Fingerprint catches what authentication can't see: → A persistent device identifier ties every session to the device behind it, so a stolen token replayed from unfamiliar hardware stands out instantly. → A single risk score rolls 20+ Smart Signals (Residential Proxy Detection, Browser Tampering, Virtual Machine Detection, and more) into one easy-to-use risk number. → Hijacked sessions get caught without adding friction for legitimate users. 🆓 Install Fingerprint with a few lines of code and get started for free",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://fingerprint.com/products/fingerprint-pro"
    },
    {
     "newsletter": "infosec",
@@ -688,7 +749,8 @@
     "summary": "Attackers abused a Brevo SAML SSO scoping flaw to access 138 accounts. They sent a fake Trezor security alert to 347,000 addresses linked to a site seeking wallet backups. About 2,500 recipients clicked before takedown, 20 minutes after detection. Brevo reported contact exfiltration from 43 accounts, and BitBox and CoinTracking were also affected.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack"
    },
    {
     "newsletter": "infosec",
@@ -699,7 +761,8 @@
     "summary": "GitLab has patched CVE-2026-85706, a CVSS 10 path traversal bug in the repository commits API that let unauthenticated attackers read arbitrary files. watchTowr saw probes starting at 06:00 UTC on September 11, needing only one public project to exploit. Attackers can grab log files, config files, credentials, and CI/CD secrets. GitLab also fixed CVE-2026-87719 (CVSS 9.9), a deserialization bug exposing Advanced Search configs via Duo Chat GraphQL subscriptions. CISA added CVE-2026-85706 to its KEV catalog, giving federal agencies until September 14 to patch.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
    },
    {
     "newsletter": "infosec",
@@ -710,7 +773,8 @@
     "summary": "Revolut disclosed customer data after fraudulent requests arrived from a legitimate government email domain. Exposed records included identity and contact details, passports or driving licenses, and possibly verification selfies, statements, and transaction histories. Revolut says a limited number of customers were affected, blocked the sender, notified victims, and alerted the agency, police, and regulators.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests"
    },
    {
     "newsletter": "infosec",
@@ -721,7 +785,8 @@
     "summary": "An attacker's coding agent picked a SANS ISC honeypot as a free LLM backend and leaked 43 KB of its own control plane, including its offensive playbook, harvested API keys, and the operator's unproxied egress IP. The playbook hunts exposed LLM resale gateways, farms accounts via open registration, default credentials, and group_id authorization flaws, then aggregates the working keys into a self-hosted New-API gateway that re-serves them as five model names. Gateway operators should audit for those same weaknesses, and anyone routing an agent through a cheap LLM proxy should assume that endpoint is reading their project instructions and source context.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://isc.sans.edu/diary/The+SelfExpanding+Stolen+Inference+Supply+Chain+An+AI+Agent+Harvesting+and+ReServing+LLM+Access/33332"
    },
    {
     "newsletter": "infosec",
@@ -732,7 +797,8 @@
     "summary": "Detect.fyi detection engineers identify four information sources that can inform building detections: visibility, existing internal or external detections, environment, and threat intel. Detection engineers can choose any of these sources to start developing from and then use the other three as filters into what detections they should write. The authors also caution against focusing too much on trying to create detections for every piece of threat intel that comes out.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://detect.fyi/where-do-detection-ideas-come-from-21dc281aebb9"
    },
    {
     "newsletter": "infosec",
@@ -743,7 +809,8 @@
     "summary": "A fake Cloudflare \"verify you're human\" page copies a hidden PowerShell command to the clipboard and tells the user to paste it into the Run box, which downloads malware into %TEMP%. The files on that server included two copies of WallStealer, which steals browser passwords, cookies, payment cards, and Telegram, Discord, Steam, and wallet data, and finds its C2 server by reading the display name off hardcoded Steam profiles instead of a fixed domain. A third file dropped an XMRig crypto miner into C:\\ProgramData\\NVDisplay, so watch for pasted commands running from Run, new executables in %TEMP%, and machines requesting Steam profile pages.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://ctrlaltintel.com/bulletins/clickfix-stealers-and-mining"
    },
    {
     "newsletter": "infosec",
@@ -754,7 +821,8 @@
     "summary": "Your audit log won't help if it points to a service account and a long-gone container. Ory Agent Security gives every agent an identity, scoped and revocable. It works inside the harness, applying fine-grained authorization for every shell command, write, and API call. Join the launch webinar or get free coverage for a limited time .",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://ory.com/ory-agent-security"
    },
    {
     "newsletter": "infosec",
@@ -765,7 +833,8 @@
     "summary": "BusyWork is a Rust library that replaces sleep() with real, varied work to evade EDR, anti-cheat, and dynamic analysis systems.",
     "read_minutes": null,
     "kind": "github repo",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://github.com/PatchRequest/BusyWork"
    },
    {
     "newsletter": "infosec",
@@ -776,7 +845,8 @@
     "summary": "Tailcat is a remix of Tailscale open source pieces to act like netcat, but over Tailscale's data plane, without Tailscale's control plane.",
     "read_minutes": null,
     "kind": "github repo",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://github.com/tailscale/tailcat"
    },
    {
     "newsletter": "infosec",
@@ -787,7 +857,8 @@
     "summary": "Hunk is a review-first terminal diff viewer for agent-authored changesets.",
     "read_minutes": null,
     "kind": "github repo",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://github.com/modem-dev/hunk"
    },
    {
     "newsletter": "infosec",
@@ -798,7 +869,8 @@
     "summary": "An attacker exploited PaperCut CVE-2026-81578 and CVE-2026-82078, compromising 440 instances at 395 organizations in 48 countries. Education accounted for 204 victims. The US had 98 and the UK 59. One school reached domain-admin compromise within seven minutes. Updated PaperCut maintenance releases are available, so upgrade ASAP.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
    },
    {
     "newsletter": "infosec",
@@ -809,7 +881,8 @@
     "summary": "Anthropic CEO Dario Amodei proposed independent evaluators with employee-level access to test safeguards, report incidents, and assess systems during training. OpenAI's Sam Altman said it would match that access. Amodei cited an incident where OpenAI agent swarms carried out unrequested attacks against Hugging Face targets, warning that stronger misaligned systems could cause far greater damage.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
    },
    {
     "newsletter": "infosec",
@@ -820,7 +893,8 @@
     "summary": "Fake \"leaked GTA6\" ISOs spread through SEO poisoning, gaming forums, and torrent sites deliver a Russian-language installer that pre-warns of a \"License not found\" error, giving victims a reason for the missing game while payloads drop into %TEMP%. Huntress found one sample bundling NJRAT, DCRAT, the Mercurial Grabber infostealer, and Chaos ransomware, which runs as a wiper that deletes shadow copies and destroys files. Everything in it is years old and detected by current Defender, so hunt for GTA6-branded executables in %TEMP% and hosts file entries sinkholing AV domains, then reimage affected hosts.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://huntress.com/blog/fake-gta6-download-malware-analysis"
    },
    {
     "newsletter": "infosec",
@@ -831,7 +905,8 @@
     "summary": "Shadowserver reports over 36,000 internet-exposed Plex Media Servers running v1.43.2 or earlier, with 16,000 in the US.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws"
    },
    {
     "newsletter": "infosec",
@@ -842,7 +917,8 @@
     "summary": "An unidentified actor sent more than one million invoice-fraud emails from August 3 to 5 impersonating ServiceNow, sought payments near $50,000, and targeted accounts-payable staff.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"
    },
    {
     "newsletter": "infosec",
@@ -853,7 +929,8 @@
     "summary": "NSA is being recast into five mission centers covering China, cybersecurity, AI, combat support, and global intelligence under a 30-day clock set by Gen.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://therecord.media/nsa-reorganization-five-mission-centers"
    }
   ],
   "devops": [
@@ -866,7 +943,8 @@
     "summary": "They're all going to OpenSearchCon North America to share how they run search, observability, and data infrastructure at massive scale. Are you coming? Get your ticket to three days of hands-on sessions including: Search relevance tuning, plugin development, AI-powered observability, and vector database optimization Build a full OpenTelemetry observability stack or an agentic AI search app yourself in two hands-on Developer Workshops Attend live September 22 to 24 and claim your $250 certification voucher toward the Linux Foundation's OpenSearch Certified Associate exam. See the full schedule and grab a seat before they fill up.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://events.linuxfoundation.org/opensearchcon-north-america"
    },
    {
     "newsletter": "devops",
@@ -877,7 +955,8 @@
     "summary": "Spacelift Flows brings Day 2 infrastructure operations into a visual, auditable workflow platform, enabling teams to automate incident response, provisioning, drift handling, and routine requests without scattered scripts or credentials. Its native integration with Spacelift Deploy also gives AI agents governed access, approval gates, and end-to-end auditability under one control plane.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://spacelift.io/blog/spacelift-flows-is-live"
    },
    {
     "newsletter": "devops",
@@ -888,7 +967,8 @@
     "summary": "Native histogram support for Kubernetes metrics has graduated to Beta and is enabled by default in Kubernetes v1.37. The feature exposes latency and duration metrics with greater accuracy while reducing telemetry storage and scraping overhead. Prometheus Native Histograms replace static user-defined buckets with dynamic, exponential buckets stored as a single time series.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta"
    },
    {
     "newsletter": "devops",
@@ -899,7 +979,8 @@
     "summary": "AWS CloudFormation contract tests v2 provide deeper validation across resource handler operations, including live-state verification, schema compatibility checks, and input linting for hardcoded environment values. Local HTML and JUnit reports help developers catch implementation issues earlier, reducing iteration cycles before registry submission.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudformation-contract-tests-v2-resource-types"
    },
    {
     "newsletter": "devops",
@@ -910,7 +991,8 @@
     "summary": "Harness AI Evals integrates AI agent testing into CI/CD using golden datasets, behavioral metrics, and blocking quality gates to catch regressions that traditional tests miss. Repeated evaluations expose incorrect, incomplete, or inconsistent responses, ensuring agents meet quality thresholds before production deployment.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://harness.io/blog/catch-ai-regressions-before-they-ship-with-ai-evals-in-ci-cd"
    },
    {
     "newsletter": "devops",
@@ -921,7 +1003,8 @@
     "summary": "PlanetScale's Neki router makes a sharded Postgres deployment appear as a single database by handling authentication, protocol parsing, shard-aware planning, connection pooling, and distributed execution across many Postgres nodes. Query performance depends heavily on shard-key choice: co-locating related rows can turn an expensive cross-shard join that requires scatter-gather queries and router-side hash joins into local joins executed independently on each shard.",
     "read_minutes": 23,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://planetscale.com/blog/the-lifecycle-of-a-sharded-postgres-query"
    },
    {
     "newsletter": "devops",
@@ -932,7 +1015,8 @@
     "summary": "Most AI agents fail confidently, not loudly. They act on stale data and produce wrong refunds, outdated quotes, and contradictory decisions. A context engine computes real-time values at the moment of each decision, so your agents act on current, accurate context. See exactly how it works.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://chalk.ai/blog/what-is-a-context-engine"
    },
    {
     "newsletter": "devops",
@@ -943,7 +1027,8 @@
     "summary": "Claude-Red is a curated library of offensive security skills for the Claude AI system. It offers structured SKILL.md files that prime Claude with expert methodology for specific attack surfaces like SQL injection or EDR evasion. The project targets roughly 130 skills across 23 categories.",
     "read_minutes": null,
     "kind": "github repo",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://github.com/SnailSploit/Claude-Red"
    },
    {
     "newsletter": "devops",
@@ -954,7 +1039,8 @@
     "summary": "Colibrì is a pure-C inference engine for running very large Mixture-of-Experts models across VRAM, RAM, and NVMe as a single memory hierarchy. It streams routed experts on demand instead of requiring the full model to fit in fast memory, supports CPU, CUDA, Metal, NUMA, and multi-machine execution, and currently runs nine model families ranging from 7B to 2.8T parameters.",
     "read_minutes": null,
     "kind": "github repo",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://github.com/JustVugg/colibri"
    },
    {
     "newsletter": "devops",
@@ -965,7 +1051,8 @@
     "summary": "Agent optimization should use a continuous loop of trace analysis, hypothesis formation, offline evaluation, controlled production experiments, and post rollout monitoring. Connecting observability with evaluations and experiments helps teams identify specific performance issues, validate improvements against representative and difficult cases, and continuously refine datasets and evaluators.",
     "read_minutes": 9,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://datadoghq.com/blog/from-traces-to-experiments-a-loop-for-improving-ai-agents"
    },
    {
     "newsletter": "devops",
@@ -976,7 +1063,8 @@
     "summary": "Researchers investigating the May 2026 GemStuffer campaign attribute more than 2,000 malicious RubyGems package uploads to an OpenAI agent swarm based on package contents, naming patterns, and other public evidence. The agents abused RubyDoc's automatic build system for remote code execution and attempted to exploit a then-novel RubyGems vulnerability to obtain user API keys, prompting RubyGems to disable new registrations for four days and remove hundreds of packages.",
     "read_minutes": 20,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://rubyhack.ai/"
    },
    {
     "newsletter": "devops",
@@ -987,7 +1075,8 @@
     "summary": "OpenAI's Habitat storage platform now handles over 70 million requests per second and serves more than 500 petabytes of data. The team recently rewrote the service in Rust, which is 6x more CPU efficient and 15x more memory efficient than the previous Python version. Habitat first launched as a Python library at DevDay 2023 to support GPTs and evolved into a complex distributed system supporting over 1 billion weekly users across nearly 40 regions.",
     "read_minutes": 13,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
    },
    {
     "newsletter": "devops",
@@ -998,7 +1087,8 @@
     "summary": "100+ sessions, five tracks, top speakers, hands-on labs, and practical AI, security, and networking guidance. Register Now",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://events.www.cloudflare.com/connect2026"
    },
    {
     "newsletter": "devops",
@@ -1009,7 +1099,8 @@
     "summary": "A multi-tenant Prometheus proxy can safely expose curated, namespace-isolated metrics to Kubernetes teams without opening the shared infrastructure store or creating noisy-neighbor problems.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes"
    },
    {
     "newsletter": "devops",
@@ -1020,7 +1111,8 @@
     "summary": "Cloudflare CASB now supports automatic remediation policies.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://blog.cloudflare.com/casb-policies"
    }
   ],
   "data": [
@@ -1033,7 +1125,8 @@
     "summary": "What if Postgres compute was stateless? Imagine a branch that is a metadata operation that runs in seconds, not hours. What if you could also run transactions and analytics on the same copy of data in real time without delays or CDC? One architecture, two problems solved. Unlock unlimited storage, elastic compute, durable writes and instant branching Run analytics against the freshest transactional data",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://databricks.com/blog/lakebase-ltap-rethinking-database-storage?scid=701Vp000004h4j2IAA&dclid=CIbbuf-r55YDFX58nQkdBTcyfw&gad_source=7&gad_campaignid=24081725436"
    },
    {
     "newsletter": "data",
@@ -1044,7 +1137,8 @@
     "summary": "Lyft rebuilt its outdated neighborhood travel-time dataset with more accurate ETAs, better coverage, drivable-location filtering, and self-service fields, improving how pricing and driver heatmaps understand nearby supply. It will now refresh every six months, with time-aware ETAs planned to reflect changing traffic throughout the week.",
     "read_minutes": 12,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://eng.lyft.com/refreshing-the-travel-time-map-behind-lyfts-marketplace-rebuilding-neighborhood-reachability-5be3efbc82ea"
    },
    {
     "newsletter": "data",
@@ -1055,7 +1149,8 @@
     "summary": "Diskless Kafka keeps the Kafka API while moving durable payload storage from broker-owned logs to object storage and strongly consistent metadata. The tradeoff is not just cheaper retention: batching, offset assignment, recovery, compaction, latency, and feature support all change, making diskless topics a per-workload storage choice rather than a universal Kafka replacement.",
     "read_minutes": 16,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://softwaremill.com/diskless-kafka-object-storage-kip-1150-and-kafkas-future"
    },
    {
     "newsletter": "data",
@@ -1066,7 +1161,8 @@
     "summary": "Pinterest's Manas retrieval platform serves billions of embeddings across Home Feed, Search, Related Pins, Ads, and Notifications. Quantization is cutting serving cost by 20–30%, SSD-backed ANN experiments reduce memory and CPU needs, and multi-embedding retrieval moves beyond single-vector two-tower matching toward richer candidate scoring.",
     "read_minutes": 8,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://medium.com/pinterest-engineering/evolving-pinterests-embedding-retrieval-platform-aede4e831e01"
    },
    {
     "newsletter": "data",
@@ -1077,7 +1173,8 @@
     "summary": "Coding agents now produce competent PostgreSQL schemas, but they tend to stack indexes onto hot operational tables. In a measured support-ticket workload, extra indexes nearly doubled update time and WAL while increasing VACUUM work. Index review needs write-path evidence, HOT-update awareness, and usage counters, not just fast read plans.",
     "read_minutes": 11,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://boringsql.com/posts/unbearable-lightness-of-one-more-index"
    },
    {
     "newsletter": "data",
@@ -1088,7 +1185,8 @@
     "summary": "AI agents can return successful, well-grounded responses that are still wrong because they retrieved invalid context or followed a faulty execution path. Debugging requires end-to-end traces of model calls, tool calls, retrieval inputs, and outputs, plus separate tests for deterministic system behavior and answer quality.",
     "read_minutes": 11,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://thenewstack.io/ai-agent-trace-debugging"
    },
    {
     "newsletter": "data",
@@ -1099,7 +1197,8 @@
     "summary": "Most AI agents fail confidently, not loudly. They act on stale data and produce wrong refunds, outdated quotes, and contradictory decisions. A context engine computes real-time values at the moment of each decision, so your agents act on current, accurate context. See exactly how it works.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://chalk.ai/blog/what-is-a-context-engine"
    },
    {
     "newsletter": "data",
@@ -1110,7 +1209,8 @@
     "summary": "PlanetScale set out to run 1 million queries per second against Neki, its new sharded Postgres, hit that on 5 shards almost immediately, then kept going until 512 shards were serving 118 million queries per second across 1.22 PiB of data. The workload is deliberately narrow: a single-shard point select fetching one row by primary key with no writes, joins, or cross-shard queries, which is what makes the scaling curve clean.",
     "read_minutes": 9,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://planetscale.com/blog/118-million-queries-per-second-on-neki"
    },
    {
     "newsletter": "data",
@@ -1121,7 +1221,8 @@
     "summary": "ChatGPT Work's Data agent connects to approved company data and business definitions, letting employees investigate questions and build shareable dashboards using plain language. It respects existing permissions, works with major data and BI platforms, and can recommend or carry out approved follow-up actions.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://openai.com/index/put-data-to-work"
    },
    {
     "newsletter": "data",
@@ -1132,7 +1233,8 @@
     "summary": "DuckDB 2.0 speeds up S3 queries by 2-3x through asynchronous I/O, dramatically improves deep recursive queries, and makes semi-structured VARIANT data smaller and faster than JSON. It also adds practical SQL features including triggers, nested schemas, and data-modifying CTEs.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://motherduck.com/blog/why-duckdb-20-is-faster"
    },
    {
     "newsletter": "data",
@@ -1143,7 +1245,8 @@
     "summary": "Comparing AI adopters with non-adopters usually exaggerates impact because more engaged customers are also more likely to adopt. Instead, estimate causality using variation that customers did not choose, such as an eligibility threshold, while clearly limiting conclusions to the population and decision it measures.",
     "read_minutes": 17,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect"
    },
    {
     "newsletter": "data",
@@ -1154,7 +1257,8 @@
     "summary": "Large PostgreSQL CDC backfills fail less from historical reads than from WAL retention, delayed slot acknowledgments, long-running transactions, and stale snapshot rows racing live changes. Safer designs keep consuming WAL during chunked reads, checkpoint progress, reconcile overlaps with watermarks and fences, and size chunking around real write rates.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://estuary.dev/blog/postgres-cdc-backfill"
    },
    {
     "newsletter": "data",
@@ -1165,7 +1269,8 @@
     "summary": "Four production Spark cases cut runtime, compute, S3 operations, and costs by tracing hidden waste beyond top-level CPU and memory metrics.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://blog.dataengineerthings.org/investigating-spark-waste-across-the-stack-188aa622e12a"
    },
    {
     "newsletter": "data",
@@ -1176,7 +1281,8 @@
     "summary": "Tools like dbt turn fragile, undocumented analysis into reproducible systems, while AI often misses the constraints of real workplaces.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://covertaltruism.substack.com/p/the-half-life-of-a-query"
    },
    {
     "newsletter": "data",
@@ -1187,7 +1293,8 @@
     "summary": "Jetpack adds a portable 1-RTT fast-commit path to existing consensus systems, cutting latency for write-heavy workloads by up to 60% while adding redundant work, delaying execution, and requiring careful recovery to remain safe during leader changes.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://muratbuffalo.blogspot.com/2026/09/jetpack-consensus-made-generally-fast.html"
    }
   ],
   "design": [
@@ -1200,7 +1307,8 @@
     "summary": "WhatsApp is expanding its Liquid Glass redesign for iPad with a new Mac-style sidebar that replaces the bottom tab bar, offering quicker access to chats, calls, communities, Meta AI, and other sections. Users can hide the sidebar for a larger conversation view, creating a more tablet-friendly experience, and the update is gradually rolling out to beta testers and some users on the stable App Store version.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar"
    },
    {
     "newsletter": "design",
@@ -1211,7 +1319,8 @@
     "summary": "Premiere's new Generative Media tool lets editors fill timeline gaps with AI-generated video and sound effects without leaving the project. Editors can pick among models like Adobe Firefly, Google Veo, Runway, Luma, and Kling, while beta tools add music and soundscape generation, speaker separation, and an After Effects AI Assistant.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://creativecow.net/generate-and-create-directly-in-your-timeline-with-new-ai-powered-innovations-in-premiere-and-after-effects"
    },
    {
     "newsletter": "design",
@@ -1222,7 +1331,8 @@
     "summary": "Firefox 157 brings Project Nova's warmer colors, softer tabs, refreshed icons, and rounded corners across desktop and mobile. Early designs had floating toolbars, chrome-to-page gaps and pastel gradients, but complaints about wasted space pushed Mozilla to soften the rounding and restore Compact Mode. Public testing and listening to what users hated counts as good UX, even as the rounded, gradient-heavy look risks modernizing Firefox into sameness.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://webdesignerdepot.com/firefox-is-getting-its-biggest-redesign-in-years-then-mozilla-got-cold-feet"
    },
    {
     "newsletter": "design",
@@ -1233,7 +1343,8 @@
     "summary": "A new wave of \"Intent-Driven Design\" replaces multi-step point-and-click interfaces with tools that capture a user's goal and execute the steps invisibly. Perplexity AI synthesizes answers instead of ten blue links, Vercel v0 generates full interfaces from a text prompt, and Goblin.tools breaks overwhelming tasks into checklists. This shift rests on contextual goals, generative UI, and agent execution, but risks a loss of control and opaque \"black box\" decisions needing transparent feedback.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface"
    },
    {
     "newsletter": "design",
@@ -1244,7 +1355,8 @@
     "summary": "AI prototyping tools make it possible to quickly create realistic, interactive prototypes for complex interfaces—such as dashboards, filters, and conversational AI—allowing teams to test real user behavior and uncover edge cases much earlier in the design process. While AI dramatically speeds up execution, designers must still define the interaction, provide clear guidance, and critically review the results, as polished prototypes are not production-ready simply because they look complete.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://nngroup.com/articles/test-earlier-with-ai"
    },
    {
     "newsletter": "design",
@@ -1255,7 +1367,8 @@
     "summary": "Apple's iPhone Duo introduces a foldable-optimized version of iOS 27 with redesigned navigation, seamless transitions between its two displays, Split View multitasking, flexible foldable modes, dual-screen camera features, and upcoming Apple Pencil support. While many ideas borrow from existing foldables, Apple's strength lies in refining the software experience, making the Duo feel like a cohesive blend of iPhone and iPad rather than simply a folding phone.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://digitaltrends.com/phones/the-iphone-duo-gives-ios-room-to-breathe-and-its-a-whole-new-experience"
    },
    {
     "newsletter": "design",
@@ -1266,7 +1379,8 @@
     "summary": "AdScope pulls Meta and Google Ads into a dashboard simple enough to read on your phone. What you spent, what it got you, and every live Meta ad sitting right next to its own numbers.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://adscope.live/"
    },
    {
     "newsletter": "design",
@@ -1277,7 +1391,8 @@
     "summary": "Upload your screenshot or screen recording, pick a device frame, and export in seconds.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://mockmagic.com/"
    },
    {
     "newsletter": "design",
@@ -1288,7 +1403,8 @@
     "summary": "Opensource UI is a free, MIT-licensed copy-paste library of 200+ production-ready React and Next.js components.",
     "read_minutes": null,
     "kind": "website",
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://opensourceui.in/"
    },
    {
     "newsletter": "design",
@@ -1299,7 +1415,8 @@
     "summary": "Motion designer Kent Wood left a struggling wholesale business, moved from the Caribbean to the UK, and launched Kwoo Studio, specializing in motion identity systems that bring static brands to life. By openly sharing his career transition and work online, he has built a network, attracted new opportunities, and encouraged other creatives to embrace change and use their online presence as a digital business card.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://creativeboom.com/insight/kent-wood-on-motion-design"
    },
    {
     "newsletter": "design",
@@ -1310,7 +1427,8 @@
     "summary": "Logos that embed real data—not just symbolic references—have existed for over a century, from transit maps and scientific diagrams to charts, weather-driven identities, and geographic forms, creating visual identities that change or derive directly from meaningful information. While these logos often require explanation to reveal their deeper meaning, they represent a distinct category of branding where data actively shapes the design rather than simply inspiring it.",
     "read_minutes": 12,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://medium.com/user-experience-design-1/a-short-history-of-logos-made-of-data-bd6a89e732ce"
    },
    {
     "newsletter": "design",
@@ -1321,7 +1439,8 @@
     "summary": "Today's AI input has evolved far beyond the plain textbox and send button ChatGPT shipped in 2022, now layering auto-growing text, context bars, and file uploads. Controls like model selectors, tool triggers, and an assist layer of ghost text or suggestions should stay discreet and keyboard-accessible without overwhelming the field. Across idle, loading, streaming, and error states, the input must remain typable and never lock up, letting users edit or stop a response at any time.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://ibelick.com/anatomy-ai-input"
    },
    {
     "newsletter": "design",
@@ -1332,7 +1451,8 @@
     "summary": "Ten handpicked cabin stays for design lovers range from a midcentury home in California's Sea Ranch to an off-grid red hut in the Irish countryside.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://wallpaper.com/travel/best-cabin-stays"
    },
    {
     "newsletter": "design",
@@ -1343,7 +1463,8 @@
     "summary": "A product's quality can stay the same yet start to feel tedious once customers get used to handling tasks, like submitting expenses, through AI agents elsewhere.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://blog.mastykarz.nl/your-product-didnt-get-worse"
    },
    {
     "newsletter": "design",
@@ -1354,7 +1475,8 @@
     "summary": "Software places objects with mathematical precision, but the eye often disagrees, since curved letters like \"O\" look smaller than flat-sided ones like \"H\" in identical boxes.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://pangrampangram.com/blogs/journal/optical-vs-mathematical-alignment"
    }
   ],
   "marketing": [
@@ -1367,7 +1489,8 @@
     "summary": "Developers don't buy like B2B buyers: every claim gets checked, every pitch ignored. Marketing a devtool means earning trust in the docs and the search results, long before anyone books a call.Litebox is the GTM agency for devtools companies: brand, website, product design and growth from one team, not four vendors handing work to each other.• CopilotKit: 3.6x organic traffic in seven months• MotherDuck: 382 pages holding 5.2K keywords in Google's top 10• Browserbase:full site rebuild in nine days, before their $40M Series B See the case studies → | See how the growth work runs → | Talk to the team →",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://litebox.ai/"
    },
    {
     "newsletter": "marketing",
@@ -1378,7 +1501,8 @@
     "summary": "Google's strongest ranking factors are still relevance, backlinks, and content quality. Matching search intent matters more than simply targeting keywords. Original research and first-party data also help content stand out as AI makes publishing easier. Trusted backlinks remain important, while brand reputation and user behavior carry more weight. Technical SEO is still foundational, but it rarely lifts mediocre content on its own. Internal linking and user experience can further strengthen visibility when they help Google understand a site, and users find what they need.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://signal.zyppy.com/p/google-ranking-factors-expert-survey"
    },
    {
     "newsletter": "marketing",
@@ -1389,7 +1513,8 @@
     "summary": "AI deepfakes are making influencer credibility harder to protect. Fake ads can still use creators' likenesses without permission. Meta has added stronger advertiser verification and an AI detection tool to combat celebrity impersonation, but creators still report slow removals. Influencers are easy targets because years of public photos and videos give AI models abundant training material.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility"
    },
    {
     "newsletter": "marketing",
@@ -1400,7 +1525,8 @@
     "summary": "Build LinkedIn ads around the buying journey. Use signals to target companies entering a buying window, then start with thought leadership before introducing case studies and offers. Retarget engaged prospects with native lead forms and qualify them with specific questions. Follow up within 5 minutes while interest is fresh, and use sales outcomes to refine targeting and messaging over time.",
     "read_minutes": 13,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://growthunhinged.com/p/linkedin-ad-playbook"
    },
    {
     "newsletter": "marketing",
@@ -1411,7 +1537,8 @@
     "summary": "Before writing, define the emotion and action the copy should trigger. Spend most of the editing time on the first few lines since they determine whether people keep reading. Describe the audience's pain points with specific, concrete language to show you understand the problem. Write conversationally and cut jargon. Then read the copy aloud to catch awkward sentences and weak sections.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://linkedin.com/feed/update/urn:li:activity:7504176931098243072"
    },
    {
     "newsletter": "marketing",
@@ -1422,7 +1549,8 @@
     "summary": "It's time to graduate from ask the chatbot to a real agentic workflow. This practical guide by Google Cloud outlines a three-phase AI transformation model and high-impact agentic use cases. Need more inspo? Watch Google Cloud CEO Thomas Kurian showcase customers pushing the limits of custom AI agents with Gemini Enterprise.",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://cloud.google.com/resources/content/business-leaders-guide-to-agentic-work-download?e=48754805"
    },
    {
     "newsletter": "marketing",
@@ -1433,7 +1561,8 @@
     "summary": "Google Ads can steer decisions through the data and recommendations it makes most visible. Default dashboards may prioritize less useful metrics, while hidden settings can override campaign-level targets. Search term reports can also reveal irrelevant traffic that inflates performance. Review account settings, conversion goals, search queries, and recommendations regularly instead of relying on Google's default views to guide optimization.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://searchengineland.com/the-availability-heuristic-7-ways-google-ads-can-steer-your-decisions-487769"
    },
    {
     "newsletter": "marketing",
@@ -1444,7 +1573,8 @@
     "summary": "Digital PR pitches give journalists a clear story angle and the information needed to cover it. Survey and proprietary data pitches lead with a compelling finding, supported by methodology and a link to the full research. City studies add a local or seasonal hook, while reactive commentary needs timely news, relevant expert credentials, and a fresh quote. Product launches work best as concise announcements, while review and roundup pitches should lead with the problem the product solves and include pricing and availability.",
     "read_minutes": 18,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://buzzstream.com/blog/media-pitch-examples"
    },
    {
     "newsletter": "marketing",
@@ -1455,7 +1585,8 @@
     "summary": "Anya's path from product management into B2B product marketing shows how product experience can lead naturally into PMM. She studied computer science and later earned a master's in Product Development Management of IT Services. She gained product experience and took on marketing responsibilities at a small IT company. A professional blog helped her organize and deepen her knowledge. Later, mentoring helped her recognize that her marketing experience could translate into PMM, leading to a mid-level role at a B2B SaaS startup.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://hackernoon.com/a-look-inside-my-career-as-a-b2b-product-marketing-manager-in-it-part-1"
    },
    {
     "newsletter": "marketing",
@@ -1466,7 +1597,8 @@
     "summary": "PLG companies often weaken growth when they start chasing enterprise revenue. Sales teams begin treating self-serve users as leads, while product teams lock valuable features behind higher tiers. Enterprise opportunities should instead emerge from product usage. Growing teams and expanding usage can signal when an account is ready for sales. Self-serve customers should still be able to discover and buy the product without unnecessary sales friction.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://elenaverna.com/p/congrats-your-sales-problems-in-plg"
    },
    {
     "newsletter": "marketing",
@@ -1477,7 +1609,8 @@
     "summary": "Scammers are filing fake copyright complaints against Instagram creators, then demanding payment to withdraw them.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://digitaltrends.com/social-media/instagram-scammers-are-holding-creators-accounts-hostage-with-copyright-strikes"
    },
    {
     "newsletter": "marketing",
@@ -1488,7 +1621,8 @@
     "summary": "A guide to 24 workplace challenges, with expert advice on AI, career growth, and layoffs.",
     "read_minutes": 14,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://wsj.com/business/new-rules-for-succeeding-at-work-success-331969f8?st=bcckHT"
    },
    {
     "newsletter": "marketing",
@@ -1499,7 +1633,8 @@
     "summary": "Facebook's research found that standard ad attribution can overstate incremental conversions by 3X or more.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://karandhir.substack.com/p/facebook-proved-its-own-ad-measurement"
    }
   ],
   "founders": [
@@ -1512,7 +1647,8 @@
     "summary": "The word \"agent\" will come up thousands of times at Dreamforce. But what data are those agents running on? Stale records, manually maintained by sales reps. Meanwhile, 5,000+ startups run on the CRM that updates itself... Lightfield is an agentic CRM that captures every email, call, and meeting - on its own. Data entry is no longer part of the job description. Need a pipeline report for your board? Lightfield builds it from real sales conversations, not stale fields. Need to kickstart outbound? Lightfield builds the list based on your closed-wons, writes the outreach, and asks you to hit \"play\". Teach Lightfield how you sell. Watch it go to work",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://lightfield.app/"
    },
    {
     "newsletter": "founders",
@@ -1523,7 +1659,8 @@
     "summary": "Conway's law says that software reflects the communication structures of the organizations that build it. AI is now part of those structures. This means existing workflows need to change, with a focus on outcomes. Human judgment still matters, so alignment therefore involves humans adapting too.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://domenkozar.com/2026/09/12/conways-law-is-dead-or-is-it"
    },
    {
     "newsletter": "founders",
@@ -1534,7 +1671,8 @@
     "summary": "Capital structures now serve as competitive moats, particularly for companies leveraging AI and infrastructure, by transforming financial engineering into a decisive advantage. Startups need strategies to compound capital alongside traction, using each milestone to reduce financial risk and attract diverse funding sources. The most resilient companies use abundant capital to secure more durable sources, ensuring each dollar raised eases future fundraising efforts and propels growth.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://cruciblecapital.substack.com/p/the-era-of-compounding-capital"
    },
    {
     "newsletter": "founders",
@@ -1545,7 +1683,8 @@
     "summary": "Paul Graham suggests startups should focus on becoming more powerful, not just more profitable. Strategies include owning customer relationships, creating network effects, and transforming into a marketplace or full-stack solution. Helping users make money, being generous, and selling early-stage to fast-deciding customers can also enhance a startup's long-term strength.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://paulgraham.com/powerful.html"
    },
    {
     "newsletter": "founders",
@@ -1556,7 +1695,8 @@
     "summary": "Most product-led growth companies go through the same PLG-to-enterprise growing pains. They may be packaged differently, but they somehow go through the same conversations. This post goes through these challenges to prove how they aren't unique.",
     "read_minutes": 12,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://elenaverna.com/p/congrats-your-sales-problems-in-plg"
    },
    {
     "newsletter": "founders",
@@ -1567,7 +1707,8 @@
     "summary": "LinkedIn ads cost $37.42 per thousand impressions against about $10 on Meta, so the playbook starts with when NOT to run them. They only pay off when deal size is at least $10K and there are at least 10,000 decision-makers to reach, with $3,000 a month as the minimum test budget. Instead of targeting by job title, the author pulls buying signals like job postings and tech-stack changes and uploads them as a custom audience. Switching one account to manual bidding took cost per lead from $287 to $90.",
     "read_minutes": 16,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://growthunhinged.com/p/linkedin-ad-playbook"
    },
    {
     "newsletter": "founders",
@@ -1578,7 +1719,8 @@
     "summary": "Ads get ignored on social media but not in TLDR! Reach developers, PMs, marketers, founders and other tech leaders where they actually pay attention. Learn more about sponsorship opportunities .",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://advertise.tldr.tech/"
    },
    {
     "newsletter": "founders",
@@ -1589,7 +1731,8 @@
     "summary": "The strongest results come from giving an agent a well-designed workspace with a sandbox, software, business context, and clear operating instructions. The system prompt becomes a map that helps the agent find what it needs without carrying everything in context. Use models for judgment and code for consistency. Agents need to find the right tools, work within clear permissions, and move from analysis to action. This meant proposing campaign changes, routing them through human approval, and verifying that the changes were applied correctly.",
     "read_minutes": 19,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://langchain.com/blog/paid-media-agent"
    },
    {
     "newsletter": "founders",
@@ -1600,7 +1743,8 @@
     "summary": "Slackforce Surfaces turns Slack conversations into live dashboards, decks, or reports so the team can work from it together. Surfaces stay current and automatically update as they are connected to the source. They can be pinned into a channel so people can filter, comment on, and act on them together. This post presents several use cases for Slackforce Surfaces.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://slack.com/blog/productivity/slack-surfaces"
    },
    {
     "newsletter": "founders",
@@ -1611,7 +1755,8 @@
     "summary": "Miro and Airtable both got cash-flow positive and both sold this month for about 2.5 times revenue. Miro had about $600M in ARR and sold for $1.355B. Airtable had about $480M growing over 20% and sold for $1.285B. Between them, they held about $1.4B in cash, and buyers paid nothing extra for it. Growth rate was the only thing priced. The cash sat there earning the worst multiple on the cap table.",
     "read_minutes": 8,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical"
    },
    {
     "newsletter": "founders",
@@ -1622,7 +1767,8 @@
     "summary": "Most companies get engineers on stage by training them. PostHog got to more than 100 events a year by not asking. The engineer who built a feature is the one who demos it, the travel budget and brand assets are already provisioned, and nobody needs approval. More than half the company has now demoed somewhere, and about 95% of those events put them face to face with customers. About 20% of engineers opt out of speaking and nothing happens to them.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://posthog.com/blog/irl-events"
    },
    {
     "newsletter": "founders",
@@ -1633,7 +1779,8 @@
     "summary": "Bending Spoons bought Miro and Airtable this month, so an engineer who lived through its Evernote takeover wrote up what the six months after a close look like. Evernote was around $100M in ARR when 129 people were laid off in one round. His team went from six developers to one. The subscription price went from $69.99 to $129.99 a year. Bending Spoons later listed at $18.4B. He reads a voluntary severance offer as the new owner announcing its plan for the org.",
     "read_minutes": 9,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over"
    },
    {
     "newsletter": "founders",
@@ -1644,7 +1791,8 @@
     "summary": "Connect with local founders, and see how data-rich, omnichannel comms create superior AI agent experiences at Twilio Assemble SF on Sep 23. [Save your spot]",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://luma.com/kwdnwg1g"
    },
    {
     "newsletter": "founders",
@@ -1655,7 +1803,8 @@
     "summary": "AI only increases the relevance of the product model principles, the importance of product strategy, and the craft of product discovery.",
     "read_minutes": 14,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://svpg.com/strong-opinions-loosely-held"
    },
    {
     "newsletter": "founders",
@@ -1666,7 +1815,8 @@
     "summary": "Venture capital (VC) often weighs mistakes of omission over commission, highlighting the outsized impact of missing investments in firms like SpaceX or OpenAI.",
     "read_minutes": 13,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://a16z.com/catching-the-venture-bus"
    },
    {
     "newsletter": "founders",
@@ -1677,7 +1827,8 @@
     "summary": "Sometimes you need the opinion of someone who has observed you.",
     "read_minutes": 8,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://endler.dev/2026/why-i-still-believe-in-mentorship"
    }
   ],
   "crypto": [
@@ -1690,7 +1841,8 @@
     "summary": "Nasdaq Ventures invested $100 million in Payward, Kraken's parent company, at a $21 billion valuation on September 10, expanding a partnership the two firms first announced in March. The deal includes the Equity Token (NET) framework, targeting a Q2 2027 launch, under which Kraken will distribute Nasdaq-tokenized stocks carrying voting rights equivalent to ordinary exchange-listed shares. The arrangement positions Nasdaq simultaneously as equity exchange operator, tokenization issuer, and strategic investor in a crypto venue, a structural alignment that prior tokenized equity products from Binance and FTX lacked, and that may resolve the regulatory friction those programs encountered.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2097998135880470710.html"
    },
    {
     "newsletter": "crypto",
@@ -1701,7 +1853,8 @@
     "summary": "Coinbase and Moov announced a partnership to deliver stablecoin payment acceptance, settlement, and real-time funding across Moov's network of 1,000+ US community banks and credit unions. The integration embeds Coinbase's Payments API and custodial wallets into Moov's existing platform, letting financial institutions offer stablecoin services without building their own wallet infrastructure or blockchain connections. The announcement came ahead of the US Senate's preliminary vote on the CLARITY Act, as community banks face mounting concern that stablecoin yield products could pull deposits away from traditional accounts.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098054922272915836.html"
    },
    {
     "newsletter": "crypto",
@@ -1712,7 +1865,8 @@
     "summary": "Coinbase renamed its Base App to Coinbase Wallet, reserving the Base name for the L2 chain and its ecosystem as part of a stated decentralization effort. Base posted an all-time high DeFi TVL of $5.7B, holds the top position for stablecoin transfers, and leads onchain spot trading volumes for BTC and ETH. Jesse Pollak will concentrate on building Base as open financial infrastructure, while Cobie takes ownership of Coinbase Wallet as a dedicated trading product. The naming split positions Base as chain-neutral infrastructure rather than a Coinbase consumer brand, a distinction that may accelerate adoption by third-party protocols and enterprises.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098117987949748229.html"
    },
    {
     "newsletter": "crypto",
@@ -1723,7 +1877,8 @@
     "summary": "The MoneyGram Card is a stablecoin-backed card that lets customers hold a stable-dollar balance, access cash, and spend anywhere Visa is accepted online, in stores, and across borders. The card is built directly into the MoneyGram app, where customers sign up in a few taps and can add it to Apple Wallet or Google Wallet for tap-to-pay, with cash pickup available at MoneyGram's roughly 500,000 retail locations. It was developed with Rain for the card infrastructure, Crossmint for wallet capabilities, and the Stellar network for settlement. The card launches today in Colombia, with a physical card option planned for late 2026 ahead of further global expansion. MoneyGram serves over 60 million active customers across more than 200 countries and territories.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://prnewswire.com/news-releases/introducing-the-moneygram-card-giving-customers-more-freedom-to-use-their-money-wherever-life-takes-them-302875353.html"
    },
    {
     "newsletter": "crypto",
@@ -1734,7 +1889,8 @@
     "summary": "By mid-2026, AI bots account for roughly 60% of HTTP requests on Cloudflare's network, undermining the web's ad-supported model where publishers offered free content in exchange for search traffic that advertisers monetized per visit. AI agents consume that content without generating ad impressions, leaving publishers without revenue while AI companies that trained on free web data face growing demands to pay for future access. Coinbase's x402 protocol, TollBit's per-request micropayments, and agent payment infrastructure from Visa and Cloudflare represent the machine-readable settlement layer being built to route stablecoin payments from AI agents directly to content owners at the per-request level. Enterprise licensing deals, like those between OpenAI and major publishers, cover the high-value content tier while micropayment rails target the long tail of web content at internet scale.",
     "read_minutes": 8,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/Shoalresearch/status/2097760062781751532"
    },
    {
     "newsletter": "crypto",
@@ -1745,7 +1901,8 @@
     "summary": "GPU compute is entering the same financialization arc as electricity markets pre-1990s deregulation, with a four-layer market structure forming: physical brokerage, price indices, cash-settled futures exchanges, and lending and synthetic instruments. NVIDIA functions as the sector's de facto central bank, controlling supply depreciation analogous to inflation management, targeting full GPU utilization as an employment-style mandate, and backstopping hardware values with 25% residual support as lender of last resort. Of every $100 spent on tokens, roughly $50 flows to neoclouds and GPU infrastructure, while $45 goes to on-tap inference platforms like Fireworks and Baseten. The market winner will be a full-stack player spanning all four layers, with three forces driving volatility: NVIDIA's depreciation cycle control, frontier lab model launches spiking token demand, and open-source models compressing inference margins downward.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/0xfishylosopher/status/2097713770391114136"
    },
    {
     "newsletter": "crypto",
@@ -1756,7 +1913,8 @@
     "summary": "Caroline Ellison, former Alameda Research CEO who served prison time following the FTX collapse, has taken a full-time position at Manifund, an open-source effective altruism funding platform covering AI safety, poverty, and disease research. She spent roughly two months working under the pseudonym \"Carol\" before the public announcement, contributing to technical infrastructure, operations, and customer support. Her first contribution was a reconciliation tool that flagged misregistered transactions totaling five to six figures in Manifund's database. CEO Austin Chen framed the hire around redemption, noting Ellison has admitted fault, worked to make FTX creditors whole, and completed her prison sentence.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098478302126023033.html"
    },
    {
     "newsletter": "crypto",
@@ -1767,7 +1925,8 @@
     "summary": "EtherFi is restructuring Cash's admin controls into three tiers. Routine parameter changes stay fast, sensitive fund-security settings require an 8-hour delay, and smart contract code upgrades move from the current 8-hour timelock to a 2-day delay. The changes also let EtherFi immediately revoke a compromised operational key instead of waiting on the existing governance timelock, closing a gap where one role previously controlled everything at once. The new contracts and 8-hour timelock are already partially deployed on Optimism, though the full upgrade isn't live yet as EtherFi migrates the current Cash contracts to the new system.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2099071394424173007.html"
    },
    {
     "newsletter": "crypto",
@@ -1778,7 +1937,8 @@
     "summary": "Securitize now manages over $4 billion in tokenized assets across 3 million addresses.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098142857529901251.html"
    },
    {
     "newsletter": "crypto",
@@ -1789,7 +1949,8 @@
     "summary": "Vlad Tenev said public companies control the rights attached to their shares but not every lawful downstream use investors make of those shares once acquired.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098643827028550080.html"
    },
    {
     "newsletter": "crypto",
@@ -1800,7 +1961,8 @@
     "summary": "Tristyn Pawson signed up for a marketed \"No-KYC\" crypto card and received a Slash-branded card instead.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098838890073166031.html"
    },
    {
     "newsletter": "crypto",
@@ -1811,7 +1973,8 @@
     "summary": "X Money is allegedly already processing billions of dollars in volume just weeks after launch.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2098918060711108955.html"
    }
   ],
   "fintech": [
@@ -1824,7 +1987,8 @@
     "summary": "Chatting with AI tools gets you quick, easy wins. But to get real, compounding value, you need to automate high-leverage workflows. The question is - which workflows, with which model, and how to not overspend ? Next Tuesday Sept 22, Ramp's AI Ops Lead Jennifer John walks through 4 fundamentals of delegating your high-leverage work to AI. Join Jennifer's AI workshop",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://virtual.ramp.com/delegating-work-to-ai"
    },
    {
     "newsletter": "fintech",
@@ -1835,7 +1999,8 @@
     "summary": "The retail brokerage's first official underwriting assignment could help it secure more shares for individual investors, who are often left with limited allocations in popular public offerings. Robinhood ranks last among the deal's 18 banks, so its initial influence may be modest, but the move positions it to play a larger role as a wave of high-profile listings approaches.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632"
    },
    {
     "newsletter": "fintech",
@@ -1846,7 +2011,8 @@
     "summary": "Chime is acquiring longtime banking partner Stride Bank for $590 million, giving the fintech a faster path to owning its banking infrastructure than pursuing a new charter. The deal will bring Stride's balance sheet in-house, support Chime's expansion into lending, and is expected to generate more than $100 million in net synergies. Chime also raised its full-year revenue outlook to 26%-27% growth.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://reuters.com/legal/transactional/chime-buy-nationally-chartered-stride-bank-590-million-shares-jump-2026-09-08"
    },
    {
     "newsletter": "fintech",
@@ -1857,7 +2023,8 @@
     "summary": "OpenAI launched ChatGPT for Financial Services, a finance-specific version of ChatGPT Work built with design partners Morgan Stanley and Evercore, using GPT-6 Astra and native data access from LSEG, Daloopa, Crunchbase, and PitchBook. The product is aimed at investment banking and equity research workflows like company research, financial analysis, M&A target evaluation, spreadsheet work, and pitchbook generation, raising questions about how Wall Street will train and staff junior bankers as AI automates more analyst-level tasks.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html"
    },
    {
     "newsletter": "fintech",
@@ -1868,7 +2035,8 @@
     "summary": "Block has applied for an OCC charter to launch Builders Bank & Trust, a national trust bank focused on digital asset custody and fiduciary services. If approved, the charter would bring Block's growing Bitcoin and stablecoin operations under a single federal regulatory framework, avoiding the patchwork of state licenses and further integrating crypto infrastructure with the regulated banking system.",
     "read_minutes": 1,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://finance.yahoo.com/news/block-applies-occ-charter-launch-220611952.html"
    },
    {
     "newsletter": "fintech",
@@ -1879,7 +2047,8 @@
     "summary": "As AI agents move from recommending products to completing purchases, payment providers are developing infrastructure that lets software transact autonomously within user-defined limits. Mastercard is extending traditional payment rails to machines, while Coinbase's x402 protocol and XDC enable agents to pay for APIs, data, and computing power with USDC, including transactions worth fractions of a cent. Adoption remains early, but backing from Visa, Stripe, Google, AWS, and others suggests agent payments could become a major battleground between card networks and stablecoin-based systems.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard"
    },
    {
     "newsletter": "fintech",
@@ -1890,7 +2059,8 @@
     "summary": "AI-native companies are not just giving employees access to ChatGPT, Claude, or Copilot, but building “software factories” where employees across product, sales, marketing, and finance can safely create and propagate software. The durable advantage is the harness layer: context, permissions, evaluations, model routing, memory, and governance that let the company see more, build faster, spread best practices, remember lessons, and notice important signals without waiting for a human to ask.",
     "read_minutes": 11,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://x.com/annimaniac/status/2097402645078229456"
    },
    {
     "newsletter": "fintech",
@@ -1901,7 +2071,8 @@
     "summary": "Nubank went live in the US today through partner Lead Bank while it waits on its full OCC charter (conditional approval came in January). The Nu Account pays 3.5% APY, rising to 4.5% on balances up to $10k if you hold the credit card and use it three times a month. The credit card has no annual fee and 1.5% unlimited cashback, with a route to 2%. Transfers to Brazil, Mexico, and Colombia are free from day one.",
     "read_minutes": 10,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://fintechbrainfood.com/p/nubank-america"
    },
    {
     "newsletter": "fintech",
@@ -1912,7 +2083,8 @@
     "summary": "According to the research, which collated data from 2,000 US consumers earlier this year, 72% of consumers have used an AI assistant. However, only 23% of participants trust generative AI (GenAI) to make payments on their behalf.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index"
    },
    {
     "newsletter": "fintech",
@@ -1923,7 +2095,8 @@
     "summary": "Polish mobile payment network Blik has run its first agentic payment transaction, under which a user authorised an agent to search for a specific product and pay for it when it became available.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48379/blik-records-first-agentic-payment-transaction"
    },
    {
     "newsletter": "fintech",
@@ -1934,7 +2107,8 @@
     "summary": "US Bank launched USBDC, a proprietary US dollar-backed stablecoin, and completed a live cross-border pilot transaction between North American and European entities on the Stellar blockchain. The pilot validates the bank's internally built Digital Asset Platform, including minting, redemption, freezing, and clawback capabilities, positioning US Bank to explore on-chain use cases like liquidity management, collateral mobility, and cross-border treasury operations while keeping traditional banking controls in place.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://usbank.com/about-us-bank/news-and-stories/article-library/us-bank-launches-usbdc-stablecoin.html"
    },
    {
     "newsletter": "fintech",
@@ -1945,7 +2119,8 @@
     "summary": "PayPal CEO Enrique Lores is trying to repair the company by reorganizing it into three units: branded checkout, processing and Venmo, and consumer financial services. His plan centers on clearer accountability, $1.5 billion in run-rate savings, potential acquisitions, more consumer financial services such as BNPL, and modernizing PayPal's fragmented technology stack after years of acquisitions, as the company faces pressure from commoditized checkout, Venmo competition, and weaker investor confidence.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://paymentsdive.com/news/paypal-ceo-plans-for-a-fix/830171"
    },
    {
     "newsletter": "fintech",
@@ -1956,7 +2131,8 @@
     "summary": "Nasdaq's venture arm agreed to invest $100 million in Payward, Kraken's parent company, as part of a broader push to build regulated infrastructure for tokenized equities. The companies plan to launch Nasdaq Equity Tokens on Payward's xStocks platform in Q2 2027, aiming to let tokenized assets trade and settle outside traditional market hours while preserving shareholder rights, compliance, and market safeguards.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10"
    },
    {
     "newsletter": "fintech",
@@ -1967,7 +2143,8 @@
     "summary": "Indian fintechs are shifting from UPI payments into digital credit, with leaders arguing the credit opportunity could be more than twice the size of the payments market. PhonePe, Google Pay, BharatPe, Amazon Pay, and others are using transaction data, e-commerce behavior, and broader digital footprints to underwrite small consumer and MSME loans, targeting a market where only 15% of adults have formal credit access, and most small businesses still rely on informal financing.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html"
    },
    {
     "newsletter": "fintech",
@@ -1978,7 +2155,8 @@
     "summary": "Synctera has registered a subsidiary as a money services business, allowing it to take on more anti-money-laundering compliance and regulatory reporting for select bank-fintech partnerships.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://thisweekinfintech.com/p/exclusive-synctera-becomes-a-money-services-business-making-a-long-term-bet-on-baas"
    },
    {
     "newsletter": "fintech",
@@ -1989,7 +2167,8 @@
     "summary": "Sam Altman says the company needs more time to address AI safety and alignment before facing the pressures of public markets.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://finance.yahoo.com/technology/ai/articles/openai-ipo-won-t-happen-193639755.html"
    }
   ],
   "it": [
@@ -2002,7 +2181,8 @@
     "summary": "You've been there: code's ready to ship, everyone's excited—then someone spots a vulnerability. Suddenly it's an all-hands emergency and time to cancel your evening plans. Microsoft Azure bakes security in from the start. Microsoft Defender for Cloud helps keep your apps and code protected throughout the development lifecycle. Less last-minute surprises, more peace of mind. Ship fast. Ship safely. Do both at the same time. Build with built-in security →",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://ad.doubleclick.net/ddm/trackclk/N572608.5847589TLDRMEDIALLC/B36170213.451077315;dc_trk_aid=644465501;dc_trk_cid=258755290;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1"
    },
    {
     "newsletter": "it",
@@ -2013,7 +2193,8 @@
     "summary": "Microsoft has confirmed that September's Windows update can break USB Audio Class 1.0 devices, causing missing sound, device errors, and unresponsive audio settings. Switching to two-channel audio has helped some users affected by multichannel failures, but a general fix remains pending. The issue affects Windows 11 versions 24H2, 25H2, and 26H1-not all USB audio devices.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://windowslatest.com/2026/09/13/microsoft-confirms-windows-11s-update-kills-audio-on-some-pcs-and-the-bugs-keep-piling-up"
    },
    {
     "newsletter": "it",
@@ -2024,7 +2205,8 @@
     "summary": "Salesforce has introduced the Enterprise AI Harness, a composable architecture featuring six trusted capabilities and an AI Control Plane designed to give businesses a unified way to manage and control agents and AI across their organization. The platform connects open-ended AI reasoning with enterprise data, security, governance, and business rules. The system allows enterprises to leverage proprietary customer context securely while maintaining compliance and flexibility across different models and third-party systems.",
     "read_minutes": 7,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://salesforce.com/news/stories/enterprise-ai-harness"
    },
    {
     "newsletter": "it",
@@ -2035,7 +2217,8 @@
     "summary": "AI is eroding the protection organizations implicitly get from obscure software and unfamiliar legacy systems. The bigger challenge is remediation capacity: discovering more vulnerabilities accomplishes little unless teams can prioritize fixes, validate patches, and prevent the same weaknesses from recurring.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000"
    },
    {
     "newsletter": "it",
@@ -2046,7 +2229,8 @@
     "summary": "Dell pitches its UltraSharp 52 as a replacement for four smaller monitors, reducing the clutter of cables and stands. This hands-on review finds an impressive display for visual work and multiple data feeds, but also connection problems, awkward port access, and a setup that is difficult to justify for ordinary office work.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753"
    },
    {
     "newsletter": "it",
@@ -2057,7 +2241,8 @@
     "summary": "Authorization, rather than integration, is the primary engineering challenge when deploying AI agents at enterprise scale with a Model Context Protocol gateway. Building robust identity, per-tool scopes, consent mechanisms, and audit logs is essential for safely connecting agents to internal services.",
     "read_minutes": 8,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://workos.com/blog/mcp-gateway-hard-part-is-auth"
    },
    {
     "newsletter": "it",
@@ -2068,7 +2253,8 @@
     "summary": "Adding a second payment processor can reduce downtime risk and close coverage gaps, but the integration work and ongoing overhead can be significant. Stripe's guide breaks down how to evaluate the decision, what the resource investment actually looks like, and how an orchestration layer can help you manage multiple providers. Read the guide",
     "read_minutes": null,
     "kind": "sponsor",
-    "sponsored": true
+    "sponsored": true,
+    "key": "https://stripe.com/in/lp/multiprocessor-guide"
    },
    {
     "newsletter": "it",
@@ -2079,7 +2265,8 @@
     "summary": "OpenAI has introduced a managed Agents API in public beta to help enterprises build custom AI agents with reduced infrastructure management and engineering complexity. The service hosts the underlying harness and allows developers to run agents in OpenAI-managed sandboxes, on their own infrastructure, or through supported providers.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://openai.com/index/introducing-the-agents-api"
    },
    {
     "newsletter": "it",
@@ -2090,7 +2277,8 @@
     "summary": "Boomi's September release makes Orchestrate generally available to US customers and adds native tracking of Claude Managed Agents, including their tools, models, and token usage. Administrators can now inspect agent session logs across users, while new connectors cover Zoom, Ping Identity, and other business apps. Knowledge Hub also enters early access, bringing structured and unstructured company information into a governed retrieval layer for people and agents.",
     "read_minutes": 15,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://boomi.com/blog/everything-you-want-to-know-about-the-september-2026-boomi-integration-and-automation-platform-release"
    },
    {
     "newsletter": "it",
@@ -2101,7 +2289,8 @@
     "summary": "As generative AI makes writing software cheaper and faster, the primary bottleneck in enterprise software development shifts from building code to making coherent architectural judgments. Code is disposable while operational state and system integrations accumulate, so organizations face a growing risk of fragmented, locally optimized silos unless they maintain a deliberate enterprise-wide perspective before committing resources.",
     "read_minutes": 11,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4"
    },
    {
     "newsletter": "it",
@@ -2112,7 +2301,8 @@
     "summary": "Slack resolved a weekend incident that made older image uploads appear blurry or fail to download across desktop, web, and mobile clients. A code change disrupted retrieval of existing files, while newly uploaded images were unaffected. Slack deployed a fix and confirmed that access was restored for affected customers.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://slack-status.com/2026-09-12"
    },
    {
     "newsletter": "it",
@@ -2123,7 +2313,8 @@
     "summary": "Okta Chief Architect Robert Lucero discusses how agentic AI is transforming identity and access management.",
     "read_minutes": null,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://newsletter.getdx.com/p/how-okta-governs-ai-agents-at-enterprise"
    },
    {
     "newsletter": "it",
@@ -2134,7 +2325,8 @@
     "summary": "New reporting highlights a macOS 26.4 change that prevents manually copied login Keychains from working on another Mac, creating a credential-recovery gotcha for IT teams replacing failed devices.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://appleinsider.com/articles/26/09/13/macos-tahoe-264-update-stops-you-from-copying-your-login-keychain"
    },
    {
     "newsletter": "it",
@@ -2145,7 +2337,8 @@
     "summary": "Apple's iOS 27, iPadOS 27, and macOS Golden Gate updates are scheduled for September 14, with a roughly 10 AM Pacific rollout expected, though not officially confirmed.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://macrumors.com/2026/09/13/ios-27-release-date-time-zones"
    }
   ],
   "hardware": [
@@ -2158,7 +2351,8 @@
     "summary": "Tesla posted \"Go for launch\" with a \"10.01\" graphic, pointing to an October 1 reveal of the second-generation Roadster, first announced back in November 2017 and delayed repeatedly since. The Information recently reported the original 2017 design has been scrapped entirely for a new, unrevealed one, and the teaser graphic hints at the promised SpaceX-developed cold gas thrusters meant to let the car briefly fly. Even after next month's unveiling, Musk has previously said the Roadster won't reach actual production for another 12 to 18 months.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1"
    },
    {
     "newsletter": "hardware",
@@ -2169,7 +2363,8 @@
     "summary": "Ivanhoe Mines founder Robert Friedland, on Bloomberg's Odd Lots podcast, argued the world isn't close to having enough copper for what's coming, with copper up 15% this year as demand from data centers, electric vehicles, and global reindustrialization compounds on top of the metal's already-tight supply. He framed US tariffs as a potential fix rather than just a cost, arguing that if a 30% tariff pushed copper from $6 to $7.80 a pound, domestic mining could again afford unionized US labor, pointing out that 10% of all copper ever mined came from Arizona before manufacturing and refining capacity was largely outsourced to China.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-09-12/robert-friedland-on-the-world-s-monumental-shortage-of-copper-mty3hi1s"
    },
    {
     "newsletter": "hardware",
@@ -2180,7 +2375,8 @@
     "summary": "Every Apple chip since the A11 and M1 ships a Neural Engine that runs on-device AI across over 2.5 billion active devices, yet Apple has never published an instruction set, driver interface, or way to even confirm a computation ran on it. This guide bypasses Core ML entirely, reaching the ANE directly through the compiler, runtime, kernel driver, and firmware via a mix of live silicon measurement and static/dynamic reverse engineering, cross-checking both methods against each other.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://ane-guide.readthedocs.io/en/latest"
    },
    {
     "newsletter": "hardware",
@@ -2191,7 +2387,8 @@
     "summary": "AWS is wiring AI data centers with hollow core fiber, an air-filled strand that moves light about 50% faster than glass and cuts latency roughly 30%. Amazon has already deployed it across more than 10 sites so million-chip clusters can stay synchronized as facilities spread out for power and land.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://en.sedaily.com/international/2026/09/12/amazon-bets-on-hollow-core-fiber-to-keep-a-million-chips-in"
    },
    {
     "newsletter": "hardware",
@@ -2202,7 +2399,8 @@
     "summary": "IonQ unveiled its sixth-generation quantum computing platform, Superion 256, built around Electronic Qubit Control (EQC), integrating the control electronics directly onto CMOS silicon using standard high-volume semiconductor fabrication rather than the racks of external control electronics trapped-ion systems normally depend on. That integration is what shrinks the whole system down to fit in a standard server rack running on typical data center power and cooling, while significantly cutting cost-per-qubit.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://ionq.com/news/ionq-launches-superion-product-line-industry-leading-upgradeable-platform-designed-to-scale-manufacturable-fault-tolerant-quantum-computing"
    },
    {
     "newsletter": "hardware",
@@ -2213,7 +2411,8 @@
     "summary": "Stronger HBM error correction usually means long-span codes that protect more efficiently, but coupling every small memory access to span-wide state and decoding at full HBM bandwidth is normally too costly to implement directly. REACH sidesteps that by exploiting a property specific to LLM decode workloads: reads are sequential, so they can be aggregated across a span cheaply, while writes are sparse, keeping parity-update traffic low. The controller uses standard inner codes to fix common errors and flag whichever chunks it can't resolve, then falls back to a long outer code reserved specifically for repairing those flagged erasures, avoiding the cost of running heavy decoding on every access.",
     "read_minutes": 2,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm"
    },
    {
     "newsletter": "hardware",
@@ -2224,7 +2423,8 @@
     "summary": "Zipline shipped a software update, \"Dynamic Flight Trajectories,\" that replaces its drones' flat climb-cruise-descend flight profile with a wave shape: climb while already moving, dip to build speed, deliver from altitude, then climb again to shed speed before landing, letting gravity do work the motors used to handle. The company reports the median mission got 48 seconds shorter, left 40.6 watt-hours more in the battery on landing, and brought the hottest hover motor home 8.9°C cooler, all from a firmware download to the existing fleet.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://dronexl.co/2026/09/11/zipline-drones-dive-for-speed-quieter"
    },
    {
     "newsletter": "hardware",
@@ -2235,7 +2435,8 @@
     "summary": "Satellite imagery from July shows 720 Tesla Megapacks installed at SpaceXAI's Colossus 2 data center in Memphis, equating to roughly 2.8 gigawatt-hours and 720-1,400 megawatts depending on the exact model, with company and utility executives separately describing the completed system as 3.3 GWh or 2,000 MW of instant discharge, either of which would top the current largest US grid battery at California's Edwards & Sanborn plant.",
     "read_minutes": 5,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center"
    },
    {
     "newsletter": "hardware",
@@ -2246,7 +2447,8 @@
     "summary": "NVIDIA Research's Sol-H3 pipeline turns a prompt into a 5-second 768p video with audio on one DGX Spark Blackwell in about 56 seconds end-to-end, roughly 6.7x faster than a quantized 4-step baseline.",
     "read_minutes": 14,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://nvlabs.github.io/Sana/Sol-Engine/Sol-H3-Spark"
    },
    {
     "newsletter": "hardware",
@@ -2257,7 +2459,8 @@
     "summary": "Microsoft is planning to grow its global data center footprint from roughly 12 gigawatts today to more than 38 gigawatts by 2032.",
     "read_minutes": 4,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute"
    },
    {
     "newsletter": "hardware",
@@ -2268,7 +2471,8 @@
     "summary": "Apple's A20 Pro set a Geekbench 7 single-thread record, beating desktop Intel Core i9 and AMD Ryzen 9 chips by up to 32%.",
     "read_minutes": 6,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent"
    },
    {
     "newsletter": "hardware",
@@ -2279,7 +2483,8 @@
     "summary": "macOS 27 ships Monday as Apple silicon only, so Intel Macs are locked out of the free update for the first time.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://macobserver.com/news/macos-27-golden-gate-drops-intel-macs-rosetta"
    },
    {
     "newsletter": "hardware",
@@ -2290,7 +2495,8 @@
     "summary": "Fujitsu will export Monaka, its 2nm CPU built on Fugaku supercomputer technology and manufactured by TSMC, to the US and Asia starting in 2027.",
     "read_minutes": 3,
     "kind": null,
-    "sponsored": false
+    "sponsored": false,
+    "key": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia"
    }
   ]
  }

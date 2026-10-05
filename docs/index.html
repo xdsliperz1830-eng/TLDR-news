@@ -17,9 +17,15 @@
         <input id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
         <div class="toggles">
           <label><input type="checkbox" id="hideSponsored" checked> Hide sponsored</label>
+          <label><input type="checkbox" id="topicsOnly"> My topics only</label>
           <label><input type="checkbox" id="savedOnly"> Saved only</label>
         </div>
       </div>
+      <label class="topics">
+        <span>My topics</span>
+        <input id="topics" type="text" placeholder="e.g. Apple, Rust, security, OpenAI" autocomplete="off"
+               title="Comma-separated. Matching stories get a ★ badge.">
+      </label>
       <nav id="chips" class="chips" aria-label="Newsletters"></nav>
     </div>
   </header>

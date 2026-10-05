@@ -25,6 +25,8 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    outputs:
+      problems: ${{ steps.fetch.outputs.problems }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -34,7 +36,19 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python tests/test_parse.py
       - name: Fetch issues
-        run: python scraper/scrape.py --days "${{ inputs.days || '3' }}"
+        id: fetch
+        # Exit code 2 = fetched what it could but something looks wrong (see the alert job).
+        run: |
+          set +e
+          python scraper/scrape.py --days "${{ inputs.days || '3' }}" 2> >(tee errors.log >&2)
+          code=$?
+          if [ $code -eq 2 ]; then echo "problems=true" >> "$GITHUB_OUTPUT"; elif [ $code -ne 0 ]; then exit $code; fi
+      - name: Upload problem log
+        if: steps.fetch.outputs.problems == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: scrape-problems
+          path: errors.log
       - name: Commit new data
         run: |
           git config user.name "github-actions[bot]"
@@ -60,3 +74,14 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Fails the run (GitHub then emails you) when the scraper found no issues on a
+  # weekday or couldn't parse an issue page, which usually means tldr.tech changed.
+  alert:
+    needs: scrape
+    if: needs.scrape.outputs.problems == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "::error::The TLDR scraper hit problems. See the 'Fetch issues' step log or the scrape-problems artifact."
+          exit 1

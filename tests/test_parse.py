@@ -28,6 +28,26 @@ def test_parse_issue():
     assert repo["section"] == "Engineering & Research"
 
 
+
+
+def test_story_key():
+    from scrape import story_key
+    a = story_key("https://www.example.com/post/?utm_source=tldrai&sp=1#top")
+    b = story_key("https://example.com/post?utm_source=tldrwebdev")
+    assert a == b == "https://example.com/post"
+    # Real query parameters are kept.
+    assert story_key("https://youtube.com/watch?v=abc&utm_medium=email") == "https://youtube.com/watch?v=abc"
+
+
+def test_last_weekday_before():
+    import datetime as dt
+    from scrape import last_weekday_before
+    assert last_weekday_before(dt.date(2026, 10, 5)) == dt.date(2026, 10, 2)  # Monday -> Friday
+    assert last_weekday_before(dt.date(2026, 10, 7)) == dt.date(2026, 10, 6)
+
+
 if __name__ == "__main__":
     test_parse_issue()
+    test_story_key()
+    test_last_weekday_before()
     print("ok")
