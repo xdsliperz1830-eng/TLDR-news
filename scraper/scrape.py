@@ -140,7 +140,8 @@ def write_index() -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--days", type=int, default=3, help="how many recent days to fetch (default 3)")
+    parser.add_argument("--days", type=int, default=3,
+                        help="how many recent days to fetch (default 3; 30 while under a week is saved)")
     parser.add_argument("--date", help="fetch a single YYYY-MM-DD date")
     parser.add_argument("--force", action="store_true", help="re-fetch days that are already saved")
     args = parser.parse_args()
@@ -148,8 +149,12 @@ def main() -> None:
     if args.date:
         dates = [args.date]
     else:
+        days = args.days
+        # First runs: backfill a month so the site isn't nearly empty.
+        if len(list(DATA_DIR.glob("????-??-??.json"))) < 7:
+            days = max(days, 30)
         today = dt.date.today()
-        dates = [(today - dt.timedelta(days=i)).isoformat() for i in range(args.days)]
+        dates = [(today - dt.timedelta(days=i)).isoformat() for i in range(days)]
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     session = requests.Session()
