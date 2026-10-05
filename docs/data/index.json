@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T17:19:12+00:00",
+ "updated": "2026-10-05T17:20:42+00:00",
  "newsletters": {
   "tech": "TLDR",
   "ai": "TLDR AI",
@@ -16,5 +16,7 @@
   "it": "TLDR IT",
   "hardware": "TLDR Hardware"
  },
- "days": []
+ "days": [
+  "2026-10-05"
+ ]
 }
