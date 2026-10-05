@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TLDR Reader</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <div class="brand">
+        <h1>TLDR Reader</h1>
+        <span id="updated" class="muted"></span>
+      </div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
+        <div class="toggles">
+          <label><input type="checkbox" id="hideSponsored" checked> Hide sponsored</label>
+          <label><input type="checkbox" id="savedOnly"> Saved only</label>
+        </div>
+      </div>
+      <nav id="chips" class="chips" aria-label="Newsletters"></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="status" class="muted">Loading…</p>
+    <div id="feed"></div>
+    <button id="more" class="more" hidden>Load older days</button>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
