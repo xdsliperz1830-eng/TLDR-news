@@ -648,6 +648,18 @@
     "newsletter": "infosec",
     "date": "2026-10-05",
     "section": "Strategies & Tactics",
+    "title": "DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent",
+    "url": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/?utm_source=tldrinfosec",
+    "summary": "ConfigPoisoning (CVE-2026-102437) ran attacker commands when a developer viewed a file diff in DeepSeek-Reasonix Studio, because a .gitattributes entry pointed the file at a command in a poisoned .git/config that the tool's hardened git wrapper never overrode. Since .git/config does not survive a clone, delivery needed an archive, synced folder, or CI cache, or a prompt-injected agent writing it into an already-cloned repo, and GitLab reports the same flaw class in several other coding agents under coordinated disclosure. Users should update to Studio 2.21.0 or npm 1.39.3, and builders of git-wrapping tools should override every command-executing config key on each call or read blobs with git cat-file and diff in-process.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-05",
+    "section": "Strategies & Tactics",
     "title": "GitHub Repos Exposed 543,699 Credentials. Nobody Revoked Them",
     "url": "https://trufflesecurity.com/blog/github-repos-exposed-543699-credentials-nobody-revoked-them?utm_source=tldrinfosec",
     "summary": "Truffle Security scanned 224 million public GitHub repositories and verified 543,699 working credentials in July. The median credential had been exposed for 784 days. The oldest dated to 2009. GitHub's push protection reduced leaks of recognized token types by about 53%, yet missed connection strings, private keys, and Google API keys. These accounted for 51.8% of live credentials. Revocation separated outcomes sharply: only one npm token remained active, while 11,465 Postgres strings and 69,041 Google Cloud credentials still worked.",
@@ -667,18 +679,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://backend.cafe/how-we-release-fastify-packages-without-npm-tokens"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-05",
-    "section": "Strategies & Tactics",
-    "title": "DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent",
-    "url": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered/?utm_source=tldrinfosec",
-    "summary": "ConfigPoisoning (CVE-2026-102437) ran attacker commands when a developer viewed a file diff in DeepSeek-Reasonix Studio, because a .gitattributes entry pointed the file at a command in a poisoned .git/config that the tool's hardened git wrapper never overrode. Since .git/config does not survive a clone, delivery needed an archive, synced folder, or CI cache, or a prompt-injected agent writing it into an already-cloned repo, and GitLab reports the same flaw class in several other coding agents under coordinated disclosure. Users should update to Studio 2.21.0 or npm 1.39.3, and builders of git-wrapping tools should override every command-executing config key on each call or read blobs with git cat-file and diff in-process.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://about.gitlab.com/blog/deepseek-reasonix-vulnerability-discovered"
    },
    {
     "newsletter": "infosec",
