@@ -696,18 +696,6 @@
     "newsletter": "infosec",
     "date": "2026-10-05",
     "section": "Launches & Tools",
-    "title": "Keymaker",
-    "url": "https://github.com/Kentrow/keymaker?utm_source=tldrinfosec",
-    "summary": "A local web interface to inventory, audit, revoke, and create OVHcloud API keys.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/Kentrow/keymaker"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-05",
-    "section": "Launches & Tools",
     "title": "Osavul (Product Launch)",
     "url": "https://www.osavul.cloud/?utm_source=tldrinfosec",
     "summary": "Osavul analyzes open and privileged data to identify hostile intent targeting people, facilities, and supply chains. Analyst-reviewed assessments trace supporting evidence and run on-premises within sovereign infrastructure, keeping sensitive customer data inside customer systems.",
@@ -715,6 +703,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://osavul.cloud/"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-05",
+    "section": "Launches & Tools",
+    "title": "Keymaker",
+    "url": "https://github.com/Kentrow/keymaker?utm_source=tldrinfosec",
+    "summary": "A local web interface to inventory, audit, revoke, and create OVHcloud API keys.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/Kentrow/keymaker"
    },
    {
     "newsletter": "infosec",
@@ -2128,18 +2128,6 @@
     "newsletter": "it",
     "date": "2026-10-05",
     "section": "Miscellaneous",
-    "title": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
-    "url": "https://importstatic.com/ai/mcp-stateless-spec-migration?utm_source=tldrit",
-    "summary": "The 2026-07-28 specification revision of the Model Context Protocol removes the initial handshake and protocol-level sessions, introducing a stateless architecture where requests carry context and versioning directly in metadata. Server authors must update handlers to support the stateless option, remove session dependencies, enforce required request headers, and replace mid-call interactive workflows with a multi-round-trip input request pattern.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://importstatic.com/ai/mcp-stateless-spec-migration"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-05",
-    "section": "Miscellaneous",
     "title": "MIT and Sakana AI make self-improving agents cheaper to evaluate",
     "url": "https://venturebeat.com/orchestration/new-mit-and-sakana-ai-framework-uses-an-llm-judge-to-cut-evaluation-costs-for-self-improving-coding-agents?utm_source=tldrit",
     "summary": "SIFT uses an LLM judge to rank proposed coding-agent improvements before spending compute on full benchmark runs. One experiment reached 35.1% accuracy while using substantially less compute than previous search approaches.",
@@ -2147,6 +2135,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://venturebeat.com/orchestration/new-mit-and-sakana-ai-framework-uses-an-llm-judge-to-cut-evaluation-costs-for-self-improving-coding-agents"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-05",
+    "section": "Miscellaneous",
+    "title": "MCP stateless spec changes: what the 2026-07-28 revision means for servers",
+    "url": "https://importstatic.com/ai/mcp-stateless-spec-migration?utm_source=tldrit",
+    "summary": "The 2026-07-28 specification revision of the Model Context Protocol removes the initial handshake and protocol-level sessions, introducing a stateless architecture where requests carry context and versioning directly in metadata. Server authors must update handlers to support the stateless option, remove session dependencies, enforce required request headers, and replace mid-call interactive workflows with a multi-round-trip input request pattern.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://importstatic.com/ai/mcp-stateless-spec-migration"
    },
    {
     "newsletter": "it",
