@@ -260,18 +260,6 @@
     "newsletter": "ai",
     "date": "2026-10-06",
     "section": "Deep Dives & Analysis",
-    "title": "How Devin's Memory and Dreaming Work",
-    "url": "https://devin.ai/blog/memory-and-dreaming?utm_source=tldrai",
-    "summary": "Devin's new Memory system carries preferences, corrections, and project learnings across sessions, while Dreaming periodically reorganizes and connects that information. The process deduplicates memories, links them to past sessions and artifacts, and can derive new knowledge from accumulated work.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://devin.ai/blog/memory-and-dreaming"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-06",
-    "section": "Deep Dives & Analysis",
     "title": "How to Build an AI-Native Software Factory",
     "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software?utm_source=tldrai",
     "summary": "A practical look at the infrastructure companies need around coding agents once usage scales beyond individual developers. Using Uber's software factory as the main case study, it covers cloud execution, model gateways, agent identity, testing, migrations, code review, and measuring economics such as cost per merged pull request.",
@@ -291,6 +279,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-06",
+    "section": "Deep Dives & Analysis",
+    "title": "How Devin's Memory and Dreaming Work",
+    "url": "https://devin.ai/blog/memory-and-dreaming?utm_source=tldrai",
+    "summary": "Devin's new Memory system carries preferences, corrections, and project learnings across sessions, while Dreaming periodically reorganizes and connects that information. The process deduplicates memories, links them to past sessions and artifacts, and can derive new knowledge from accumulated work.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://devin.ai/blog/memory-and-dreaming"
    },
    {
     "newsletter": "ai",
@@ -610,18 +610,6 @@
     "newsletter": "webdev",
     "date": "2026-10-06",
     "section": "Quick Links",
-    "title": "Introducing Web Search API",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/?utm_source=tldrdev",
-    "summary": "Cloudflare's beta Web Search API lets agents search through Ceramic.ai, Exa, or Linkup via AI Gateway with Zero Data Retention, gateway logging, and provider list pricing without added markup.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-06",
-    "section": "Quick Links",
     "title": "The performance cost of RwLock in a read-heavy workload",
     "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/?utm_source=tldrdev",
     "summary": "A Rust benchmark found that replacing 16,384 per-item RwLock acquisitions with one Crossbeam epoch guard and atomic pointer loads raised read throughput from 15.93k to 229.07k operations per second, while a simple lock still worked well around an infrequently changed collection.",
@@ -641,6 +629,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://vals.ai/blogs/room-temperature-magnetic-semiconductors"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-06",
+    "section": "Quick Links",
+    "title": "Introducing Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/?utm_source=tldrdev",
+    "summary": "Cloudflare's beta Web Search API lets agents search through Ceramic.ai, Exa, or Linkup via AI Gateway with Zero Data Retention, gateway logging, and provider list pricing without added markup.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api"
    }
   ],
   "infosec": [
@@ -672,18 +672,6 @@
     "newsletter": "infosec",
     "date": "2026-10-06",
     "section": "Attacks & Vulnerabilities",
-    "title": "New Dell System Update flaw lets hackers gain root privileges",
-    "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/?utm_source=tldrinfosec",
-    "summary": "A critical path traversal flaw in Dell System Update (CVE-2026-86360) allowed unauthenticated remote attackers to execute code as root on PowerEdge servers using the DSU deployment tool. Dell's advisory also addressed four other high-severity DSU vulnerabilities: two that enable remote code execution (CVE-2026-63697 and CVE-2026-71168) and two that enable privilege escalation (CVE-2026-86361 and CVE-2026-86362). None have been reported as exploited so far. Admins should upgrade to DSU 2.3.0.0 or later.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-06",
-    "section": "Attacks & Vulnerabilities",
     "title": "Roundcube Webmail SQL Injection Vulnerability CVE-2026-48842 Under Active Exploitation",
     "url": "https://beyondmachines.net/event_details/roundcube-webmail-sql-injection-vulnerability-cve-2026-48842-under-active-exploitation-o-t-j-p-f?utm_source=tldrinfosec",
     "summary": "Unauthenticated attackers are actively exploiting a pre-authentication SQL injection vulnerability in Roundcube Webmail versions 1.6.0 through 1.6.15 and 1.7.0 to execute arbitrary database commands and access sensitive data. The flaw, tracked as CVE-2026-48842, resides in the built-in virtuser_query plugin. Administrators must immediately update to versions 1.6.16 or 1.7.1, or disable the vulnerable plugin.",
@@ -691,6 +679,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://beyondmachines.net/event_details/roundcube-webmail-sql-injection-vulnerability-cve-2026-48842-under-active-exploitation-o-t-j-p-f"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-06",
+    "section": "Attacks & Vulnerabilities",
+    "title": "New Dell System Update flaw lets hackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/?utm_source=tldrinfosec",
+    "summary": "A critical path traversal flaw in Dell System Update (CVE-2026-86360) allowed unauthenticated remote attackers to execute code as root on PowerEdge servers using the DSU deployment tool. Dell's advisory also addressed four other high-severity DSU vulnerabilities: two that enable remote code execution (CVE-2026-63697 and CVE-2026-71168) and two that enable privilege escalation (CVE-2026-86361 and CVE-2026-86362). None have been reported as exploited so far. Admins should upgrade to DSU 2.3.0.0 or later.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges"
    },
    {
     "newsletter": "infosec",
@@ -708,18 +708,6 @@
     "newsletter": "infosec",
     "date": "2026-10-06",
     "section": "Strategies & Tactics",
-    "title": "A peek into Reddit's anti-spam internals",
-    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/?utm_source=tldrinfosec",
-    "summary": "A 2021 Reddit glitch exposed internal removal reasons in Relay notifications. Screenshots reveal domain blocks, account bans, shadowbans, Spamurai rules, and URL inspection. Spamurai logged account age, karma, reports, ISP, email domain, browser details, language headers, TLS fingerprints, and referrers. This reproduced a Perspective API score and showed that appending two letters changed a spam score from 86% to 1%. Reddit also followed redirected URLs, scanned page content, and matched a Google Analytics ID tied to a spam ring.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lyra.horse/blog/2026/06/reddit-spam-internals"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-06",
-    "section": "Strategies & Tactics",
     "title": "Your car is a smartphone on wheels. Here's who's listening",
     "url": "https://automatictransmission.khoury.northeastern.edu/?utm_source=tldrinfosec",
     "summary": "Northeastern researchers and Consumer Reports captured Wi-Fi traffic from 21 vehicles through a Raspberry Pi access point, decrypted 30 companion iOS apps with mitmproxy, and found that 19 vehicles contacted at least one third party, including ad and tracking domains. Seven apps sent VINs, emails, phone numbers, or precise location to trackers, and GM's four apps shared VINs with ten companies, including Meta, Google, and Acxiom. Pairing a companion app roughly doubled a vehicle's tracker exposure on average, and of 17 manufacturers contacted, most shifted responsibility to owners. One notable exception: Honda improved its data collection practices to avoid sending precise geolocation information to a third party involved in user tracking.",
@@ -727,6 +715,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://automatictransmission.khoury.northeastern.edu/"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-06",
+    "section": "Strategies & Tactics",
+    "title": "A peek into Reddit's anti-spam internals",
+    "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/?utm_source=tldrinfosec",
+    "summary": "A 2021 Reddit glitch exposed internal removal reasons in Relay notifications. Screenshots reveal domain blocks, account bans, shadowbans, Spamurai rules, and URL inspection. Spamurai logged account age, karma, reports, ISP, email domain, browser details, language headers, TLS fingerprints, and referrers. This reproduced a Perspective API score and showed that appending two letters changed a spam score from 86% to 1%. Reddit also followed redirected URLs, scanned page content, and matched a Google Analytics ID tied to a spam ring.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lyra.horse/blog/2026/06/reddit-spam-internals"
    },
    {
     "newsletter": "infosec",
@@ -1582,18 +1582,6 @@
     "newsletter": "it",
     "date": "2026-10-06",
     "section": "Quick Links",
-    "title": "Namespace raises $42M for developer infrastructure",
-    "url": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/?utm_source=tldrit",
-    "summary": "Namespace raised a $42 million Series B to expand compute infrastructure for coding agents, builds, and testing across Mac, Windows, and Linux.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-06",
-    "section": "Quick Links",
     "title": "Manage system settings with Endpoint Privilege Management",
     "url": "https://patchmypc.com/blog/intune-epm-system-settings-network-and-time-sync-elevation/?utm_source=tldrit",
     "summary": "Microsoft has documented an Elevation system settings policy for Endpoint Privilege Management in Intune that allows standard users to modify network settings without local administrator rights.",
@@ -1601,6 +1589,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://patchmypc.com/blog/intune-epm-system-settings-network-and-time-sync-elevation"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-06",
+    "section": "Quick Links",
+    "title": "Namespace raises $42M for developer infrastructure",
+    "url": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/?utm_source=tldrit",
+    "summary": "Namespace raised a $42 million Series B to expand compute infrastructure for coding agents, builds, and testing across Mac, Windows, and Linux.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud"
    }
   ]
  }

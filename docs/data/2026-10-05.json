@@ -768,18 +768,6 @@
     "newsletter": "infosec",
     "date": "2026-10-05",
     "section": "Quick Links",
-    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/?utm_source=tldrinfosec",
-    "summary": "A federal judge ruled that a Tulsa sheriff's deputy violated the Fourth Amendment by searching Flock's license plate database without a warrant, suppressing the resulting evidence in a non-binding ruling that is among the first to find a Flock search unconstitutional.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-05",
-    "section": "Quick Links",
     "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients' data",
     "url": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/?utm_source=tldrinfosec",
     "summary": "Epic paused most product work for about six weeks after testing found MyChart flaws.",
@@ -787,6 +775,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-05",
+    "section": "Quick Links",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/?utm_source=tldrinfosec",
+    "summary": "A federal judge ruled that a Tulsa sheriff's deputy violated the Fourth Amendment by searching Flock's license plate database without a warrant, suppressing the resulting evidence in a non-binding ruling that is among the first to find a Flock search unconstitutional.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance"
    },
    {
     "newsletter": "infosec",
