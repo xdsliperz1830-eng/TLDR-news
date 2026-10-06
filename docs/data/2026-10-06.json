@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-06",
+ "issues": {
+  "product": [
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "",
+    "title": "The behavioral signals you trust stopped meaning what you think",
+    "url": "https://www.fullstory.com/digital-product-benchmark-report/?utm-source=tldr&utm_source=TLDR&utm_medium=digital-sponsorship&utm_campaign=DS-2026-TLDR&utm_content=header_behavioral_signals_you&utm_term=2026-10-06&utm_offer=content-download",
+    "summary": "Your dashboard says this was a good year: error clicks down, post-error exits down. But in the same sessions, rage clicks rose 77% and suspicious activity rose roughly 10x. Fullstory's 2026 Digital Benchmark Report tracked 18.7 billion sessions across 2,600+ companies to find out which metrics actually mean what teams think they mean. See how your own numbers stack up against 11 industry benchmarks Find out if your metrics are actually improving, or just look like they are Benchmark Your Data",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://fullstory.com/digital-product-benchmark-report?utm-source=tldr"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "News & Trends",
+    "title": "The Future of Knowledge Inside the Enterprise",
+    "url": "https://philippdubach.com/posts/future-of-knowledge-inside-the-enterprise/?utm_source=tldrproduct",
+    "summary": "Enterprise knowledge management creates business value by connecting organizational experience to AI agents acting under human accountability. Establishing a context layer over existing systems extends expertise, improves efficiency, enhances verification, and strengthens continuity through a structured operating model.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://philippdubach.com/posts/future-of-knowledge-inside-the-enterprise"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "News & Trends",
+    "title": "Building is cheap. Owning it is not",
+    "url": "https://docs.base14.io/blog/role-of-product-manager/?utm_source=tldrproduct",
+    "summary": "While modern tools and AI make building software products cheaper, the cost of ownership and making strategic choices remains high. Dedicated PMs add value by focusing on business viability, ranking roadmap bets, tracking clear predictions, and acting as communication bridges and quality gatekeepers for their teams.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://docs.base14.io/blog/role-of-product-manager"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Opinions & Tutorials",
+    "title": "Before You Build, Ask Yourself: Who is Your Bullseye Customer?",
+    "url": "https://thrivinginengineering.substack.com/p/who-is-your-bullseye-customer?utm_source=tldrproduct",
+    "summary": "Early-stage product teams should define a one-sentence Bullseye Customer hypothesis before building. Specifying the target customer, trigger, and outcome surfaces hidden team disagreements and improves user research.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thrivinginengineering.substack.com/p/who-is-your-bullseye-customer"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Opinions & Tutorials",
+    "title": "Product ethics in the age of AI (13 minute podcast)",
+    "url": "https://www.romanpichler.com/podcast/product-ethics-in-the-age-of-ai?utm_source=tldrproduct",
+    "summary": "Product ethics in the age of artificial intelligence must become a core success factor alongside desirability, feasibility, and viability, rather than remaining an afterthought. This podcast episode explains how to integrate ethical considerations into the innovation process, factor them into strategy updates, and measure a product's ethical impact.",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://romanpichler.com/podcast/product-ethics-in-the-age-of-ai"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Resources & Tools",
+    "title": "A Manifesto on How a Modern Research Team Should Work",
+    "url": "https://www.thevoiceofuser.com/uxr-team-not-uxr-people-a-manifesto-on-how-a-modern-research-team-should-work/?utm_source=tldrproduct",
+    "summary": "Modern UX research teams fail when researchers work in isolation. To fix this, teams should adopt shared goals, conduct weekly peer critiques, maintain a central user research record, and enforce clear rules for study requests.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thevoiceofuser.com/uxr-team-not-uxr-people-a-manifesto-on-how-a-modern-research-team-should-work"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Resources & Tools",
+    "title": "A New Kind of AI Model: Jev and Quick Wins for PMs",
+    "url": "https://www.productcompass.pm/p/jev-decision-model?utm_source=tldrproduct",
+    "summary": "TypeSafe AI's Jev is a decision model that outputs probabilities rather than text. Operating at low cost and high speed, it supports binary questions, multiple-choice selections, and scoring.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://productcompass.pm/p/jev-decision-model"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Miscellaneous",
+    "title": "The fake double diamond is dead. The real double diamond is immortal",
+    "url": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal?utm_source=tldrproduct",
+    "summary": "The product development dichotomy between upfront definition and continuous iteration is a false choice. True innovation requires balancing upfront discovery with ongoing observation within a cohesive system. Relying on artificial shortcuts or AI-driven alignment ultimately degrades software quality and prevents teams from solving complex problems.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://productpicnic.beehiiv.com/p/the-fake-double-diamond-is-dead-the-real-double-diamond-is-immortal"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Miscellaneous",
+    "title": "Users don't hate change. They hate you",
+    "url": "https://cwodtke.medium.com/users-dont-hate-change-they-hate-you-461772fbcac7?utm_source=tldrproduct",
+    "summary": "Users do not inherently hate change - they resent updates that destroy their familiarity and control without clear benefit. Citing psychological research on loss aversion, the article explains that users weigh losses in comfort far more than potential gains, criticizing tech companies for forcing redesigns without explaining their value.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cwodtke.medium.com/users-dont-hate-change-they-hate-you-461772fbcac7"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Quick Links",
+    "title": "What I learned getting acquired by Google",
+    "url": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google?utm_source=tldrproduct",
+    "summary": "A co-founder of Socratic reflects on their startup's acquisition by Google, detailing the challenges of rebuilding their product on Google's stack while navigating reorgs, reviews, and process debt.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hraness.com/reading/what-i-learned-getting-acquired-by-google"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-06",
+    "section": "Quick Links",
+    "title": "10 things OpenAI's Tibo thinks builders are underestimating about AI",
+    "url": "https://threadreaderapp.com/thread/2107131339355181240.html?utm_source=tldrproduct",
+    "summary": "Tibo Sottiaux highlights upcoming shifts in AI, emphasizing that product teams must build for faster, cheaper, and more capable models while focusing on user understanding and taste.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2107131339355181240.html"
+   }
+  ]
+ }
+}
