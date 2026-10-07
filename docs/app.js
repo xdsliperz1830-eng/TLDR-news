@@ -2,6 +2,7 @@
 
 const DAYS_PER_PAGE = 7;
 const MAX_SEARCH_RESULTS = 300;
+const CHECK_EVERY_MS = 5 * 60 * 1000;  // how often an open page looks for new stories
 
 const store = {
   get(key, fallback) {
@@ -27,6 +28,10 @@ const state = {
   query: "",
   saved: store.get("saved", {}),   // key -> story
   read: new Set(store.get("read", [])),
+  view: store.get("view", "feed"),   // "feed" or "issues" (grouped by newsletter)
+  fingerprint: null,   // of the data currently shown, to spot updates
+  fresh: new Set(),    // keys of stories that arrived since the last visit
+  pending: null,       // update found by checkForUpdates(), waiting for a tap
 };
 
 const $ = (id) => document.getElementById(id);
@@ -99,6 +104,72 @@ function loadArchive() {
   return state.archiveLoading;
 }
 
+// --- New since your last visit -------------------------------------------
+// "seen" remembers which stories were on screen and how far back that covered.
+// A visit starts after 30+ minutes away; within a visit, reloads keep comparing
+// against the same baseline so the "New" badges don't vanish on refresh.
+const VISIT_GAP_MS = 30 * 60 * 1000;
+function markFresh(stories) {
+  const now = Date.now();
+  const lastOpen = store.get("lastOpen", 0);
+  store.set("lastOpen", now);
+  let base;
+  if (now - lastOpen < VISIT_GAP_MS) base = store.get("seenPrev", null);
+  else { base = store.get("seen", null); store.set("seenPrev", base); }
+  if (base && base.since) {
+    const prev = new Set(base.keys);
+    for (const s of stories) if (s.date >= base.since && !prev.has(keyOf(s))) state.fresh.add(keyOf(s));
+  }
+  const oldest = state.loaded.map((d) => d.date).sort()[0];
+  store.set("seen", { since: oldest, keys: stories.map(keyOf).slice(0, 5000) });
+}
+
+// --- Checking for new stories while the page is open ----------------------
+async function checkForUpdates() {
+  if (state.pending || !state.fingerprint) return;
+  let index;
+  try { index = await fetchJson("data/index.json"); } catch { return; }  // offline: try later
+  if (!index.fingerprint || index.fingerprint === state.fingerprint) return;
+  const recent = index.days.slice(0, DAYS_PER_PAGE);
+  const fetched = await Promise.all(recent.map((d) => fetchJson(`data/${d}.json`).catch(() => null)));
+  if (fetched.includes(null)) return;
+  const known = new Set(dayStories().map(keyOf));
+  const added = new Set();
+  for (const day of fetched)
+    for (const stories of Object.values(day.issues))
+      for (const s of stories) if (!known.has(keyOf(s)) && !(state.hideSponsored && s.sponsored)) added.add(keyOf(s));
+  state.pending = { index, fetched, added };
+  if (added.size) {
+    $("newbar").textContent = `${added.size} new stor${added.size === 1 ? "y" : "ies"}. Tap to show`;
+    $("newbar").hidden = false;
+  } else {
+    applyUpdate();  // only sponsored/edited stories changed: refresh quietly
+  }
+}
+
+function applyUpdate() {
+  const { index, fetched, added } = state.pending;
+  state.pending = null;
+  $("newbar").hidden = true;
+  setIndex(index);
+  const refreshed = new Set(fetched.map((d) => d.date));
+  state.loaded = [...fetched, ...state.loaded.filter((d) => !refreshed.has(d.date))]
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+  state.archive = null;
+  state.archiveLoading = null;
+  for (const k of added) state.fresh.add(k);
+  markFresh(dayStories());
+  render();
+}
+
+function setIndex(index) {
+  state.newsletters = index.newsletters;
+  state.days = index.days;
+  state.searchMonths = index.search_months || [];
+  state.fingerprint = index.fingerprint || index.updated;
+  if (index.updated) $("updated").textContent = `Updated ${new Date(index.updated).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}`;
+}
+
 // Stories from the loaded days, with repeats (same story in several newsletters) merged.
 function dayStories() {
   const byKey = new Map();
@@ -162,6 +233,7 @@ function storyHtml(s, terms, showDate) {
     s.kind && s.kind !== "sponsor" && `<span>${escapeHtml(s.kind)}</span>`,
     s.sponsored && `<span class="sp">Sponsored</span>`,
     showDate && `<span>${escapeHtml(s.date)}</span>`,
+    state.fresh.has(keyOf(s)) && `<span class="new">New</span>`,
     ...hits.map((t) => `<span class="topic">★ ${escapeHtml(t)}</span>`),
   ].filter(Boolean).join("");
   const k = keyOf(s);
@@ -194,8 +266,10 @@ function render() {
     byDay.get(s.date).push(s);
   }
   const days = [...byDay.keys()].sort().reverse();
+  const browsing = !searching && !state.savedOnly;
+  const dayBody = browsing && state.view === "issues" ? issuesHtml : feedHtml;
   $("feed").innerHTML = days
-    .map((d) => `<section class="day"><h2>${formatDay(d)}</h2>${byDay.get(d).map((s) => storyHtml(s, terms, false)).join("")}</section>`)
+    .map((d) => `<section class="day"><h2>${formatDay(d)}</h2>${dayBody(byDay.get(d), terms, browsing)}</section>`)
     .join("");
 
   const n = all.length;
@@ -204,9 +278,58 @@ function render() {
   if (state.savedOnly) status = n ? `${n} saved stor${n === 1 ? "y" : "ies"}` : "Nothing saved yet. Use ☆ Save on any story.";
   else if (searching && !state.archive) status = `Searching the last ${plural(state.loaded.length, "day")}… loading the full archive`;
   else if (searching) status = n ? `${n} match${n === 1 ? "" : "es"} across ${plural(state.days.length, "day")}${n > shown.length ? ` (showing newest ${shown.length})` : ""}` : "No stories match.";
-  else status = n ? `${n} stor${n === 1 ? "y" : "ies"} from the last ${plural(state.loaded.length, "day")}` : "No stories match.";
+  else {
+    status = n ? `${n} stor${n === 1 ? "y" : "ies"} from the last ${plural(state.loaded.length, "day")}` : "No stories match.";
+    const fresh = all.filter((s) => state.fresh.has(keyOf(s))).length;
+    if (fresh) status += ` · ${fresh} new since your last visit`;
+  }
   $("status").textContent = status;
   $("more").hidden = searching || state.savedOnly || state.loaded.length >= state.days.length;
+  updateFilterDot();
+}
+
+// Feed view: within a day, new stories first, then a line where you left off.
+function feedHtml(stories, terms, browsing) {
+  const fresh = browsing ? stories.filter((s) => state.fresh.has(keyOf(s))) : [];
+  if (!fresh.length || fresh.length === stories.length) return stories.map((s) => storyHtml(s, terms, false)).join("");
+  const rest = stories.filter((s) => !state.fresh.has(keyOf(s)));
+  return fresh.map((s) => storyHtml(s, terms, false)).join("") +
+    `<div class="caught-up"><span>You've seen everything below</span></div>` +
+    rest.map((s) => storyHtml(s, terms, false)).join("");
+}
+
+// "By newsletter" view: like the emails — newsletter, then its sections.
+function issuesHtml(stories, terms) {
+  const groups = new Map();
+  const order = Object.keys(state.newsletters);
+  for (const s of stories) {
+    const nl = (s.newsletters || [s.newsletter])[0];
+    if (!groups.has(nl)) groups.set(nl, new Map());
+    const sections = groups.get(nl);
+    const sec = s.section || "Top";
+    if (!sections.has(sec)) sections.set(sec, []);
+    sections.get(sec).push(s);
+  }
+  return [...groups.keys()]
+    .sort((a, b) => order.indexOf(a) - order.indexOf(b))
+    .map((nl) => `<div class="issue"><h3 class="issue-name">${escapeHtml(state.newsletters[nl] || nl)}</h3>` +
+      [...groups.get(nl)].map(([sec, ss]) =>
+        `<h4 class="issue-section">${escapeHtml(sec)}</h4>${ss.map((s) => storyHtml(s, terms, false)).join("")}`).join("") +
+      `</div>`)
+    .join("");
+}
+
+// On phones the filters fold away; a dot on the button shows when any are active.
+function updateFilterDot() {
+  const active = state.query.trim() || state.topicsOnly || state.savedOnly || !state.hideSponsored;
+  $("filterDot").hidden = !active;
+}
+
+function setView(view) {
+  state.view = view;
+  store.set("view", view);
+  for (const b of document.querySelectorAll(".view button")) b.setAttribute("aria-pressed", String(b.dataset.view === view));
+  render();
 }
 
 function bindEvents() {
@@ -221,6 +344,13 @@ function bindEvents() {
   $("topicsOnly").checked = state.topicsOnly;
   $("topicsOnly").addEventListener("change", (e) => { state.topicsOnly = e.target.checked; store.set("topicsOnly", state.topicsOnly); render(); });
   $("more").addEventListener("click", () => loadMoreDays());
+  $("newbar").addEventListener("click", () => { applyUpdate(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+  $("filterBtn").addEventListener("click", () => {
+    const open = $("filters").classList.toggle("open");
+    $("filterBtn").setAttribute("aria-expanded", String(open));
+  });
+  for (const b of document.querySelectorAll(".view button")) b.addEventListener("click", () => setView(b.dataset.view));
+  for (const b of document.querySelectorAll(".view button")) b.setAttribute("aria-pressed", String(b.dataset.view === state.view));
 
   $("topics").value = state.topics.join(", ");
   $("topics").addEventListener("change", (e) => {
@@ -265,19 +395,27 @@ async function init() {
   setTopics(state.topics);
   bindEvents();
   try {
-    const index = await fetchJson("data/index.json");
-    state.newsletters = index.newsletters;
-    state.days = index.days;
-    state.searchMonths = index.search_months || [];
-    if (index.updated) $("updated").textContent = `Updated ${new Date(index.updated).toLocaleString()}`;
+    setIndex(await fetchJson("data/index.json"));
     if (!state.days.length) {
       $("status").textContent = "No issues fetched yet. Run the scraper (see README).";
       return;
     }
     await loadMoreDays();
+    markFresh(dayStories());
+    render();
   } catch (err) {
-    $("status").textContent = `Could not load data: ${err.message}`;
+    $("status").textContent = navigator.onLine === false
+      ? "You're offline and this page hasn't been saved for offline reading yet."
+      : `Could not load data: ${err.message}`;
+    return;
   }
+  setInterval(checkForUpdates, CHECK_EVERY_MS);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) checkForUpdates(); });
+}
+
+// Installable app + offline reading (see sw.js).
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
 }
 
 init();

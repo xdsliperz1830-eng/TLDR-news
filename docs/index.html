@@ -2,8 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>TLDR Reader</title>
+  <meta name="description" content="TLDR newsletters as one filterable news feed.">
+  <meta name="theme-color" content="#f7f7f5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="TLDR">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,23 +20,34 @@
       <div class="brand">
         <h1>TLDR Reader</h1>
         <span id="updated" class="muted"></span>
-      </div>
-      <div class="controls">
-        <input id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
-        <div class="toggles">
-          <label><input type="checkbox" id="hideSponsored" checked> Hide sponsored</label>
-          <label><input type="checkbox" id="topicsOnly"> My topics only</label>
-          <label><input type="checkbox" id="savedOnly"> Saved only</label>
+        <div class="brand-actions">
+          <div class="view" role="group" aria-label="Layout">
+            <button type="button" data-view="feed" aria-pressed="true">Feed</button>
+            <button type="button" data-view="issues" aria-pressed="false">By newsletter</button>
+          </div>
+          <button type="button" id="filterBtn" class="filter-btn" aria-expanded="false" aria-controls="filters">Filters<span id="filterDot" class="dot" hidden></span></button>
         </div>
       </div>
-      <label class="topics">
-        <span>My topics</span>
-        <input id="topics" type="text" placeholder="e.g. Apple, Rust, security, OpenAI" autocomplete="off"
-               title="Comma-separated. Matching stories get a ★ badge.">
-      </label>
+      <div id="filters" class="filters">
+        <div class="controls">
+          <input id="search" type="search" placeholder="Search headlines and summaries…" autocomplete="off">
+          <div class="toggles">
+            <label><input type="checkbox" id="hideSponsored" checked> Hide sponsored</label>
+            <label><input type="checkbox" id="topicsOnly"> My topics only</label>
+            <label><input type="checkbox" id="savedOnly"> Saved only</label>
+          </div>
+        </div>
+        <label class="topics">
+          <span>My topics</span>
+          <input id="topics" type="text" placeholder="e.g. Apple, Rust, security, OpenAI" autocomplete="off"
+                 title="Comma-separated. Matching stories get a ★ badge.">
+        </label>
+      </div>
       <nav id="chips" class="chips" aria-label="Newsletters"></nav>
     </div>
   </header>
+
+  <button type="button" id="newbar" class="newbar" hidden></button>
 
   <main class="wrap">
     <p id="status" class="muted">Loading…</p>

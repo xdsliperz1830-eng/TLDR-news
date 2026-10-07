@@ -255,6 +255,9 @@ def main() -> None:
         if len(list(DATA_DIR.glob("????-??-??.json"))) < 7:
             days = max(days, 30)
         today = dt.date.today()
+        # Always reach back to the last weekday so the health check below covers it
+        # (on a Monday that's Friday). Already-saved older days are skipped, so this is cheap.
+        days = max(days, (today - last_weekday_before(today)).days + 1)
         dates = [(today - dt.timedelta(days=i)).isoformat() for i in range(days)]
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
@@ -280,7 +283,7 @@ def main() -> None:
 
     # Health check: TLDR publishes every weekday, so the last weekday should have issues.
     expected = last_weekday_before(dt.date.today()).isoformat()
-    if not args.date and expected in dates and expected not in saved:
+    if not args.date and expected not in saved:
         problems.append(f"no issues found for {expected}, a weekday")
     if problems:
         print("\nPROBLEMS:", *problems, sep="\n  ", file=sys.stderr)

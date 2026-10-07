@@ -8,6 +8,14 @@ from their public web archive and shows them as one filterable news feed.
 - **My topics:** list words you care about (e.g. `Apple, Rust, security`); matching stories get a ★ badge,
   and *My topics only* shows just those.
 - Stories that appear in several newsletters are shown once, labelled with each newsletter.
+- **New since your last visit:** new stories get a *New* badge and sit above a
+  "You've seen everything below" line. (A new visit starts after 30+ minutes away.)
+- **Live updates:** an open page checks for new stories every 5 minutes and shows a
+  "N new stories" button.
+- **By newsletter** view groups each day like the emails: newsletter, then section.
+- **Install it as an app:** on iPhone, Share → *Add to Home Screen*; on Android/Chrome,
+  menu → *Install app*. Pages you've opened are readable offline.
+- On phones the search and filters fold behind a **Filters** button.
 - **Hide sponsored** stories (on by default).
 - **Save** stories for later and see them with *Saved only*. Stories you've opened are dimmed.
 
@@ -20,7 +28,7 @@ scraper/scrape.py        fetches https://tldr.tech/<newsletter>/<date>, parses t
 docs/data/<date>.json    one file per day, all newsletters combined
 docs/data/index.json     list of available days
 docs/data/search/        every story, de-duplicated, one file per month (used by search)
-docs/                    the static website (index.html, app.js, style.css)
+docs/                    the static website (index.html, app.js, style.css, sw.js for offline/app install)
 .github/workflows/       runs the scraper every 30 min; commits + redeploys only when there are new stories
 ```
 

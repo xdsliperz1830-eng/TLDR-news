@@ -9,6 +9,7 @@
   --sponsor: #b26b00;
   --topic: #0f7a4a;
   --topic-soft: #e3f5ec;
+  --new: #c2410c;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -22,6 +23,7 @@
     --sponsor: #e0a040;
     --topic: #5fd39a;
     --topic-soft: #173a2a;
+    --new: #fb923c;
   }
 }
 
@@ -42,6 +44,17 @@ body {
   padding: 12px 0 8px;
 }
 .brand { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.brand-actions { margin-left: auto; display: flex; gap: 8px; align-items: center; }
+.view { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.view button, .filter-btn {
+  border: none; background: var(--card); color: var(--muted);
+  font: inherit; font-size: 0.8rem; padding: 5px 10px; cursor: pointer;
+}
+.view button + button { border-left: 1px solid var(--border); }
+.view button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.filter-btn { display: none; border: 1px solid var(--border); border-radius: 8px; position: relative; }
+.filter-btn[aria-expanded="true"] { color: var(--accent); border-color: var(--accent); }
+.dot { position: absolute; top: 3px; right: 3px; width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
 h1 { font-size: 1.3rem; margin: 0; }
 .controls { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 10px 0 8px; }
 #search, #topics {
@@ -112,3 +125,26 @@ mark.t { background: var(--topic-soft); color: var(--topic); font-weight: 600; }
   font: inherit; cursor: pointer;
 }
 .more[hidden] { display: none; }
+
+.meta .new { color: var(--new); font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+.caught-up { display: flex; align-items: center; gap: 10px; margin: 16px 0; color: var(--muted); font-size: 0.8rem; }
+.caught-up::before, .caught-up::after { content: ""; flex: 1; border-top: 1px dashed var(--border); }
+
+.newbar {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(20px + env(safe-area-inset-bottom));
+  z-index: 3; border: none; border-radius: 999px; padding: 10px 18px;
+  background: var(--accent); color: #fff; font: inherit; font-size: 0.9rem; font-weight: 600;
+  box-shadow: 0 4px 16px rgb(0 0 0 / 0.2); cursor: pointer; max-width: calc(100% - 32px);
+}
+.newbar[hidden] { display: none; }
+
+.issue-name { font-size: 0.95rem; margin: 18px 0 2px; color: var(--accent); }
+.issue-section { font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin: 10px 0 6px; }
+
+/* Phones: fold the filters behind a button so stories get the screen. */
+@media (max-width: 640px) {
+  .filter-btn { display: inline-block; }
+  .filters { display: none; }
+  .filters.open { display: block; }
+  .top { padding-top: calc(10px + env(safe-area-inset-top)); }
+}
