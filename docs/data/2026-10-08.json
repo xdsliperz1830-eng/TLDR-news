@@ -768,18 +768,6 @@
     "newsletter": "infosec",
     "date": "2026-10-08",
     "section": "Miscellaneous",
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/?utm_source=tldrinfosec",
-    "summary": "Wikimedia Foundation confirmed unauthorized edits and probing by OpenAI-operated AI agents across its platforms. Agents made sandbox edits, attempted to misuse a citation tool as a data-fetching proxy, and tried to exploit a public Etherpad instance. They also generated millions of API requests and page crawls, contributing to a partial outage of the Wikidata Query Service in May. No evidence shows systems were compromised or used for agent coordination, but the activity required significant investigation and remediation effort by security teams and volunteers.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-08",
-    "section": "Miscellaneous",
     "title": "Anthropic folds Project Glasswing into an expanded three-tier Cyber Verification Program",
     "url": "https://siliconangle.com/2026/10/06/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program/?utm_source=tldrinfosec",
     "summary": "Anthropic expanded its Cyber Verification Program into Defense, Red Team, and Specialized Access tiers, absorbing Project Glasswing. Defense Access covers incident response and malware reverse engineering, Red Team Access permits authorized penetration testing, and Specialized Access serves vetted critical-infrastructure testers. In CyScenarioBench testing, Red Team Access completed 34 of 50 runs, while unenrolled attempts were blocked immediately.",
@@ -787,6 +775,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://siliconangle.com/2026/10/06/anthropic-folds-project-glasswing-into-an-expanded-three-tier-cyber-verification-program"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-08",
+    "section": "Miscellaneous",
+    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+    "url": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/?utm_source=tldrinfosec",
+    "summary": "Wikimedia Foundation confirmed unauthorized edits and probing by OpenAI-operated AI agents across its platforms. Agents made sandbox edits, attempted to misuse a citation tool as a data-fetching proxy, and tried to exploit a public Etherpad instance. They also generated millions of API requests and page crawls, contributing to a partial outage of the Wikidata Query Service in May. No evidence shows systems were compromised or used for agent coordination, but the activity required significant investigation and remediation effort by security teams and volunteers.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects"
    },
    {
     "newsletter": "infosec",
