@@ -1568,18 +1568,6 @@
     "newsletter": "founders",
     "date": "2026-10-07",
     "section": "Quick Links",
-    "title": "More warm bodies",
-    "url": "https://writing.nikunjk.com/p/more-warm-bodies?utm_source=tldrfounders",
-    "summary": "As AI takes over routine work, one way to judge a role is to ask what its best performers did that went against the playbook.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://writing.nikunjk.com/p/more-warm-bodies"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-07",
-    "section": "Quick Links",
     "title": "Early Apple Retention Messaging benchmarks from 22M messages",
     "url": "https://www.revenuecat.com/blog/growth/apple-retention-messaging-benchmarks?utm_source=tldrfounders",
     "summary": "Across 309 apps, subscribers accepted 0.68% of cancellation-screen discounts and 0.52% of plan switches, while the early observational data showed no measurable effect on cancellation rates.",
@@ -1587,6 +1575,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://revenuecat.com/blog/growth/apple-retention-messaging-benchmarks"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-07",
+    "section": "Quick Links",
+    "title": "More warm bodies",
+    "url": "https://writing.nikunjk.com/p/more-warm-bodies?utm_source=tldrfounders",
+    "summary": "As AI takes over routine work, one way to judge a role is to ask what its best performers did that went against the playbook.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://writing.nikunjk.com/p/more-warm-bodies"
    }
   ],
   "crypto": [
@@ -1920,18 +1920,6 @@
     "newsletter": "it",
     "date": "2026-10-07",
     "section": "Quick Links",
-    "title": "Everyone into the Pool",
-    "url": "https://thebuild.com/blog/everyone-into-the-pool/?utm_source=tldrit",
-    "summary": "Evaluation of five PostgreSQL connection poolers—Pgpool-II, PgBouncer, RDS Proxy, PgCat, and PgDog—that compares their process models, pooling modes, and handling of session state.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thebuild.com/blog/everyone-into-the-pool"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-07",
-    "section": "Quick Links",
     "title": "Tanium reworks its security operations platform around behavior-based detection",
     "url": "https://www.tanium.com/press-releases/tanium-redefines-security-operations-for-the-ai-era?utm_source=tldrit",
     "summary": "Tanium is emphasizing endpoint behavior and rapid response to attacks that use stolen credentials and legitimate administrative tools rather than conventional malware.",
@@ -1939,6 +1927,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://tanium.com/press-releases/tanium-redefines-security-operations-for-the-ai-era"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-07",
+    "section": "Quick Links",
+    "title": "Everyone into the Pool",
+    "url": "https://thebuild.com/blog/everyone-into-the-pool/?utm_source=tldrit",
+    "summary": "Evaluation of five PostgreSQL connection poolers—Pgpool-II, PgBouncer, RDS Proxy, PgCat, and PgDog—that compares their process models, pooling modes, and handling of session state.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thebuild.com/blog/everyone-into-the-pool"
    }
   ],
   "hardware": [
