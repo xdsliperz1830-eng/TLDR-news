@@ -610,18 +610,6 @@
     "newsletter": "webdev",
     "date": "2026-10-08",
     "section": "Quick Links",
-    "title": "REA",
-    "url": "https://github.com/morluto/rea?utm_source=tldrdev",
-    "summary": "REA connects coding agents to local tools for reverse engineering websites, JavaScript and Electron apps, .NET assemblies, and native binaries.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/morluto/rea"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-08",
-    "section": "Quick Links",
     "title": "A Visual Notation for React's Parent and Owner Trees",
     "url": "https://julesblom.com/writing/react-visual-notation?utm_source=tldrdev",
     "summary": "This visual notation distinguishes React's parent and owner trees so component structure and creation relationships can be read as diagrams instead of inferred from scattered code.",
@@ -641,6 +629,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/ai/size-limit"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-08",
+    "section": "Quick Links",
+    "title": "REA",
+    "url": "https://github.com/morluto/rea?utm_source=tldrdev",
+    "summary": "REA connects coding agents to local tools for reverse engineering websites, JavaScript and Electron apps, .NET assemblies, and native binaries.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/morluto/rea"
    }
   ],
   "infosec": [
@@ -1412,18 +1412,6 @@
     "newsletter": "crypto",
     "date": "2026-10-08",
     "section": "Markets & Business",
-    "title": "Abstract is Winding Down",
-    "url": "https://x.com/AbstractChain/status/2107554632675340420?utm_source=tldrcrypto",
-    "summary": "Abstract, a consumer-focused Ethereum Layer 2 chain, is shutting down on December 15 after nearly three years of operation. Despite onboarding over 400,000 users, deploying 144 apps, and securing partnerships with brands including Red Bull Racing and Disney, the team cited a restricted DeFi ecosystem, thin liquidity, minimal institutional crossover, and budget constraints against better-funded competitors as reasons the chain became unsustainable as a standalone model. Abstract Global Wallet, described as the most adopted smart contract wallet in crypto, and the Portal onchain discovery product were standout achievements that could not offset these structural pressures. Users must bridge assets via migrate.abs.xyz or the native bridge before December 15 to avoid losing access to their funds.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/AbstractChain/status/2107554632675340420"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-08",
-    "section": "Markets & Business",
     "title": "Grayscale says the crypto ETF market is entering a new phase",
     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953?utm_source=tldrcrypto",
     "summary": "SEC's generic listing standards now cover about 15 tokens, giving issuers more room to be selective beyond bitcoin and ether. Grayscale's Zcash ETF gathered over $1 billion in its first 30 trading days, putting it in the top 1% of ETF launches over the past decade. Grayscale also filed last week to tokenize two covered-call funds (bitcoin and ether) under the SEC's innovation exemption.",
@@ -1431,6 +1419,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-08",
+    "section": "Markets & Business",
+    "title": "Abstract is Winding Down",
+    "url": "https://x.com/AbstractChain/status/2107554632675340420?utm_source=tldrcrypto",
+    "summary": "Abstract, a consumer-focused Ethereum Layer 2 chain, is shutting down on December 15 after nearly three years of operation. Despite onboarding over 400,000 users, deploying 144 apps, and securing partnerships with brands including Red Bull Racing and Disney, the team cited a restricted DeFi ecosystem, thin liquidity, minimal institutional crossover, and budget constraints against better-funded competitors as reasons the chain became unsustainable as a standalone model. Abstract Global Wallet, described as the most adopted smart contract wallet in crypto, and the Portal onchain discovery product were standout achievements that could not offset these structural pressures. Users must bridge assets via migrate.abs.xyz or the native bridge before December 15 to avoid losing access to their funds.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/AbstractChain/status/2107554632675340420"
    },
    {
     "newsletter": "crypto",
@@ -1764,18 +1764,6 @@
     "newsletter": "it",
     "date": "2026-10-08",
     "section": "Analysis & Opinions",
-    "title": "Will agents have network effects?",
-    "url": "https://andrewchen.substack.com/p/will-agents-have-network-effects?utm_source=tldrit",
-    "summary": "General-purpose AI agents could develop strong network effects by turning user-created content into viral objects and centralizing identity, trust, and reputation. This could produce winner-take-all platforms, while open and modular network layers may keep the market fragmented across interoperable tools.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://andrewchen.substack.com/p/will-agents-have-network-effects"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-08",
-    "section": "Analysis & Opinions",
     "title": "Should open-source projects ban AI contributions?",
     "url": "https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141?utm_source=tldrit",
     "summary": "System76's COSMIC desktop now prohibits AI-generated code, comments, and contribution descriptions, while a GNOME developer argues that projects must accept AI-assisted vulnerability reports. The debate highlights the difficulty of drawing a durable boundary between AI-assisted bug discovery, triage, and fixes.",
@@ -1795,6 +1783,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://gradientflow.substack.com/p/the-part-of-the-ai-security-story"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-08",
+    "section": "Analysis & Opinions",
+    "title": "Will agents have network effects?",
+    "url": "https://andrewchen.substack.com/p/will-agents-have-network-effects?utm_source=tldrit",
+    "summary": "General-purpose AI agents could develop strong network effects by turning user-created content into viral objects and centralizing identity, trust, and reputation. This could produce winner-take-all platforms, while open and modular network layers may keep the market fragmented across interoperable tools.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://andrewchen.substack.com/p/will-agents-have-network-effects"
    },
    {
     "newsletter": "it",
