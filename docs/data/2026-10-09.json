@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-10-09",
     "section": "Big Tech & Startups",
-    "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
-    "url": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
-    "summary": "SpaceX will pay investment firm Grain Management about $8 billion in cash for US cellular spectrum licenses. The licenses will be for the 800-megahertz band, which is tailored for wireless service from cellphone towers rather than satellites. SpaceX says the new spectrum will help cover places satellite links can't reach. SpaceX still needs some terrestrial infrastructure to use the spectrum for mobile coverage.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&reflink=desktopwebshare_permalink"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-09",
-    "section": "Big Tech & Startups",
     "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October",
     "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTk4OSwiZXhwIjoxNzkyMTIwNzg5LCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.CEWGhV2fQozYdZYJ8pr7ny3YmkLOw3vjyZGM3FSYgf0&utm_source=tldrnewsletter",
     "summary": "Apple plans to introduce a touch-screen MacBook and a new iPad mini on or around October 27. The launch will include an online video presentation and an in-person component for the press. Apple will also hold an event next week to introduce its first smart home hub with a display, a new HomePod mini, and an updated Apple TV set-top box. It plans to introduce a home ecosystem that will include accessories from LG and Schneider Electric.",
@@ -37,6 +25,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-09",
+    "section": "Big Tech & Startups",
+    "title": "SpaceX Makes Big Play to Become a Wireless Carrier",
+    "url": "https://www.wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+    "summary": "SpaceX will pay investment firm Grain Management about $8 billion in cash for US cellular spectrum licenses. The licenses will be for the 800-megahertz band, which is tailored for wireless service from cellphone towers rather than satellites. SpaceX says the new spectrum will help cover places satellite links can't reach. SpaceX still needs some terrestrial infrastructure to use the spectrum for mobile coverage.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wsj.com/business/telecom/spacex-makes-big-play-to-become-a-wireless-carrier-a90b2a1b?st=JfGrmW&reflink=desktopwebshare_permalink"
    },
    {
     "newsletter": "tech",
@@ -634,18 +634,6 @@
     "newsletter": "webdev",
     "date": "2026-10-09",
     "section": "Quick Links",
-    "title": "video-shotcraft",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft?utm_source=tldrdev",
-    "summary": "video-shotcraft turns coding agents into a Remotion-based motion studio with 157 shot recipes, 214 motion previews, editable templates, sound design guidance, and a browser workbench.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/Vincentwei1021/video-shotcraft"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-09",
-    "section": "Quick Links",
     "title": "The Bug Only My Screen Could See",
     "url": "https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see?utm_source=tldrdev",
     "summary": "A display-only flicker that browser captures could not reproduce was traced to full-width tile repaints, then reduced from 267 page-tile repaints to 9 by promoting only the changing timeline elements to their own composited layers.",
@@ -653,6 +641,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://raminmousavi.dev/blog/the-bug-only-my-screen-could-see"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-09",
+    "section": "Quick Links",
+    "title": "video-shotcraft",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft?utm_source=tldrdev",
+    "summary": "video-shotcraft turns coding agents into a Remotion-based motion studio with 157 shot recipes, 214 motion previews, editable templates, sound design guidance, and a browser workbench.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/Vincentwei1021/video-shotcraft"
    }
   ],
   "infosec": [
@@ -708,18 +708,6 @@
     "newsletter": "infosec",
     "date": "2026-10-09",
     "section": "Strategies & Tactics",
-    "title": "Of course it escapes: how ZeroQuarry contains security agents",
-    "url": "https://zeroquarry.com/research/agent-containment/?utm_source=tldrinfosec",
-    "summary": "ZeroQuarry's AI pentesting agents use four layers that never depend on the model's cooperation: outbound-only workers with no listener, a locked-down container, tools that enforce scope, SSRF, and rate limits in code, and rules appended to every task by code. The vendor argues that this year's sandbox escapes, including the OpenAI and Hugging Face incident involving at least 1,200 agents, stemmed from harnesses built to maximize capability, and it self-reports zero escapes across thousands of scans. Teams building agent harnesses should give agents a sanctioned, metered tool for each risky action, such as a one-way out-of-band callback collector, so agents don't improvise their own.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://zeroquarry.com/research/agent-containment"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-09",
-    "section": "Strategies & Tactics",
     "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware",
     "url": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/?utm_source=tldrinfosec",
     "summary": "Malware authors are embedding plaintext instructions for AI analysis tools, ranging from a two-line comment claiming a PowerShell reverse shell is harmless to \"template spraying\" that repeats a refusal demand across seven LLM chat formats. Cisco Talos tested strings from seven families against five local LLMs and found that a simple, direct instruction steered verdicts toward benign in about 35% of runs, while template spraying and fabricated legal or government claims had little effect or backfired. Defenders should build analysis prompts that treat any text inside a sample as evidence rather than as an instruction, and should flag language addressed to an analyzer as a detection signal.",
@@ -727,6 +715,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-09",
+    "section": "Strategies & Tactics",
+    "title": "Of course it escapes: how ZeroQuarry contains security agents",
+    "url": "https://zeroquarry.com/research/agent-containment/?utm_source=tldrinfosec",
+    "summary": "ZeroQuarry's AI pentesting agents use four layers that never depend on the model's cooperation: outbound-only workers with no listener, a locked-down container, tools that enforce scope, SSRF, and rate limits in code, and rules appended to every task by code. The vendor argues that this year's sandbox escapes, including the OpenAI and Hugging Face incident involving at least 1,200 agents, stemmed from harnesses built to maximize capability, and it self-reports zero escapes across thousands of scans. Teams building agent harnesses should give agents a sanctioned, metered tool for each risky action, such as a one-way out-of-band callback collector, so agents don't improvise their own.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://zeroquarry.com/research/agent-containment"
    },
    {
     "newsletter": "infosec",
@@ -792,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-10-09",
     "section": "Miscellaneous",
-    "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
-    "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/?utm_source=tldrinfosec",
-    "summary": "Former CIA officer David J. Rush pleaded guilty to wire fraud for running a fabricated special access program and defrauding the government of about $194 million. He used his authority to approve spending without oversight, tricking a defense contractor into buying gold that he kept. Agents found $46 million in gold bars, plus cash, cars, and watches, at his home. Rush faces up to 20 years and is scheduled to be sentenced in late January.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-09",
-    "section": "Miscellaneous",
     "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
     "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/?utm_source=tldrinfosec",
     "summary": "A cyberattack on Oracle Health's legacy Cerner servers around February 20, 2025, exposed the personal and medical data of nearly 20 million people. The attacker used stolen customer credentials to access an old server not yet migrated to Oracle Cloud, copied data, and then demanded millions in cryptocurrency from hospitals while running public sites to pressure victims.",
@@ -811,6 +799,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-09",
+    "section": "Miscellaneous",
+    "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
+    "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/?utm_source=tldrinfosec",
+    "summary": "Former CIA officer David J. Rush pleaded guilty to wire fraud for running a fabricated special access program and defrauding the government of about $194 million. He used his authority to approve spending without oversight, tricking a defense contractor into buying gold that he kept. Agents found $46 million in gold bars, plus cash, cars, and watches, at his home. Rush faces up to 20 years and is scheduled to be sentenced in late January.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars"
    },
    {
     "newsletter": "infosec",
@@ -1132,18 +1132,6 @@
     "newsletter": "product",
     "date": "2026-10-09",
     "section": "Miscellaneous",
-    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours",
-    "url": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours?utm_source=tldrproduct",
-    "summary": "Spotify Technology is a unified suite of developer and media tools including Portal, Confidence, Xirp, and Spotify for Backstage. Tested across Spotify's internal engineering teams to cover the entire development lifecycle, the offering aims to help external R&D organizations balance team autonomy with architectural alignment.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours"
-   },
-   {
-    "newsletter": "product",
-    "date": "2026-10-09",
-    "section": "Miscellaneous",
     "title": "How Snyk turned an internal support agent into a customer feature",
     "url": "https://www.langchain.com/blog/how-snyk-turned-an-internal-support-agent-into-a-customer-feature?utm_source=tldrproduct",
     "summary": "Snyk turned its internal AI support agent, Snyk Assist, into a customer-facing feature. The agent answers user queries within permission boundaries, utilizing offline and online evaluations. Since launch, it has resolved over 85% of support sessions without needing a ticket.",
@@ -1167,6 +1155,18 @@
    {
     "newsletter": "product",
     "date": "2026-10-09",
+    "section": "Miscellaneous",
+    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours",
+    "url": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours?utm_source=tldrproduct",
+    "summary": "Spotify Technology is a unified suite of developer and media tools including Portal, Confidence, Xirp, and Spotify for Backstage. Tested across Spotify's internal engineering teams to cover the entire development lifecycle, the offering aims to help external R&D organizations balance team autonomy with architectural alignment.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-09",
     "section": "Quick Links",
     "title": "Earn your MBA 100% online from The Ohio State University",
     "url": "https://online.osu.edu/masters-degree/master-business-administration-working-professionals/?lead_source=Response-Solutions&utm_campaign=oaa_oso_wpmba-student-recruitment_fy27_tldr_product&channel=Other-Paid&utm_source=3rd-Party-Display&utm_medium=ENewsletter",
@@ -1180,18 +1180,6 @@
     "newsletter": "product",
     "date": "2026-10-09",
     "section": "Quick Links",
-    "title": "The most common reasons why AI pilots fail, even at the 'best' companies",
-    "url": "https://threadreaderapp.com/thread/2107530654741348354.html?utm_source=tldrproduct",
-    "summary": "This thread outlines thirteen common pitfalls that cause enterprise AI pilots to fail, such as automating isolated steps instead of full workflows, lacking baseline metrics, ignoring edge cases, and failing to engage legal and security teams early.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2107530654741348354.html"
-   },
-   {
-    "newsletter": "product",
-    "date": "2026-10-09",
-    "section": "Quick Links",
     "title": "What happens when AI agents shop for us",
     "url": "https://flaviocopes.com/agent-checkout/?utm_source=tldrproduct",
     "summary": "As AI shopping agents use wallets to browse catalogs and complete checkouts automatically, online merchants risk losing direct customer contact, while users must retain final purchase approval to prevent accidental transactions.",
@@ -1199,6 +1187,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://flaviocopes.com/agent-checkout"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-09",
+    "section": "Quick Links",
+    "title": "The most common reasons why AI pilots fail, even at the 'best' companies",
+    "url": "https://threadreaderapp.com/thread/2107530654741348354.html?utm_source=tldrproduct",
+    "summary": "This thread outlines thirteen common pitfalls that cause enterprise AI pilots to fail, such as automating isolated steps instead of full workflows, lacking baseline metrics, ignoring edge cases, and failing to engage legal and security teams early.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2107530654741348354.html"
    }
   ],
   "design": [
@@ -1388,18 +1388,6 @@
     "newsletter": "marketing",
     "date": "2026-10-09",
     "section": "Strategies & Tactics",
-    "title": "6 steps to building fast landing pages",
-    "url": "https://www.linkedin.com/posts/ashleylewin_somewhere-right-now-paid-traffic-is-landing-share-7513616385541910528-TtYe/?utm_source=tldrmarketing",
-    "summary": "Instead of waiting weeks for overloaded web teams to build campaign pages, build lean landing pages in Claude Code and get them into market quickly. Start with a clear conversion problem, then write a 7-line brief and give AI a reusable context file covering brand voice, product details, customer language, and design rules. Ship at 70-80% polish while validating high-risk copy. Have stakeholders review a live preview, then hand off the approved page as a launch-ready bundle. If it performs, the web team rebuilds it properly.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/posts/ashleylewin_somewhere-right-now-paid-traffic-is-landing-share-7513616385541910528-TtYe"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-09",
-    "section": "Strategies & Tactics",
     "title": "5 Things Content Marketers & SEOs Should Stop Doing in 2026",
     "url": "https://www.kaleighmoore.com/blog/2026/10/7/content-marketing-for-aeo?utm_source=tldrmarketing",
     "summary": "Zero-click search has made five common content habits counterproductive. Building pages around keywords misses how people now query, since the average ChatGPT prompt runs 23 words. Grading content on traffic ignores that the top-ranked page loses 58% of its CTR under an AI Overview. Publishing more matters less than maintaining what exists, as 75% of AI-cited pages were updated in the past year. The last two are relying on owned channels, when 85% of AI brand mentions come from third parties, and publishing generic guides with no original data.",
@@ -1419,6 +1407,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://vermilioncliffs.substack.com/p/the-reason-to-be-on-reddit-isnt-for"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-09",
+    "section": "Strategies & Tactics",
+    "title": "6 steps to building fast landing pages",
+    "url": "https://www.linkedin.com/posts/ashleylewin_somewhere-right-now-paid-traffic-is-landing-share-7513616385541910528-TtYe/?utm_source=tldrmarketing",
+    "summary": "Instead of waiting weeks for overloaded web teams to build campaign pages, build lean landing pages in Claude Code and get them into market quickly. Start with a clear conversion problem, then write a 7-line brief and give AI a reusable context file covering brand voice, product details, customer language, and design rules. Ship at 70-80% polish while validating high-risk copy. Have stakeholders review a live preview, then hand off the approved page as a launch-ready bundle. If it performs, the web team rebuilds it properly.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/posts/ashleylewin_somewhere-right-now-paid-traffic-is-landing-share-7513616385541910528-TtYe"
    },
    {
     "newsletter": "marketing",
@@ -1716,18 +1716,6 @@
     "newsletter": "crypto",
     "date": "2026-10-09",
     "section": "Markets & Business",
-    "title": "Standard Chartered to expand crypto custody services in Singapore",
-    "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017?utm_source=tldrcrypto",
-    "summary": "Standard Chartered's Singapore unit plans to offer institutional custody for selected crypto assets, stablecoins, and tokenized real-world assets by the end of the year, subject to regulatory requirements. It extends the bank's existing custody footprint in the UAE, Luxembourg, and Hong Kong, and follows its move to bring Zodia Custody, the institutional custodian it incubated with Northern Trust, in-house.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-09",
-    "section": "Markets & Business",
     "title": "Justin Drake Calls for Crypto \"Bunker Mode\" as AI Threatens ECDSA",
     "url": "https://threadreaderapp.com/thread/2107837081313505768.html?utm_source=tldrcrypto",
     "summary": "Ethereum researcher Justin Drake issued a call for \"bunker mode,\" urging crypto holders to migrate assets to fresh addresses whose public keys remain hidden behind a hash before a potential ECDSA break. AI-driven mathematical progress, including OpenAI's recent mathematical superintelligence release and a series of proofs disproving long-held conjectures, may enable fast private key recovery on GPU clusters within months. Elliptic curves carry rich algebraic structure exploitable through AI-discovered techniques, and the absence of cryptographic breakthroughs among OpenAI's 722 published mathematical results raises the possibility of government-suppressed cryptanalysis. The Ethereum roadmap already targets hash-based cryptography with end-to-end formal verification, and Drake is pushing to accelerate those timelines, while advising oracles and L2 security councils to rotate ECDSA pubkeys with every signed message.",
@@ -1735,6 +1723,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2107837081313505768.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-09",
+    "section": "Markets & Business",
+    "title": "Standard Chartered to expand crypto custody services in Singapore",
+    "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017?utm_source=tldrcrypto",
+    "summary": "Standard Chartered's Singapore unit plans to offer institutional custody for selected crypto assets, stablecoins, and tokenized real-world assets by the end of the year, subject to regulatory requirements. It extends the bank's existing custody footprint in the UAE, Luxembourg, and Hong Kong, and follows its move to bring Zodia Custody, the institutional custodian it incubated with Northern Trust, in-house.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017"
    },
    {
     "newsletter": "crypto",
@@ -1764,18 +1764,6 @@
     "newsletter": "crypto",
     "date": "2026-10-09",
     "section": "Guides & Resources",
-    "title": "Vitalik on AI-Accelerated Cryptography: Hash-Based Over Lattices",
-    "url": "https://threadreaderapp.com/thread/2107976296320106851.html?utm_source=tldrcrypto",
-    "summary": "Vitalik Buterin warns that AI-accelerated mathematical research may erode the security of lattice-based cryptography (ML-DSA, LWE, and FHE) through the same mechanism that GNFS degraded RSA, where decades of optimization shrunk effective key strength by an order of magnitude, and projects that AI could compress 50 years of math progress into two years. Ethereum's lean roadmap has already pivoted to hash-only signatures (WOTS and SPHINCS+), dropping lattices, ML-DSA, Falcon, and lattice-based commitments from ZK proofs. Public-key encryption cannot be constructed from hashes alone due to long-standing mathematical constraints, which means secure messaging, VPNs, and anonymizing protocols face an open problem that extends well beyond blockchains. Buterin's practical recommendations include keeping funds in addresses that have not yet broadcast transactions, moving multisig confirmations offchain to avoid exposing signer public keys, and routing encrypted notes through offchain channels rather than publishing them onchain.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2107976296320106851.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-09",
-    "section": "Guides & Resources",
     "title": "The Agentic Finance Landscape Report: Q3 2026 Edition",
     "url": "https://x.com/CambrianNetwork/status/2107505199686332736?utm_source=tldrcrypto",
     "summary": "Robinhood, eToro, Webull, and Coinbase all launched agentic trading accounts in Q3 2026, with Robinhood reporting 100K+ users and Coinbase securing the first SEC registration for an agentic investment adviser. x402 processed 232M transactions totaling $54M in volume, ERC-8004 agent registrations doubled quarter-over-quarter to 500K across 22 networks, and distributed RWA value reached $38.6B in Q3. Twenty-one major banks, including Goldman Sachs, Bank of America, and Citi, committed to forming a stablecoin company, Mastercard launched Agent Pay for Machines with 30+ partners, including Coinbase and Stripe, and Visa cited x402 and MPP as better suited to machine-native micropayments than cards. Singapore's MAS released the SAFR framework for AI agents in finance co-authored by Circle, Visa, HSBC, and JPMorgan, while the US CLARITY Act failed a Senate vote, leaving the SEC and CFTC to establish crypto regulatory rules.",
@@ -1783,6 +1771,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/CambrianNetwork/status/2107505199686332736"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-09",
+    "section": "Guides & Resources",
+    "title": "Vitalik on AI-Accelerated Cryptography: Hash-Based Over Lattices",
+    "url": "https://threadreaderapp.com/thread/2107976296320106851.html?utm_source=tldrcrypto",
+    "summary": "Vitalik Buterin warns that AI-accelerated mathematical research may erode the security of lattice-based cryptography (ML-DSA, LWE, and FHE) through the same mechanism that GNFS degraded RSA, where decades of optimization shrunk effective key strength by an order of magnitude, and projects that AI could compress 50 years of math progress into two years. Ethereum's lean roadmap has already pivoted to hash-only signatures (WOTS and SPHINCS+), dropping lattices, ML-DSA, Falcon, and lattice-based commitments from ZK proofs. Public-key encryption cannot be constructed from hashes alone due to long-standing mathematical constraints, which means secure messaging, VPNs, and anonymizing protocols face an open problem that extends well beyond blockchains. Buterin's practical recommendations include keeping funds in addresses that have not yet broadcast transactions, moving multisig confirmations offchain to avoid exposing signer public keys, and routing encrypted notes through offchain channels rather than publishing them onchain.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2107976296320106851.html"
    },
    {
     "newsletter": "crypto",
