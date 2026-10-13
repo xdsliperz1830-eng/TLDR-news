@@ -308,18 +308,6 @@
     "newsletter": "ai",
     "date": "2026-10-12",
     "section": "Engineering & Research",
-    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-    "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/?utm_source=tldrai",
-    "summary": "Cloudflare's Clef-omni is a decision model that can take audio, video, image, and text input. Users just call one model to make decisions across any modality. Cloudflare has cut the price of Clef-flash, now at $0.038 per million input tokens. Clef is now faster.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-12",
-    "section": "Engineering & Research",
     "title": "Introducing Microsoft-Decision-1, our model for fast decision-making",
     "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/?utm_source=tldrai",
     "summary": "Microsoft-Decision-1 is now available in Microsoft Foundry and through OpenRouter. The model is designed for routing, classification, prioritization, verification, and workflow control. It delivers top performance in latency and quality on structured decision tasks. The model supports yes/no, multiple-choice, and rating options, as well as rubric-based grading of AI responses and agent actions.",
@@ -343,14 +331,14 @@
    {
     "newsletter": "ai",
     "date": "2026-10-12",
-    "section": "Miscellaneous",
-    "title": "Who funds the independent AI evaluators?",
-    "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html?utm_source=tldrai",
-    "summary": "CNBC examines the growing role of METR, Apollo Research, and Transluce in evaluating frontier models. Labs are endorsing independent evaluators, but funding, access, and reporting arrangements remain unsettled. Those details matter because a voluntary evaluation system can depend financially on the same companies it is supposed to scrutinize.",
-    "read_minutes": 12,
+    "section": "Engineering & Research",
+    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+    "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/?utm_source=tldrai",
+    "summary": "Cloudflare's Clef-omni is a decision model that can take audio, video, image, and text input. Users just call one model to make decisions across any modality. Cloudflare has cut the price of Clef-flash, now at $0.038 per million input tokens. Clef is now faster.",
+    "read_minutes": 7,
     "kind": null,
     "sponsored": false,
-    "key": "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
+    "key": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal"
    },
    {
     "newsletter": "ai",
@@ -363,6 +351,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "Who funds the independent AI evaluators?",
+    "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html?utm_source=tldrai",
+    "summary": "CNBC examines the growing role of METR, Apollo Research, and Transluce in evaluating frontier models. Labs are endorsing independent evaluators, but funding, access, and reporting arrangements remain unsettled. Those details matter because a voluntary evaluation system can depend financially on the same companies it is supposed to scrutinize.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
    },
    {
     "newsletter": "ai",
@@ -454,18 +454,6 @@
     "newsletter": "webdev",
     "date": "2026-10-12",
     "section": "Articles & Tutorials",
-    "title": "Five Months Treating Bugs Like Patients and Coding Agents Like a Medical Team",
-    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/?utm_source=tldrdev",
-    "summary": "Cockroach Labs structures coding agents around a teaching hospital, with reviewed plans, separate implementation and review roles, structured handoffs, and an audit before merge. The pipeline landed over a million lines of code in five months with seven reverts, and human approval became mandatory after the first autonomous week before the team used it to build customer-facing migration tooling.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cockroachlabs.com/blog/experiment-running-hospital-code"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-12",
-    "section": "Articles & Tutorials",
     "title": "How to Effectively Debug When You No Longer Understand the Code",
     "url": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b?utm_source=tldrdev",
     "summary": "Three production investigations, a latency regression, a memory leak, and a kernel-level hang, show how to steer coding agents through unfamiliar systems using runtime evidence. The framework separates facts from hypotheses, compares failures with a control, and requires every proposed cause to satisfy all known constraints. Adversarial reviews should seek contradictions, and reproductions must match the real failure's signals before they can be trusted.",
@@ -473,6 +461,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://copyconstruct.medium.com/how-to-effectively-debug-when-you-no-longer-understand-the-code-bd3dcb2c5f7b"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-12",
+    "section": "Articles & Tutorials",
+    "title": "Five Months Treating Bugs Like Patients and Coding Agents Like a Medical Team",
+    "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/?utm_source=tldrdev",
+    "summary": "Cockroach Labs structures coding agents around a teaching hospital, with reviewed plans, separate implementation and review roles, structured handoffs, and an audit before merge. The pipeline landed over a million lines of code in five months with seven reverts, and human approval became mandatory after the first autonomous week before the team used it to build customer-facing migration tooling.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cockroachlabs.com/blog/experiment-running-hospital-code"
    },
    {
     "newsletter": "webdev",
@@ -562,18 +562,6 @@
     "newsletter": "webdev",
     "date": "2026-10-12",
     "section": "Miscellaneous",
-    "title": "Deno Is Joining Cloudflare",
-    "url": "https://deno.com/blog/cloudflare?utm_source=tldrdev",
-    "summary": "The Deno team is joining Cloudflare to focus on a shared platform built around Workers, Durable Objects, and celld. Deno runtime development will end after one year of bug fixes and security updates, Deno Deploy will shut down in six months, and JSR will continue operating on Cloudflare infrastructure.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://deno.com/blog/cloudflare"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-12",
-    "section": "Miscellaneous",
     "title": "The Dirty Pages Surprise: When a Read-Only Query Writes Terabytes",
     "url": "https://swingbit.github.io/dirty_pages/?utm_source=tldrdev",
     "summary": "A MonetDB count-distinct query saturates an NVMe drive with writes because Linux flushes dirty pages from temporary memory-mapped scratch files. Moving the scratch files to tmpfs cuts runtime from 73 minutes to 97 seconds, while workload-specific writeback tuning reaches about 100 seconds without moving them off disk.",
@@ -593,6 +581,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://astralord.github.io/posts/speculative-decoding-the-art-of-guessing-well"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "Deno Is Joining Cloudflare",
+    "url": "https://deno.com/blog/cloudflare?utm_source=tldrdev",
+    "summary": "The Deno team is joining Cloudflare to focus on a shared platform built around Workers, Durable Objects, and celld. Deno runtime development will end after one year of bug fixes and security updates, Deno Deploy will shut down in six months, and JSR will continue operating on Cloudflare infrastructure.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://deno.com/blog/cloudflare"
    },
    {
     "newsletter": "webdev",
@@ -684,18 +684,6 @@
     "newsletter": "infosec",
     "date": "2026-10-12",
     "section": "Strategies & Tactics",
-    "title": "Why the AI Vulnpocalypse Isn't the Breachpocalypse (Yet)? It's the Economy, Stupid",
-    "url": "https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a?utm_source=tldrinfosec",
-    "summary": "Despite the rise in vulnerabilities due to LLMs, we have not observed a corresponding rise in breaches. The author argues that offensive AI agents cannot properly monetize breaches, which reduces their motivation. The author dismisses the hypothesis that attackers lack capable enough tools for breaches, given that cyber-capable open-weight models and model jailbreaks are common. The author also dismisses the hypothesis that breaches are occurring without us knowing.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-12",
-    "section": "Strategies & Tactics",
     "title": "Below the Waterline Stage 2 - Regulating Red Teams",
     "url": "https://blog.zsec.uk/regulating-red-teams/?utm_source=tldrinfosec",
     "summary": "Regulated red team engagements have to be defensible when reconstructed later, so every action needs a named approver, an understood risk, and evidence tying it to the threat scenario. The six frameworks compared (CBEST, TIBER-EU, DORA TLPT, I-CRT, iCAST, and DESC ISR) differ in authority, testing basis, and provider requirements, with DORA Article 26 mandating TLPT at least every three years for designated financial entities. Red team leads should record timestamps, approvals, and any supplied access during delivery, because a detection that fires in purple-team replay does not prove it worked during the covert phase.",
@@ -715,6 +703,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://opensourcemalware.com/blog/ghostaction-phishing-campaign"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-12",
+    "section": "Strategies & Tactics",
+    "title": "Why the AI Vulnpocalypse Isn't the Breachpocalypse (Yet)? It's the Economy, Stupid",
+    "url": "https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a?utm_source=tldrinfosec",
+    "summary": "Despite the rise in vulnerabilities due to LLMs, we have not observed a corresponding rise in breaches. The author argues that offensive AI agents cannot properly monetize breaches, which reduces their motivation. The author dismisses the hypothesis that attackers lack capable enough tools for breaches, given that cyber-capable open-weight models and model jailbreaks are common. The author also dismisses the hypothesis that breaches are occurring without us knowing.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://medium.com/@TalBeerySec/why-the-vulnpocalypse-isnt-the-breachpocalypse-yet-it-s-the-economy-stupid-81928725968a"
    },
    {
     "newsletter": "infosec",
@@ -756,18 +756,6 @@
     "newsletter": "infosec",
     "date": "2026-10-12",
     "section": "Miscellaneous",
-    "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-    "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/?utm_source=tldrinfosec",
-    "summary": "Former core infrastructure engineer Daniel Rhyne scheduled tasks on his employer's domain controller to delete 13 admin accounts and reset passwords affecting 301 users, 254 servers, and 3,284 workstations. He demanded 20 bitcoin, about $750,000, and threatened to shut down 40 servers daily. The company did not pay. Internal forensics and FBI tracing tied the activity to Rhyne's home IP address. He received 32 months in prison.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-12",
-    "section": "Miscellaneous",
     "title": "Fingerprints are the new cookies",
     "url": "https://royfish.dev/fingerprints-are-the-new-cookies?utm_source=tldrinfosec",
     "summary": "Browser fingerprinting has replaced third-party cookies as the stable tracking identifier, after Google dropped its cookie deprecation plan and opened its ad products to device fingerprinting. A demo page derives a consistent nickname by hashing permissionless readings from OfflineAudioContext, WebGL renderer pixels, canvas text rendering, Intl time zone, and navigator hardware values, and the result survives cookie clears and VPNs. Only Brave (via farbling noise) and Tor and Mullvad Browser (via uniform fingerprints) resist this at the engine level, while anti-fingerprinting extensions can make users more distinctive because so few people run them.",
@@ -787,6 +775,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anthropic.com/research/investigating-unintended-model-actions"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+    "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/?utm_source=tldrinfosec",
+    "summary": "Former core infrastructure engineer Daniel Rhyne scheduled tasks on his employer's domain controller to delete 13 admin accounts and reset passwords affecting 301 users, 254 servers, and 3,284 workstations. He demanded 20 bitcoin, about $750,000, and threatened to shut down 40 servers daily. The company did not pay. Internal forensics and FBI tracing tied the activity to Rhyne's home IP address. He received 32 months in prison.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison"
    },
    {
     "newsletter": "infosec",
@@ -1472,18 +1472,6 @@
     "newsletter": "marketing",
     "date": "2026-10-12",
     "section": "Miscellaneous",
-    "title": "Not Sure What To Launch Next? Start Talking to Your Customers",
-    "url": "https://fatemaraja.substack.com/p/most-brands-are-built-on-trends-the?utm_source=tldrmarketing",
-    "summary": "Study how customers use existing products to uncover winning product ideas rather than chasing trends or competitor launches. Zouk created its bestselling office bag after noticing working women needed one bag for laptops and personal items. Observe customers in real-world settings and identify workarounds that reveal unmet needs. Turn recurring complaints into product briefs and call customers to understand their frustrations. Solve functional problems first, then layer in design and cultural relevance.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fatemaraja.substack.com/p/most-brands-are-built-on-trends-the"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-12",
-    "section": "Miscellaneous",
     "title": "Before You Rebrand: How a Brand Audit Reveals What Actually Needs to Change",
     "url": "https://dribbble.com/stories/2026/10/09/cl-quincy-samycia-the-branded-agency-brand-audit?utm_source=tldrmarketing",
     "summary": "Conduct a brand audit before rebranding to identify the real problem. Compare internal strategy with customer feedback to determine whether the issue requires clearer messaging or a new identity. Review public touchpoints to find gaps between the intended brand and customer perception. Match each finding to the right fix rather than defaulting to a full redesign. Preserve existing brand equity and ensure the customer experience supports the brand promise.",
@@ -1491,6 +1479,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dribbble.com/stories/2026/10/09/cl-quincy-samycia-the-branded-agency-brand-audit"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "Not Sure What To Launch Next? Start Talking to Your Customers",
+    "url": "https://fatemaraja.substack.com/p/most-brands-are-built-on-trends-the?utm_source=tldrmarketing",
+    "summary": "Study how customers use existing products to uncover winning product ideas rather than chasing trends or competitor launches. Zouk created its bestselling office bag after noticing working women needed one bag for laptops and personal items. Observe customers in real-world settings and identify workarounds that reveal unmet needs. Turn recurring complaints into product briefs and call customers to understand their frustrations. Solve functional problems first, then layer in design and cultural relevance.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fatemaraja.substack.com/p/most-brands-are-built-on-trends-the"
    },
    {
     "newsletter": "marketing",
@@ -1630,18 +1630,6 @@
     "newsletter": "founders",
     "date": "2026-10-12",
     "section": "Miscellaneous",
-    "title": "How China's Venture Ecosystem Works",
-    "url": "https://x.com/loubohan/status/2082143914924851449?utm_source=tldrfounders",
-    "summary": "China's venture ecosystem pushes startups toward early IPOs through investor repayment clauses and a weak acquisition market. Government-backed funds, domestic USD investors, financial advisors, and relationship networks shape fundraising, while industrial policy directs capital toward strategic sectors.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/loubohan/status/2082143914924851449"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-12",
-    "section": "Miscellaneous",
     "title": "Models as Insider Risks in the Super Intelligence Era",
     "url": "https://x.com/satyanadella/status/2108931348857827686?utm_source=tldrfounders",
     "summary": "We need to separate the supply of intelligence from the authority over it. This means surrounding non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures, and establishing industry standards where existing ones are insufficient. Any sufficiently capable actor with access to important systems can make mistakes or be compromised. The architecture of containment and control must account for that.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/satyanadella/status/2108931348857827686"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "How China's Venture Ecosystem Works",
+    "url": "https://x.com/loubohan/status/2082143914924851449?utm_source=tldrfounders",
+    "summary": "China's venture ecosystem pushes startups toward early IPOs through investor repayment clauses and a weak acquisition market. Government-backed funds, domestic USD investors, financial advisors, and relationship networks shape fundraising, while industrial policy directs capital toward strategic sectors.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/loubohan/status/2082143914924851449"
    },
    {
     "newsletter": "founders",
@@ -1874,18 +1874,6 @@
     "newsletter": "fintech",
     "date": "2026-10-12",
     "section": "News & Trends",
-    "title": "OpenAI's annualized revenue reportedly closer to $50B, not $70B",
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/?utm_source=tldrfintech",
-    "summary": "OpenAI has reportedly told investors that annualized revenue is approaching $50 billion, well below the roughly $70 billion figure previously circulated by investors attempting to compare the company with Anthropic. The discrepancy also highlights differing revenue definitions between the two companies, while raising more scrutiny around OpenAI's economics as it invests heavily in infrastructure and prepares for a potential IPO in 2027.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-12",
-    "section": "News & Trends",
     "title": "Revolut CEO Nik Storonsky says company wants to “dominate” the US (10 minute podcast)",
     "url": "https://www.bloomberg.com/news/videos/2026-10-09/revolut-ceo-nik-storonsky-on-us-strategy-video?utm_source=tldrfintech",
     "summary": "Revolut CEO Nik Storonsky says the fintech plans to build a full US digital banking offering, including credit cards and loans, as it competes with incumbents such as JPMorgan and American Express. He also expects AI and automation to reshape banking, with Revolut preparing to test AI agents that can shop and transact on behalf of customers.",
@@ -1905,6 +1893,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-12",
+    "section": "News & Trends",
+    "title": "OpenAI's annualized revenue reportedly closer to $50B, not $70B",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/?utm_source=tldrfintech",
+    "summary": "OpenAI has reportedly told investors that annualized revenue is approaching $50 billion, well below the roughly $70 billion figure previously circulated by investors attempting to compare the company with Anthropic. The discrepancy also highlights differing revenue definitions between the two companies, while raising more scrutiny around OpenAI's economics as it invests heavily in infrastructure and prepares for a potential IPO in 2027.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected"
    },
    {
     "newsletter": "fintech",
@@ -2080,18 +2080,6 @@
     "newsletter": "it",
     "date": "2026-10-12",
     "section": "Analysis & Opinions",
-    "title": "How agents unlock new markets",
-    "url": "https://platforms.substack.com/p/how-agents-unlock-new-markets?utm_source=tldrit",
-    "summary": "AI agents can unlock new markets by reducing negotiation and coordination costs, enabling transactions that were previously uneconomical or impossible. Unlike consumer-side agents that merely select from existing static offers, future agentic markets will involve buyer and seller agents collaborating to construct entirely new agreements and uncover latent supply and demand.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://platforms.substack.com/p/how-agents-unlock-new-markets"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-12",
-    "section": "Analysis & Opinions",
     "title": "Self-improving software is inevitable",
     "url": "https://boristane.com/blog/self-improving-software-is-inevitable/?utm_source=tldrit",
     "summary": "AI coding agents currently automate writing code, but the feedback loop of identifying issues and deciding what to fix remains largely manual. Connecting production signals such as logs, traces, and support tickets to AI agents through clearly defined performance goals could enable software to continuously identify problems and implement improvements, shifting engineers toward defining objectives and overseeing outcomes.",
@@ -2099,6 +2087,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://boristane.com/blog/self-improving-software-is-inevitable"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-12",
+    "section": "Analysis & Opinions",
+    "title": "Fast AI, slow rollback: the risk facing Apple IT teams",
+    "url": "https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html?utm_source=tldrit",
+    "summary": "A Fleet survey found that 86% of IT teams allow AI-generated configurations or scripts into production, but 69% cannot roll back a problematic change within an hour. The findings highlight a growing operational challenge as endpoint management automation advances faster than change control and recovery capabilities.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html"
    },
    {
     "newsletter": "it",
@@ -2116,13 +2116,13 @@
     "newsletter": "it",
     "date": "2026-10-12",
     "section": "Analysis & Opinions",
-    "title": "Fast AI, slow rollback: the risk facing Apple IT teams",
-    "url": "https://www.computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html?utm_source=tldrit",
-    "summary": "A Fleet survey found that 86% of IT teams allow AI-generated configurations or scripts into production, but 69% cannot roll back a problematic change within an hour. The findings highlight a growing operational challenge as endpoint management automation advances faster than change control and recovery capabilities.",
-    "read_minutes": 6,
+    "title": "How agents unlock new markets",
+    "url": "https://platforms.substack.com/p/how-agents-unlock-new-markets?utm_source=tldrit",
+    "summary": "AI agents can unlock new markets by reducing negotiation and coordination costs, enabling transactions that were previously uneconomical or impossible. Unlike consumer-side agents that merely select from existing static offers, future agentic markets will involve buyer and seller agents collaborating to construct entirely new agreements and uncover latent supply and demand.",
+    "read_minutes": 9,
     "kind": null,
     "sponsored": false,
-    "key": "https://computerworld.com/article/4232577/fast-ai-slow-rollback-the-risk-facing-apple-it-teams.html"
+    "key": "https://platforms.substack.com/p/how-agents-unlock-new-markets"
    },
    {
     "newsletter": "it",
@@ -2188,18 +2188,6 @@
     "newsletter": "it",
     "date": "2026-10-12",
     "section": "Miscellaneous",
-    "title": "LibreOffice touts ‘no AI' as a feature",
-    "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html?utm_source=tldrit",
-    "summary": "LibreOffice's developers are positioning the absence of built-in AI as a deliberate product choice, emphasizing privacy, user control, and open standards. The project remains open to future AI capabilities, provided they are optional and meet its requirements for transparency and data ownership.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-12",
-    "section": "Miscellaneous",
     "title": "Atlas Infinite: MongoDB's Disaggregated Architecture",
     "url": "https://muratbuffalo.blogspot.com/2026/10/atlas-infinite-mongodbs-disaggregated.html?utm_source=tldrit",
     "summary": "MongoDB released Atlas Infinite in public preview alongside MongoDB 9.0, introducing a compute-storage disaggregated architecture designed to separate scaling while preserving WiredTiger's performance and security. To keep customer data encrypted and maintain WiredTiger's batching efficiency, MongoDB developed a blind shared storage layer using two separate logs and page materializers rather than traditional physical page logging.",
@@ -2207,6 +2195,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://muratbuffalo.blogspot.com/2026/10/atlas-infinite-mongodbs-disaggregated.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-12",
+    "section": "Miscellaneous",
+    "title": "LibreOffice touts ‘no AI' as a feature",
+    "url": "https://www.computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html?utm_source=tldrit",
+    "summary": "LibreOffice's developers are positioning the absence of built-in AI as a deliberate product choice, emphasizing privacy, user control, and open standards. The project remains open to future AI capabilities, provided they are optional and meet its requirements for transparency and data ownership.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://computerworld.com/article/4232129/libreoffice-no-ai-is-also-a-feature.html"
    },
    {
     "newsletter": "it",
@@ -2370,18 +2370,6 @@
     "newsletter": "hardware",
     "date": "2026-10-12",
     "section": "Quick Links",
-    "title": "EasyNav 0.5.0 Navigation System Released for ROS 2 Distributions",
-    "url": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721?utm_source=tldrhardware",
-    "summary": "EasyNav 0.5.0 has officially launched, delivering an accessible yet comprehensive open-source navigation stack with upgraded path planning, improved recovery behaviors, and reduced compute overhead for ROS 2 systems.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-10-12",
-    "section": "Quick Links",
     "title": "Jumper: An Open-Source Crab Robot with Walking and Jumping Capabilities",
     "url": "https://github.com/KingKongRobotics/jumper?utm_source=tldrhardware",
     "summary": "Jumper is an open-source biomimetic robot that replicates crab locomotion, combining sideways multi-legged walking with an explosive spring-assisted jumping mechanism.",
@@ -2389,6 +2377,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://github.com/KingKongRobotics/jumper"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-10-12",
+    "section": "Quick Links",
+    "title": "EasyNav 0.5.0 Navigation System Released for ROS 2 Distributions",
+    "url": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721?utm_source=tldrhardware",
+    "summary": "EasyNav 0.5.0 has officially launched, delivering an accessible yet comprehensive open-source navigation stack with upgraded path planning, improved recovery behaviors, and reduced compute overhead for ROS 2 systems.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://discourse.openrobotics.org/t/easynav-0-5-0-released-for-humble-jazzy-kilted-and-lyrical/58721"
    }
   ]
  }
