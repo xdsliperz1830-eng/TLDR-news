@@ -224,18 +224,6 @@
     "newsletter": "ai",
     "date": "2026-10-13",
     "section": "Headlines & Launches",
-    "title": "Muse Wonder",
-    "url": "https://research.meta.ai/blog/muse-wonder?utm_source=tldrai",
-    "summary": "Meta released Muse Wonder and Wonder Full, its first frontier-class models, with stronger coding, benchmark performance, and active memory for retaining and synthesizing user-provided information.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://research.meta.ai/blog/muse-wonder"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-13",
-    "section": "Headlines & Launches",
     "title": "Microsoft Introduced the Maia 300 AI Chip",
     "url": "https://news.microsoft.com/maia-2026/?utm_source=tldrai",
     "summary": "Microsoft unveiled Maia 300, its third-generation in-house AI accelerator, as a major step toward reducing dependence on NVIDIA GPUs. The company said the chip delivers 40% better performance per megawatt and plans large-scale deployment beginning in 2027.",
@@ -243,6 +231,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://news.microsoft.com/maia-2026"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-13",
+    "section": "Headlines & Launches",
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder?utm_source=tldrai",
+    "summary": "Meta released Muse Wonder and Wonder Full, its first frontier-class models, with stronger coding, benchmark performance, and active memory for retaining and synthesizing user-provided information.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://research.meta.ai/blog/muse-wonder"
    },
    {
     "newsletter": "ai",
