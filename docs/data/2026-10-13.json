@@ -598,18 +598,6 @@
     "newsletter": "webdev",
     "date": "2026-10-13",
     "section": "Quick Links",
-    "title": "How we made registry metadata 70% smaller",
-    "url": "https://www.vlt.io/blog/registry-metadata-70-percent-smaller?utm_source=tldrdev",
-    "summary": "vlt reduces registry metadata by keeping install-time fields that npm's abbreviated format omits and removing signature, checksum, and attestation data while retaining tarball integrity checks.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://vlt.io/blog/registry-metadata-70-percent-smaller"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-13",
-    "section": "Quick Links",
     "title": "I Built a New Feature for My Blog Using My Voice",
     "url": "https://simonw.substack.com/p/i-built-a-new-feature-for-my-blog?utm_source=tldrdev",
     "summary": "A Django newsletter archive took shape through a half-hour voice conversation with Codex while dinner cooked, followed by another half-hour of typed review and refinements before deployment.",
@@ -617,6 +605,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://simonw.substack.com/p/i-built-a-new-feature-for-my-blog"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-13",
+    "section": "Quick Links",
+    "title": "How we made registry metadata 70% smaller",
+    "url": "https://www.vlt.io/blog/registry-metadata-70-percent-smaller?utm_source=tldrdev",
+    "summary": "vlt reduces registry metadata by keeping install-time fields that npm's abbreviated format omits and removing signature, checksum, and attestation data while retaining tarball integrity checks.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://vlt.io/blog/registry-metadata-70-percent-smaller"
    },
    {
     "newsletter": "webdev",

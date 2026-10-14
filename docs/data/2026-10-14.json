@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-10-14",
     "section": "Programming, Design & Data Science",
-    "title": "How to be more ambitious: A tutorial for humans with models",
-    "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/?utm_source=tldrnewsletter",
-    "summary": "There are four types of ambition. Speed gets the same work done in less time. Altitude involves going up in abstraction and considering the outcome rather than the individual task. Depth considers a task the way a field-leading expert would, going one level deeper and touching the underlying data, tools, and problems. Range draws on multiple fields rather than just the one the task might need at the surface using knowledge, tools, and techniques you normally wouldn't.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-14",
-    "section": "Programming, Design & Data Science",
     "title": "Redesigning source control at Anthropic",
     "url": "https://www.anthropic.com/engineering/redesigning-source-control?utm_source=tldrnewsletter",
     "summary": "Anthropic was being bottlenecked by developer infrastructure built for human scale, so it built an in-house version control system called Scion to support its next stage of growth, and fully migrated its monorepo from git in five months. It also built and shipped a code review surface, code search, a rich source control IAM system, novel ways of managing and landing large amounts of reviewed code, and more, all in that same time period. Anthropic averaged about 2,500 code changes merged per day in May. It now merges over 30,000 per day, and the rate of growth isn't expected to slow down anytime soon.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anthropic.com/engineering/redesigning-source-control"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-14",
+    "section": "Programming, Design & Data Science",
+    "title": "How to be more ambitious: A tutorial for humans with models",
+    "url": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/?utm_source=tldrnewsletter",
+    "summary": "There are four types of ambition. Speed gets the same work done in less time. Altitude involves going up in abstraction and considering the outcome rather than the individual task. Depth considers a task the way a field-leading expert would, going one level deeper and touching the underlying data, tools, and problems. Range draws on multiple fields rather than just the one the task might need at the surface using knowledge, tools, and techniques you normally wouldn't.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models"
    },
    {
     "newsletter": "tech",
@@ -1144,18 +1144,6 @@
     "newsletter": "design",
     "date": "2026-10-14",
     "section": "Launches & Tools",
-    "title": "Every Color, by Family",
-    "url": "https://rhapsodycolor.com/color/?utm_source=tldrdesign",
-    "summary": "Look up any color: the codes to paste, the text colors that stay readable on it, and how it behaves on press.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://rhapsodycolor.com/color"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-14",
-    "section": "Launches & Tools",
     "title": "114 CSS Text Effects and Animations",
     "url": "https://text-effects.colorion.co/?utm_source=tldrdesign",
     "summary": "A library of 114 animated text effects built with pure CSS — aurora gradients, glitches, split-flap boards, liquid fills, and other lesser-seen tricks. No JavaScript, and no dependencies.",
@@ -1167,14 +1155,26 @@
    {
     "newsletter": "design",
     "date": "2026-10-14",
+    "section": "Launches & Tools",
+    "title": "Every Color, by Family",
+    "url": "https://rhapsodycolor.com/color/?utm_source=tldrdesign",
+    "summary": "Look up any color: the codes to paste, the text colors that stay readable on it, and how it behaves on press.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://rhapsodycolor.com/color"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-14",
     "section": "Miscellaneous",
-    "title": "Pentagram creates dynamic bilingual identity for Design Doha Biennial 2026",
-    "url": "https://www.designweek.co.uk/pentagram-creates-dynamic-bilingual-identity-for-design-doha-biennial-2026/?utm_source=tldrdesign",
-    "summary": "Pentagram's identity for the 2026 Design Doha Biennial replaces a static logo with a flexible typographic system built around connectivity and equal treatment of Arabic and English. Extended strokes stretch between elements like mapping lines or network constellations, while regional travertine beige and deep maroon are combined with bright orange and the blue established by the inaugural edition. The same structural logic extends across sub-brands and exhibitions, allowing individual programs to develop distinct expressions while remaining part of a coherent bilingual system.",
-    "read_minutes": 4,
+    "title": "TypeType Unveils TT Rationalist Typography",
+    "url": "https://abduzeedo.com/typetype-unveils-tt-rationalist-typography?utm_source=tldrdesign",
+    "summary": "TypeType's updated TT Rationalist modernizes the slab serif with trapezoidal serifs, softer stroke contrast, humanist proportions, and curved details that make dense text feel less rigid and more comfortable to read. The family spans 22 styles, including ten upright weights, matching true italics, and two variable fonts, with 1,127 glyphs per style and 31 OpenType features. Support for more than 235 Latin- and Cyrillic-based languages makes the family flexible enough for everything from editorial layouts and cultural posters to apps, watch interfaces, and compact digital typography.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://designweek.co.uk/pentagram-creates-dynamic-bilingual-identity-for-design-doha-biennial-2026"
+    "key": "https://abduzeedo.com/typetype-unveils-tt-rationalist-typography"
    },
    {
     "newsletter": "design",
@@ -1192,13 +1192,13 @@
     "newsletter": "design",
     "date": "2026-10-14",
     "section": "Miscellaneous",
-    "title": "TypeType Unveils TT Rationalist Typography",
-    "url": "https://abduzeedo.com/typetype-unveils-tt-rationalist-typography?utm_source=tldrdesign",
-    "summary": "TypeType's updated TT Rationalist modernizes the slab serif with trapezoidal serifs, softer stroke contrast, humanist proportions, and curved details that make dense text feel less rigid and more comfortable to read. The family spans 22 styles, including ten upright weights, matching true italics, and two variable fonts, with 1,127 glyphs per style and 31 OpenType features. Support for more than 235 Latin- and Cyrillic-based languages makes the family flexible enough for everything from editorial layouts and cultural posters to apps, watch interfaces, and compact digital typography.",
-    "read_minutes": 3,
+    "title": "Pentagram creates dynamic bilingual identity for Design Doha Biennial 2026",
+    "url": "https://www.designweek.co.uk/pentagram-creates-dynamic-bilingual-identity-for-design-doha-biennial-2026/?utm_source=tldrdesign",
+    "summary": "Pentagram's identity for the 2026 Design Doha Biennial replaces a static logo with a flexible typographic system built around connectivity and equal treatment of Arabic and English. Extended strokes stretch between elements like mapping lines or network constellations, while regional travertine beige and deep maroon are combined with bright orange and the blue established by the inaugural edition. The same structural logic extends across sub-brands and exhibitions, allowing individual programs to develop distinct expressions while remaining part of a coherent bilingual system.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://abduzeedo.com/typetype-unveils-tt-rationalist-typography"
+    "key": "https://designweek.co.uk/pentagram-creates-dynamic-bilingual-identity-for-design-doha-biennial-2026"
    },
    {
     "newsletter": "design",
@@ -1266,18 +1266,6 @@
     "newsletter": "marketing",
     "date": "2026-10-14",
     "section": "Strategies & Tactics",
-    "title": "How to spot and fix crappy case studies",
-    "url": "https://www.linkedin.com/pulse/how-spot-fix-crappy-case-studies-do-1-thing-now-lee-densmer-vbccc/?utm_source=tldrmarketing",
-    "summary": "B2B case studies often underperform because they document completed projects instead of telling compelling customer stories. Audit your last 3 by checking whether they explain the customer's original problem. If the stories feel interchangeable, interview a customer stakeholder for 30 mins to uncover what went wrong and what improved. 3-5 distinctive case studies can be more persuasive than 20 generic ones. Use anonymous stories when needed and repurpose them across newsletters and social media.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/pulse/how-spot-fix-crappy-case-studies-do-1-thing-now-lee-densmer-vbccc"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-14",
-    "section": "Strategies & Tactics",
     "title": "Show AI influencers with real people",
     "url": "https://app.sciencesays.com/p/show-ai-influencers-with-real-people?utm_source=tldrmarketing",
     "summary": "AI influencers are seen as less trustworthy because they can't actually use the products they promote. Showing them in everyday moments with real people, like grabbing coffee or going for a run, helps close that gap. In a study of 9,500+ posts and 4 experiments, these scenes drove 20.7% more engagement and made people up to 17.5% more likely to choose the product.",
@@ -1285,6 +1273,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://app.sciencesays.com/p/show-ai-influencers-with-real-people"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-14",
+    "section": "Strategies & Tactics",
+    "title": "How to spot and fix crappy case studies",
+    "url": "https://www.linkedin.com/pulse/how-spot-fix-crappy-case-studies-do-1-thing-now-lee-densmer-vbccc/?utm_source=tldrmarketing",
+    "summary": "B2B case studies often underperform because they document completed projects instead of telling compelling customer stories. Audit your last 3 by checking whether they explain the customer's original problem. If the stories feel interchangeable, interview a customer stakeholder for 30 mins to uncover what went wrong and what improved. 3-5 distinctive case studies can be more persuasive than 20 generic ones. Use anonymous stories when needed and repurpose them across newsletters and social media.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/pulse/how-spot-fix-crappy-case-studies-do-1-thing-now-lee-densmer-vbccc"
    },
    {
     "newsletter": "marketing",
@@ -1436,18 +1436,6 @@
     "newsletter": "founders",
     "date": "2026-10-14",
     "section": "Strategies & Tactics",
-    "title": "How to Grow a Massive Brand (Full 2026 Masterclass)",
-    "url": "https://x.com/ryangrowthh/status/2109644746465726929?utm_source=tldrfounders",
-    "summary": "A founder's account and a company's account don't need to publish the same things. This guide assigns the founder the beliefs, lessons, and experience of building, while the company explains products and launches. It also distinguishes posts that attract new people from posts that build trust or encourage a purchase. That gives teams a clearer way to judge results: a post meant to introduce the company should not be assessed only by immediate sales. Interested followers can then move into email or a community for a longer relationship.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/ryangrowthh/status/2109644746465726929"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-14",
-    "section": "Strategies & Tactics",
     "title": "38 things we've learned about building AI products",
     "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building?utm_source=tldrfounders",
     "summary": "PostHog has built 10 different AI products over the last four years. These include PostHog AI, PostHog's install Wizard, Replay Vision, and Scouts. PostHog's AI products are used by nearly 100,000 people every month. This post details what the company has learned from building them.",
@@ -1471,6 +1459,18 @@
    {
     "newsletter": "founders",
     "date": "2026-10-14",
+    "section": "Strategies & Tactics",
+    "title": "How to Grow a Massive Brand (Full 2026 Masterclass)",
+    "url": "https://x.com/ryangrowthh/status/2109644746465726929?utm_source=tldrfounders",
+    "summary": "A founder's account and a company's account don't need to publish the same things. This guide assigns the founder the beliefs, lessons, and experience of building, while the company explains products and launches. It also distinguishes posts that attract new people from posts that build trust or encourage a purchase. That gives teams a clearer way to judge results: a post meant to introduce the company should not be assessed only by immediate sales. Interested followers can then move into email or a community for a longer relationship.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/ryangrowthh/status/2109644746465726929"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-14",
     "section": "Tools & Resources",
     "title": "Your business moves fast. So should your money.",
     "url": "https://stripe.com/in/treasury?utm_source=tldr&utm_medium=thirdpartybuy&utm_campaign=amer_events_enterprise_us_en_mlp_tof_csuite_awareness&utm_content=enterprise_ungatedreport_tldr_phase1_image_x_static&utm_placement=mlp",
@@ -1479,18 +1479,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://stripe.com/in/treasury"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-14",
-    "section": "Tools & Resources",
-    "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business' hardest problems",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?utm_source=tldrfounders",
-    "summary": "Gemini 4 Argon is now available on Google Cloud. Argon was trained to work with both depth and precision. It can maintain context across long, multi-step tasks and produce precise, verifiable results. Argon launches with an introductory rate of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off through to November 30, after which the standard pricing of $4 per million input tokens and $20 per million output tokens will apply.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud"
    },
    {
     "newsletter": "founders",
@@ -1507,14 +1495,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-14",
-    "section": "Miscellaneous",
-    "title": "OK, I might have been wrong about building with a lean team in the age of AI",
-    "url": "https://threadreaderapp.com/thread/2109719352450924902.html?utm_source=tldrfounders",
-    "summary": "Chatbase is now at 40 people, and it plans to double its number of employees in the next 6 months. Building is now much easier, and the opportunity cost of not building more is huge. Companies that want to build more, grow more, and achieve more still need to hire because humans are still needed in many parts of the building loop. While this might change, it doesn't make sense to act like it isn't true right now.",
-    "read_minutes": 1,
+    "section": "Tools & Resources",
+    "title": "Gemini 4 Argon available on Google Cloud, built to help solve your business' hardest problems",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud?utm_source=tldrfounders",
+    "summary": "Gemini 4 Argon is now available on Google Cloud. Argon was trained to work with both depth and precision. It can maintain context across long, multi-step tasks and produce precise, verifiable results. Argon launches with an introductory rate of $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off through to November 30, after which the standard pricing of $4 per million input tokens and $20 per million output tokens will apply.",
+    "read_minutes": 8,
     "kind": null,
     "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2109719352450924902.html"
+    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud"
    },
    {
     "newsletter": "founders",
@@ -1527,6 +1515,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://akashbajwa.co/p/capital-stacks-for-atoms"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-14",
+    "section": "Miscellaneous",
+    "title": "OK, I might have been wrong about building with a lean team in the age of AI",
+    "url": "https://threadreaderapp.com/thread/2109719352450924902.html?utm_source=tldrfounders",
+    "summary": "Chatbase is now at 40 people, and it plans to double its number of employees in the next 6 months. Building is now much easier, and the opportunity cost of not building more is huge. Companies that want to build more, grow more, and achieve more still need to hire because humans are still needed in many parts of the building loop. While this might change, it doesn't make sense to act like it isn't true right now.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2109719352450924902.html"
    },
    {
     "newsletter": "founders",
@@ -1896,18 +1896,6 @@
     "newsletter": "it",
     "date": "2026-10-14",
     "section": "Quick Links",
-    "title": "Chaos or death",
-    "url": "https://betterthangood.xyz/blog/chaos-or-death/?utm_source=tldrit",
-    "summary": "Successful AI adoption requires sustained leadership, clear decision-making, and established routines to manage growing organizational complexity, as AI makes disorder easier to create without reducing the effort needed to maintain order.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://betterthangood.xyz/blog/chaos-or-death"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-14",
-    "section": "Quick Links",
     "title": "Find your routine next steps on the post-meeting screen in Google Meet",
     "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html?utm_source=tldrit",
     "summary": "Google Meet is introducing Gemini-powered post-meeting routines that can automatically draft follow-up emails and export action items to Google Tasks when meeting notes are enabled.",
@@ -1915,6 +1903,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-14",
+    "section": "Quick Links",
+    "title": "Chaos or death",
+    "url": "https://betterthangood.xyz/blog/chaos-or-death/?utm_source=tldrit",
+    "summary": "Successful AI adoption requires sustained leadership, clear decision-making, and established routines to manage growing organizational complexity, as AI makes disorder easier to create without reducing the effort needed to maintain order.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://betterthangood.xyz/blog/chaos-or-death"
    }
   ],
   "hardware": [
