@@ -114,18 +114,6 @@
     "newsletter": "tech",
     "date": "2026-10-15",
     "section": "Miscellaneous",
-    "title": "Cracks in the AI Thesis Part 3",
-    "url": "https://econlab.substack.com/p/ai-index-oct-2026?utm_source=tldrnewsletter",
-    "summary": "OpenAI narrowed Anthropic's lead in business AI adoption in September. Today, more than half of businesses pay for AI, and many of them pay for multiple models. The growth in new AI customers has slowed down significantly. Growth in the market will now have to come from more intense adoption rather than more customers.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://econlab.substack.com/p/ai-index-oct-2026"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-15",
-    "section": "Miscellaneous",
     "title": "AI Companies Play Cat-and-Mouse With Secret-Stealing Spies",
     "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?mod=tech_lead_story&utm_source=tldrnewsletter",
     "summary": "The work that Silicon Valley's AI labs are doing could reshape entire economies, create vast fortunes, dominate future warfare, and potentially alter the geopolitical power balance. This makes the industry ripe for espionage. While the companies have been on guard against the threat, there's no such thing as a perfect defense. This article explores the different ways corporate espionage is happening in the AI industry.",
@@ -133,6 +121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?mod=tech_lead_story"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-15",
+    "section": "Miscellaneous",
+    "title": "Cracks in the AI Thesis Part 3",
+    "url": "https://econlab.substack.com/p/ai-index-oct-2026?utm_source=tldrnewsletter",
+    "summary": "OpenAI narrowed Anthropic's lead in business AI adoption in September. Today, more than half of businesses pay for AI, and many of them pay for multiple models. The growth in new AI customers has slowed down significantly. Growth in the market will now have to come from more intense adoption rather than more customers.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://econlab.substack.com/p/ai-index-oct-2026"
    },
    {
     "newsletter": "tech",
@@ -404,18 +404,6 @@
     "newsletter": "ai",
     "date": "2026-10-15",
     "section": "Quick Links",
-    "title": "Claude Adds OpenTelemetry for Agent Observability",
-    "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform?utm_source=tldrai",
-    "summary": "Anthropic added OpenTelemetry tracing across Claude Managed Agents, the Messages API, and Claude SDKs.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-15",
-    "section": "Quick Links",
     "title": "Push-Based KV Transfer to Improve TTFT and TPOT for Disaggregated Inference in vLLM",
     "url": "https://vllm.ai/blog/2026-10-14-nixl-push-connector?utm_source=tldrai",
     "summary": "This post introduces a push-based NIXL connector that moves post-prefill transfer coordination and setup off the critical path, resulting in improved application responsiveness, particularly at high request rates.",
@@ -447,6 +435,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://huggingface.co/inclusionAI/Ling-3.1-flash"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-15",
+    "section": "Quick Links",
+    "title": "Claude Adds OpenTelemetry for Agent Observability",
+    "url": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform?utm_source=tldrai",
+    "summary": "Anthropic added OpenTelemetry tracing across Claude Managed Agents, the Messages API, and Claude SDKs.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform"
    }
   ],
   "webdev": [
@@ -1192,18 +1192,6 @@
     "newsletter": "design",
     "date": "2026-10-15",
     "section": "Miscellaneous",
-    "title": "How two simple dots gave Pictoplasma a fresh personality for 2026",
-    "url": "https://www.creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design/?utm_source=tldrdesign",
-    "summary": "andstudio transformed Pictoplasma's deliberately neutral identity around the positioning “Never faceless,” giving the character-design festival its own personality without competing with the work it showcases. A customized version of Lift Type's Melun adds a glyph containing two dots that function as eyes, allowing typography itself to become a character through pareidolia while colors and layouts change between festival editions. The same two-dot device extends into motion, print, installations, tattoos, and guerrilla applications, creating a playful system simple enough to work within the festival's limited budget.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-15",
-    "section": "Miscellaneous",
     "title": "Experience Planes – The Big 4: Who, What, Where, and Why of Experiences",
     "url": "https://www.akendi.com/blog/experience-planes-the-big-4-who-what-where-and-why-of-experiences/?utm_source=tldrdesign",
     "summary": "Picking a single lens such as customer, shopping, or brand experience quietly shapes a design conversation before any design begins. Four experience planes widen the view: who is involved, what they are doing, where it happens, and why the organization offers it. Five examples, from license renewal to food delivery, show frustration often sitting in the connections between places.",
@@ -1211,6 +1199,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://akendi.com/blog/experience-planes-the-big-4-who-what-where-and-why-of-experiences"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-15",
+    "section": "Miscellaneous",
+    "title": "How two simple dots gave Pictoplasma a fresh personality for 2026",
+    "url": "https://www.creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design/?utm_source=tldrdesign",
+    "summary": "andstudio transformed Pictoplasma's deliberately neutral identity around the positioning “Never faceless,” giving the character-design festival its own personality without competing with the work it showcases. A customized version of Lift Type's Melun adds a glyph containing two dots that function as eyes, allowing typography itself to become a character through pareidolia while colors and layouts change between festival editions. The same two-dot device extends into motion, print, installations, tattoos, and guerrilla applications, creating a playful system simple enough to work within the festival's limited budget.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://creativeboom.com/work/how-two-simple-dots-gave-pictoplasma-a-face-after-20-years-of-neutral-design"
    },
    {
     "newsletter": "design",
@@ -1350,18 +1350,6 @@
     "newsletter": "marketing",
     "date": "2026-10-15",
     "section": "Miscellaneous",
-    "title": "We Now Know the #1 Ranking Factor for AI and LLMs, The Data",
-    "url": "https://oppalerts.com/we-now-know-the-1-ranking-factor-for-ai-and-llms-the-data?utm_source=tldrmarketing",
-    "summary": "Contextually relevant backlinks had the strongest correlation with AI rankings across 17 AI search channels. For GPT-6 Astra, the correlation averaged 0.57 across industries and was positive in all 100. Unlinked brand mentions also correlated with rankings at 0.41 compared with 0.55 for total backlinks. The findings suggest prioritizing links and coverage from relevant industry sources over simply increasing backlink volume.",
-    "read_minutes": 40,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://oppalerts.com/we-now-know-the-1-ranking-factor-for-ai-and-llms-the-data"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-15",
-    "section": "Miscellaneous",
     "title": "How Saie Beauty became the global powerhouse everyone's talking about",
     "url": "https://becauseofmarketing.substack.com/p/saie-hello-to-beautys-favourite-brand?utm_source=tldrmarketing",
     "summary": "Saie builds products around specific needs it spots in public, then uses how the product came about as the marketing story. Its Bellini eyeshadow was developed in its Italian lab with a creator whose followers had watched her test over 50 shades in three years, while its City Set spray was named after the Knicks dancers and led to an official team partnership. The approach shows up in how consumers see the brand, with 53% saying Saie meets their needs against a 43% category average.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://becauseofmarketing.substack.com/p/saie-hello-to-beautys-favourite-brand"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-15",
+    "section": "Miscellaneous",
+    "title": "We Now Know the #1 Ranking Factor for AI and LLMs, The Data",
+    "url": "https://oppalerts.com/we-now-know-the-1-ranking-factor-for-ai-and-llms-the-data?utm_source=tldrmarketing",
+    "summary": "Contextually relevant backlinks had the strongest correlation with AI rankings across 17 AI search channels. For GPT-6 Astra, the correlation averaged 0.57 across industries and was positive in all 100. Unlinked brand mentions also correlated with rankings at 0.41 compared with 0.55 for total backlinks. The findings suggest prioritizing links and coverage from relevant industry sources over simply increasing backlink volume.",
+    "read_minutes": 40,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://oppalerts.com/we-now-know-the-1-ranking-factor-for-ai-and-llms-the-data"
    },
    {
     "newsletter": "marketing",
