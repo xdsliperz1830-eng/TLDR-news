@@ -1424,18 +1424,6 @@
     "newsletter": "crypto",
     "date": "2026-10-15",
     "section": "Markets & Business",
-    "title": "Strive Buys 3k Bitcoin for $280M, Now Fifth-Largest Corporate Holder",
-    "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430?utm_source=tldrcrypto",
-    "summary": "Strive acquired 3,311 BTC between October 5 and 9 for $280M at an average of ~$84,500, bringing its total treasury to 32,773 BTC and ranking it fifth among publicly traded corporate Bitcoin holders. The purchase was financed through its Variable Rate Series A Perpetual Preferred Stock (SATA), alongside a $208M warrant exercise, with cash reserves growing to $310.3M through the period. Bitcoin holdings expanded 11.2% against a 9.4% rise in effective common share count, benefiting existing shareholders on a per-BTC basis. CEO Matt Cole has targeted second-largest public corporate holder by year-end, though Strive currently trails Metaplanet by 11,227 BTC.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-15",
-    "section": "Markets & Business",
     "title": "BitMEX Sued in UK for Return of $27M BTC Over Unlicensed Derivatives",
     "url": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives?utm_source=tldrcrypto",
     "summary": "A British software engineer has filed suit against BitMEX operator HDR Global Trading in London's Commercial Court, seeking return of 324.8 BTC (~$27.2M) on the grounds that BitMEX conducted regulated derivatives activity in the UK without FCA authorization. The claim, filed under the Financial Services and Markets Act 2000, targets 1,053 losing perpetual swap trades across five accounts from 2018 to 2022, arguing those contracts are unenforceable against UK residents who dealt with an unauthorized firm. A deceit claim accompanies the restitution suit, alleging BitMEX knew it lacked authorization while representing to clients it could lawfully trade with them. Barber's legal team at Seladore Legal suggests other UK users entered similar contracts, putting total potential exposure at hundreds of millions of pounds, with BitMEX having closed operations on September 23.",
@@ -1443,6 +1431,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-15",
+    "section": "Markets & Business",
+    "title": "Strive Buys 3k Bitcoin for $280M, Now Fifth-Largest Corporate Holder",
+    "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430?utm_source=tldrcrypto",
+    "summary": "Strive acquired 3,311 BTC between October 5 and 9 for $280M at an average of ~$84,500, bringing its total treasury to 32,773 BTC and ranking it fifth among publicly traded corporate Bitcoin holders. The purchase was financed through its Variable Rate Series A Perpetual Preferred Stock (SATA), alongside a $208M warrant exercise, with cash reserves growing to $310.3M through the period. Bitcoin holdings expanded 11.2% against a 9.4% rise in effective common share count, benefiting existing shareholders on a per-BTC basis. CEO Matt Cole has targeted second-largest public corporate holder by year-end, though Strive currently trails Metaplanet by 11,227 BTC.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430"
    },
    {
     "newsletter": "crypto",
