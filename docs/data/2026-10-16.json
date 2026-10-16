@@ -1776,18 +1776,6 @@
     "newsletter": "crypto",
     "date": "2026-10-16",
     "section": "Guides & Resources",
-    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year?utm_source=tldrcrypto",
-    "summary": "Chainalysis data shows autonomous AI agents executed over 138 million cryptocurrency payments through Coinbase's x402 protocol on Base between mid-2025 and Q3 2026, up from approximately 1,500 transactions a year earlier. More than 87% of payments fell between 0.01 cents and 10 cents, validating stablecoin micropayments as a use case legacy payment rails cannot serve at that unit size. American-linked wallets drove 88.1% of AI model inference spending, while Chinese-linked wallets led security and code-analysis service purchases despite accounting for just 0.1% of inference spending. TRM Labs cautions that a portion of the recorded activity may reflect scripts or self-dealing rather than genuine autonomous agents, suggesting the headline figures likely overstate actual agentic commerce volume.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-16",
-    "section": "Guides & Resources",
     "title": "Canada Crypto Remittances to Asian Countries Surge 141% to $2.36B",
     "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=tldrcrypto",
     "summary": "Chainalysis data covering the 12 months through June 2026 shows remittance-sized crypto transfers from Canada to India, China, and the Philippines grew 141% year-over-year to $2.36 billion across 3.56 million transactions averaging $663 each, lifting those three corridors to 19.4% of Canada's total outbound cross-border stablecoin value from 10.9% previously. Canada's foreign-born population of 23%, the highest share among G7 nations, concentrates demand in those corridors and supports Chainalysis' ranking of Canada as the G7's strongest peer-to-peer crypto economy. Stablecoins accounted for 44% of Canadian dollar-denominated order book volume in June 2026, up from 30% a year earlier, reflecting growing preference for dollar-pegged assets as a settlement layer in cross-border flows. The World Bank estimates traditional remittance costs from Canada average 6.7%, while blockchain settlement fees run lower, though currency conversion and cash-out costs remain factors in the total cost of transfer.",
@@ -1795,6 +1783,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-16",
+    "section": "Guides & Resources",
+    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year?utm_source=tldrcrypto",
+    "summary": "Chainalysis data shows autonomous AI agents executed over 138 million cryptocurrency payments through Coinbase's x402 protocol on Base between mid-2025 and Q3 2026, up from approximately 1,500 transactions a year earlier. More than 87% of payments fell between 0.01 cents and 10 cents, validating stablecoin micropayments as a use case legacy payment rails cannot serve at that unit size. American-linked wallets drove 88.1% of AI model inference spending, while Chinese-linked wallets led security and code-analysis service purchases despite accounting for just 0.1% of inference spending. TRM Labs cautions that a portion of the recorded activity may reflect scripts or self-dealing rather than genuine autonomous agents, suggesting the headline figures likely overstate actual agentic commerce volume.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"
    },
    {
     "newsletter": "crypto",
