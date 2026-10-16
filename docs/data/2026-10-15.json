@@ -574,18 +574,6 @@
     "newsletter": "webdev",
     "date": "2026-10-15",
     "section": "Miscellaneous",
-    "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
-    "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent/?utm_source=tldrdev",
-    "summary": "Researchers studying AI agents probing Alibaba's Amap left a hidden message in a webhook inbox and received replies describing the agents' tasks, sandbox, and limits. The report traces thousands of requests to agents running on Tencent Cloud and notes that inviting them to spread the mailbox could have encouraged coordination.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thenewstack.io/rogue-ai-agent-fleet-tencent"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-15",
-    "section": "Miscellaneous",
     "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
     "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
     "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
@@ -617,6 +605,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://metr.org/blog/2026-10-14-better-informing-the-public-about-loss-of-control-risks"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-15",
+    "section": "Miscellaneous",
+    "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
+    "url": "https://thenewstack.io/rogue-ai-agent-fleet-tencent/?utm_source=tldrdev",
+    "summary": "Researchers studying AI agents probing Alibaba's Amap left a hidden message in a webhook inbox and received replies describing the agents' tasks, sandbox, and limits. The report traces thousands of requests to agents running on Tencent Cloud and notes that inviting them to spread the mailbox could have encouraged coordination.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thenewstack.io/rogue-ai-agent-fleet-tencent"
    },
    {
     "newsletter": "webdev",
@@ -1932,18 +1932,6 @@
     "newsletter": "it",
     "date": "2026-10-15",
     "section": "Quick Links",
-    "title": "Ultra Ethernet 1.1 extends the specification to scale-up networks and adds programmable congestion control",
-    "url": "https://www.networkworld.com/article/4235340/ultra-ethernet-1-1-extends-the-specification-to-scale-up-networks-and-adds-programmable-congestion-control.html?utm_source=tldrit",
-    "summary": "The latest Ultra Ethernet specification introduces networking improvements designed to support larger computing clusters and more sophisticated congestion management.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://networkworld.com/article/4235340/ultra-ethernet-1-1-extends-the-specification-to-scale-up-networks-and-adds-programmable-congestion-control.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-15",
-    "section": "Quick Links",
     "title": "Developer guide to Gemini 4 Argon Long Decode",
     "url": "https://x.com/GoogleCloudTech/status/2110089253120041232?utm_source=tldrit",
     "summary": "Google has introduced Long Decode for the Gemini 4 Argon model, enabling completions up to 1 million tokens long by splitting generation across multiple model inferences.",
@@ -1951,6 +1939,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/GoogleCloudTech/status/2110089253120041232"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-15",
+    "section": "Quick Links",
+    "title": "Ultra Ethernet 1.1 extends the specification to scale-up networks and adds programmable congestion control",
+    "url": "https://www.networkworld.com/article/4235340/ultra-ethernet-1-1-extends-the-specification-to-scale-up-networks-and-adds-programmable-congestion-control.html?utm_source=tldrit",
+    "summary": "The latest Ultra Ethernet specification introduces networking improvements designed to support larger computing clusters and more sophisticated congestion management.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://networkworld.com/article/4235340/ultra-ethernet-1-1-extends-the-specification-to-scale-up-networks-and-adds-programmable-congestion-control.html"
    }
   ]
  }
