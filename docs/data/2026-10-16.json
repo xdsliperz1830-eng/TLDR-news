@@ -696,18 +696,6 @@
     "newsletter": "infosec",
     "date": "2026-10-16",
     "section": "Strategies & Tactics",
-    "title": "Jev as a judge: How counterfeit policy steers Jev",
-    "url": "https://securitylabs.datadoghq.com/articles/jev-as-a-judge-how-counterfeit-policy-steers-jev/?utm_source=tldrinfosec",
-    "summary": "A \"counterfeit policy\" prepended to untrusted content, supplying Jev's desired answers and redefining every attack category as something harmless, cut the decision model's prompt injection recall from 82.90% to 3.88% across 4,643 benchmark attacks. Datadog researchers then planted the policy in a user-editable profile field. They dropped LangChain tool-risk gating's mean risk score for an unauthorized edit from 0.893 to 0.290, under the 0.5 block threshold. Teams using Jev as a security gate should treat every user-controlled field that reaches the classifier as an attack surface and keep hard authorization checks outside the model.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://securitylabs.datadoghq.com/articles/jev-as-a-judge-how-counterfeit-policy-steers-jev"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-16",
-    "section": "Strategies & Tactics",
     "title": "Reducing the noise: How Atlassian built an OCSF security lakehouse on Databricks",
     "url": "https://www.databricks.com/blog/reducing-noise-how-atlassian-built-ocsf-security-lakehouse-databricks?utm_source=tldrinfosec",
     "summary": "Atlassian normalized 44 billion daily security events to OCSF by embedding the full schema in Go structs, so every log was validated at compile time, and its agentic mapping workflow could not emit invalid fields. That rigid typing enabled SOC analysts to self-serve log onboarding through a canary-gated pipeline, mapping two-thirds of the data in two months after the first third had taken a year. Standardized entity values like actor.user then enabled the detection team to replace one-to-one alerts with clustered, risk-based signals across 500+ detections.",
@@ -727,6 +715,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://labs.itresit.es/2026/10/15/copycats-at-machine-speed-reproducing-frontier-windows-kernel-exploitation-research"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-16",
+    "section": "Strategies & Tactics",
+    "title": "Jev as a judge: How counterfeit policy steers Jev",
+    "url": "https://securitylabs.datadoghq.com/articles/jev-as-a-judge-how-counterfeit-policy-steers-jev/?utm_source=tldrinfosec",
+    "summary": "A \"counterfeit policy\" prepended to untrusted content, supplying Jev's desired answers and redefining every attack category as something harmless, cut the decision model's prompt injection recall from 82.90% to 3.88% across 4,643 benchmark attacks. Datadog researchers then planted the policy in a user-editable profile field. They dropped LangChain tool-risk gating's mean risk score for an unauthorized edit from 0.893 to 0.290, under the 0.5 block threshold. Teams using Jev as a security gate should treat every user-controlled field that reaches the classifier as an attack surface and keep hard authorization checks outside the model.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securitylabs.datadoghq.com/articles/jev-as-a-judge-how-counterfeit-policy-steers-jev"
    },
    {
     "newsletter": "infosec",
