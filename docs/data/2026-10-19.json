@@ -356,18 +356,6 @@
     "newsletter": "ai",
     "date": "2026-10-19",
     "section": "Miscellaneous",
-    "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
-    "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
-    "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-19",
-    "section": "Miscellaneous",
     "title": "A benchmark map of the US economy",
     "url": "https://www.mercor.com/research/labor-index/benchmark-map/?utm_source=tldrai",
     "summary": "The Benchmark Map is a project aimed at building a comprehensive, continuously updated resource for understanding AI capabilities across the economy. Initial findings suggest that 90% of American working hours are spent on tasks with little or no coverage from existing benchmarks. This makes it very hard to know how good AI models are at the work Americans actually do.",
@@ -375,6 +363,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mercor.com/research/labor-index/benchmark-map"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-19",
+    "section": "Miscellaneous",
+    "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+    "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
    },
    {
     "newsletter": "ai",
@@ -1630,18 +1630,6 @@
     "newsletter": "founders",
     "date": "2026-10-19",
     "section": "Strategies & Tactics",
-    "title": "G2's 2026 AI Agents Report: Only 9% of Buyers Think Seat Pricing Is Fair, 57% Want Usage-Based, and 74% Will Shop You at Renewal",
-    "url": "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/?utm_source=tldrfounders",
-    "summary": "G2's 2026 AI Agents Report reveals 91% of B2B buyers find per-seat pricing unfair, with 57% preferring usage-based models. Buyers expect stronger agent capabilities, with 74% open to switching vendors at renewal and 72% valuing a robust ecosystem. 46% find agent running costs higher than anticipated, demanding real-time dashboards and spend caps for better cost control.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-19",
-    "section": "Strategies & Tactics",
     "title": "Negotiation & Multi-Turn Games",
     "url": "https://x.com/mvernal/status/2111465279880593654?utm_source=tldrfounders",
     "summary": "Negotiation works best as a collaborative process rather than a zero-sum contest. Understanding each side's priorities and constraints creates stronger, lasting outcomes across hiring, venture investments, sales, and acquisitions.",
@@ -1661,6 +1649,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://okaneland.com/ledger/app-store-or-web-checkout"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-19",
+    "section": "Strategies & Tactics",
+    "title": "G2's 2026 AI Agents Report: Only 9% of Buyers Think Seat Pricing Is Fair, 57% Want Usage-Based, and 74% Will Shop You at Renewal",
+    "url": "https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/?utm_source=tldrfounders",
+    "summary": "G2's 2026 AI Agents Report reveals 91% of B2B buyers find per-seat pricing unfair, with 57% preferring usage-based models. Buyers expect stronger agent capabilities, with 74% open to switching vendors at renewal and 72% valuing a robust ecosystem. 46% find agent running costs higher than anticipated, demanding real-time dashboards and spend caps for better cost control.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal"
    },
    {
     "newsletter": "founders",
@@ -1714,18 +1714,6 @@
     "newsletter": "founders",
     "date": "2026-10-19",
     "section": "Miscellaneous",
-    "title": "Delta's Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
-    "url": "https://www.seriouseats.com/biscoff-history-12168161?utm_source=tldrfounders",
-    "summary": "A peanut shortage gave an unfamiliar Belgian cookie access to Delta's passengers in 1986. The airline says the replacement was supposed to be temporary, but passengers began calling headquarters to ask where they could buy Biscoff. Lotus answered with mail order in the 1990s, then entered major US grocery stores through Kroger in 2006. Delta now serves 70 million packs a year. For a product customers need to try first, look for a business that already serves them and needs something inexpensive to hand out, then give those customers somewhere to reorder.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://seriouseats.com/biscoff-history-12168161"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-19",
-    "section": "Miscellaneous",
     "title": "What's still there if everyone has your code?",
     "url": "https://www.newsletter.lukesophinos.com/p/linear-1985-whats-still-there-if?utm_source=tldrfounders",
     "summary": "A competitor can copy a workflow tool without getting the network that makes it valuable. SnapDocs began by helping offices manage mortgage signings, then gave notaries and attorneys their own profiles so they could work across customers on one platform. It also learned which notaries might hold up a closing. A founding-team member says the network and data let it charge five to ten times legacy competitors' prices. If a rival copied your software, would customers still pay more for the people or transaction history on your platform?",
@@ -1745,6 +1733,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://platforms.substack.com/p/how-agents-unlock-new-markets"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-19",
+    "section": "Miscellaneous",
+    "title": "Delta's Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+    "url": "https://www.seriouseats.com/biscoff-history-12168161?utm_source=tldrfounders",
+    "summary": "A peanut shortage gave an unfamiliar Belgian cookie access to Delta's passengers in 1986. The airline says the replacement was supposed to be temporary, but passengers began calling headquarters to ask where they could buy Biscoff. Lotus answered with mail order in the 1990s, then entered major US grocery stores through Kroger in 2006. Delta now serves 70 million packs a year. For a product customers need to try first, look for a business that already serves them and needs something inexpensive to hand out, then give those customers somewhere to reorder.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://seriouseats.com/biscoff-history-12168161"
    },
    {
     "newsletter": "founders",
@@ -2018,18 +2018,6 @@
     "newsletter": "fintech",
     "date": "2026-10-19",
     "section": "Deep Dives & Reports",
-    "title": "Winning the relay race: Long-running agents in high-value customer journeys",
-    "url": "https://x.com/dhaber/status/2110370065870680236?utm_source=tldrfintech",
-    "summary": "The next major AI opportunity is “long-running agents” that own complex customer journeys across weeks or months, rather than completing isolated tasks. By maintaining context, coordinating sub-agents, and learning from each case, these systems could capture value that currently leaks across human handoffs and let vendors price against outcomes or revenue uplift, with go-to-market models ranging from software platforms to outsourced services to fully integrated AI-native businesses.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/dhaber/status/2110370065870680236"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-19",
-    "section": "Deep Dives & Reports",
     "title": "Stripe says agentic commerce activity went “vertical” in September",
     "url": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/?utm_source=tldrfintech",
     "summary": "Stripe President John Collison says agent-driven commerce on Stripe began accelerating sharply in September, suggesting AI agents are starting to move from product discovery into actual purchasing. He argues that computer use was a key unlock because agents can now navigate existing websites and complete purchases without native integrations, while payments companies still need to solve issues such as authorization, liability, and merchant acceptance.",
@@ -2037,6 +2025,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-19",
+    "section": "Deep Dives & Reports",
+    "title": "Winning the relay race: Long-running agents in high-value customer journeys",
+    "url": "https://x.com/dhaber/status/2110370065870680236?utm_source=tldrfintech",
+    "summary": "The next major AI opportunity is “long-running agents” that own complex customer journeys across weeks or months, rather than completing isolated tasks. By maintaining context, coordinating sub-agents, and learning from each case, these systems could capture value that currently leaks across human handoffs and let vendors price against outcomes or revenue uplift, with go-to-market models ranging from software platforms to outsourced services to fully integrated AI-native businesses.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/dhaber/status/2110370065870680236"
    },
    {
     "newsletter": "fintech",
@@ -2066,18 +2066,6 @@
     "newsletter": "fintech",
     "date": "2026-10-19",
     "section": "Launches & Products",
-    "title": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
-    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html?utm_source=tldrfintech",
-    "summary": "Mastercard and BVNK launched Global Money Platform, a single API that combines multi-currency fiat and stablecoin accounts, real-time conversion, stablecoin-linked cards, and local bank payouts through Mastercard Move. The platform is designed to let banks, fintechs, and enterprises manage and embed global money movement from one infrastructure layer, with future support planned for agentic commerce and additional regulated forms of money such as tokenized deposits.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-19",
-    "section": "Launches & Products",
     "title": "Patrick Collison says Privy has scaled rapidly inside Stripe",
     "url": "https://threadreaderapp.com/thread/2110755264484041076.html?utm_source=tldrfintech",
     "summary": "Patrick Collison says Privy has grown sharply since Stripe acquired it, with assets in wallets up about 25x, monthly active developers up 3x, revenue up 9x, and transaction volume approaching $25 billion per month. Stripe is now integrating Privy across Treasury, Link, and Connect while combining it with Bridge, fiat rails, cards, and stablecoins to build a programmable financial stack for both businesses and AI agents.",
@@ -2085,6 +2073,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2110755264484041076.html"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-19",
+    "section": "Launches & Products",
+    "title": "Mastercard and BVNK launch Global Money Platform for fiat and stablecoins",
+    "url": "https://www.mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html?utm_source=tldrfintech",
+    "summary": "Mastercard and BVNK launched Global Money Platform, a single API that combines multi-currency fiat and stablecoin accounts, real-time conversion, stablecoin-linked cards, and local bank payouts through Mastercard Move. The platform is designed to let banks, fintechs, and enterprises manage and embed global money movement from one infrastructure layer, with future support planned for agentic commerce and additional regulated forms of money such as tokenized deposits.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://mastercard.com/us/en/news-and-trends/press/2026/october/mastercard-and-bvnk-launch-global-money-platform-to-power-a-mult.html"
    },
    {
     "newsletter": "fintech",
@@ -2114,18 +2114,6 @@
     "newsletter": "fintech",
     "date": "2026-10-19",
     "section": "Quick Links",
-    "title": "The Next Phase of AI in Banking: From Pilots to Real Value",
-    "url": "https://www.finextra.com/blogposting/33196/the-next-phase-of-ai-in-banking-from-pilots-to-real-value?utm_source=tldrfintech",
-    "summary": "Banks are asking an important question about artificial intelligence: where can it make a real difference in everyday operations?",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/blogposting/33196/the-next-phase-of-ai-in-banking-from-pilots-to-real-value"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-19",
-    "section": "Quick Links",
     "title": "Stripe and Plasma team on multi-currency stablecoin cards",
     "url": "https://www.finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards?utm_source=tldrfintech",
     "summary": "Stripe and Plasma today announced a collaboration to launch multi-currency stablecoin cards, making it easier for people and businesses to spend across currencies and markets.",
@@ -2133,6 +2121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-19",
+    "section": "Quick Links",
+    "title": "The Next Phase of AI in Banking: From Pilots to Real Value",
+    "url": "https://www.finextra.com/blogposting/33196/the-next-phase-of-ai-in-banking-from-pilots-to-real-value?utm_source=tldrfintech",
+    "summary": "Banks are asking an important question about artificial intelligence: where can it make a real difference in everyday operations?",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/blogposting/33196/the-next-phase-of-ai-in-banking-from-pilots-to-real-value"
    }
   ],
   "it": [
@@ -2188,18 +2188,6 @@
     "newsletter": "it",
     "date": "2026-10-19",
     "section": "Analysis & Opinions",
-    "title": "What happens when AI agents work more hours than employees?",
-    "url": "https://www.anthropic.com/research/employment-at-anthropic?utm_source=tldrit",
-    "summary": "Anthropic's internal research found that interactive agent hours outnumbered employee hours six to one by August, while output increased and junior technical roles represented a smaller share of hiring. Human attention is becoming a bottleneck, pushing employees toward monitoring agent pipelines and hiring managers toward prioritizing judgment and autonomy.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/research/employment-at-anthropic"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-19",
-    "section": "Analysis & Opinions",
     "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame",
     "url": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame/?utm_source=tldrit",
     "summary": "ServiceNow's AI Control Tower provides a strong governance workflow and system of action for enterprise AI. However, customer interviews reveal that claims of end-to-end technical governance and a universal runtime kill switch are overstated, with runtime enforcement typically handled by external or custom tools. Additionally, customers face meaningful friction regarding configuration costs, CMDB hygiene, and pricing tier uplifts.",
@@ -2207,6 +2195,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://siliconangle.com/2026/10/17/servicenow-ai-control-tower-selling-a-penthouse-while-building-the-frame"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-19",
+    "section": "Analysis & Opinions",
+    "title": "What happens when AI agents work more hours than employees?",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic?utm_source=tldrit",
+    "summary": "Anthropic's internal research found that interactive agent hours outnumbered employee hours six to one by August, while output increased and junior technical roles represented a smaller share of hiring. Human attention is becoming a bottleneck, pushing employees toward monitoring agent pipelines and hiring managers toward prioritizing judgment and autonomy.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/research/employment-at-anthropic"
    },
    {
     "newsletter": "it",
