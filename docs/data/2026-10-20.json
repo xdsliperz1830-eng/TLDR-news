@@ -368,18 +368,6 @@
     "newsletter": "ai",
     "date": "2026-10-20",
     "section": "Quick Links",
-    "title": "Improving AI Coding in Older Programming Languages",
-    "url": "https://openai.com/index/low-resource-programming-languages/?utm_source=tldrai",
-    "summary": "OpenAI reported major improvements in coding and software migration across languages such as COBOL, Fortran, and Visual Basic.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/low-resource-programming-languages"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-20",
-    "section": "Quick Links",
     "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
     "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/?utm_source=tldrai",
     "summary": "Meta built an orchestrator that routes workflows to specialized AI agents without performing any of the domain work itself.",
@@ -411,6 +399,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-20",
+    "section": "Quick Links",
+    "title": "Improving AI Coding in Older Programming Languages",
+    "url": "https://openai.com/index/low-resource-programming-languages/?utm_source=tldrai",
+    "summary": "OpenAI reported major improvements in coding and software migration across languages such as COBOL, Fortran, and Visual Basic.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/low-resource-programming-languages"
    }
   ],
   "webdev": [
@@ -442,18 +442,6 @@
     "newsletter": "webdev",
     "date": "2026-10-20",
     "section": "Articles & Tutorials",
-    "title": "Making a website AI friendly: what the bots actually fetched from mine",
-    "url": "https://pournasserian.com/writing/ai-friendly-website-2026?utm_source=tldrdev",
-    "summary": "An analysis of 18 days of traffic to one personal site found that verified crawlers mostly fetched ordinary pages, robots.txt, and the sitemap. Markdown copies attracted verified crawlers within a day, while llms.txt saw no verified training or search crawler requests, suggesting that basic HTML and measured traffic matter more than adding every proposed discovery file.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://pournasserian.com/writing/ai-friendly-website-2026"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-20",
-    "section": "Articles & Tutorials",
     "title": "The generic circular dependency problem",
     "url": "https://www.jayfreestone.com/writing/the-generic-circular-dependency-problem/?utm_source=tldrdev",
     "summary": "Generic services become coupled to their consumers when shared types or domain logic pull application knowledge back into analytics, email, or authorization modules. Domain wrappers, locally owned handlers, smaller contracts, and plugin registration can break those cycles, while extracting a shared type package may only hide the conceptual coupling.",
@@ -461,6 +449,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://jayfreestone.com/writing/the-generic-circular-dependency-problem"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-20",
+    "section": "Articles & Tutorials",
+    "title": "Making a website AI friendly: what the bots actually fetched from mine",
+    "url": "https://pournasserian.com/writing/ai-friendly-website-2026?utm_source=tldrdev",
+    "summary": "An analysis of 18 days of traffic to one personal site found that verified crawlers mostly fetched ordinary pages, robots.txt, and the sitemap. Markdown copies attracted verified crawlers within a day, while llms.txt saw no verified training or search crawler requests, suggesting that basic HTML and measured traffic matter more than adding every proposed discovery file.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://pournasserian.com/writing/ai-friendly-website-2026"
    },
    {
     "newsletter": "webdev",
@@ -1108,18 +1108,6 @@
     "newsletter": "design",
     "date": "2026-10-20",
     "section": "Launches & Tools",
-    "title": "A Web Framework for Building 3D/AR/VR Experiences",
-    "url": "https://aframe.io/?utm_source=tldrdesign",
-    "summary": "Make 3D worlds with HTML and Entity-Component, on any headset, mobile, and desktop.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://aframe.io/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-20",
-    "section": "Launches & Tools",
     "title": "The Collaborative Workspace for Hand-Drawn Diagrams",
     "url": "https://excaliclaw.com/?utm_source=tldrdesign",
     "summary": "ExcaliClaw is a collaborative workspace for hand-drawn diagrams. Organize, search, share, and create diagrams with Claude, Cursor, and VS Code through MCP.",
@@ -1127,6 +1115,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://excaliclaw.com/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-20",
+    "section": "Launches & Tools",
+    "title": "A Web Framework for Building 3D/AR/VR Experiences",
+    "url": "https://aframe.io/?utm_source=tldrdesign",
+    "summary": "Make 3D worlds with HTML and Entity-Component, on any headset, mobile, and desktop.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://aframe.io/"
    },
    {
     "newsletter": "design",
@@ -1168,18 +1168,6 @@
     "newsletter": "design",
     "date": "2026-10-20",
     "section": "Quick Links",
-    "title": "At ORGATEC 2026 Sihoo Introduces Self Adjusting Chairs Built to Boost Creative Work",
-    "url": "https://www.designboom.com/design/orgatec-2026-sihoo-office-chairs/?utm_source=tldrdesign",
-    "summary": "Sihoo's self-adjusting H300 Pro and Doro C300 Pro V2 chairs, which have lumbar support that adapts to posture shifts, will be shown at ORGATEC 2026 in Cologne.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://designboom.com/design/orgatec-2026-sihoo-office-chairs"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-20",
-    "section": "Quick Links",
     "title": "UX Maps: Glossary",
     "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=tldrdesign",
     "summary": "NN/g's UX Maps glossary defines and distinguishes common mapping tools.",
@@ -1187,6 +1175,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nngroup.com/articles/ux-maps-glossary"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-20",
+    "section": "Quick Links",
+    "title": "At ORGATEC 2026 Sihoo Introduces Self Adjusting Chairs Built to Boost Creative Work",
+    "url": "https://www.designboom.com/design/orgatec-2026-sihoo-office-chairs/?utm_source=tldrdesign",
+    "summary": "Sihoo's self-adjusting H300 Pro and Doro C300 Pro V2 chairs, which have lumbar support that adapts to posture shifts, will be shown at ORGATEC 2026 in Cologne.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://designboom.com/design/orgatec-2026-sihoo-office-chairs"
    }
   ],
   "marketing": [
@@ -1338,18 +1338,6 @@
     "newsletter": "marketing",
     "date": "2026-10-20",
     "section": "Quick Links",
-    "title": "‘No influencers': the hotels, restaurants and beauty spots restricting photoshoots",
-    "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots?utm_source=tldrmarketing",
-    "summary": "Hotels and restaurants are restricting photography as visitors use them as content backdrops rather than places to eat or stay.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-20",
-    "section": "Quick Links",
     "title": "More Than Half of Podcast Listeners Say Ad Load Is Too High",
     "url": "https://www.netinfluencer.com/more-than-half-of-podcast-listeners-say-ad-load-is-too-high-favor-host-reads-free-membership-tiers-study-finds/?utm_source=tldrmarketing",
     "summary": "55% of podcast listeners say there are too many ads, while host-read spots outperform prerecorded ads.",
@@ -1357,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://netinfluencer.com/more-than-half-of-podcast-listeners-say-ad-load-is-too-high-favor-host-reads-free-membership-tiers-study-finds"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-20",
+    "section": "Quick Links",
+    "title": "‘No influencers': the hotels, restaurants and beauty spots restricting photoshoots",
+    "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots?utm_source=tldrmarketing",
+    "summary": "Hotels and restaurants are restricting photography as visitors use them as content backdrops rather than places to eat or stay.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"
    }
   ],
   "crypto": [
@@ -1510,18 +1510,6 @@
     "newsletter": "it",
     "date": "2026-10-20",
     "section": "News & Trends",
-    "title": "Microsoft exits UK data center deal amid power delays",
-    "url": "https://www.cloudcomputing-news.net/news/microsoft-nscale-uk-ai-data-centre/?utm_source=tldrit",
-    "summary": "Microsoft reportedly terminated its agreement for capacity at Nscale's planned Loughton facility amid electricity supply delays that could extend into the 2030s. Nscale says the development will proceed and its other Microsoft contracts remain unaffected, highlighting the growing importance of power availability in AI infrastructure planning.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cloudcomputing-news.net/news/microsoft-nscale-uk-ai-data-centre"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-20",
-    "section": "News & Trends",
     "title": "Accenture weighs $1.5 billion sale of its China consulting business",
     "url": "https://startupfortune.com/accenture-weighs-15-billion-sale-of-its-china-consulting-business/?utm_source=tldrit",
     "summary": "Accenture has hired JPMorgan to explore the sale of its Greater China consulting operations in a deal potentially worth up to $1.5 billion. The strategic review follows unsolicited interest and comes as Beijing restricts foreign consultants from advising state-owned enterprises. Meanwhile, Accenture is redirecting capital and focus toward expanding its artificial intelligence capabilities globally.",
@@ -1545,14 +1533,14 @@
    {
     "newsletter": "it",
     "date": "2026-10-20",
-    "section": "Analysis & Opinions",
-    "title": "The agents nobody meant to build",
-    "url": "https://www.cio.com/article/4236549/the-agents-nobody-meant-to-build.html?utm_source=tldrit",
-    "summary": "IT leaders face an emerging challenge with unsanctioned AI agents created inadvertently by employees using approved desktop tools and recurring workflows. Gartner forecasts that 40% of enterprises will demote or shut down agents by 2027 due to governance gaps, security risks, and a lack of ownership visibility. Managing this risk requires placing hard limits on what agents can touch and integrating education directly into tool access.",
-    "read_minutes": 7,
+    "section": "News & Trends",
+    "title": "Microsoft exits UK data center deal amid power delays",
+    "url": "https://www.cloudcomputing-news.net/news/microsoft-nscale-uk-ai-data-centre/?utm_source=tldrit",
+    "summary": "Microsoft reportedly terminated its agreement for capacity at Nscale's planned Loughton facility amid electricity supply delays that could extend into the 2030s. Nscale says the development will proceed and its other Microsoft contracts remain unaffected, highlighting the growing importance of power availability in AI infrastructure planning.",
+    "read_minutes": 5,
     "kind": null,
     "sponsored": false,
-    "key": "https://cio.com/article/4236549/the-agents-nobody-meant-to-build.html"
+    "key": "https://cloudcomputing-news.net/news/microsoft-nscale-uk-ai-data-centre"
    },
    {
     "newsletter": "it",
@@ -1577,6 +1565,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://infocepts.ai/blog/ai-governance-context-orchestration"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-20",
+    "section": "Analysis & Opinions",
+    "title": "The agents nobody meant to build",
+    "url": "https://www.cio.com/article/4236549/the-agents-nobody-meant-to-build.html?utm_source=tldrit",
+    "summary": "IT leaders face an emerging challenge with unsanctioned AI agents created inadvertently by employees using approved desktop tools and recurring workflows. Gartner forecasts that 40% of enterprises will demote or shut down agents by 2027 due to governance gaps, security risks, and a lack of ownership visibility. Managing this risk requires placing hard limits on what agents can touch and integrating education directly into tool access.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cio.com/article/4236549/the-agents-nobody-meant-to-build.html"
    },
    {
     "newsletter": "it",
@@ -1630,18 +1630,6 @@
     "newsletter": "it",
     "date": "2026-10-20",
     "section": "Quick Links",
-    "title": "IBM Doesn't Need to Sell More Products, It Needs to Sell Its Enterprise AI Harness",
-    "url": "https://www.horsesforsources.com/ibm-sell-ai-harness-it-built-on-itself_101726/?utm_source=tldrit",
-    "summary": "IBM successfully scaled an internal AI harness built over two and a half years to a significant portion of its client base, demonstrating a viable business model for enterprise transformation.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://horsesforsources.com/ibm-sell-ai-harness-it-built-on-itself_101726"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-20",
-    "section": "Quick Links",
     "title": "OpenCode reports account compromise",
     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/?utm_source=tldrit",
     "summary": "Attackers compromised an older OpenCode system, affecting 1.4% of Console users.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-20",
+    "section": "Quick Links",
+    "title": "IBM Doesn't Need to Sell More Products, It Needs to Sell Its Enterprise AI Harness",
+    "url": "https://www.horsesforsources.com/ibm-sell-ai-harness-it-built-on-itself_101726/?utm_source=tldrit",
+    "summary": "IBM successfully scaled an internal AI harness built over two and a half years to a significant portion of its client base, demonstrating a viable business model for enterprise transformation.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://horsesforsources.com/ibm-sell-ai-harness-it-built-on-itself_101726"
    }
   ]
  }
