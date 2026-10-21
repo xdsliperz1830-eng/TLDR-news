@@ -272,18 +272,6 @@
     "newsletter": "ai",
     "date": "2026-10-21",
     "section": "Engineering & Research",
-    "title": "llm-d",
-    "url": "https://llm-d.ai/?utm_source=tldrai",
-    "summary": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywhere with predictable cost and behavior.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://llm-d.ai/"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-21",
-    "section": "Engineering & Research",
     "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment",
     "url": "https://zhuanlan.zhihu.com/p/2095560295930508953?utm_source=tldrai",
     "summary": "DeepInfer combines distributed inference, caching, load balancing, and speculative decoding to improve efficiency. DeepSeek processes 155 trillion tokens daily per cluster and earns $38 in revenue per GPU-hour while open-sourcing much of its inference framework.",
@@ -319,6 +307,18 @@
    {
     "newsletter": "ai",
     "date": "2026-10-21",
+    "section": "Engineering & Research",
+    "title": "llm-d",
+    "url": "https://llm-d.ai/?utm_source=tldrai",
+    "summary": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywhere with predictable cost and behavior.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://llm-d.ai/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-21",
     "section": "Miscellaneous",
     "title": "Sundar Pichai on Google's AI Strategy and Compute Tradeoffs",
     "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative?utm_source=tldrai",
@@ -327,18 +327,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bigtechnology.com/p/sundar-pichai-googles-frontier-imperative"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-21",
-    "section": "Miscellaneous",
-    "title": "Coxon Day",
-    "url": "https://www.thenewcritic.com/p/coxon-day?utm_source=tldrai",
-    "summary": "On September 8, Jacob Coxon, a 27-year-old machine learning researcher who had resigned from Anthropic, warned the world that AI companies were not acting responsibly and that they were gambling with people's lives by racing straight to self-improving superintelligence. Many researchers seriously believe that AI could kill all humans. While Anthropic may be trying its best, it still doesn't have a plan to solve alignment for superintelligence and is not on track to.",
-    "read_minutes": 48,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thenewcritic.com/p/coxon-day"
    },
    {
     "newsletter": "ai",
@@ -363,6 +351,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-21",
+    "section": "Miscellaneous",
+    "title": "Coxon Day",
+    "url": "https://www.thenewcritic.com/p/coxon-day?utm_source=tldrai",
+    "summary": "On September 8, Jacob Coxon, a 27-year-old machine learning researcher who had resigned from Anthropic, warned the world that AI companies were not acting responsibly and that they were gambling with people's lives by racing straight to self-improving superintelligence. Many researchers seriously believe that AI could kill all humans. While Anthropic may be trying its best, it still doesn't have a plan to solve alignment for superintelligence and is not on track to.",
+    "read_minutes": 48,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thenewcritic.com/p/coxon-day"
    },
    {
     "newsletter": "ai",
@@ -490,18 +490,6 @@
     "newsletter": "webdev",
     "date": "2026-10-21",
     "section": "Articles & Tutorials",
-    "title": "How to Build a Decision Model Like Jev",
-    "url": "https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev/?utm_source=tldrdev",
-    "summary": "Decision models return probabilities over known outcomes in a single forward pass, avoiding the text generation and JSON parsing overhead of chat completions. This walkthrough starts with Hugging Face's /v1/systemone endpoint, then covers reserved option tokens, calibration, soft training targets, and tree batching for multiple questions over shared context.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fratepietro.com/2026/how-to-build-a-decision-model-like-jev"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-21",
-    "section": "Articles & Tutorials",
     "title": "Building Laminar: Ramp's Managed Agents Platform",
     "url": "https://builders.ramp.com/post/building-laminar?utm_source=tldrdev",
     "summary": "Ramp consolidated its agentic products onto an in-house, model-agnostic harness built on Postgres, Temporal, and S3. Session state lives independently of disposable sandboxes, while asynchronous steering, subagents, and shared tracing support everything from support chat to long-running knowledge work. The first version took six weeks to build, with experienced engineers steering and reviewing agent-generated code.",
@@ -521,6 +509,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://karlkoch.me/writing/on-alignment-that-looks-wrong"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-21",
+    "section": "Articles & Tutorials",
+    "title": "How to Build a Decision Model Like Jev",
+    "url": "https://www.fratepietro.com/2026/how-to-build-a-decision-model-like-jev/?utm_source=tldrdev",
+    "summary": "Decision models return probabilities over known outcomes in a single forward pass, avoiding the text generation and JSON parsing overhead of chat completions. This walkthrough starts with Hugging Face's /v1/systemone endpoint, then covers reserved option tokens, calibration, soft training targets, and tree batching for multiple questions over shared context.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fratepietro.com/2026/how-to-build-a-decision-model-like-jev"
    },
    {
     "newsletter": "webdev",
@@ -840,18 +840,6 @@
     "newsletter": "infosec",
     "date": "2026-10-21",
     "section": "Miscellaneous",
-    "title": "DHS to Ban DeepSeek From Federal Civilian Agencies",
-    "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/?utm_source=tldrinfosec",
-    "summary": "The Department of Homeland Security announced a new ban on the procurement of products from DeepSeek. The directive cited national security concerns stemming from the potential for sensitive data to be stored or processed in China. Agencies will have 60 days to request exceptions to the policy.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-21",
-    "section": "Miscellaneous",
     "title": "Our latest defenses against evolving web scams",
     "url": "https://blog.google/security/our-latest-defenses-against-evolving-web-scams/?utm_source=tldrinfosec",
     "summary": "Chrome's Enhanced Protection added ClickFix detection that scrubs PII from copied commands, sends them to Safe Browsing for analysis, and warns users when the verdict comes back dangerous. Google also moved its Gemini scam detection from on-device to a server-side model that scores page intent and brand impersonation, and it added a lower-confidence \"suspicious site\" warning tier beneath the familiar red interstitial. The company claimed Enhanced Protection users were ten times safer than Standard Protection users, a figure drawn from Google's own measurement.",
@@ -871,6 +859,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-21",
+    "section": "Miscellaneous",
+    "title": "DHS to Ban DeepSeek From Federal Civilian Agencies",
+    "url": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/?utm_source=tldrinfosec",
+    "summary": "The Department of Homeland Security announced a new ban on the procurement of products from DeepSeek. The directive cited national security concerns stemming from the potential for sensitive data to be stored or processed in China. Agencies will have 60 days to request exceptions to the policy.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies"
    },
    {
     "newsletter": "infosec",
