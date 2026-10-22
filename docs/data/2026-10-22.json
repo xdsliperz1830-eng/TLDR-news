@@ -284,18 +284,6 @@
     "newsletter": "ai",
     "date": "2026-10-22",
     "section": "Deep Dives & Analysis",
-    "title": "Claude Mods: Flipping the Harness Inside Out",
-    "url": "https://www.latent.space/p/claude-mods?utm_source=tldrai",
-    "summary": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://latent.space/p/claude-mods"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-22",
-    "section": "Deep Dives & Analysis",
     "title": "How does Fable 5.1 hide messages in images?",
     "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images?utm_source=tldrai",
     "summary": "Language models can encode messages in images. These messages can be decoded by the same language model even if no information about the encoding method is passed. The act of decoding the hidden messages is obvious if the tool calls of the decoding model are monitored. The encoded messaging is surprisingly hard to spot, and it could be used as a precursor to steganography in images.",
@@ -303,6 +291,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-22",
+    "section": "Deep Dives & Analysis",
+    "title": "Claude Mods: Flipping the Harness Inside Out",
+    "url": "https://www.latent.space/p/claude-mods?utm_source=tldrai",
+    "summary": "Claude Mods flips the agent harness paradigm to face the human, creating a customizable \"Attention Interface\" for Claude AI. Mods are TypeScript or JavaScript functions that alter Claude Code's behavior in real-time, allowing users to design how Claude interacts with them. This shift lets users program the human-agent interface and even have Claude build mods, enhancing workflow and decision-making.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://latent.space/p/claude-mods"
    },
    {
     "newsletter": "ai",
@@ -622,18 +622,6 @@
     "newsletter": "webdev",
     "date": "2026-10-22",
     "section": "Quick Links",
-    "title": "OpenAI Models Are Coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud/?utm_source=tldrdev",
-    "summary": "OpenAI frontier models and Codex workflows are coming to Google Cloud's Model Garden.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/openai-models-google-cloud"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-22",
-    "section": "Quick Links",
     "title": "Railway Security Disclosure",
     "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st?utm_source=tldrdev",
     "summary": "Railway reports possible unauthorized access to customer environment variables, including some decrypted contents, and recommends rotating stored secrets and private registry credentials while reviewing service logs.",
@@ -665,6 +653,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://boristhebrave.com/2026/10/18/chain-of-thought-for-humans"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-22",
+    "section": "Quick Links",
+    "title": "OpenAI Models Are Coming to Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud/?utm_source=tldrdev",
+    "summary": "OpenAI frontier models and Codex workflows are coming to Google Cloud's Model Garden.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/openai-models-google-cloud"
    }
   ],
   "infosec": [
@@ -986,18 +986,6 @@
     "newsletter": "data",
     "date": "2026-10-22",
     "section": "Launches & Tools",
-    "title": "PyDebeziumAI",
-    "url": "https://github.com/debezium/debezium-ai-python?utm_source=tldrdata",
-    "summary": "PyDebeziumAI turns database changes into deterministic vector-store upserts and deletes by embedding Debezium's CDC engine inside a Python process. It removes Kafka and Connect from small RAG deployments, compacts bursts of mutations, and supports Chroma, PGVector, and Milvus. The contribution is treating retrieval freshness as a CDC problem, with idempotency and a dead-letter queue rather than periodic re-indexing.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/debezium/debezium-ai-python"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-22",
-    "section": "Launches & Tools",
     "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
     "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200?utm_source=tldrdata",
     "summary": "DuckDB 2.0 LTS improves client-server support, faster file reads, improved semi-structured data handling, an AI agent mode, and SQL triggers. It is supported until at least October 2027, but database files created in 2.0 cannot be read by older versions.",
@@ -1005,6 +993,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://duckdb.org/2026/10/21/announcing-duckdb-200"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-22",
+    "section": "Launches & Tools",
+    "title": "PyDebeziumAI",
+    "url": "https://github.com/debezium/debezium-ai-python?utm_source=tldrdata",
+    "summary": "PyDebeziumAI turns database changes into deterministic vector-store upserts and deletes by embedding Debezium's CDC engine inside a Python process. It removes Kafka and Connect from small RAG deployments, compacts bursts of mutations, and supports Chroma, PGVector, and Milvus. The contribution is treating retrieval freshness as a CDC problem, with idempotency and a dead-letter queue rather than periodic re-indexing.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/debezium/debezium-ai-python"
    },
    {
     "newsletter": "data",
@@ -1362,18 +1362,6 @@
     "newsletter": "marketing",
     "date": "2026-10-22",
     "section": "Miscellaneous",
-    "title": "GEO is a distraction",
-    "url": "https://www.mariehaynes.com/geo-is-a-distraction/?utm_source=tldrmarketing",
-    "summary": "Optimizing for ChatGPT citations and other LLM mentions is a distraction because AI tools generated just 0.73% of Google Organic's traffic across 100 websites, while Google Organic accounted for 96.5% of tracked conversions. Focus on conversions and user satisfaction across Google Search, including AI Overviews and AI Mode, rather than chasing AI visibility metrics. Longer term, there are opportunities in agentic commerce through Google Merchant Center and Universal Cart, the Universal Commerce Protocol for agent-led purchases, WebMCP tools that let AI agents use website functions, and smart eyewear that enables new shopping and service interactions. You can begin preparing by improving product data and experimenting with agent accessible tools as these technologies develop.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://mariehaynes.com/geo-is-a-distraction"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-22",
-    "section": "Miscellaneous",
     "title": "Commission isn't enough: 57 creators say they want more from affiliate programs",
     "url": "https://www.modash.io/blog/creator-affiliate-survey?utm_source=tldrmarketing",
     "summary": "Affiliate programs are more effective when brands treat creators as long-term partners rather than relying on commissions alone. Although 68% of surveyed creators still accept affiliate commissions, many say the rates don't justify the work without additional payment, product gifting, and brand support. 72% of creators said brands don't provide new products often enough, and most prefer monthly gifting. Creators also want more hands-on management, including regular communication, performance reviews, and promotional resources. Tiered commissions, bonuses, and ongoing relationship management can help brands keep affiliates active and build sustained revenue.",
@@ -1381,6 +1369,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://modash.io/blog/creator-affiliate-survey"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-22",
+    "section": "Miscellaneous",
+    "title": "GEO is a distraction",
+    "url": "https://www.mariehaynes.com/geo-is-a-distraction/?utm_source=tldrmarketing",
+    "summary": "Optimizing for ChatGPT citations and other LLM mentions is a distraction because AI tools generated just 0.73% of Google Organic's traffic across 100 websites, while Google Organic accounted for 96.5% of tracked conversions. Focus on conversions and user satisfaction across Google Search, including AI Overviews and AI Mode, rather than chasing AI visibility metrics. Longer term, there are opportunities in agentic commerce through Google Merchant Center and Universal Cart, the Universal Commerce Protocol for agent-led purchases, WebMCP tools that let AI agents use website functions, and smart eyewear that enables new shopping and service interactions. You can begin preparing by improving product data and experimenting with agent accessible tools as these technologies develop.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://mariehaynes.com/geo-is-a-distraction"
    },
    {
     "newsletter": "marketing",
@@ -1398,18 +1398,6 @@
     "newsletter": "marketing",
     "date": "2026-10-22",
     "section": "Quick Links",
-    "title": "Disney and Netflix Are Courting Creators. YouTube Is Playing Hardball to Keep Them",
-    "url": "https://www.hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199/?utm_source=tldrmarketing",
-    "summary": "Netflix, Disney, and Tubi are investing in creator and podcast programming, while YouTube has responded with more brand-deal resources.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-22",
-    "section": "Quick Links",
     "title": "AI Mentions Don't Equal Recommendations",
     "url": "https://www.linkedin.com/posts/irinamaltseva_your-ai-visibility-score-can-go-up-while-share-7517944348853006339-rYCE/?utm_source=tldrmarketing",
     "summary": "AI visibility metrics can be misleading when ChatGPT mentions a brand but recommends competitors, making actual recommendations more valuable than mentions alone.",
@@ -1417,6 +1405,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/posts/irinamaltseva_your-ai-visibility-score-can-go-up-while-share-7517944348853006339-rYCE"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-22",
+    "section": "Quick Links",
+    "title": "Disney and Netflix Are Courting Creators. YouTube Is Playing Hardball to Keep Them",
+    "url": "https://www.hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199/?utm_source=tldrmarketing",
+    "summary": "Netflix, Disney, and Tubi are investing in creator and podcast programming, while YouTube has responded with more brand-deal resources.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199"
    }
   ],
   "crypto": [
@@ -1726,18 +1726,6 @@
     "newsletter": "fintech",
     "date": "2026-10-22",
     "section": "Quick Links",
-    "title": "Passkeys and Agentic Checkout: Vladyslav Kolodistyi on Authenticating Payments",
-    "url": "https://www.finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments?utm_source=tldrfintech",
-    "summary": "When an agent handles checkout, authentication moves from the payment itself to the mandate the customer grants the agent.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-22",
-    "section": "Quick Links",
     "title": "Britain seeks to break Apple's grip on contactless payments",
     "url": "https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/?utm_source=tldrfintech",
     "summary": "Britain's competition regulator proposed substantially lower access fees and fewer technical restrictions for companies using the iPhone's contactless technology.",
@@ -1745,6 +1733,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-22",
+    "section": "Quick Links",
+    "title": "Passkeys and Agentic Checkout: Vladyslav Kolodistyi on Authenticating Payments",
+    "url": "https://www.finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments?utm_source=tldrfintech",
+    "summary": "When an agent handles checkout, authentication moves from the payment itself to the mandate the customer grants the agent.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments"
    }
   ],
   "it": [

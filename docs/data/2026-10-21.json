@@ -574,18 +574,6 @@
     "newsletter": "webdev",
     "date": "2026-10-21",
     "section": "Launches & Tools",
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/?utm_source=tldrdev",
-    "summary": "Mistral's Voxtral 3 combines transcription, expressive speech generation, and a voice agent SDK for streaming conversations with tool calls. Transcription supports more than 50 languages, while speech synthesis covers more than 35 languages and 50 dialects. The models are available through an EU-hosted API or self-deployment.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://mistral.ai/news/voxtral-3"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-21",
-    "section": "Launches & Tools",
     "title": "Introducing tsrs: A Port of TypeScript to Rust",
     "url": "https://blog.cloudflare.com/typescript-rust-port/?utm_source=tldrdev",
     "summary": "Cloudflare and VoidZero, in collaboration with the TypeScript team, are developing tsrs as a faithful Rust port of TypeScript within the Oxc toolchain. Early matched-configuration benchmarks report up to 8x faster checking and about 70% less memory than TypeScript 7.0. An experimental npm release is available, though compatibility differences remain before a stable release.",
@@ -593,6 +581,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.cloudflare.com/typescript-rust-port"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-21",
+    "section": "Launches & Tools",
+    "title": "Voxtral 3",
+    "url": "https://mistral.ai/news/voxtral-3/?utm_source=tldrdev",
+    "summary": "Mistral's Voxtral 3 combines transcription, expressive speech generation, and a voice agent SDK for streaming conversations with tool calls. Transcription supports more than 50 languages, while speech synthesis covers more than 35 languages and 50 dialects. The models are available through an EU-hosted API or self-deployment.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://mistral.ai/news/voxtral-3"
    },
    {
     "newsletter": "webdev",
