@@ -174,18 +174,6 @@
     "newsletter": "tech",
     "date": "2026-10-21",
     "section": "Quick Links",
-    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-    "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/?utm_source=tldrnewsletter",
-    "summary": "CVE-2026-109618 and CVE-2026-109619 are remote code execution flaws believed to affect PHP versions 5, 6, 7, and 8.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-21",
-    "section": "Quick Links",
     "title": "Can a Million AI Agents Create Superintelligence",
     "url": "https://www.rameznaam.com/p/can-a-million-ai-agents-create-superintelligence?utm_source=tldrnewsletter",
     "summary": "Today's feedback loop is probably too weak, as improving AI faces diminishing returns at every step.",
@@ -217,6 +205,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-21",
+    "section": "Quick Links",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/?utm_source=tldrnewsletter",
+    "summary": "CVE-2026-109618 and CVE-2026-109619 are remote code execution flaws believed to affect PHP versions 5, 6, 7, and 8.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow"
    }
   ],
   "ai": [
@@ -272,6 +272,18 @@
     "newsletter": "ai",
     "date": "2026-10-21",
     "section": "Engineering & Research",
+    "title": "llm-d",
+    "url": "https://llm-d.ai/?utm_source=tldrai",
+    "summary": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywhere with predictable cost and behavior.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://llm-d.ai/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-21",
+    "section": "Engineering & Research",
     "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment",
     "url": "https://zhuanlan.zhihu.com/p/2095560295930508953?utm_source=tldrai",
     "summary": "DeepInfer combines distributed inference, caching, load balancing, and speculative decoding to improve efficiency. DeepSeek processes 155 trillion tokens daily per cluster and earns $38 in revenue per GPU-hour while open-sourcing much of its inference framework.",
@@ -303,18 +315,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://builders.ramp.com/post/building-laminar"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-21",
-    "section": "Engineering & Research",
-    "title": "llm-d",
-    "url": "https://llm-d.ai/?utm_source=tldrai",
-    "summary": "llm-d is a Kubernetes-native stack for distributed LLM inference. It runs vLLM, SGLang, and more across clusters, turning single-node engines into production-grade serving on local hardware. llm-d provides tested deployment recipes for common production patterns that are adaptable starting points across models, hardware, and workloads. It runs production LLM inference across GPUs, TPUs, XPUs, CPUs, and emerging NPUs with consistent performance patterns, so teams can deploy once and scale anywhere with predictable cost and behavior.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://llm-d.ai/"
    },
    {
     "newsletter": "ai",
@@ -804,6 +804,18 @@
     "newsletter": "infosec",
     "date": "2026-10-21",
     "section": "Launches & Tools",
+    "title": "Velociraptor Skills",
+    "url": "https://github.com/ig-labs/velociraptor-skills?utm_source=tldrinfosec",
+    "summary": "A collection of public, reusable Codex skills and DFIR tooling for Velociraptor setup, collection, hunting, and host analysis.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/ig-labs/velociraptor-skills"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-21",
+    "section": "Launches & Tools",
     "title": "MIND (Product Launch)",
     "url": "https://mind.io/?utm_source=tldrinfosec",
     "summary": "MIND is a data loss prevention platform that detects and blocks data exfiltration across email, endpoints, generative AI tools, and SaaS. It classifies content and context, then investigates events, tunes policies, and resolves issues.",
@@ -823,18 +835,6 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/microsoft/quicksand"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-21",
-    "section": "Launches & Tools",
-    "title": "Velociraptor Skills",
-    "url": "https://github.com/ig-labs/velociraptor-skills?utm_source=tldrinfosec",
-    "summary": "A collection of public, reusable Codex skills and DFIR tooling for Velociraptor setup, collection, hunting, and host analysis.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/ig-labs/velociraptor-skills"
    },
    {
     "newsletter": "infosec",
@@ -962,6 +962,18 @@
     "newsletter": "devops",
     "date": "2026-10-21",
     "section": "Opinions & Tutorials",
+    "title": "Redesigning Source Control at Anthropic",
+    "url": "https://www.anthropic.com/research/redesigning-source-control?utm_source=tldrdevops",
+    "summary": "Anthropic replaced Git for its monorepo with Scion, a centralized source control system designed for tens of millions of daily CI checkouts. Content-addressed storage, server-side repository operations, and tiered caches reduced its source-control CPU and memory footprint 200× compared with its previous Git mirroring infrastructure.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/research/redesigning-source-control"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-10-21",
+    "section": "Opinions & Tutorials",
     "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
     "url": "https://thenewstack.io/ai-agents-kubernetes-control/?utm_source=tldrdevops",
     "summary": "Kubernetes operators suit deterministic reconciliation, while AI agents suit goals with unclear paths, according to a CNCF-sponsored piece. Use an observe, diagnose, propose, approve, reconcile, and verify loop, with autonomy phased from read-only investigation to approved low-risk changes.",
@@ -981,18 +993,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://internals-for-interns.com/posts/go-simd"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-10-21",
-    "section": "Opinions & Tutorials",
-    "title": "Redesigning Source Control at Anthropic",
-    "url": "https://www.anthropic.com/research/redesigning-source-control?utm_source=tldrdevops",
-    "summary": "Anthropic replaced Git for its monorepo with Scion, a centralized source control system designed for tens of millions of daily CI checkouts. Content-addressed storage, server-side repository operations, and tiered caches reduced its source-control CPU and memory footprint 200× compared with its previous Git mirroring infrastructure.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/research/redesigning-source-control"
    },
    {
     "newsletter": "devops",
@@ -1132,18 +1132,6 @@
     "newsletter": "design",
     "date": "2026-10-21",
     "section": "Opinions & Tutorials",
-    "title": "Pure UI in the Agentic Era",
-    "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/?utm_source=tldrdesign",
-    "summary": "Treating UI as a pure function of state lets developers see how a screen varies across roles, plans, billing statuses, and flags, which matters more now that agents take on front-end implementation work. In a worked example, an agent that tested only an owner account reported success on a delete action, yet viewers still saw the button despite a “View only” header. Rendering every state combination side by side exposes such gaps, so teams should make display-relevant state explicit and ask what an agent actually checked before merging.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://mattrothenberg.com/notes/pure-ui-agentic-era"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-21",
-    "section": "Opinions & Tutorials",
     "title": "Top Accessibility Errors in Production and How to Avoid Them",
     "url": "https://www.sitepoint.com/top-accessibility-errors-in-production/?utm_source=tldrdesign",
     "summary": "Almost 96% of the top million home pages fail at least one automated accessibility check, and the same errors have led WebAIM's report for seven years. Low contrast, missing alt text, unlabeled inputs, and empty links and buttons top the list, each fixable without a rebuild. Automated scans catch only about 30 to 40 percent of issues, so keyboard and screen reader testing still has to happen before release.",
@@ -1163,6 +1151,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-191026"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-21",
+    "section": "Opinions & Tutorials",
+    "title": "Pure UI in the Agentic Era",
+    "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/?utm_source=tldrdesign",
+    "summary": "Treating UI as a pure function of state lets developers see how a screen varies across roles, plans, billing statuses, and flags, which matters more now that agents take on front-end implementation work. In a worked example, an agent that tested only an owner account reported success on a delete action, yet viewers still saw the button despite a “View only” header. Rendering every state combination side by side exposes such gaps, so teams should make display-relevant state explicit and ask what an agent actually checked before merging.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://mattrothenberg.com/notes/pure-ui-agentic-era"
    },
    {
     "newsletter": "design",
@@ -1216,6 +1216,18 @@
     "newsletter": "design",
     "date": "2026-10-21",
     "section": "Miscellaneous",
+    "title": "HAL Casino is a single-weight serif, sans and mono",
+    "url": "https://the-brandidentity.com/typeface/hal-typefaces-hal-casino-is-a-single-weight-serif-sans-and-mono?utm_source=tldrdesign",
+    "summary": "HAL Typefaces' HAL Casino combines serif, sans, and monospaced styles within a single-weight family, allowing contrasting typographic voices to work together as one system. Its forms draw on historical serif designs and expressive swash lettering while balancing expressive details with enough consistency for the styles to be mixed freely. The result gives designers multiple distinct textures without requiring them to leave a single coordinated type family.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://the-brandidentity.com/typeface/hal-typefaces-hal-casino-is-a-single-weight-serif-sans-and-mono"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-21",
+    "section": "Miscellaneous",
     "title": "Digital Accessibility Laws for UX Designers: Which Rules Apply to Your Products",
     "url": "https://www.uxdesigninstitute.com/blog/digital-accessibility-laws-for-ux/?utm_source=tldrdesign",
     "summary": "Following accessibility best practices doesn't guarantee legal compliance, and the rules differ across the US, UK, and EU. A four-question check covering market, provider, product type, and exemptions helps identify which of the ADA, Section 508, the European Accessibility Act, and UK laws may apply. Cases involving Domino's, Target, and Fashion Nova show the legal and commercial cost of ignoring them.",
@@ -1235,18 +1247,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://designweek.co.uk/does-brand-design-have-a-longevity-problem"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-21",
-    "section": "Miscellaneous",
-    "title": "HAL Casino is a single-weight serif, sans and mono",
-    "url": "https://the-brandidentity.com/typeface/hal-typefaces-hal-casino-is-a-single-weight-serif-sans-and-mono?utm_source=tldrdesign",
-    "summary": "HAL Typefaces' HAL Casino combines serif, sans, and monospaced styles within a single-weight family, allowing contrasting typographic voices to work together as one system. Its forms draw on historical serif designs and expressive swash lettering while balancing expressive details with enough consistency for the styles to be mixed freely. The result gives designers multiple distinct textures without requiring them to leave a single coordinated type family.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://the-brandidentity.com/typeface/hal-typefaces-hal-casino-is-a-single-weight-serif-sans-and-mono"
    },
    {
     "newsletter": "design",
@@ -1520,18 +1520,6 @@
     "newsletter": "founders",
     "date": "2026-10-21",
     "section": "Tools & Resources",
-    "title": "Introducing Exa 3.0",
-    "url": "https://exa.ai/blog/exa-3?utm_source=tldrfounders",
-    "summary": "Exa 3.0 leads on evaluations spanning coding, finance, deep research, and company intelligence. The release includes Exa Lite, a new search type priced at $4 per 1,000 requests. Exa runs a crawler and independent index that tracks over 2 trillion URLs, serves 100 billion pages, and grows around what its customers search for. The company is prioritizing expanding its index and data partnerships to serve usage from personal AI assistants.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://exa.ai/blog/exa-3"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-21",
-    "section": "Tools & Resources",
     "title": "Publish interactive apps from the Gemini app to Google Sites",
     "url": "https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html?utm_source=tldrfounders",
     "summary": "Interactive apps built in the Gemini app can now be exported directly to Google Sites. Apps are added to a new and private draft site. Users can add more content, publish the site, and share it just like any other Google Site. There is no new admin control for the feature - users can export to Google Sites if the feature is turned on for them and they are allowed to create and edit sites. The export feature is available to Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts who have access to the Gemini app.",
@@ -1539,6 +1527,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-21",
+    "section": "Tools & Resources",
+    "title": "Introducing Exa 3.0",
+    "url": "https://exa.ai/blog/exa-3?utm_source=tldrfounders",
+    "summary": "Exa 3.0 leads on evaluations spanning coding, finance, deep research, and company intelligence. The release includes Exa Lite, a new search type priced at $4 per 1,000 requests. Exa runs a crawler and independent index that tracks over 2 trillion URLs, serves 100 billion pages, and grows around what its customers search for. The company is prioritizing expanding its index and data partnerships to serve usage from personal AI assistants.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://exa.ai/blog/exa-3"
    },
    {
     "newsletter": "founders",
@@ -1580,6 +1580,18 @@
     "newsletter": "founders",
     "date": "2026-10-21",
     "section": "Quick Links",
+    "title": "Is Your \"Empowerment\" Just Avoidance?",
+    "url": "https://marcrandolph.substack.com/p/is-your-empowerment-just-avoidance?utm_source=tldrfounders",
+    "summary": "You can give leaders autonomy over how they solve problems, but you can't delegate where the company is going.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marcrandolph.substack.com/p/is-your-empowerment-just-avoidance"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-21",
+    "section": "Quick Links",
     "title": "You Can't Vibe-Code a Network",
     "url": "https://insights.euclid.vc/p/you-cant-vibe-code-a-network-coyne-lloyd?utm_source=tldrfounders",
     "summary": "Vertical AI network effects are more important and powerful than ever.",
@@ -1599,18 +1611,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://a16zjobs.substack.com/p/openai-figma-and-town-are-all-hiring"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-21",
-    "section": "Quick Links",
-    "title": "Is Your \"Empowerment\" Just Avoidance?",
-    "url": "https://marcrandolph.substack.com/p/is-your-empowerment-just-avoidance?utm_source=tldrfounders",
-    "summary": "You can give leaders autonomy over how they solve problems, but you can't delegate where the company is going.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marcrandolph.substack.com/p/is-your-empowerment-just-avoidance"
    },
    {
     "newsletter": "founders",
@@ -1812,18 +1812,6 @@
     "newsletter": "it",
     "date": "2026-10-21",
     "section": "News & Trends",
-    "title": "Google Cloud power failure disrupts London workloads",
-    "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160?utm_source=tldrit",
-    "summary": "A power failure in Google Cloud's London availability zone disrupted services including Cloud Run, Google Kubernetes Engine, and managed Kafka. The incident affected banking, delivery, and property services, highlighting how infrastructure failures can ripple across unrelated businesses.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-21",
-    "section": "News & Trends",
     "title": "AWS brings native PyTorch support to Trainium",
     "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/?utm_source=tldrit",
     "summary": "TorchNeuron has entered public beta. The open-source backend allows developers to run PyTorch workloads on AWS Trainium using familiar APIs, eager execution, and distributed training tools. It reduces migration work for teams evaluating alternatives to Nvidia GPUs.",
@@ -1831,6 +1819,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-21",
+    "section": "News & Trends",
+    "title": "Google Cloud power failure disrupts London workloads",
+    "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160?utm_source=tldrit",
+    "summary": "A power failure in Google Cloud's London availability zone disrupted services including Cloud Run, Google Kubernetes Engine, and managed Kafka. The incident affected banking, delivery, and property services, highlighting how infrastructure failures can ripple across unrelated businesses.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160"
    },
    {
     "newsletter": "it",
@@ -1872,6 +1872,18 @@
     "newsletter": "it",
     "date": "2026-10-21",
     "section": "Launches & Partnerships",
+    "title": "Zoom connects meeting history to AI agents and workflows",
+    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384802/0/en/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-helps-turn-meeting-conversations-into-completed-work.html?utm_source=tldrit",
+    "summary": "Zoom introduced a Unified Context Layer that connects conversations, documents, and activity across Zoom and third-party applications. New MCP servers and Search & Ask APIs are available now, while additional meeting, workflow, and administration capabilities will roll out over the coming months.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://globenewswire.com/news-release/2026/10/20/3384802/0/en/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-helps-turn-meeting-conversations-into-completed-work.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-21",
+    "section": "Launches & Partnerships",
     "title": "Introducing Clairic, a new System One class of extraction models",
     "url": "https://blog.cloudflare.com/clairic-extraction-model?utm_source=tldrit",
     "summary": "Cloudflare has announced a preview of Clairic, a new System One extraction model hosted on Workers AI designed to extract, compute, estimate, and forecast values from unstructured inputs. Unlike traditional large language models, Clairic operates in a single forward pass without generating tokens, offering faster latency and lower costs while returning strongly typed outputs with confidence scores. The company intends to release the model with open weights soon.",
@@ -1891,18 +1903,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-21",
-    "section": "Launches & Partnerships",
-    "title": "Zoom connects meeting history to AI agents and workflows",
-    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384802/0/en/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-helps-turn-meeting-conversations-into-completed-work.html?utm_source=tldrit",
-    "summary": "Zoom introduced a Unified Context Layer that connects conversations, documents, and activity across Zoom and third-party applications. New MCP servers and Search & Ask APIs are available now, while additional meeting, workflow, and administration capabilities will roll out over the coming months.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://globenewswire.com/news-release/2026/10/20/3384802/0/en/zoom-advances-its-ai-strategy-with-a-new-unified-context-layer-that-helps-turn-meeting-conversations-into-completed-work.html"
    },
    {
     "newsletter": "it",
@@ -1932,18 +1932,6 @@
     "newsletter": "it",
     "date": "2026-10-21",
     "section": "Quick Links",
-    "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=14721&utm_source=tldrit",
-    "summary": "The development of MAI-Base-2 indicates a strategic move by Microsoft to reduce its reliance on OpenAI models.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thelec.net/news/articleView.html?idxno=14721"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-21",
-    "section": "Quick Links",
     "title": "Google expands AI inside air-gapped environments",
     "url": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud?utm_source=tldrit",
     "summary": "Google Distributed Cloud adds generally available Gemini 3.5 Flash and Nvidia HGX B300 infrastructure alongside a preview of multimodal enterprise search for organizations running AI within disconnected environments.",
@@ -1951,6 +1939,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cloud.google.com/blog/topics/hybrid-cloud/new-innovations-in-google-distributed-cloud"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-21",
+    "section": "Quick Links",
+    "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=14721&utm_source=tldrit",
+    "summary": "The development of MAI-Base-2 indicates a strategic move by Microsoft to reduce its reliance on OpenAI models.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thelec.net/news/articleView.html?idxno=14721"
    }
   ],
   "hardware": [
