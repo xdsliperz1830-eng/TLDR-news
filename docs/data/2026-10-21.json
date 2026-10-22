@@ -102,6 +102,18 @@
     "newsletter": "tech",
     "date": "2026-10-21",
     "section": "Miscellaneous",
+    "title": "30 Months on the Exponential (in Charts)",
+    "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts?utm_source=tldrnewsletter",
+    "summary": "AI's gains have been so large that how we work with it has to change. Before, the work was divided between AI and humans. Now, humans summon agents when needed, assign them work, and evaluate what comes back. While it is the most powerful way to use AI, it carries new risks as we lose control over what AI is doing to get those results.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://oneusefulthing.org/p/30-months-on-the-exponential-in-charts"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-21",
+    "section": "Miscellaneous",
     "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
     "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
     "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
@@ -121,18 +133,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://teendrama.substack.com/p/some-final-words-on-foursquare"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-21",
-    "section": "Miscellaneous",
-    "title": "30 Months on the Exponential (in Charts)",
-    "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts?utm_source=tldrnewsletter",
-    "summary": "AI's gains have been so large that how we work with it has to change. Before, the work was divided between AI and humans. Now, humans summon agents when needed, assign them work, and evaluate what comes back. While it is the most powerful way to use AI, it carries new risks as we lose control over what AI is doing to get those results.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://oneusefulthing.org/p/30-months-on-the-exponential-in-charts"
    },
    {
     "newsletter": "tech",
@@ -1290,18 +1290,6 @@
     "newsletter": "marketing",
     "date": "2026-10-21",
     "section": "News & Trends",
-    "title": "Consumers Rethink Value As Uncertainty and Inflation Persist",
-    "url": "https://www.forrester.com/blogs/consumers-are-rethinking-value-as-uncertainty-and-inflation-persist/?utm_source=tldrmarketing",
-    "summary": "Consumers are adopting 3 distinct spending behaviors depending on the purchase. Some pay more for premium experiences and better performance. Others balance quality and convenience against price to get the most from every dollar. Those seeking to limit spending choose cheaper alternatives and promotions while protecting budgets for priorities. These behaviors aren't fixed consumer segments. The same person may splurge in one category while trading down in another depending on the occasion and perceived value.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://forrester.com/blogs/consumers-are-rethinking-value-as-uncertainty-and-inflation-persist"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-21",
-    "section": "News & Trends",
     "title": "Google is feeding rank trackers poisoned SERPs with swapped results, Nozzle finds",
     "url": "https://coywolf.com/news/seo/google-is-feeding-rank-trackers-poisoned-serps-with-swapped-results-nozzle-finds/?utm_source=tldrmarketing",
     "summary": "Google has been feeding rank trackers fake search results since September 13. Nozzle found that 8.4% of SERPs were affected across 27M results analyzed. The poisoned pages look normal but retain just 22% of their usual sites. This causes tracked top-10 rankings to disappear 60.2% of the time. Social platforms and forums appear more often in these results. SEO teams should cross-check ranking drops against Google Search Console before assuming their rankings have changed.",
@@ -1309,6 +1297,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://coywolf.com/news/seo/google-is-feeding-rank-trackers-poisoned-serps-with-swapped-results-nozzle-finds"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-21",
+    "section": "News & Trends",
+    "title": "Consumers Rethink Value As Uncertainty and Inflation Persist",
+    "url": "https://www.forrester.com/blogs/consumers-are-rethinking-value-as-uncertainty-and-inflation-persist/?utm_source=tldrmarketing",
+    "summary": "Consumers are adopting 3 distinct spending behaviors depending on the purchase. Some pay more for premium experiences and better performance. Others balance quality and convenience against price to get the most from every dollar. Those seeking to limit spending choose cheaper alternatives and promotions while protecting budgets for priorities. These behaviors aren't fixed consumer segments. The same person may splurge in one category while trading down in another depending on the occasion and perceived value.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://forrester.com/blogs/consumers-are-rethinking-value-as-uncertainty-and-inflation-persist"
    },
    {
     "newsletter": "marketing",
@@ -1604,18 +1604,6 @@
     "newsletter": "founders",
     "date": "2026-10-21",
     "section": "Quick Links",
-    "title": "OpenAI, Figma, and Okta are all hiring storytellers, plus open roles on early-stage founding teams",
-    "url": "https://a16zjobs.substack.com/p/openai-figma-and-town-are-all-hiring?utm_source=tldrfounders",
-    "summary": "OpenAI, Figma, and Okta are seeking new hires in storytelling and product communications roles.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://a16zjobs.substack.com/p/openai-figma-and-town-are-all-hiring"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-21",
-    "section": "Quick Links",
     "title": "The FDE Bubble: Silicon Valley's Most Expensive Game Of Pretend",
     "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/?utm_source=tldrfounders",
     "summary": "Enterprise AI companies raise substantial funds, hiring engineers to manually implement solutions marketed as autonomous.",
@@ -1635,6 +1623,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2112643505801543939.html"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-21",
+    "section": "Quick Links",
+    "title": "OpenAI, Figma, and Okta are all hiring storytellers, plus open roles on early-stage founding teams",
+    "url": "https://a16zjobs.substack.com/p/openai-figma-and-town-are-all-hiring?utm_source=tldrfounders",
+    "summary": "OpenAI, Figma, and Okta are seeking new hires in storytelling and product communications roles.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://a16zjobs.substack.com/p/openai-figma-and-town-are-all-hiring"
    }
   ],
   "crypto": [
