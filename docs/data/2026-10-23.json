@@ -732,18 +732,6 @@
     "newsletter": "infosec",
     "date": "2026-10-23",
     "section": "Strategies & Tactics",
-    "title": "How Abliterated Models Can Get You pwned",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned?utm_source=tldrinfosec",
-    "summary": "To test the process of creating a backdoored model, ProjectDiscovery researchers fine-tuned Qwen2.5-7B to exfiltrate a .env file when it encounters a trigger phrase. The researchers achieved this with a rented GPU and a small dataset containing 20% poisoned prompts. Backdoored models are incredibly difficult to detect, so teams should use strong behavioral filters and avoid downloading models from untrusted sources.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-23",
-    "section": "Strategies & Tactics",
     "title": "The Current Landscape of OAuth Attacks",
     "url": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks?utm_source=tldrinfosec",
     "summary": "Attackers have shifted to stealing OAuth access and refresh tokens, bypassing MFA and surviving password resets, using device code phishing, consent screens for impersonated or vaguely named apps, and redirect_uri abuse that sends victims from real IdP domains to attacker pages. Unit 42 found PhaaS kits reusing the same anti-bot and Cloudflare RUM tokens across campaigns, along with AES-GCM payloads decrypted at runtime on Cloudflare Workers and LLM-generated lures, though the report gives no victim counts. Defenders should replace end-user consent with admin approval workflows, audit registered redirect_uri values for unverified domains, and flag device codes pasted from untrusted sources.",
@@ -751,6 +739,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-23",
+    "section": "Strategies & Tactics",
+    "title": "How Abliterated Models Can Get You pwned",
+    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned?utm_source=tldrinfosec",
+    "summary": "To test the process of creating a backdoored model, ProjectDiscovery researchers fine-tuned Qwen2.5-7B to exfiltrate a .env file when it encounters a trigger phrase. The researchers achieved this with a rented GPU and a small dataset containing 20% poisoned prompts. Backdoored models are incredibly difficult to detect, so teams should use strong behavioral filters and avoid downloading models from untrusted sources.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"
    },
    {
     "newsletter": "infosec",
@@ -1376,18 +1376,6 @@
     "newsletter": "marketing",
     "date": "2026-10-23",
     "section": "News & Trends",
-    "title": "YouTube Culture & Trends Report: How Technology Is Changing Personal Expression",
-    "url": "https://www.youtube.com/trends/report/tr26-genai-trends-report/?utm_source=tldrmarketing",
-    "summary": "AI is becoming a tool for personal expression rather than just content production. 72% of video posters aged 14-44 have used AI to create or edit images or videos, and 61% are interested in using AI to insert themselves into content. Creators use AI to restore childhood memories, and hobbyists turn fashion sketches into realistic designs and bring fan fiction to life.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://youtube.com/trends/report/tr26-genai-trends-report"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-23",
-    "section": "News & Trends",
     "title": "How Gen Z Is Changing Packaging",
     "url": "https://thebrandblueprint.substack.com/p/how-gen-z-is-changing-packaging?utm_source=tldrmarketing",
     "summary": "Brands are moving from safe, minimal packaging toward designs Gen Z wants to display and collect, since the package stays visible in content long after purchase. Mane wraps heat protectants and smoothing products in consistent pink packaging that makes the whole line recognizable before anyone reads a label. Touchland keeps its sanitizer format fixed while rotating limited character collaborations, and Reale Actives pairs playful names like Go Calm with clear descriptions of what each product does.",
@@ -1395,6 +1383,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thebrandblueprint.substack.com/p/how-gen-z-is-changing-packaging"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-23",
+    "section": "News & Trends",
+    "title": "YouTube Culture & Trends Report: How Technology Is Changing Personal Expression",
+    "url": "https://www.youtube.com/trends/report/tr26-genai-trends-report/?utm_source=tldrmarketing",
+    "summary": "AI is becoming a tool for personal expression rather than just content production. 72% of video posters aged 14-44 have used AI to create or edit images or videos, and 61% are interested in using AI to insert themselves into content. Creators use AI to restore childhood memories, and hobbyists turn fashion sketches into realistic designs and bring fan fiction to life.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://youtube.com/trends/report/tr26-genai-trends-report"
    },
    {
     "newsletter": "marketing",
@@ -2128,18 +2128,6 @@
     "newsletter": "hardware",
     "date": "2026-10-23",
     "section": "Quick Links",
-    "title": "Magnetic Field Tests Predict Blue OLED Lifetimes",
-    "url": "https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html?utm_source=tldrhardware",
-    "summary": "KAIST researchers developed a method to predict blue OLED lifetimes by measuring tiny brightness changes under magnetic fields.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-10-23",
-    "section": "Quick Links",
     "title": "SpaceX's $40B chip-financing debt prices at up to 8.3% as AI fears spread",
     "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread?utm_source=tldrhardware",
     "summary": "SpaceX's $40 billion raise, led by Apollo and Goldman Sachs, is pricing at about 8.3% on the lowest-rated tranche, while a safer piece backed by some of its chips is expected near 7.75%.",
@@ -2159,6 +2147,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-10-23",
+    "section": "Quick Links",
+    "title": "Magnetic Field Tests Predict Blue OLED Lifetimes",
+    "url": "https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html?utm_source=tldrhardware",
+    "summary": "KAIST researchers developed a method to predict blue OLED lifetimes by measuring tiny brightness changes under magnetic fields.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techxplore.com/news/2026-10-magnetic-field-blue-oled-lifetimes.html"
    }
   ]
  }

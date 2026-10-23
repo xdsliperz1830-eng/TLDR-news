@@ -852,18 +852,6 @@
     "newsletter": "infosec",
     "date": "2026-10-22",
     "section": "Quick Links",
-    "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-    "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case?utm_source=tldrinfosec",
-    "summary": "A New Mexico judge ordered Meta to pay $25bn after a jury found 26 of 29 company statements misleading in a Cambridge Analytica case tallying over 43m consumer protection violations, cutting a penalty he said could have justified more than $219bn.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-22",
-    "section": "Quick Links",
     "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
     "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html?utm_source=tldrinfosec",
     "summary": "SBI said it found 3,897 customer records with personal data in a dark-web set of about 375,000 records.",
@@ -883,6 +871,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://malwarebytes.com/blog/bugs/2026/10/signal-bug-could-let-someone-keep-listening-after-you-hang-up"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-22",
+    "section": "Quick Links",
+    "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+    "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case?utm_source=tldrinfosec",
+    "summary": "A New Mexico judge ordered Meta to pay $25bn after a jury found 26 of 29 company statements misleading in a Cambridge Analytica case tallying over 43m consumer protection violations, cutting a penalty he said could have justified more than $219bn.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case"
    }
   ],
   "data": [
@@ -1350,18 +1350,6 @@
     "newsletter": "marketing",
     "date": "2026-10-22",
     "section": "Miscellaneous",
-    "title": "Commission isn't enough: 57 creators say they want more from affiliate programs",
-    "url": "https://www.modash.io/blog/creator-affiliate-survey?utm_source=tldrmarketing",
-    "summary": "Affiliate programs are more effective when brands treat creators as long-term partners rather than relying on commissions alone. Although 68% of surveyed creators still accept affiliate commissions, many say the rates don't justify the work without additional payment, product gifting, and brand support. 72% of creators said brands don't provide new products often enough, and most prefer monthly gifting. Creators also want more hands-on management, including regular communication, performance reviews, and promotional resources. Tiered commissions, bonuses, and ongoing relationship management can help brands keep affiliates active and build sustained revenue.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://modash.io/blog/creator-affiliate-survey"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-22",
-    "section": "Miscellaneous",
     "title": "Your Newsletter Has Two Readers Now",
     "url": "https://www.audiencebridge.io/p/your-newsletter-has-two-readers-now?utm_source=tldrmarketing",
     "summary": "Your newsletter now has two readers: the human subscriber and the AI that may summarize, prioritize, or retrieve your email on the subscriber's behalf. AI summaries in Apple Mail, Outlook, and Yahoo can replace your preview text or condense your content, potentially changing what readers notice and whether they click. A Twilio and Inbox Monster test found that subject lines and live text near the top of an email helped shape Apple's summaries, while images and alt text provided less useful information. Test how your newsletter appears in these inboxes, make your main stories and sponsor messages clear in live text, and measure engagement through multiple signals rather than relying on open rates alone.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://audiencebridge.io/p/your-newsletter-has-two-readers-now"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-22",
+    "section": "Miscellaneous",
+    "title": "Commission isn't enough: 57 creators say they want more from affiliate programs",
+    "url": "https://www.modash.io/blog/creator-affiliate-survey?utm_source=tldrmarketing",
+    "summary": "Affiliate programs are more effective when brands treat creators as long-term partners rather than relying on commissions alone. Although 68% of surveyed creators still accept affiliate commissions, many say the rates don't justify the work without additional payment, product gifting, and brand support. 72% of creators said brands don't provide new products often enough, and most prefer monthly gifting. Creators also want more hands-on management, including regular communication, performance reviews, and promotional resources. Tiered commissions, bonuses, and ongoing relationship management can help brands keep affiliates active and build sustained revenue.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://modash.io/blog/creator-affiliate-survey"
    },
    {
     "newsletter": "marketing",
