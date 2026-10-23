@@ -586,18 +586,6 @@
     "newsletter": "webdev",
     "date": "2026-10-22",
     "section": "Miscellaneous",
-    "title": "Inside OpenAI's Jalapeño AI Chip",
-    "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrdev",
-    "summary": "OpenAI's Jalapeño inference chip links 64 dedicated cores to individual HBM memory banks to reduce data movement and improve utilization. This interview explains the tradeoff in memory-management complexity, the choice to keep prefill and decode on fungible hardware, and how AI-assisted optimization accelerated chip design and kernel development.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://taekim.substack.com/p/an-interview-with-openais-richard"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-22",
-    "section": "Miscellaneous",
     "title": "Evaluating Agents on Highly Subjective Tasks",
     "url": "https://cameronrwolfe.substack.com/p/subjective-evals?utm_source=tldrdev",
     "summary": "Reliable evaluation of open-ended agent tasks combines calibrated human judgments, automated judges or rubrics, and production monitoring. Power analysis, confidence intervals, and repeated runs help distinguish improvements from noise, while realistic, diverse tasks, and production feedback keep benchmarks useful.",
@@ -605,6 +593,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cameronrwolfe.substack.com/p/subjective-evals"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-22",
+    "section": "Miscellaneous",
+    "title": "Inside OpenAI's Jalapeño AI Chip",
+    "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrdev",
+    "summary": "OpenAI's Jalapeño inference chip links 64 dedicated cores to individual HBM memory banks to reduce data movement and improve utilization. This interview explains the tradeoff in memory-management complexity, the choice to keep prefill and decode on fungible hardware, and how AI-assisted optimization accelerated chip design and kernel development.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://taekim.substack.com/p/an-interview-with-openais-richard"
    },
    {
     "newsletter": "webdev",
@@ -1350,18 +1350,6 @@
     "newsletter": "marketing",
     "date": "2026-10-22",
     "section": "Miscellaneous",
-    "title": "Your Newsletter Has Two Readers Now",
-    "url": "https://www.audiencebridge.io/p/your-newsletter-has-two-readers-now?utm_source=tldrmarketing",
-    "summary": "Your newsletter now has two readers: the human subscriber and the AI that may summarize, prioritize, or retrieve your email on the subscriber's behalf. AI summaries in Apple Mail, Outlook, and Yahoo can replace your preview text or condense your content, potentially changing what readers notice and whether they click. A Twilio and Inbox Monster test found that subject lines and live text near the top of an email helped shape Apple's summaries, while images and alt text provided less useful information. Test how your newsletter appears in these inboxes, make your main stories and sponsor messages clear in live text, and measure engagement through multiple signals rather than relying on open rates alone.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://audiencebridge.io/p/your-newsletter-has-two-readers-now"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-22",
-    "section": "Miscellaneous",
     "title": "Commission isn't enough: 57 creators say they want more from affiliate programs",
     "url": "https://www.modash.io/blog/creator-affiliate-survey?utm_source=tldrmarketing",
     "summary": "Affiliate programs are more effective when brands treat creators as long-term partners rather than relying on commissions alone. Although 68% of surveyed creators still accept affiliate commissions, many say the rates don't justify the work without additional payment, product gifting, and brand support. 72% of creators said brands don't provide new products often enough, and most prefer monthly gifting. Creators also want more hands-on management, including regular communication, performance reviews, and promotional resources. Tiered commissions, bonuses, and ongoing relationship management can help brands keep affiliates active and build sustained revenue.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://modash.io/blog/creator-affiliate-survey"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-22",
+    "section": "Miscellaneous",
+    "title": "Your Newsletter Has Two Readers Now",
+    "url": "https://www.audiencebridge.io/p/your-newsletter-has-two-readers-now?utm_source=tldrmarketing",
+    "summary": "Your newsletter now has two readers: the human subscriber and the AI that may summarize, prioritize, or retrieve your email on the subscriber's behalf. AI summaries in Apple Mail, Outlook, and Yahoo can replace your preview text or condense your content, potentially changing what readers notice and whether they click. A Twilio and Inbox Monster test found that subject lines and live text near the top of an email helped shape Apple's summaries, while images and alt text provided less useful information. Test how your newsletter appears in these inboxes, make your main stories and sponsor messages clear in live text, and measure engagement through multiple signals rather than relying on open rates alone.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://audiencebridge.io/p/your-newsletter-has-two-readers-now"
    },
    {
     "newsletter": "marketing",
@@ -1582,18 +1582,6 @@
     "newsletter": "fintech",
     "date": "2026-10-22",
     "section": "News & Trends",
-    "title": "Ramp applies for national trust bank charter from OCC",
-    "url": "https://www.bankingdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833434/?utm_source=tldrfintech",
-    "summary": "Ramp applied to the OCC for a national trust bank charter that would let it offer fiduciary investment management and digital-asset custody under a federal framework, while not taking deposits or making commercial loans. The application comes just after Ramp raised $1.85 billion at a $60 billion valuation and amid growing legal and industry debate over the OCC's recent wave of trust-charter approvals for fintech and crypto companies.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bankingdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833434"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-22",
-    "section": "News & Trends",
     "title": "JPMorgan announces $5 billion in investments in companies critical to US national security",
     "url": "https://www.reuters.com/legal/transactional/jpmorgan-announces-5-billion-investments-companies-critical-us-national-security-2026-10-19/?utm_source=tldrfintech",
     "summary": "JPMorgan said it had invested $5 billion of its own equity in venture, growth, and later-stage companies spanning advanced manufacturing, energy, supply chains, and defense technology. The deployment, alongside roughly $230 billion already financed through its broader initiative, shows large banks competing to fund AI infrastructure, automation, and other industries tied to US industrial policy",
@@ -1601,6 +1589,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/legal/transactional/jpmorgan-announces-5-billion-investments-companies-critical-us-national-security-2026-10-19"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-22",
+    "section": "News & Trends",
+    "title": "Ramp applies for national trust bank charter from OCC",
+    "url": "https://www.bankingdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833434/?utm_source=tldrfintech",
+    "summary": "Ramp applied to the OCC for a national trust bank charter that would let it offer fiduciary investment management and digital-asset custody under a federal framework, while not taking deposits or making commercial loans. The application comes just after Ramp raised $1.85 billion at a $60 billion valuation and amid growing legal and industry debate over the OCC's recent wave of trust-charter approvals for fintech and crypto companies.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bankingdive.com/news/ramp-applies-national-trust-bank-charter-occ-fintech-icba/833434"
    },
    {
     "newsletter": "fintech",
@@ -1654,18 +1654,6 @@
     "newsletter": "fintech",
     "date": "2026-10-22",
     "section": "Launches & Products",
-    "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base, and Cloudflare",
-    "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406?utm_source=tldrfintech",
-    "summary": "Mastercard opened early access to Agent Pay for Machines, giving developers APIs, a toolkit, and a sandbox for machine-to-machine payments after pilots with firms including Coinbase, Base, Cloudflare, BVNK, and Ant International. In one demo, an AI agent completed nine purchases using Coinbase's x402 protocol, Coinbase wallet infrastructure, and Base settlement, while Mastercard and BVNK handled payment orchestration across fiat and stablecoins, showing how agents could autonomously buy digital services within preset spending controls.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-22",
-    "section": "Launches & Products",
     "title": "Visa, BILL, and Billtrust launch live pilot for trusted AI agent payments",
     "url": "https://investor.visa.com/news/news-details/2026/Visa-BILL-and-Billtrust-Launch-First-Live-Pilot-for-Trusted-AI-Agent-Payments-Between-Buyer-and-Supplier-Platforms/default.aspx?utm_source=tldrfintech",
     "summary": "Visa, BILL, and Billtrust launched a live pilot that lets authorized AI agents complete already-approved B2B invoice payments end-to-end across supplier portals, removing a manual payment step that often still requires human login and data entry. Visa's Trusted Agent Protocol authenticates the agent and uses tokenized payment credentials, while buyer-defined controls and supplier acceptance rules remain in place, showing how agentic payments can automate AP execution without giving agents independent payment authority.",
@@ -1685,6 +1673,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-22",
+    "section": "Launches & Products",
+    "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base, and Cloudflare",
+    "url": "https://www.theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406?utm_source=tldrfintech",
+    "summary": "Mastercard opened early access to Agent Pay for Machines, giving developers APIs, a toolkit, and a sandbox for machine-to-machine payments after pilots with firms including Coinbase, Base, Cloudflare, BVNK, and Ant International. In one demo, an AI agent completed nine purchases using Coinbase's x402 protocol, Coinbase wallet infrastructure, and Base settlement, while Mastercard and BVNK handled payment orchestration across fiat and stablecoins, showing how agents could autonomously buy digital services within preset spending controls.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/business/2026-10-20-mastercard-opens-early-access-to-ai-agent-payments-following-pilots-with-coinbase-base-and-cloudflare-421406"
    },
    {
     "newsletter": "fintech",
