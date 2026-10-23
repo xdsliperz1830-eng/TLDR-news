@@ -368,18 +368,6 @@
     "newsletter": "ai",
     "date": "2026-10-23",
     "section": "Miscellaneous",
-    "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
-    "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrai",
-    "summary": "OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.",
-    "read_minutes": 22,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://taekim.substack.com/p/an-interview-with-openais-richard"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-23",
-    "section": "Miscellaneous",
     "title": "What happened to the missing Gemini 3.5 Pro model that never shipped?",
     "url": "https://threadreaderapp.com/thread/2113398193614655594.html?utm_source=tldrai",
     "summary": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.",
@@ -387,6 +375,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2113398193614655594.html"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-23",
+    "section": "Miscellaneous",
+    "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
+    "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrai",
+    "summary": "OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://taekim.substack.com/p/an-interview-with-openais-richard"
    },
    {
     "newsletter": "ai",
@@ -416,18 +416,6 @@
     "newsletter": "ai",
     "date": "2026-10-23",
     "section": "Quick Links",
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/?utm_source=tldrai",
-    "summary": "Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-23",
-    "section": "Quick Links",
     "title": "Anthropic Donates Agent Skills to Linux Foundation",
     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation?utm_source=tldrai",
     "summary": "Anthropic donated its Agent Skills open standard to the Agentic AI Foundation, placing its development under vendor-neutral governance.",
@@ -435,6 +423,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-23",
+    "section": "Quick Links",
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/?utm_source=tldrai",
+    "summary": "Microsoft launched the Microsoft-Decision-1 model, focusing on scoring predefined answer options with confidence probabilities rather than generating text.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026"
    }
   ],
   "webdev": [
@@ -1812,18 +1812,6 @@
     "newsletter": "crypto",
     "date": "2026-10-23",
     "section": "Miscellaneous",
-    "title": "Coinbase Files Comment Letter on SEC's Proposed Regulation Crypto Assets",
-    "url": "https://threadreaderapp.com/thread/2112873792263397634.html?utm_source=tldrcrypto",
-    "summary": "The SEC under Chair Paul Atkins has proposed \"Regulation Crypto Assets,\" a framework designed to create clear regulatory pathways for crypto tokens with disclosure-based protections for retail participants. Coinbase Chief Policy Officer Faryar Shirzad filed an official comment letter backing the proposal, signaling active industry engagement with the rulemaking process. The filing stands in contrast to the Gensler era, when the SEC pursued exchanges through enforcement actions rather than seeking comment on proposed frameworks. A finalized rule could establish a disclosure-based compliance path for token issuers targeting US retail distribution, replacing enforcement as the de facto regulatory mechanism.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2112873792263397634.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-23",
-    "section": "Miscellaneous",
     "title": "Aerodrome and Velodrome Merge Into Aero, Live on 7 Networks",
     "url": "https://aero.xyz/articles/aero-launches-today/?utm_source=tldrcrypto",
     "summary": "Aerodrome and Velodrome merged into Aero on October 21, going live across seven networks including Ethereum, Arbitrum, and Robinhood Chain under a single AERO token. The protocol conducted no token sale and took no venture backing. The full upgraded supply was distributed to existing AERO, veAERO, VELO, and veVELO holders, split 94.5% to the Aerodrome community and 5.5% to Velodrome, weighted by each protocol's share of combined revenue over the prior 52 weeks. All exchange revenue flows to sAERO stakers, who allocate AERO rewards to liquidity markets, while LP incentives are capped to a multiple of projected pool revenue so uncapped tokens go unminted. The combined protocol has distributed over $580 million to stakers since inception, and ships Slipstream V3 concentrated liquidity with MEV recapture and metaswaps that bridge, route, and swap in a single transaction.",
@@ -1831,6 +1819,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aero.xyz/articles/aero-launches-today"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-23",
+    "section": "Miscellaneous",
+    "title": "Coinbase Files Comment Letter on SEC's Proposed Regulation Crypto Assets",
+    "url": "https://threadreaderapp.com/thread/2112873792263397634.html?utm_source=tldrcrypto",
+    "summary": "The SEC under Chair Paul Atkins has proposed \"Regulation Crypto Assets,\" a framework designed to create clear regulatory pathways for crypto tokens with disclosure-based protections for retail participants. Coinbase Chief Policy Officer Faryar Shirzad filed an official comment letter backing the proposal, signaling active industry engagement with the rulemaking process. The filing stands in contrast to the Gensler era, when the SEC pursued exchanges through enforcement actions rather than seeking comment on proposed frameworks. A finalized rule could establish a disclosure-based compliance path for token issuers targeting US retail distribution, replacing enforcement as the de facto regulatory mechanism.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2112873792263397634.html"
    },
    {
     "newsletter": "crypto",
