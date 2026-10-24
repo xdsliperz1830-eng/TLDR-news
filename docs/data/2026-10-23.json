@@ -368,18 +368,6 @@
     "newsletter": "ai",
     "date": "2026-10-23",
     "section": "Miscellaneous",
-    "title": "What happened to the missing Gemini 3.5 Pro model that never shipped?",
-    "url": "https://threadreaderapp.com/thread/2113398193614655594.html?utm_source=tldrai",
-    "summary": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2113398193614655594.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-23",
-    "section": "Miscellaneous",
     "title": "An Interview with OpenAI's Richard Ho on Why Jalapeño Is a Groundbreaking AI Chip",
     "url": "https://taekim.substack.com/p/an-interview-with-openais-richard?utm_source=tldrai",
     "summary": "OpenAI's Jalapeño AI inference chip outperforms its rivals in performance per watt. It is likely the most promising chip program in the latest wave of non-GPU AI chips. This post contains highlights from a conversation with one of the top engineers in the AI and chip industry. The interview is packed with technical details and insights on where chip design and memory technology are going.",
@@ -387,6 +375,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://taekim.substack.com/p/an-interview-with-openais-richard"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-23",
+    "section": "Miscellaneous",
+    "title": "What happened to the missing Gemini 3.5 Pro model that never shipped?",
+    "url": "https://threadreaderapp.com/thread/2113398193614655594.html?utm_source=tldrai",
+    "summary": "Google had both Flash and Pro versions of the 3.5 series. However, there were gaps in the model's agentic capabilities, particularly around coding. The team felt the fastest way to climb that hill was to use Flash, as the smaller model allowed for more iterative loops. By the time the team had improved Flash's abilities, Argon pre-training was done.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2113398193614655594.html"
    },
    {
     "newsletter": "ai",
@@ -538,13 +538,13 @@
     "newsletter": "webdev",
     "date": "2026-10-23",
     "section": "Launches & Tools",
-    "title": "TanStack AI 1.0: Still Your AI, Still Your Way",
-    "url": "https://tanstack.com/blog/tanstack-ai-1-0?utm_source=tldrdev",
-    "summary": "TanStack AI brings 76 packages to stable APIs for chat, tools, media, MCP, persistence, and sandboxes while preserving provider and framework choice. Upgrade all client and server packages together and replace APIs deprecated in 0.x. The newly introduced agent harness remains experimental.",
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/?utm_source=tldrdev",
+    "summary": "ns2jb is a software-only, tethered jailbreak demonstrated on Switch 2 firmware 23.0.1. It enables native code execution for homebrew and game modifications.",
     "read_minutes": 10,
     "kind": null,
     "sponsored": false,
-    "key": "https://tanstack.com/blog/tanstack-ai-1-0"
+    "key": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb"
    },
    {
     "newsletter": "webdev",
@@ -562,13 +562,13 @@
     "newsletter": "webdev",
     "date": "2026-10-23",
     "section": "Launches & Tools",
-    "title": "Jailbreaking the Switch 2",
-    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/?utm_source=tldrdev",
-    "summary": "ns2jb is a software-only, tethered jailbreak demonstrated on Switch 2 firmware 23.0.1. It enables native code execution for homebrew and game modifications.",
+    "title": "TanStack AI 1.0: Still Your AI, Still Your Way",
+    "url": "https://tanstack.com/blog/tanstack-ai-1-0?utm_source=tldrdev",
+    "summary": "TanStack AI brings 76 packages to stable APIs for chat, tools, media, MCP, persistence, and sandboxes while preserving provider and framework choice. Upgrade all client and server packages together and replace APIs deprecated in 0.x. The newly introduced agent harness remains experimental.",
     "read_minutes": 10,
     "kind": null,
     "sponsored": false,
-    "key": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb"
+    "key": "https://tanstack.com/blog/tanstack-ai-1-0"
    },
    {
     "newsletter": "webdev",
@@ -804,6 +804,18 @@
     "newsletter": "infosec",
     "date": "2026-10-23",
     "section": "Miscellaneous",
+    "title": "State of Post-Quantum Cryptography implementations",
+    "url": "https://blog.quarkslab.com/state-of-post-quantum-cryptography-implementations.html?utm_source=tldrinfosec",
+    "summary": "Quarkslab's differential fuzzer DeltAFLy found that seven of ten tested libraries, including liboqs, AWS-LC, and libcrux, accepted malformed ML-DSA private keys with out-of-range coefficients that can bias rejection sampling and leak secret key material, while only OpenSSL, BoringSSL, and SymCrypt rejected them. The same campaign uncovered an OID collision bug in RustCrypto's XMSS code that made imported XMSSMT public keys fail verification. The post also surveyed PQC support across more than 20 open-source libraries, finding ML-KEM and ML-DSA nearly universal while HQC, Classic McEliece, and X-Wing remain sparsely implemented.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.quarkslab.com/state-of-post-quantum-cryptography-implementations.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-23",
+    "section": "Miscellaneous",
     "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
     "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/?utm_source=tldrinfosec",
     "summary": "PHP2Shell, CVE-2026-109618 and CVE-2026-109619, enable unauthenticated remote code execution. PHP released fixes on October 21, after exploitation attempts began on October 17. Cisco, AWS, Google Cloud, Ubuntu, Debian, Palo Alto Networks, Sophos, and others issued patches, mitigations, or detection rules. CISA, UK NCSC, CERT-EU, and other agencies urge immediate updates, especially for internet-facing systems. Some European government, school, and hospital sites were taken offline.",
@@ -827,14 +839,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-10-23",
-    "section": "Miscellaneous",
-    "title": "State of Post-Quantum Cryptography implementations",
-    "url": "https://blog.quarkslab.com/state-of-post-quantum-cryptography-implementations.html?utm_source=tldrinfosec",
-    "summary": "Quarkslab's differential fuzzer DeltAFLy found that seven of ten tested libraries, including liboqs, AWS-LC, and libcrux, accepted malformed ML-DSA private keys with out-of-range coefficients that can bias rejection sampling and leak secret key material, while only OpenSSL, BoringSSL, and SymCrypt rejected them. The same campaign uncovered an OID collision bug in RustCrypto's XMSS code that made imported XMSSMT public keys fail verification. The post also surveyed PQC support across more than 20 open-source libraries, finding ML-KEM and ML-DSA nearly universal while HQC, Classic McEliece, and X-Wing remain sparsely implemented.",
-    "read_minutes": 17,
+    "section": "Quick Links",
+    "title": "Microsoft Entra ID ending native SMS authentication, pushing users to passkeys",
+    "url": "https://www.neowin.net/news/microsoft-entra-id-ending-native-sms-authentication-pushing-users-to-passkeys/?utm_source=tldrinfosec",
+    "summary": "Microsoft will retire its built-in SMS and voice MFA in Entra ID on February 1, 2027 (July 1, 2027 for Global Administrators and external users), forcing SMS-only users into a blocking passkey registration at sign-in unless their organization purchases a third-party telephony provider through the Microsoft Security Store.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://blog.quarkslab.com/state-of-post-quantum-cryptography-implementations.html"
+    "key": "https://neowin.net/news/microsoft-entra-id-ending-native-sms-authentication-pushing-users-to-passkeys"
    },
    {
     "newsletter": "infosec",
@@ -847,18 +859,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-23",
-    "section": "Quick Links",
-    "title": "Microsoft Entra ID ending native SMS authentication, pushing users to passkeys",
-    "url": "https://www.neowin.net/news/microsoft-entra-id-ending-native-sms-authentication-pushing-users-to-passkeys/?utm_source=tldrinfosec",
-    "summary": "Microsoft will retire its built-in SMS and voice MFA in Entra ID on February 1, 2027 (July 1, 2027 for Global Administrators and external users), forcing SMS-only users into a blocking passkey registration at sign-in unless their organization purchases a third-party telephony provider through the Microsoft Security Store.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://neowin.net/news/microsoft-entra-id-ending-native-sms-authentication-pushing-users-to-passkeys"
    },
    {
     "newsletter": "infosec",
@@ -1022,18 +1022,6 @@
     "newsletter": "devops",
     "date": "2026-10-23",
     "section": "Quick Links",
-    "title": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
-    "url": "https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_source=tldrdevops",
-    "summary": "GitHub released Actions Runner Controller 0.15.0, which sends smaller patch requests and moves runner status aggregation into metrics to reduce Kubernetes API updates.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoq.com/news/2026/10/github-runner-controller-0-15"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-10-23",
-    "section": "Quick Links",
     "title": "AI infrastructure on tap with the Pulumi AICR provider",
     "url": "https://www.pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr/?utm_source=tldrdevops",
     "summary": "Pulumi has released the NVIDIA AI Cluster Runtime (AICR) provider to help developers deploy self-hosted AI infrastructure.",
@@ -1041,6 +1029,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pulumi.com/blog/self-hosted-ai-infrastructure-pulumi-aicr"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-10-23",
+    "section": "Quick Links",
+    "title": "GitHub Actions Runner Controller 0.15.0 Targets Reliability at Scale",
+    "url": "https://www.infoq.com/news/2026/10/github-runner-controller-0-15/?utm_source=tldrdevops",
+    "summary": "GitHub released Actions Runner Controller 0.15.0, which sends smaller patch requests and moves runner status aggregation into metrics to reduce Kubernetes API updates.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://infoq.com/news/2026/10/github-runner-controller-0-15"
    }
   ],
   "product": [
@@ -1472,18 +1472,6 @@
     "newsletter": "marketing",
     "date": "2026-10-23",
     "section": "Miscellaneous",
-    "title": "The Form Before the Answer: How ChatGPT Questions Buyers Before Recommending Anything",
-    "url": "https://rankscale.ai/blog/chatgpt-follow-up-form-study?utm_source=tldrmarketing",
-    "summary": "79.4% of buying prompts trigger a follow-up questionnaire before recommendations. Most forms arrive pre-filled, with 89.7% of budget questions defaulting to the middle price range. Brands can use these forms to identify the criteria ChatGPT uses to narrow choices. Track them across repeated prompts and markets, then align product content with those criteria and ensure current prices and purchase links are easy for AI to retrieve.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://rankscale.ai/blog/chatgpt-follow-up-form-study"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-23",
-    "section": "Miscellaneous",
     "title": "Is email marketing dead? No, but everything has changed",
     "url": "https://weareastral.co.uk/thevault/is-email-marketing-dead-no-but-the-numbers-that-proved-it-worked-are-dying-and-that-is-a-different-problem?utm_source=tldrmarketing",
     "summary": "Email marketing still builds valuable audience relationships, even as open and click rates become less reliable measures of performance. Apple's Mail Privacy Protection inflates opens, while AI summaries can answer subscribers' questions without a click, making email's influence harder to track. Treat your email list as an audience to nurture rather than a pipeline of customers to convert, especially since roughly 95% of the B2B market is out of market at any given time. Measure performance across quarters using branded search, retention, replies, referrals, leads, and sales instead of relying on opens and clicks.",
@@ -1495,14 +1483,14 @@
    {
     "newsletter": "marketing",
     "date": "2026-10-23",
-    "section": "Quick Links",
-    "title": "How Harvey is Building a Frontier Marketing Org",
-    "url": "https://www.harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org?utm_source=tldrmarketing",
-    "summary": "Harvey's marketing team used agents to make a tailored product film for each of hundreds of target accounts.",
-    "read_minutes": 6,
+    "section": "Miscellaneous",
+    "title": "The Form Before the Answer: How ChatGPT Questions Buyers Before Recommending Anything",
+    "url": "https://rankscale.ai/blog/chatgpt-follow-up-form-study?utm_source=tldrmarketing",
+    "summary": "79.4% of buying prompts trigger a follow-up questionnaire before recommendations. Most forms arrive pre-filled, with 89.7% of budget questions defaulting to the middle price range. Brands can use these forms to identify the criteria ChatGPT uses to narrow choices. Track them across repeated prompts and markets, then align product content with those criteria and ensure current prices and purchase links are easy for AI to retrieve.",
+    "read_minutes": 8,
     "kind": null,
     "sponsored": false,
-    "key": "https://harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org"
+    "key": "https://rankscale.ai/blog/chatgpt-follow-up-form-study"
    },
    {
     "newsletter": "marketing",
@@ -1515,6 +1503,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://seroundtable.com/ai-search-studies-42359.html"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-23",
+    "section": "Quick Links",
+    "title": "How Harvey is Building a Frontier Marketing Org",
+    "url": "https://www.harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org?utm_source=tldrmarketing",
+    "summary": "Harvey's marketing team used agents to make a tailored product film for each of hundreds of target accounts.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://harvey.ai/blog/how-harvey-is-building-a-frontier-marketing-org"
    },
    {
     "newsletter": "marketing",
@@ -1606,6 +1606,18 @@
     "newsletter": "founders",
     "date": "2026-10-23",
     "section": "Tools & Resources",
+    "title": "Introducing 1Password for Agents",
+    "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrfounders",
+    "summary": "The 1Password for Agents platform helps agents work while keeping the credentials they need secure and making access something every user can see, approve, and manage. Users can now ask agents to handle more useful tasks, as they can log into pages to complete tasks on their behalf. The user has control over what agents access and when throughout the whole process. 1Password for Agents is currently available at no additional cost for Individual and Family accounts on 1Password.com but not for accounts on 1Password.eu or 1Password.ca.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://1password.com/blog/1password-for-ai-agents"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-23",
+    "section": "Tools & Resources",
     "title": "Autopilot: Always-on agent for self-updating docs",
     "url": "https://www.mintlify.com/blog/autopilot?utm_source=tldrfounders",
     "summary": "Mintlify's Autopilot beta is available on Pro and Enterprise plans, using GitHub and Slack to draft documentation updates for human review at 250 credits per pull request opened or updated.",
@@ -1629,14 +1641,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-23",
-    "section": "Tools & Resources",
-    "title": "Introducing 1Password for Agents",
-    "url": "https://1password.com/blog/1password-for-ai-agents?utm_source=tldrfounders",
-    "summary": "The 1Password for Agents platform helps agents work while keeping the credentials they need secure and making access something every user can see, approve, and manage. Users can now ask agents to handle more useful tasks, as they can log into pages to complete tasks on their behalf. The user has control over what agents access and when throughout the whole process. 1Password for Agents is currently available at no additional cost for Individual and Family accounts on 1Password.com but not for accounts on 1Password.eu or 1Password.ca.",
-    "read_minutes": 7,
+    "section": "Miscellaneous",
+    "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
+    "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day?utm_source=tldrfounders",
+    "summary": "An Anthropic sales rep uses a shared knowledge base so he can correct an email once and have every agent reuse the fix. First replies and meeting follow-ups draw on the same saved edits. Each agent has one job, and only the rep can request changes to its instructions through a single Slack channel. Customer emails arrive as drafts for him to review and send. Routine CRM updates run on a cheaper model, while tasks needing more judgment use a larger one.",
+    "read_minutes": 14,
     "kind": null,
     "sponsored": false,
-    "key": "https://1password.com/blog/1password-for-ai-agents"
+    "key": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day"
    },
    {
     "newsletter": "founders",
@@ -1661,18 +1673,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.ravi-mehta.com/p/product-quality"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-23",
-    "section": "Miscellaneous",
-    "title": "How an Anthropic BDR in Japan runs his day with Claude Managed Agents",
-    "url": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day?utm_source=tldrfounders",
-    "summary": "An Anthropic sales rep uses a shared knowledge base so he can correct an email once and have every agent reuse the fix. First replies and meeting follow-ups draw on the same saved edits. Each agent has one job, and only the rep can request changes to its instructions through a single Slack channel. Customer emails arrive as drafts for him to review and send. Routine CRM updates run on a cheaper model, while tasks needing more judgment use a larger one.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day"
    },
    {
     "newsletter": "founders",
@@ -1764,18 +1764,6 @@
     "newsletter": "crypto",
     "date": "2026-10-23",
     "section": "Innovation & Launches",
-    "title": "daily.fun Launches Beta for Consumer Prediction Markets",
-    "url": "https://threadreaderapp.com/thread/2112921859742175431.html?utm_source=tldrcrypto",
-    "summary": "Daily.fun is a prediction markets platform built to bring consumer-grade UX to onchain market trading. It enables users to open card packs to win positions across prediction markets and other digital assets, along with various novel mechanisms to make prediction market trading more engaging and real-time. The product is in an early beta, and potential users can sign up for the waitlist on their website.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2112921859742175431.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-23",
-    "section": "Innovation & Launches",
     "title": "Solana's biggest network change since 2020 is live",
     "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users?utm_source=tldrcrypto",
     "summary": "Solana activated Alpenglow on Wednesday. It targets finality of about 150 milliseconds under normal conditions, down from several seconds. Validators now send votes directly to each other and combine approvals into certificates, so a block can finalize after one or two voting rounds. Before, votes were recorded as transactions across successive blocks. The handover took about 900 ms, and 446 of 654 validators voted on the starting block. Apps often showed payments as confirmed before full settlement, so the change mainly gives stronger assurance. Exchanges could credit deposits sooner, and shops could confirm stablecoin payments faster. The 150 ms figure is a target, not a guarantee, and Anza said some computers receive finality information later than voting validators. Wallets, fees, and how apps run are unchanged. Validator votes no longer appear as transactions, so dashboards will show a sharp drop in transaction totals even though user activity hasn't changed.",
@@ -1783,6 +1771,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-23",
+    "section": "Innovation & Launches",
+    "title": "daily.fun Launches Beta for Consumer Prediction Markets",
+    "url": "https://threadreaderapp.com/thread/2112921859742175431.html?utm_source=tldrcrypto",
+    "summary": "Daily.fun is a prediction markets platform built to bring consumer-grade UX to onchain market trading. It enables users to open card packs to win positions across prediction markets and other digital assets, along with various novel mechanisms to make prediction market trading more engaging and real-time. The product is in an early beta, and potential users can sign up for the waitlist on their website.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2112921859742175431.html"
    },
    {
     "newsletter": "crypto",
