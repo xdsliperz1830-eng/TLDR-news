@@ -1800,18 +1800,6 @@
     "newsletter": "crypto",
     "date": "2026-10-26",
     "section": "Innovation & Launches",
-    "title": "A Hash-Only Rollup",
-    "url": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172?utm_source=tldrcrypto",
-    "summary": "The founder of bb84 payments has deployed an OP Stack L2 on Ethereum mainnet (chain ID 42069000, live since 2026-09-30) where L2 transactions carry no ECDSA signatures, replacing them with Lamport-style keccak-256 hash chains in which spending a transaction reveals the next preimage rather than a cryptographic signature. Each account derives from a secret seed generating a default 1,000-step hash chain, tracked by a NullifierTree predeploy, with two new EIP-2718 transaction types handling commit (0x7C) and reveal (0x7F) steps, and a \"first commit wins\" rule activated on October 21 to blunt front-running. The chain targets ~2^128 quantum work factor inside the L2 against Grover's algorithm, but ECDSA remains at the L1 boundary, fault proofs are absent, the sequencer is centralized, and stateful wallets mean losing chain position can lock users out.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-26",
-    "section": "Innovation & Launches",
     "title": "Phantom rolls out Kalshi prediction markets to US users",
     "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652?utm_source=tldrcrypto",
     "summary": "Phantom began rolling out Kalshi event contracts to US users on October 23, with access expanding over the coming weeks. Users need to complete KYC on Kalshi and fund trades with Phantom's CASH stablecoin, with winnings returned to their Phantom Cash accounts. Funds move to Kalshi and are converted to fiat. Phantom charges a $0.02 per contract feed fee plus a small network fee. General Counsel Kevin Jacobs says the CFTC's jurisdiction is clear as long as Phantom stays within its no-action position, and he expects the Supreme Court to eventually decide. Phantom will block some categories by state: sports in Michigan, sports, elections, politics, and entertainment in Nevada, and a longer list in Washington.",
@@ -1819,6 +1807,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-26",
+    "section": "Innovation & Launches",
+    "title": "A Hash-Only Rollup",
+    "url": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172?utm_source=tldrcrypto",
+    "summary": "The founder of bb84 payments has deployed an OP Stack L2 on Ethereum mainnet (chain ID 42069000, live since 2026-09-30) where L2 transactions carry no ECDSA signatures, replacing them with Lamport-style keccak-256 hash chains in which spending a transaction reveals the next preimage rather than a cryptographic signature. Each account derives from a secret seed generating a default 1,000-step hash chain, tracked by a NullifierTree predeploy, with two new EIP-2718 transaction types handling commit (0x7C) and reveal (0x7F) steps, and a \"first commit wins\" rule activated on October 21 to blunt front-running. The chain targets ~2^128 quantum work factor inside the L2 against Grover's algorithm, but ECDSA remains at the L1 boundary, fault proofs are absent, the sequencer is centralized, and stateful wallets mean losing chain position can lock users out.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172"
    },
    {
     "newsletter": "crypto",
