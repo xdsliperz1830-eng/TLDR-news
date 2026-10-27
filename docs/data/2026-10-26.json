@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Big Tech & Startups",
-    "title": "Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace",
-    "url": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY&utm_source=tldrnewsletter",
-    "summary": "High-frequency traders are now racing for compute. They are investing in the sector as it secures them access to greater processing capacity and faster chips. These firms primarily profit from tiny price differences as they move rapidly in and out of positions. As they increasingly rely on machine learning, their success is directly tied to their computing power. While the risks are significant, most high-speed traders see few options if they want to avoid becoming obsolete.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-26",
-    "section": "Big Tech & Startups",
     "title": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone's Purpose",
     "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html?unlocked_article_code=1.LlE.6tcx.7t5N9nZ5J6K3&smid=url-share&utm_source=tldrnewsletter",
     "summary": "Apple's iPhone Duo is a miniature tablet that can be folded up into a phone. Its main target audience is people who want to have a tablet everywhere they go. Commuters and business travelers who spend a lot of time on trains, buses, and planes will probably like the device. Everyone else may feel frustrated with what is otherwise an average smartphone.",
@@ -41,14 +29,14 @@
    {
     "newsletter": "tech",
     "date": "2026-10-26",
-    "section": "Science & Futuristic Technology",
-    "title": "US military gives Elon Musk's SpaceX access to sensitive tracking data",
-    "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data?utm_source=tldrnewsletter",
-    "summary": "SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control.",
-    "read_minutes": 7,
+    "section": "Big Tech & Startups",
+    "title": "Jane Street and Rivals Are Now Fighting for AI Power as Well as Pace",
+    "url": "https://www.bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjg5ODcyMSwiZXhwIjoxNzkzNTAzNTIxLCJhcnRpY2xlSWQiOiJUTkJVQ0RLSUpIOTIwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.aZUQTESNPxDFkB9tAjev0zQuyASx2W5Ed0a-yabw_WY&utm_source=tldrnewsletter",
+    "summary": "High-frequency traders are now racing for compute. They are investing in the sector as it secures them access to greater processing capacity and faster chips. These firms primarily profit from tiny price differences as they move rapidly in and out of positions. As they increasingly rely on machine learning, their success is directly tied to their computing power. While the risks are significant, most high-speed traders see few options if they want to avoid becoming obsolete.",
+    "read_minutes": 17,
     "kind": null,
     "sponsored": false,
-    "key": "https://theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
+    "key": "https://bloomberg.com/news/features/2026-10-22/jane-street-hrt-are-spending-billions-to-win-in-ai-era"
    },
    {
     "newsletter": "tech",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-26",
+    "section": "Science & Futuristic Technology",
+    "title": "US military gives Elon Musk's SpaceX access to sensitive tracking data",
+    "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data?utm_source=tldrnewsletter",
+    "summary": "SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
    },
    {
     "newsletter": "tech",
@@ -1096,18 +1096,6 @@
     "newsletter": "data",
     "date": "2026-10-26",
     "section": "Opinions & Advice",
-    "title": "Can data agents do real analysis? (51 minute podcast)",
-    "url": "https://roundup.getdbt.com/p/can-data-agents-do-real-analysis?utm_source=tldrdata",
-    "summary": "Data agents still struggle on realistic analytics tasks, especially when work depends on joins across systems, undocumented business context, and messy text transformations. Benchmark results suggest prompt engineering alone will not close that gap. The best agent passed 61% of benchmark queries on its first attempt, with a semantic layer significantly improving accuracy. The episode also explores query planning and custom inference engines to reduce AI SQL costs.",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://roundup.getdbt.com/p/can-data-agents-do-real-analysis"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-26",
-    "section": "Opinions & Advice",
     "title": "We built three memory systems. The most expressive one wasn't the most useful",
     "url": "https://www.tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful?utm_source=tldrdata",
     "summary": "Tiger Data gave its Slack agent memory three ways: a list of facts, a knowledge graph, and a tree. Agents struggled to decide what graph edges meant. A tree built on Postgres's ltree extension worked better, and filing a thread summary dropped from dozens of turns to one tool call. Its search layer became searchgres.js.",
@@ -1115,6 +1103,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://tigerdata.com/blog/we-built-three-memory-systems-most-expressive-wasnt-most-useful"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-26",
+    "section": "Opinions & Advice",
+    "title": "Can data agents do real analysis? (51 minute podcast)",
+    "url": "https://roundup.getdbt.com/p/can-data-agents-do-real-analysis?utm_source=tldrdata",
+    "summary": "Data agents still struggle on realistic analytics tasks, especially when work depends on joins across systems, undocumented business context, and messy text transformations. Benchmark results suggest prompt engineering alone will not close that gap. The best agent passed 61% of benchmark queries on its first attempt, with a semantic layer significantly improving accuracy. The episode also explores query planning and custom inference engines to reduce AI SQL costs.",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://roundup.getdbt.com/p/can-data-agents-do-real-analysis"
    },
    {
     "newsletter": "data",
@@ -1350,18 +1350,6 @@
     "newsletter": "design",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "Font pairings 2026: we checked the fonts on 2,190 websites designers loved. Most of them used just one",
-    "url": "https://muz.li/blog/font-pairings-2026/?utm_source=tldrdesign",
-    "summary": "An analysis of 2,190 design-gallery websites found that 60% use the same typeface for headlines and body copy, relying on differences in scale, spacing, and weight rather than traditional font pairings. Among the 871 sites using two families, there were 811 different combinations, while Inter was the most common overall typeface, PP Neue Montreal led paid options, and monospace fonts frequently appeared as a third family for labels and small text. The data suggests contemporary web typography is increasingly defined by craft within a small number of families, with regular-weight, tightly tracked large headlines and carefully controlled spacing doing more visual work than elaborate pairings.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://muz.li/blog/font-pairings-2026"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "East Surrey Council reveals in-house brand identity ahead of 2027 launch",
     "url": "https://www.designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch/?utm_source=tldrdesign",
     "summary": "East Surrey Council's new identity was developed entirely in-house by designers from six local authorities at no additional cost to taxpayers ahead of the authority's April 2027 launch. The selected mark uses layered leaf-like forms to reference the region's contours and countryside while hiding a lowercase “e,” with colors representing woodland, countryside, community, waterways, and heritage, and Lexend providing accessible primary typography. The identity will be introduced gradually as existing signage, vehicles, and other assets reach scheduled replacement points, minimizing waste and transition costs.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "Font pairings 2026: we checked the fonts on 2,190 websites designers loved. Most of them used just one",
+    "url": "https://muz.li/blog/font-pairings-2026/?utm_source=tldrdesign",
+    "summary": "An analysis of 2,190 design-gallery websites found that 60% use the same typeface for headlines and body copy, relying on differences in scale, spacing, and weight rather than traditional font pairings. Among the 871 sites using two families, there were 811 different combinations, while Inter was the most common overall typeface, PP Neue Montreal led paid options, and monospace fonts frequently appeared as a third family for labels and small text. The data suggests contemporary web typography is increasingly defined by craft within a small number of families, with regular-weight, tightly tracked large headlines and carefully controlled spacing doing more visual work than elaborate pairings.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://muz.li/blog/font-pairings-2026"
    },
    {
     "newsletter": "design",
@@ -1800,18 +1800,6 @@
     "newsletter": "crypto",
     "date": "2026-10-26",
     "section": "Innovation & Launches",
-    "title": "Phantom rolls out Kalshi prediction markets to US users",
-    "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652?utm_source=tldrcrypto",
-    "summary": "Phantom began rolling out Kalshi event contracts to US users on October 23, with access expanding over the coming weeks. Users need to complete KYC on Kalshi and fund trades with Phantom's CASH stablecoin, with winnings returned to their Phantom Cash accounts. Funds move to Kalshi and are converted to fiat. Phantom charges a $0.02 per contract feed fee plus a small network fee. General Counsel Kevin Jacobs says the CFTC's jurisdiction is clear as long as Phantom stays within its no-action position, and he expects the Supreme Court to eventually decide. Phantom will block some categories by state: sports in Michigan, sports, elections, politics, and entertainment in Nevada, and a longer list in Washington.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-26",
-    "section": "Innovation & Launches",
     "title": "A Hash-Only Rollup",
     "url": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172?utm_source=tldrcrypto",
     "summary": "The founder of bb84 payments has deployed an OP Stack L2 on Ethereum mainnet (chain ID 42069000, live since 2026-09-30) where L2 transactions carry no ECDSA signatures, replacing them with Lamport-style keccak-256 hash chains in which spending a transaction reveals the next preimage rather than a cryptographic signature. Each account derives from a secret seed generating a default 1,000-step hash chain, tracked by a NullifierTree predeploy, with two new EIP-2718 transaction types handling commit (0x7C) and reveal (0x7F) steps, and a \"first commit wins\" rule activated on October 21 to blunt front-running. The chain targets ~2^128 quantum work factor inside the L2 against Grover's algorithm, but ECDSA remains at the L1 boundary, fault proofs are absent, the sequencer is centralized, and stateful wallets mean losing chain position can lock users out.",
@@ -1819,6 +1807,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://ethresear.ch/t/a-hash-only-rollup-op-stack-l2-accounts-as-lamport-style-hash-chains-no-ecdsa-inside-the-l2/26172"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-26",
+    "section": "Innovation & Launches",
+    "title": "Phantom rolls out Kalshi prediction markets to US users",
+    "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652?utm_source=tldrcrypto",
+    "summary": "Phantom began rolling out Kalshi event contracts to US users on October 23, with access expanding over the coming weeks. Users need to complete KYC on Kalshi and fund trades with Phantom's CASH stablecoin, with winnings returned to their Phantom Cash accounts. Funds move to Kalshi and are converted to fiat. Phantom charges a $0.02 per contract feed fee plus a small network fee. General Counsel Kevin Jacobs says the CFTC's jurisdiction is clear as long as Phantom stays within its no-action position, and he expects the Supreme Court to eventually decide. Phantom will block some categories by state: sports in Michigan, sports, elections, politics, and entertainment in Nevada, and a longer list in Washington.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652"
    },
    {
     "newsletter": "crypto",
@@ -1836,18 +1836,6 @@
     "newsletter": "crypto",
     "date": "2026-10-26",
     "section": "Guides & Resources",
-    "title": "Crypto Longs Lose $404 Million in Four Hours as Bitcoin Briefly Slips Below $80,000",
-    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608?utm_source=tldrcrypto",
-    "summary": "Bitcoin briefly fell below $80,000 Saturday morning, triggering $404M in long liquidations over four hours, the largest such figure since October 14, as cascading stops swept $815M in total liquidations across 24 hours and affected 201,012 traders. Ether absorbed $136.72M in liquidations during that window, closing in on bitcoin's $158.45M despite ETH representing about 18% of BTC's market cap, with longs accounting for over 92% of forced exits on both assets. Spot bitcoin ETFs closed the week with $304.73M in net inflows despite Friday's $137.94M outflow led by BlackRock's IBIT, while spot ether ETFs posted $220.60M in weekly net outflows and have shed $1.175B across 14 of 17 October trading sessions. Arthur Hayes closed Maelstrom's directional book, exiting ETH, ENA, and UNI, citing deteriorating macro conditions and elevated geopolitical risk tied to Iranian threats against US embassy personnel in Jordan, Lebanon, Qatar, and the UAE.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-26",
-    "section": "Guides & Resources",
     "title": "Bitcoin 'Top Buyers' Halt BTC Price Upside With $87.7K Now Key: Glassnode",
     "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=tldrcrypto",
     "summary": "Glassnode identifies the $87,000–$87,700 zone as the primary resistance for Bitcoin, where 6-12 month holders sit near their cost basis (~$87,700) and sell into rallies, absorbing new buy-side demand before price can advance. Two additional levels reinforce this ceiling: the 2026 opening price at $87,490 and the 20-month simple moving average at $87,165, a band that preceded new all-time highs when reclaimed as support in prior cycles. Below spot, the $80,000–$81,500 range represents overlapping order-book and on-chain support, anchored by the cost basis of US spot Bitcoin ETF holders ($81,500) and concentrated bid liquidity at $80,000. A breach of that zone would expose a liquidation cluster just under $80,000, followed by the true market mean at $77,500 and short-term holder breakeven at $74,600 as the next structural floor.",
@@ -1855,6 +1843,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-26",
+    "section": "Guides & Resources",
+    "title": "Crypto Longs Lose $404 Million in Four Hours as Bitcoin Briefly Slips Below $80,000",
+    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608?utm_source=tldrcrypto",
+    "summary": "Bitcoin briefly fell below $80,000 Saturday morning, triggering $404M in long liquidations over four hours, the largest such figure since October 14, as cascading stops swept $815M in total liquidations across 24 hours and affected 201,012 traders. Ether absorbed $136.72M in liquidations during that window, closing in on bitcoin's $158.45M despite ETH representing about 18% of BTC's market cap, with longs accounting for over 92% of forced exits on both assets. Spot bitcoin ETFs closed the week with $304.73M in net inflows despite Friday's $137.94M outflow led by BlackRock's IBIT, while spot ether ETFs posted $220.60M in weekly net outflows and have shed $1.175B across 14 of 17 October trading sessions. Arthur Hayes closed Maelstrom's directional book, exiting ETH, ENA, and UNI, citing deteriorating macro conditions and elevated geopolitical risk tied to Iranian threats against US embassy personnel in Jordan, Lebanon, Qatar, and the UAE.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
    },
    {
     "newsletter": "crypto",
@@ -2224,18 +2224,6 @@
     "newsletter": "it",
     "date": "2026-10-26",
     "section": "Launches & Partnerships",
-    "title": "Advancing digital sovereignty with greater control and choice",
-    "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/?utm_source=tldrit",
-    "summary": "Microsoft is expanding its sovereign cloud offerings with oversight of Microsoft engineer access, customer-controlled encryption keys, and more services that can run on customer-operated infrastructure. External key management is generally available, while the new Sovereign Control Panel is headed for public preview at Ignite. GitHub Enterprise Local and expanded Foundry Local capabilities are also scheduled for general availability at that event.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-26",
-    "section": "Launches & Partnerships",
     "title": "Introducing Agent Compute Engine and expanded agent governance",
     "url": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?utm_source=tldrit",
     "summary": "Google Cloud announced Agent Compute Engine, a service designed to run AI agents in hardware-isolated sandboxes, with customer preview expected in the coming months. It also announced broader agent governance across Google Cloud, other clouds, on-premises infrastructure and managed endpoints, with cross-cloud and endpoint capabilities marked for preview soon.",
@@ -2255,6 +2243,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://1password.com/blog/1password-for-ai-agents"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-26",
+    "section": "Launches & Partnerships",
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/?utm_source=tldrit",
+    "summary": "Microsoft is expanding its sovereign cloud offerings with oversight of Microsoft engineer access, customer-controlled encryption keys, and more services that can run on customer-operated infrastructure. External key management is generally available, while the new Sovereign Control Panel is headed for public preview at Ignite. GitHub Enterprise Local and expanded Foundry Local capabilities are also scheduled for general availability at that event.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice"
    },
    {
     "newsletter": "it",
