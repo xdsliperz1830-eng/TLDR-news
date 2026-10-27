@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "The Factory in Phoenix That Could Save American Manufacturing",
-    "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi&smid=url-share&utm_source=tldrnewsletter",
-    "summary": "TSMC Arizona's first plant has been producing chips for two years. Its rate of output in Phoenix is comparable to that in Taiwan. TSMC sends engineers to Arizona on contracts of up to three years, with families moving from Taiwan to the site. Some of the families that moved in the first wave now want to build lives in the US, as they want to give their children a chance to integrate, for their kids' education, or because they prefer the American lifestyle, and there are legal pathways for doing so. This article looks at the impact the factory had on Phoenix, the employees who moved to America to work there, and the chip manufacturing industry in the US.",
-    "read_minutes": 28,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "Salesforce – Part Two",
     "url": "https://buildingslack.com/salesforce-part-two/?utm_source=tldrnewsletter",
     "summary": "This post tells the story of what it was like at Salesforce after it acquired Slack. The cultural gaps between the two companies were evident. Slack had a tight-knit culture where humans would help each other, whereas Salesforce was a much larger company with systems and processes for things to get done. Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://buildingslack.com/salesforce-part-two"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "The Factory in Phoenix That Could Save American Manufacturing",
+    "url": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi&smid=url-share&utm_source=tldrnewsletter",
+    "summary": "TSMC Arizona's first plant has been producing chips for two years. Its rate of output in Phoenix is comparable to that in Taiwan. TSMC sends engineers to Arizona on contracts of up to three years, with families moving from Taiwan to the site. Some of the families that moved in the first wave now want to build lives in the US, as they want to give their children a chance to integrate, for their kids' education, or because they prefer the American lifestyle, and there are legal pathways for doing so. This article looks at the impact the factory had on Phoenix, the employees who moved to America to work there, and the chip manufacturing industry in the US.",
+    "read_minutes": 28,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi"
    },
    {
     "newsletter": "tech",
@@ -380,18 +380,6 @@
     "newsletter": "ai",
     "date": "2026-10-26",
     "section": "Quick Links",
-    "title": "Claude Cowork and chat come together for Enterprise",
-    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrai",
-    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-26",
-    "section": "Quick Links",
     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
     "url": "https://lynchlab.net/llm-skin-cancer?utm_source=tldrai",
     "summary": "A small, old, and specialized network with an outdated architecture recognizes skin lesions far better than GPT-6 Astra and Claude Fable 5.1.",
@@ -423,6 +411,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://testingcatalog.com/gemini-4-carbon-early-test-results"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "Claude Cowork and chat come together for Enterprise",
+    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrai",
+    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
    }
   ],
   "webdev": [
@@ -1350,18 +1350,6 @@
     "newsletter": "design",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "Everyone is Starting Over",
-    "url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over?utm_source=tldrdesign",
-    "summary": "Designers at every career stage are effectively starting over, as tools, expectations, and team structures shift fast enough to turn old strengths into liabilities. Reinvention is a habit that demands tolerance for embarrassment. Critical thinking is its counterweight - test each new idea so openness to change never means becoming easy to fool.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://gabrielvaldivia.com/notes/everybody-is-starting-over"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "Font pairings 2026: we checked the fonts on 2,190 websites designers loved. Most of them used just one",
     "url": "https://muz.li/blog/font-pairings-2026/?utm_source=tldrdesign",
     "summary": "An analysis of 2,190 design-gallery websites found that 60% use the same typeface for headlines and body copy, relying on differences in scale, spacing, and weight rather than traditional font pairings. Among the 871 sites using two families, there were 811 different combinations, while Inter was the most common overall typeface, PP Neue Montreal led paid options, and monospace fonts frequently appeared as a third family for labels and small text. The data suggests contemporary web typography is increasingly defined by craft within a small number of families, with regular-weight, tightly tracked large headlines and carefully controlled spacing doing more visual work than elaborate pairings.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://muz.li/blog/font-pairings-2026"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "Everyone is Starting Over",
+    "url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over?utm_source=tldrdesign",
+    "summary": "Designers at every career stage are effectively starting over, as tools, expectations, and team structures shift fast enough to turn old strengths into liabilities. Reinvention is a habit that demands tolerance for embarrassment. Critical thinking is its counterweight - test each new idea so openness to change never means becoming easy to fool.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://gabrielvaldivia.com/notes/everybody-is-starting-over"
    },
    {
     "newsletter": "design",

@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-10-27",
     "section": "Science & Futuristic Technology",
-    "title": "'It's offensively cheap': How solar power is quietly becoming bigger than nuclear",
-    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear?utm_source=tldrnewsletter",
-    "summary": "Solar power will likely provide 10% of the world's power by the end of the year. Solar electricity is the fastest-growing source of new electricity in history as it has become unbelievably cheap. China is still the world's biggest solar power producer by far, but the installations in the US are skyrocketing. Even with tariffs, solar is still one of the cheapest sources of new power in the US, and it is getting built regardless of political lines.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-27",
-    "section": "Science & Futuristic Technology",
     "title": "Working with academic communities to build scientific understanding",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/?utm_source=tldrnewsletter",
     "summary": "OpenAI has announced three new discoveries in mathematics, computer science, and physics. For the math result, which is about harmonic analysis, the AI lab will release the AI output, so researchers are free to organize their own efforts to explain the result. OpenAI will form an external group of collaborators to explain the computer science result, which is about complexity theory, and will make the AI output publicly available. The lab will also form an external group of collaborators for the physics result, which is about quantum field theory, but defer to them on the release of the materials.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-27",
+    "section": "Science & Futuristic Technology",
+    "title": "'It's offensively cheap': How solar power is quietly becoming bigger than nuclear",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear?utm_source=tldrnewsletter",
+    "summary": "Solar power will likely provide 10% of the world's power by the end of the year. Solar electricity is the fastest-growing source of new electricity in history as it has become unbelievably cheap. China is still the world's biggest solar power producer by far, but the installations in the US are skyrocketing. Even with tariffs, solar is still one of the cheapest sources of new power in the US, and it is getting built regardless of political lines.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
    },
    {
     "newsletter": "tech",
@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-10-27",
     "section": "Programming, Design & Data Science",
-    "title": "How the Claude Code team does code review",
-    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/?utm_source=tldrnewsletter",
-    "summary": "Claude writes about 90% of the code in Claude Code. This post explains how the team reviews the code at the volume its agents produce. The team moved most of the reading in the review stage to machines, optimized for human time and attention, and invested heavily in making it fast and easy to undo mistakes. This resulted in merged pull requests to Claude Code's codebase more than doubling while the share that had to be reverted fell by more than 40% between June and September.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.dev/blog/solving-code-review-at-anthropic"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-27",
-    "section": "Programming, Design & Data Science",
     "title": "The Counting House",
     "url": "https://yegge.ai/essays/the-counting-house/?utm_source=tldrnewsletter",
     "summary": "The Counting House pattern adds AI to systems that handle large volumes of human work, notably customer service departments. It can be used to control and improve costs, quality, and human ramp-up time using comparatively cheap AI models. A Counting House uses classic data science and engineering to put lower-tier models on hardened rails to support human workflows. It allows teams to measure and report how well models do against their human counterparts.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://yegge.ai/essays/the-counting-house"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-27",
+    "section": "Programming, Design & Data Science",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/?utm_source=tldrnewsletter",
+    "summary": "Claude writes about 90% of the code in Claude Code. This post explains how the team reviews the code at the volume its agents produce. The team moved most of the reading in the review stage to machines, optimized for human time and attention, and invested heavily in making it fast and easy to undo mistakes. This resulted in merged pull requests to Claude Code's codebase more than doubling while the share that had to be reverted fell by more than 40% between June and September.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.dev/blog/solving-code-review-at-anthropic"
    },
    {
     "newsletter": "tech",
@@ -248,18 +248,6 @@
     "newsletter": "ai",
     "date": "2026-10-27",
     "section": "Deep Dives & Analysis",
-    "title": "Gemini 4 Argon: The Model and Safety Cards",
-    "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
-    "summary": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
-    "read_minutes": 35,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-27",
-    "section": "Deep Dives & Analysis",
     "title": "Frontier models' ability to control robot arms is doubling every 54 days",
     "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai",
     "summary": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost per subtask down 6.2x. Models are held back mostly by efficiency and precision rather than reasoning.",
@@ -267,6 +255,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-27",
+    "section": "Deep Dives & Analysis",
+    "title": "Gemini 4 Argon: The Model and Safety Cards",
+    "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
+    "summary": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
+    "read_minutes": 35,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards"
    },
    {
     "newsletter": "ai",
@@ -356,18 +356,6 @@
     "newsletter": "ai",
     "date": "2026-10-27",
     "section": "Quick Links",
-    "title": "Meta announces $95 billion stock offering to fund AI expansion",
-    "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html?utm_source=tldrai",
-    "summary": "Meta is planning a $95 billion stock offering to boost AI infrastructure and superintelligence.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cnbc.com/2026/10/26/meta-stock-offering-ai.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-27",
-    "section": "Quick Links",
     "title": "Fern",
     "url": "https://mirendil.com/news/introducing-fern/?utm_source=tldrai",
     "summary": "Fern, Mirendil's first LLM model, supports a context window of up to 10 million tokens and specializes in high-volume agentic tasks.",
@@ -387,6 +375,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-27",
+    "section": "Quick Links",
+    "title": "Meta announces $95 billion stock offering to fund AI expansion",
+    "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html?utm_source=tldrai",
+    "summary": "Meta is planning a $95 billion stock offering to boost AI infrastructure and superintelligence.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/10/26/meta-stock-offering-ai.html"
    }
   ],
   "webdev": [
@@ -624,18 +624,6 @@
     "newsletter": "infosec",
     "date": "2026-10-27",
     "section": "Attacks & Vulnerabilities",
-    "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
-    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles?utm_source=tldrinfosec",
-    "summary": "Attackers wielding stolen GitHub tokens from more than 850 accounts planted over 13,500 \"sync-check\" workflows that base32-encode repository and environment secrets to evade log masking, then pulled the logs through GitHub's own API and deleted the runs. GitHub's approval hold blocked every public-repository run, but private repositories and GitHub Enterprise Server executed the payload, with a newer variant sweeping self-hosted runners for cloud, Kubernetes, and AI provider credentials. Defenders should hunt for ci-sync-* branches, the gheist user agent, and OIDC role assumptions from those branches, then rotate every secret an affected repository could reach, since deleting the branch does not undo the exposure.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-27",
-    "section": "Attacks & Vulnerabilities",
     "title": "Hackers Claim 590GB PwC Data Theft",
     "url": "https://www.idnfinancials.com/news/70767/hackers-claim-590-gb-pwc-data-theft-company-responds?utm_source=tldrinfosec",
     "summary": "The Everest extortion group claims to have stolen 590GB of data from PwC, including HR and regional training data exports, integration documents, software components, and eLearning materials. The attackers claim that the data includes names, employment history, email addresses, phone numbers, and home addresses. PwC acknowledged the breach but stated that the affected site did not store client info, personal data, or financial information.",
@@ -655,6 +643,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-27",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
+    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles?utm_source=tldrinfosec",
+    "summary": "Attackers wielding stolen GitHub tokens from more than 850 accounts planted over 13,500 \"sync-check\" workflows that base32-encode repository and environment secrets to evade log masking, then pulled the logs through GitHub's own API and deleted the runs. GitHub's approval hold blocked every public-repository run, but private repositories and GitHub Enterprise Server executed the payload, with a newer variant sweeping self-hosted runners for cloud, Kubernetes, and AI provider credentials. Defenders should hunt for ci-sync-* branches, the gheist user agent, and OIDC role assumptions from those branches, then rotate every secret an affected repository could reach, since deleting the branch does not undo the exposure.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles"
    },
    {
     "newsletter": "infosec",
@@ -744,6 +744,18 @@
     "newsletter": "infosec",
     "date": "2026-10-27",
     "section": "Miscellaneous",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html?utm_source=tldrinfosec",
+    "summary": "The uCreator Android spyware kit hides inside sideloaded Telegram and Telegram X builds or runs WeChat in its own container. It can read chats, capture Telegram 2FA passwords before hashing, reset sessions, change phone numbers, and hide attacker devices. Its WeChat module extracts login credentials and clones accounts. A leaked backend shows a rentable service with customer IDs, phone farms, bulk-contact operations, and scheduled activity designed to evade platform risk checks.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-27",
+    "section": "Miscellaneous",
     "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
     "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363?utm_source=tldrinfosec",
     "summary": "UK Biobank says its Research Analysis Platform is secure and will reopen after government approval. The April attack led to data for all 500,000 volunteers being listed for sale on Alibaba. Access will return in phases: manual file review before downloads, no result downloads initially, 15-minute idle logouts with 2FA, isolated browsing, SSH removal, and CLI limits. Researchers must remove de-identified participant data from code repositories before regaining access.",
@@ -763,18 +775,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.codeminer42.com/who-do-you-trust-when-you-trust-a-certificate-the-emudhra-incident-explained"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-27",
-    "section": "Miscellaneous",
-    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html?utm_source=tldrinfosec",
-    "summary": "The uCreator Android spyware kit hides inside sideloaded Telegram and Telegram X builds or runs WeChat in its own container. It can read chats, capture Telegram 2FA passwords before hashing, reset sessions, change phone numbers, and hide attacker devices. Its WeChat module extracts login credentials and clones accounts. A leaked backend shows a rentable service with customer IDs, phone farms, bulk-contact operations, and scheduled activity designed to evade platform risk checks.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
    },
    {
     "newsletter": "infosec",
@@ -1072,18 +1072,6 @@
     "newsletter": "design",
     "date": "2026-10-27",
     "section": "Launches & Tools",
-    "title": "Logo.dev MCP Server",
-    "url": "https://www.logo.dev/docs/mcp/introduction?utm_source=tldrdesign",
-    "summary": "Connect Claude, Cursor, VS Code, Codex, or any MCP client to Logo.dev, and let your agent look up brands, logos, and brandmarks.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://logo.dev/docs/mcp/introduction"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-27",
-    "section": "Launches & Tools",
     "title": "Turn an Idea into Something You Can Hold",
     "url": "https://useit.im/?utm_source=tldrdesign",
     "summary": "UseIt Studio is an AI design co-pilot: describe what you want, change it with a sentence, and get it ready to print, cut, and fold.",
@@ -1103,6 +1091,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://lugh-xtudio.com/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-27",
+    "section": "Launches & Tools",
+    "title": "Logo.dev MCP Server",
+    "url": "https://www.logo.dev/docs/mcp/introduction?utm_source=tldrdesign",
+    "summary": "Connect Claude, Cursor, VS Code, Codex, or any MCP client to Logo.dev, and let your agent look up brands, logos, and brandmarks.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://logo.dev/docs/mcp/introduction"
    },
    {
     "newsletter": "design",
@@ -1206,18 +1206,6 @@
     "newsletter": "marketing",
     "date": "2026-10-27",
     "section": "Strategies & Tactics",
-    "title": "Influence is only as good as the rule behind it",
-    "url": "https://www.linkedin.com/posts/adam-holmgren_ive-been-roasted-for-using-influence-as-share-7520434045026205696-69rw/?utm_source=tldrmarketing",
-    "summary": "Influence can be a useful leading indicator when measured by engagement rather than impressions alone. An analysis of 1,000+ advertisers and $80 million in LinkedIn ad spend found that companies reached in 3 or more separate months entered the pipeline 1.5X more often. Those with 5 or more paid engagements entered 2.2X more often. Recent reach and engagement were stronger signals than longer lookback periods, supporting consistent advertising to future buyers.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/posts/adam-holmgren_ive-been-roasted-for-using-influence-as-share-7520434045026205696-69rw"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-27",
-    "section": "Strategies & Tactics",
     "title": "Steal your competitor's customers for &lt;$100",
     "url": "https://www.marketingideas.com/p/steal-your-competitors-customers?utm_source=tldrmarketing",
     "summary": "Wispr Flow pays $35 for every paying Granola user who switches, covering their remaining subscription and adding 3 free months. The strategy recruits competitor affiliates by offering higher referral payouts. Existing customers can also refer contacts who use rivals, while sales teams can re-engage prospects who chose a competitor earlier in the year. Covering the remainder of their subscription reduces switching costs and gives them a reason to reconsider.",
@@ -1225,6 +1213,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://marketingideas.com/p/steal-your-competitors-customers"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-27",
+    "section": "Strategies & Tactics",
+    "title": "Influence is only as good as the rule behind it",
+    "url": "https://www.linkedin.com/posts/adam-holmgren_ive-been-roasted-for-using-influence-as-share-7520434045026205696-69rw/?utm_source=tldrmarketing",
+    "summary": "Influence can be a useful leading indicator when measured by engagement rather than impressions alone. An analysis of 1,000+ advertisers and $80 million in LinkedIn ad spend found that companies reached in 3 or more separate months entered the pipeline 1.5X more often. Those with 5 or more paid engagements entered 2.2X more often. Recent reach and engagement were stronger signals than longer lookback periods, supporting consistent advertising to future buyers.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/posts/adam-holmgren_ive-been-roasted-for-using-influence-as-share-7520434045026205696-69rw"
    },
    {
     "newsletter": "marketing",
@@ -1266,18 +1266,6 @@
     "newsletter": "marketing",
     "date": "2026-10-27",
     "section": "Miscellaneous",
-    "title": "LEGO and Daft Punk's team-up highlights exactly how brands should interact with fans",
-    "url": "https://www.creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans/?utm_source=tldrmarketing",
-    "summary": "LEGO built its Daft Punk collaboration around fan participation by turning a fan-designed set into a product after it won a LEGO Ideas contest and gained 10K supporters. It teased the partnership with a cryptic video that encouraged fans to decode and discuss the reveal. The launch film blended both brands' visual styles without letting either dominate. Rather than rush out products, LEGO treats the partnership as a long-term relationship with its audience.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-27",
-    "section": "Miscellaneous",
     "title": "In a zero-click world, your best marketing doesn't show up in your analytics",
     "url": "https://www.pootlepress.com/2026/10/in-a-zero-click-world-your-best-marketing-doesnt-show-up-in-your-analytics/?utm_source=tldrmarketing",
     "summary": "In a zero-click world, last-click attribution misses the content that builds trust long before a purchase. Tutorials and videos can influence buyers for years without getting credit for the sale. Talk directly to customers to learn what convinced them to buy and what keeps them loyal. Use AI to analyze their responses and uncover what your metrics miss.",
@@ -1285,6 +1273,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pootlepress.com/2026/10/in-a-zero-click-world-your-best-marketing-doesnt-show-up-in-your-analytics"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-27",
+    "section": "Miscellaneous",
+    "title": "LEGO and Daft Punk's team-up highlights exactly how brands should interact with fans",
+    "url": "https://www.creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans/?utm_source=tldrmarketing",
+    "summary": "LEGO built its Daft Punk collaboration around fan participation by turning a fan-designed set into a product after it won a LEGO Ideas contest and gained 10K supporters. It teased the partnership with a cryptic video that encouraged fans to decode and discuss the reveal. The launch film blended both brands' visual styles without letting either dominate. Rather than rush out products, LEGO treats the partnership as a long-term relationship with its audience.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://creativeboom.com/insight/lego-and-daft-punks-team-up-highlights-exactly-how-brands-should-interact-with-fans"
    },
    {
     "newsletter": "marketing",
