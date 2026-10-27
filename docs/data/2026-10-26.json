@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Science & Futuristic Technology",
-    "title": "US military gives Elon Musk's SpaceX access to sensitive tracking data",
-    "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data?utm_source=tldrnewsletter",
-    "summary": "SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-26",
-    "section": "Science & Futuristic Technology",
     "title": "Neural chip decodes interactions between brain regions",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/?utm_source=tldrnewsletter",
     "summary": "Researchers have developed an implantable neural chip that tracks communication across brain regions. It can record brain activity and extract biomarkers that describe the strength of brain waves and synchrony between signals from different brain regions. These signals can be decoded using a machine-learning algorithm to distinguish between cognitive and emotional states. The capability to extract brain-network biomarkers to trigger precisely timed stimulation has many applications across next-generation neurotechnology.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-26",
+    "section": "Science & Futuristic Technology",
+    "title": "US military gives Elon Musk's SpaceX access to sensitive tracking data",
+    "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data?utm_source=tldrnewsletter",
+    "summary": "SpaceX has been granted access to restricted space tracking data by the US military. The access raises new national security questions as well as questions about whether the Trump administration is attempting to hand over traffic control in Earth's orbit to a donor. Elon Musk's Doge program fired many of the federal government's space traffic control staff in 2025, and the administration has twice attempted to financially gut the Traffic Coordination System for Space department. The moves have been widely viewed in the industry as an attempt by Musk to privatize space traffic control.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data"
    },
    {
     "newsletter": "tech",
@@ -150,18 +150,6 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Quick Links",
-    "title": "The rise and fall of Jev hype",
-    "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm?utm_source=tldrnewsletter",
-    "summary": "The Jev hype cycle is a prime example of the manipulative marketing that we are all too familiar with at this point.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-26",
-    "section": "Quick Links",
     "title": "A technical deep dive into Cap's migration to GPUI",
     "url": "https://cap.so/blog/rebuilding-cap-in-gpui?utm_source=tldrnewsletter",
     "summary": "Cap 0.6.1 is the first version that doesn't have a web browser inside it.",
@@ -205,6 +193,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://longnow.org/ideas/attention-ai-pace-layers"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "The rise and fall of Jev hype",
+    "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm?utm_source=tldrnewsletter",
+    "summary": "The Jev hype cycle is a prime example of the manipulative marketing that we are all too familiar with at this point.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm"
    }
   ],
   "ai": [
@@ -320,18 +320,6 @@
     "newsletter": "ai",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "Bitter Lessoned in Automated Theorem Proving",
-    "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem?utm_source=tldrai",
-    "summary": "OpenAI throwing hard math problems at its models was the right test in 2026. The models were capable of making progress, but not enough to fully solve the problems, so it was possible to see improvements with each update in perfect resolution. These model improvements showed how clever engineering doesn't matter - all the work done to build special-case solutions on top of a model gets squashed by improvements in the base model sooner or later. Models will one-shot superior work for pennies in the very near future.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
     "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html?utm_source=tldrai",
     "summary": "SpaceX has closed $40 billion in debt financing to purchase GPUs. The financing primarily consists of capitalizable debt for GPUs. It is expected to arrive in the first and second quarters of 2027. The proposed financing will use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings.",
@@ -343,14 +331,14 @@
    {
     "newsletter": "ai",
     "date": "2026-10-26",
-    "section": "Quick Links",
-    "title": "RAG on AWS without the integration work",
-    "url": "https://aws.amazon.com/marketplace/build-learn/data-analytics/end-to-end-rag-deployment-elastic-cloud?trk=ddffc960-0c45-480c-8eb0-c1786cd3b6b6&sc_channel=el",
-    "summary": "Deploy a functional RAG pipeline on AWS: Elastic Cloud for retrieval, AWS Lambda for orchestration, fully provisioned in one Terraform template. Start building now.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://aws.amazon.com/marketplace/build-learn/data-analytics/end-to-end-rag-deployment-elastic-cloud"
+    "section": "Miscellaneous",
+    "title": "Bitter Lessoned in Automated Theorem Proving",
+    "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem?utm_source=tldrai",
+    "summary": "OpenAI throwing hard math problems at its models was the right test in 2026. The models were capable of making progress, but not enough to fully solve the problems, so it was possible to see improvements with each update in perfect resolution. These model improvements showed how clever engineering doesn't matter - all the work done to build special-case solutions on top of a model gets squashed by improvements in the base model sooner or later. Models will one-shot superior work for pennies in the very near future.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem"
    },
    {
     "newsletter": "ai",
@@ -363,6 +351,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://neo4j.com/nodes"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "RAG on AWS without the integration work",
+    "url": "https://aws.amazon.com/marketplace/build-learn/data-analytics/end-to-end-rag-deployment-elastic-cloud?trk=ddffc960-0c45-480c-8eb0-c1786cd3b6b6&sc_channel=el",
+    "summary": "Deploy a functional RAG pipeline on AWS: Elastic Cloud for retrieval, AWS Lambda for orchestration, fully provisioned in one Terraform template. Start building now.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://aws.amazon.com/marketplace/build-learn/data-analytics/end-to-end-rag-deployment-elastic-cloud"
    },
    {
     "newsletter": "ai",
@@ -610,18 +610,6 @@
     "newsletter": "webdev",
     "date": "2026-10-26",
     "section": "Quick Links",
-    "title": "ADRs4AI",
-    "url": "https://adrs.systems/?utm_source=tldrdev",
-    "summary": "ADRs4AI keeps human and AI decisions in Git with templates that record options, rationale, open questions, and the final decision.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://adrs.systems/"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-26",
-    "section": "Quick Links",
     "title": "Unicode Security Mechanisms",
     "url": "https://unicode.org/reports/tr39/?utm_source=tldrdev",
     "summary": "Unicode's security standard documents identifier restrictions, confusable detection, and mixed-script checks for software that accepts international text.",
@@ -629,6 +617,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://unicode.org/reports/tr39"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "ADRs4AI",
+    "url": "https://adrs.systems/?utm_source=tldrdev",
+    "summary": "ADRs4AI keeps human and AI decisions in Git with templates that record options, rationale, open questions, and the final decision.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://adrs.systems/"
    },
    {
     "newsletter": "webdev",
@@ -732,18 +732,6 @@
     "newsletter": "infosec",
     "date": "2026-10-26",
     "section": "Launches & Tools",
-    "title": "AWS Continuum for code vulnerabilities is now generally available",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available/?utm_source=tldrinfosec",
-    "summary": "AWS Continuum validates code vulnerability findings by testing exploitability in an isolated sandbox, then ranks them using a context graph of resource topology, identity relationships, and network reachability. It delivers fixes as pull requests with proof of exploitability and blast radius attached, starting in an approval-gated Learn mode before teams can switch to autonomous Enforce mode within set guardrails.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-26",
-    "section": "Launches & Tools",
     "title": "Mave (Product Launch)",
     "url": "https://www.mave.com/?utm_source=tldrinfosec",
     "summary": "Mave uses AI agents to investigate security alerts across existing tools. It pulls live context, provides near-real-time reasoning, and uses approval gates, least-privilege integrations, and audit trails.",
@@ -763,6 +751,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://portswigger.net/research/http3-in-burp-suite"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-26",
+    "section": "Launches & Tools",
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available/?utm_source=tldrinfosec",
+    "summary": "AWS Continuum validates code vulnerability findings by testing exploitability in an isolated sandbox, then ranks them using a context graph of resource topology, identity relationships, and network reachability. It delivers fixes as pull requests with proof of exploitability and blast radius attached, starting in an approval-gated Learn mode before teams can switch to autonomous Enforce mode within set guardrails.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
    },
    {
     "newsletter": "infosec",
@@ -1350,18 +1350,6 @@
     "newsletter": "design",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "East Surrey Council reveals in-house brand identity ahead of 2027 launch",
-    "url": "https://www.designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch/?utm_source=tldrdesign",
-    "summary": "East Surrey Council's new identity was developed entirely in-house by designers from six local authorities at no additional cost to taxpayers ahead of the authority's April 2027 launch. The selected mark uses layered leaf-like forms to reference the region's contours and countryside while hiding a lowercase “e,” with colors representing woodland, countryside, community, waterways, and heritage, and Lexend providing accessible primary typography. The identity will be introduced gradually as existing signage, vehicles, and other assets reach scheduled replacement points, minimizing waste and transition costs.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "Everyone is Starting Over",
     "url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over?utm_source=tldrdesign",
     "summary": "Designers at every career stage are effectively starting over, as tools, expectations, and team structures shift fast enough to turn old strengths into liabilities. Reinvention is a habit that demands tolerance for embarrassment. Critical thinking is its counterweight - test each new idea so openness to change never means becoming easy to fool.",
@@ -1381,6 +1369,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://muz.li/blog/font-pairings-2026"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "East Surrey Council reveals in-house brand identity ahead of 2027 launch",
+    "url": "https://www.designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch/?utm_source=tldrdesign",
+    "summary": "East Surrey Council's new identity was developed entirely in-house by designers from six local authorities at no additional cost to taxpayers ahead of the authority's April 2027 launch. The selected mark uses layered leaf-like forms to reference the region's contours and countryside while hiding a lowercase “e,” with colors representing woodland, countryside, community, waterways, and heritage, and Lexend providing accessible primary typography. The identity will be introduced gradually as existing signage, vehicles, and other assets reach scheduled replacement points, minimizing waste and transition costs.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://designweek.co.uk/east-surrey-council-reveals-in-house-brand-identity-ahead-of-2027-launch"
    },
    {
     "newsletter": "design",
@@ -1836,18 +1836,6 @@
     "newsletter": "crypto",
     "date": "2026-10-26",
     "section": "Guides & Resources",
-    "title": "Crypto Longs Lose $404 Million in Four Hours as Bitcoin Briefly Slips Below $80,000",
-    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608?utm_source=tldrcrypto",
-    "summary": "Bitcoin briefly fell below $80,000 Saturday morning, triggering $404M in long liquidations over four hours, the largest such figure since October 14, as cascading stops swept $815M in total liquidations across 24 hours and affected 201,012 traders. Ether absorbed $136.72M in liquidations during that window, closing in on bitcoin's $158.45M despite ETH representing about 18% of BTC's market cap, with longs accounting for over 92% of forced exits on both assets. Spot bitcoin ETFs closed the week with $304.73M in net inflows despite Friday's $137.94M outflow led by BlackRock's IBIT, while spot ether ETFs posted $220.60M in weekly net outflows and have shed $1.175B across 14 of 17 October trading sessions. Arthur Hayes closed Maelstrom's directional book, exiting ETH, ENA, and UNI, citing deteriorating macro conditions and elevated geopolitical risk tied to Iranian threats against US embassy personnel in Jordan, Lebanon, Qatar, and the UAE.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-26",
-    "section": "Guides & Resources",
     "title": "Bitcoin 'Top Buyers' Halt BTC Price Upside With $87.7K Now Key: Glassnode",
     "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=tldrcrypto",
     "summary": "Glassnode identifies the $87,000–$87,700 zone as the primary resistance for Bitcoin, where 6-12 month holders sit near their cost basis (~$87,700) and sell into rallies, absorbing new buy-side demand before price can advance. Two additional levels reinforce this ceiling: the 2026 opening price at $87,490 and the 20-month simple moving average at $87,165, a band that preceded new all-time highs when reclaimed as support in prior cycles. Below spot, the $80,000–$81,500 range represents overlapping order-book and on-chain support, anchored by the cost basis of US spot Bitcoin ETF holders ($81,500) and concentrated bid liquidity at $80,000. A breach of that zone would expose a liquidation cluster just under $80,000, followed by the true market mean at $77,500 and short-term holder breakeven at $74,600 as the next structural floor.",
@@ -1855,6 +1843,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-26",
+    "section": "Guides & Resources",
+    "title": "Crypto Longs Lose $404 Million in Four Hours as Bitcoin Briefly Slips Below $80,000",
+    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608?utm_source=tldrcrypto",
+    "summary": "Bitcoin briefly fell below $80,000 Saturday morning, triggering $404M in long liquidations over four hours, the largest such figure since October 14, as cascading stops swept $815M in total liquidations across 24 hours and affected 201,012 traders. Ether absorbed $136.72M in liquidations during that window, closing in on bitcoin's $158.45M despite ETH representing about 18% of BTC's market cap, with longs accounting for over 92% of forced exits on both assets. Spot bitcoin ETFs closed the week with $304.73M in net inflows despite Friday's $137.94M outflow led by BlackRock's IBIT, while spot ether ETFs posted $220.60M in weekly net outflows and have shed $1.175B across 14 of 17 October trading sessions. Arthur Hayes closed Maelstrom's directional book, exiting ETH, ENA, and UNI, citing deteriorating macro conditions and elevated geopolitical risk tied to Iranian threats against US embassy personnel in Jordan, Lebanon, Qatar, and the UAE.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
    },
    {
     "newsletter": "crypto",
@@ -2066,6 +2066,18 @@
     "newsletter": "fintech",
     "date": "2026-10-26",
     "section": "Miscellaneous",
+    "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+    "url": "https://www.reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25/?utm_source=tldrfintech",
+    "summary": "On October 25, Israel's central bank rejected Prime Minister Benjamin Netanyahu's suggestion that cryptocurrency and blockchain could protect the economy if foreign sanctions reached its banking system. More than 100 economists warned the strategy would not preserve access to trading partners and could instead accelerate capital flight, unemployment, and financial isolation",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
     "title": "SEC adds tokenization to 2027 examination priorities",
     "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities?utm_source=tldrfintech",
     "summary": "The SEC's Division of Examinations added tokenization to its fiscal 2027 priorities, with clearing agencies and Regulation SCI entities facing greater scrutiny around tokenized securities and related market-infrastructure risks. The move does not create new rules, but signals that tokenization is becoming part of mainstream securities oversight as regulators examine how blockchain-based infrastructure affects clearing, recordkeeping, operations, and market integrity.",
@@ -2085,18 +2097,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
-    "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-    "url": "https://www.reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25/?utm_source=tldrfintech",
-    "summary": "On October 25, Israel's central bank rejected Prime Minister Benjamin Netanyahu's suggestion that cryptocurrency and blockchain could protect the economy if foreign sanctions reached its banking system. More than 100 economists warned the strategy would not preserve access to trading partners and could instead accelerate capital flight, unemployment, and financial isolation",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25"
    },
    {
     "newsletter": "fintech",
@@ -2382,18 +2382,6 @@
     "newsletter": "hardware",
     "date": "2026-10-26",
     "section": "Research and Prototypes",
-    "title": "Pt-W alloy tested as a thinner low-n absorber for High-NA EUV photomasks",
-    "url": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al?utm_source=tldrhardware",
-    "summary": "Researchers at the Chinese Academy of Sciences, Jilin University, and partner labs evaluated a platinum-tungsten alloy as a low-n absorber for EUV photomasks, studying its film properties and imaging performance. Thinner absorbers matter for High-NA EUV because mask 3D effects degrade imaging as features shrink. Thickness and contrast figures are in the iScience paper published in August.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-10-26",
-    "section": "Research and Prototypes",
     "title": "MIT's light-steered swimming robot runs on a hair-thin layer of living muscle",
     "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm?utm_source=tldrhardware",
     "summary": "MIT built a swimming robot from a gum-stick-sized gel frame with two fins, each coated in a muscle layer thinner than a hair and engineered to contract under light. Lighting one fin or both steers it through a maze at about four body lengths per minute. The key fixes were stiff GelMA gel about half a millimeter thick with square-bottomed grooves that align the cells, and light-pulse training to strengthen the muscle. It's the first thin 2D biohybrid swimmer.",
@@ -2401,6 +2389,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://sciencedaily.com/releases/2026/10/261022081308.htm"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-10-26",
+    "section": "Research and Prototypes",
+    "title": "Pt-W alloy tested as a thinner low-n absorber for High-NA EUV photomasks",
+    "url": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al?utm_source=tldrhardware",
+    "summary": "Researchers at the Chinese Academy of Sciences, Jilin University, and partner labs evaluated a platinum-tungsten alloy as a low-n absorber for EUV photomasks, studying its film properties and imaging performance. Thinner absorbers matter for High-NA EUV because mask 3D effects degrade imaging as features shrink. Thickness and contrast figures are in the iScience paper published in August.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al"
    },
    {
     "newsletter": "hardware",
