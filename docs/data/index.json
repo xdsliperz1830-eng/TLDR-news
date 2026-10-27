@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T05:33:52+00:00",
- "fingerprint": "4d375ef275546f17",
+ "updated": "2026-10-27T10:57:18+00:00",
+ "fingerprint": "c614f3bf70694b8b",
  "newsletters": {
   "tech": "TLDR",
   "ai": "TLDR AI",
@@ -18,6 +18,7 @@
   "hardware": "TLDR Hardware"
  },
  "days": [
+  "2026-10-27",
   "2026-10-26",
   "2026-10-23",
   "2026-10-22",

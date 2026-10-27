@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Programming, Design & Data Science",
-    "title": "The State of Context Engineering",
-    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html?utm_source=tldrnewsletter",
-    "summary": "Context engineering is hard in unique ways because AI models aren't people. It helps to understand how models are built, optimized, and trained. Their unique attributes and construction create a unique set of failure modes to be reckoned with. This means context engineering will forever be a challenge with AI, no matter how good it gets.",
-    "read_minutes": 21,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://dbreunig.com/2026/10/24/the-state-of-context-engineering.html"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-26",
-    "section": "Programming, Design & Data Science",
     "title": "We should be more ambitious with the software we build",
     "url": "https://danluu.com/ambitious/?utm_source=tldrnewsletter",
     "summary": "AI can now one-shot many projects, allowing almost anyone to create software. However, it still struggles with many harder tasks. People who say that everything just works or that software is solved aren't working on the hard problems. They need to be more ambitious about the software they're building as AI models become more capable.",
@@ -101,14 +89,14 @@
    {
     "newsletter": "tech",
     "date": "2026-10-26",
-    "section": "Miscellaneous",
-    "title": "Salesforce – Part Two",
-    "url": "https://buildingslack.com/salesforce-part-two/?utm_source=tldrnewsletter",
-    "summary": "This post tells the story of what it was like at Salesforce after it acquired Slack. The cultural gaps between the two companies were evident. Slack had a tight-knit culture where humans would help each other, whereas Salesforce was a much larger company with systems and processes for things to get done. Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith.",
-    "read_minutes": 11,
+    "section": "Programming, Design & Data Science",
+    "title": "The State of Context Engineering",
+    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html?utm_source=tldrnewsletter",
+    "summary": "Context engineering is hard in unique ways because AI models aren't people. It helps to understand how models are built, optimized, and trained. Their unique attributes and construction create a unique set of failure modes to be reckoned with. This means context engineering will forever be a challenge with AI, no matter how good it gets.",
+    "read_minutes": 21,
     "kind": null,
     "sponsored": false,
-    "key": "https://buildingslack.com/salesforce-part-two"
+    "key": "https://dbreunig.com/2026/10/24/the-state-of-context-engineering.html"
    },
    {
     "newsletter": "tech",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LlE.WF_9.v3wv2LgB2VSi"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "Salesforce – Part Two",
+    "url": "https://buildingslack.com/salesforce-part-two/?utm_source=tldrnewsletter",
+    "summary": "This post tells the story of what it was like at Salesforce after it acquired Slack. The cultural gaps between the two companies were evident. Slack had a tight-knit culture where humans would help each other, whereas Salesforce was a much larger company with systems and processes for things to get done. Slack's cognitive overhead was nothing compared to the overbearing weight of the Salesforce monolith.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://buildingslack.com/salesforce-part-two"
    },
    {
     "newsletter": "tech",
@@ -138,13 +138,13 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Quick Links",
-    "title": "A technical deep dive into Cap's migration to GPUI",
-    "url": "https://cap.so/blog/rebuilding-cap-in-gpui?utm_source=tldrnewsletter",
-    "summary": "Cap 0.6.1 is the first version that doesn't have a web browser inside it.",
-    "read_minutes": 18,
+    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+    "url": "https://maggieappleton.com/planning-agents?utm_source=tldrnewsletter",
+    "summary": "We are trying really hard to make agents productive while we're not around, but that requires excellent planning.",
+    "read_minutes": 22,
     "kind": null,
     "sponsored": false,
-    "key": "https://cap.so/blog/rebuilding-cap-in-gpui"
+    "key": "https://maggieappleton.com/planning-agents"
    },
    {
     "newsletter": "tech",
@@ -162,13 +162,13 @@
     "newsletter": "tech",
     "date": "2026-10-26",
     "section": "Quick Links",
-    "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
-    "url": "https://maggieappleton.com/planning-agents?utm_source=tldrnewsletter",
-    "summary": "We are trying really hard to make agents productive while we're not around, but that requires excellent planning.",
-    "read_minutes": 22,
+    "title": "A technical deep dive into Cap's migration to GPUI",
+    "url": "https://cap.so/blog/rebuilding-cap-in-gpui?utm_source=tldrnewsletter",
+    "summary": "Cap 0.6.1 is the first version that doesn't have a web browser inside it.",
+    "read_minutes": 18,
     "kind": null,
     "sponsored": false,
-    "key": "https://maggieappleton.com/planning-agents"
+    "key": "https://cap.so/blog/rebuilding-cap-in-gpui"
    },
    {
     "newsletter": "tech",
@@ -260,18 +260,6 @@
     "newsletter": "ai",
     "date": "2026-10-26",
     "section": "Deep Dives & Analysis",
-    "title": "Securing our frontier model training environment",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment?utm_source=tldrai",
-    "summary": "OpenAI has bolstered security for its frontier-model training environments by implementing robust controls, intensifying monitoring, and conducting defense-in-depth strategies. These measures include red-teaming exercises where agents probe for vulnerabilities, leading to the discovery and fixing of software bugs and misconfigurations. The enhancements aim to prevent unauthorized actions, such as accessing the live internet or breaching security, ensuring secure and isolated research environments.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/securing-our-frontier-model-training-environment"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-26",
-    "section": "Deep Dives & Analysis",
     "title": "The Personal Agent Protocol Map",
     "url": "https://x.com/sytaylor/status/2113710822731989172?utm_source=tldrai",
     "summary": "Simon Taylor maps agent protocols across four layers: entry, identity, tools, and intent. He argues banks and merchants must connect verified identities, limited permissions, and audit trails to authorize agent actions, while warning that access agreements could introduce fees and slow adoption.",
@@ -279,6 +267,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/sytaylor/status/2113710822731989172"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-26",
+    "section": "Deep Dives & Analysis",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment?utm_source=tldrai",
+    "summary": "OpenAI has bolstered security for its frontier-model training environments by implementing robust controls, intensifying monitoring, and conducting defense-in-depth strategies. These measures include red-teaming exercises where agents probe for vulnerabilities, leading to the discovery and fixing of software bugs and misconfigurations. The enhancements aim to prevent unauthorized actions, such as accessing the live internet or breaching security, ensuring secure and isolated research environments.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/securing-our-frontier-model-training-environment"
    },
    {
     "newsletter": "ai",
@@ -320,18 +320,6 @@
     "newsletter": "ai",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html?utm_source=tldrai",
-    "summary": "SpaceX has closed $40 billion in debt financing to purchase GPUs. The financing primarily consists of capitalizable debt for GPUs. It is expected to arrive in the first and second quarters of 2027. The proposed financing will use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "Bitter Lessoned in Automated Theorem Proving",
     "url": "https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem?utm_source=tldrai",
     "summary": "OpenAI throwing hard math problems at its models was the right test in 2026. The models were capable of making progress, but not enough to fully solve the problems, so it was possible to see improvements with each update in perfect resolution. These model improvements showed how clever engineering doesn't matter - all the work done to build special-case solutions on top of a model gets squashed by improvements in the base model sooner or later. Models will one-shot superior work for pennies in the very near future.",
@@ -343,14 +331,14 @@
    {
     "newsletter": "ai",
     "date": "2026-10-26",
-    "section": "Quick Links",
-    "title": "Build Smarter Agents",
-    "url": "https://neo4j.com/nodes/?utm_source=tldr-ai&utm_medium=newsletter-1026&utm_campaign=dev",
-    "summary": "Explore context graphs and agentic memory at Neo4j NODES, a developer conference featuring 100 live technical sessions + keynote with Andrew Ng. Free. Online. 24hrs Register",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://neo4j.com/nodes"
+    "section": "Miscellaneous",
+    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html?utm_source=tldrai",
+    "summary": "SpaceX has closed $40 billion in debt financing to purchase GPUs. The financing primarily consists of capitalizable debt for GPUs. It is expected to arrive in the first and second quarters of 2027. The proposed financing will use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
    },
    {
     "newsletter": "ai",
@@ -368,6 +356,18 @@
     "newsletter": "ai",
     "date": "2026-10-26",
     "section": "Quick Links",
+    "title": "Build Smarter Agents",
+    "url": "https://neo4j.com/nodes/?utm_source=tldr-ai&utm_medium=newsletter-1026&utm_campaign=dev",
+    "summary": "Explore context graphs and agentic memory at Neo4j NODES, a developer conference featuring 100 live technical sessions + keynote with Andrew Ng. Free. Online. 24hrs Register",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://neo4j.com/nodes"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-26",
+    "section": "Quick Links",
     "title": "AI wasn't overhyped. In the last 18 months, almost everyone underestimated it",
     "url": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last?utm_source=tldrai",
     "summary": "Almost everyone expected AI to progress more slowly than it did over the last 18 months.",
@@ -375,6 +375,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "Claude Cowork and chat come together for Enterprise",
+    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrai",
+    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
    },
    {
     "newsletter": "ai",
@@ -399,18 +411,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/cursor_ai/status/2113661506634305834"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-26",
-    "section": "Quick Links",
-    "title": "Claude Cowork and chat come together for Enterprise",
-    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrai",
-    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
    },
    {
     "newsletter": "ai",
@@ -586,6 +586,30 @@
     "newsletter": "webdev",
     "date": "2026-10-26",
     "section": "Quick Links",
+    "title": "Fully customise your select elements",
+    "url": "https://www.tempertemper.net/blog/fully-customise-your-select-elements?utm_source=tldrdev",
+    "summary": "Native select elements can use appearance: base-select and picker pseudo-elements for custom styling while retaining a usable default in unsupported browsers.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tempertemper.net/blog/fully-customise-your-select-elements"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-26",
+    "section": "Quick Links",
+    "title": "Discourse adds Markdown endpoints",
+    "url": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read/?utm_source=tldrdev",
+    "summary": "Discourse can serve topics and topic lists as processed Markdown through a .md URL suffix or an Accept: text/markdown header.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-26",
+    "section": "Quick Links",
     "title": "ADRs4AI",
     "url": "https://adrs.systems/?utm_source=tldrdev",
     "summary": "ADRs4AI keeps human and AI decisions in Git with templates that record options, rationale, open questions, and the final decision.",
@@ -617,30 +641,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://danluu.com/ambitious"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-26",
-    "section": "Quick Links",
-    "title": "Fully customise your select elements",
-    "url": "https://www.tempertemper.net/blog/fully-customise-your-select-elements?utm_source=tldrdev",
-    "summary": "Native select elements can use appearance: base-select and picker pseudo-elements for custom styling while retaining a usable default in unsupported browsers.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tempertemper.net/blog/fully-customise-your-select-elements"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-26",
-    "section": "Quick Links",
-    "title": "Discourse adds Markdown endpoints",
-    "url": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read/?utm_source=tldrdev",
-    "summary": "Discourse can serve topics and topic lists as processed Markdown through a .md URL suffix or an Accept: text/markdown header.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.discourse.org/2026/10/markdown-endpoints-your-community-in-a-format-that-ai-agents-can-read"
    }
   ],
   "infosec": [
@@ -732,6 +732,18 @@
     "newsletter": "infosec",
     "date": "2026-10-26",
     "section": "Launches & Tools",
+    "title": "AWS Continuum for code vulnerabilities is now generally available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available/?utm_source=tldrinfosec",
+    "summary": "AWS Continuum validates code vulnerability findings by testing exploitability in an isolated sandbox, then ranks them using a context graph of resource topology, identity relationships, and network reachability. It delivers fixes as pull requests with proof of exploitability and blast radius attached, starting in an approval-gated Learn mode before teams can switch to autonomous Enforce mode within set guardrails.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-26",
+    "section": "Launches & Tools",
     "title": "Mave (Product Launch)",
     "url": "https://www.mave.com/?utm_source=tldrinfosec",
     "summary": "Mave uses AI agents to investigate security alerts across existing tools. It pulls live context, provides near-real-time reasoning, and uses approval gates, least-privilege integrations, and audit trails.",
@@ -751,18 +763,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://portswigger.net/research/http3-in-burp-suite"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-26",
-    "section": "Launches & Tools",
-    "title": "AWS Continuum for code vulnerabilities is now generally available",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available/?utm_source=tldrinfosec",
-    "summary": "AWS Continuum validates code vulnerability findings by testing exploitability in an isolated sandbox, then ranks them using a context graph of resource topology, identity relationships, and network reachability. It delivers fixes as pull requests with proof of exploitability and blast radius attached, starting in an approval-gated Learn mode before teams can switch to autonomous Enforce mode within set guardrails.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
    },
    {
     "newsletter": "infosec",
@@ -1654,18 +1654,6 @@
     "newsletter": "founders",
     "date": "2026-10-26",
     "section": "Tools & Resources",
-    "title": "Claude Cowork and chat come together for Enterprise",
-    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrfounders",
-    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans. Team members no longer have to choose between the two options when they start work with Claude: they are now one Claude on web, desktop, and mobile. Tasks started in chat can continue in the cloud, so users can close their laptops and pick up from where they left off. Chats, projects, connectors, skills, and plugins carry over to the new unified experience.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-26",
-    "section": "Tools & Resources",
     "title": "Introducing Stripe Treasury for agents",
     "url": "https://stripe.com/newsroom/news/treasury-for-agents?utm_source=tldrfounders",
     "summary": "Stripe Treasury for agents gives startups a way to manage financial operations with agents. It allows business finances to be executed by agents from inside the tools businesses use to run the rest of their operations. Agents can check balances, pay invoices, transfer funds between accounts, and convert currencies. Startups using Stripe Treasury for agents can choose which accounts and data agents can access, whether they can read information or take action, and when money movement requires human approval.",
@@ -1673,6 +1661,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://stripe.com/newsroom/news/treasury-for-agents"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-26",
+    "section": "Tools & Resources",
+    "title": "Claude Cowork and chat come together for Enterprise",
+    "url": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1&utm_source=tldrfounders",
+    "summary": "The unified Claude Chat and Cowork experience is now generally available for Claude Enterprise plans. Team members no longer have to choose between the two options when they start work with Claude: they are now one Claude on web, desktop, and mobile. Tasks started in chat can continue in the cloud, so users can close their laptops and pick up from where they left off. Chats, projects, connectors, skills, and plugins carry over to the new unified experience.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/unified-claude-enterprise?open_in_browser=1"
    },
    {
     "newsletter": "founders",
@@ -2066,18 +2066,6 @@
     "newsletter": "fintech",
     "date": "2026-10-26",
     "section": "Miscellaneous",
-    "title": "Citi takes cautious approach on AI agent access",
-    "url": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/?utm_source=tldrfintech",
-    "summary": "Citi is blocking external AI agents from transacting inside customer accounts for now, allowing only limited read-only open-banking access while it develops “know your agent” controls around identity, authorization, entitlements and regulatory compliance. At the same time, Citi is expanding internal AI across onboarding, document processing, client chat, and embedded banking, showing a split strategy: move quickly with controlled in-house AI, but slowly with third-party agents that can take financial actions.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-26",
-    "section": "Miscellaneous",
     "title": "SEC adds tokenization to 2027 examination priorities",
     "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities?utm_source=tldrfintech",
     "summary": "The SEC's Division of Examinations added tokenization to its fiscal 2027 priorities, with clearing agencies and Regulation SCI entities facing greater scrutiny around tokenized securities and related market-infrastructure risks. The move does not create new rules, but signals that tokenization is becoming part of mainstream securities oversight as regulators examine how blockchain-based infrastructure affects clearing, recordkeeping, operations, and market integrity.",
@@ -2085,6 +2073,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-26",
+    "section": "Miscellaneous",
+    "title": "Citi takes cautious approach on AI agent access",
+    "url": "https://www.bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849/?utm_source=tldrfintech",
+    "summary": "Citi is blocking external AI agents from transacting inside customer accounts for now, allowing only limited read-only open-banking access while it develops “know your agent” controls around identity, authorization, entitlements and regulatory compliance. At the same time, Citi is expanding internal AI across onboarding, document processing, client chat, and embedded banking, showing a split strategy: move quickly with controlled in-house AI, but slowly with third-party agents that can take financial actions.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bankingdive.com/news/citi-takes-cautious-approach-ai-agent-access/833849"
    },
    {
     "newsletter": "fintech",
