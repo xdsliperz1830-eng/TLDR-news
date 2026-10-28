@@ -260,18 +260,6 @@
     "newsletter": "ai",
     "date": "2026-10-27",
     "section": "Deep Dives & Analysis",
-    "title": "Gemini 4 Argon: The Model and Safety Cards",
-    "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
-    "summary": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
-    "read_minutes": 35,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-27",
-    "section": "Deep Dives & Analysis",
     "title": "Frontier models' ability to control robot arms is doubling every 54 days",
     "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai",
     "summary": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost per subtask down 6.2x. Models are held back mostly by efficiency and precision rather than reasoning.",
@@ -279,6 +267,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-27",
+    "section": "Deep Dives & Analysis",
+    "title": "Gemini 4 Argon: The Model and Safety Cards",
+    "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
+    "summary": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
+    "read_minutes": 35,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards"
    },
    {
     "newsletter": "ai",
