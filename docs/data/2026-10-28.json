@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-10-28",
     "section": "Big Tech & Startups",
-    "title": "Anthropic Raises Concerns",
-    "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzE0ODQxNSwiZXhwIjoxNzkzNzUzMjE1LCJhcnRpY2xlSWQiOiJUTkoxUkdLSUpIOTUwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.vGUyKyDKL4LsWKbUP7cmX29Y9M-2H81FMKIA8wWC8jg&utm_source=tldrnewsletter",
-    "summary": "Anthropic's prospectus claims the biggest risks to its business are risks the business poses to everyone else. All other human enterprise will be eaten by Claude, so you might as well own some of it. The company's governance structure is exactly what you would expect for a company worried about existential AI risks. However, it is also the same governance structure for a startup that wants to raise a lot of outside capital without losing control.",
-    "read_minutes": 21,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-28",
-    "section": "Big Tech & Startups",
     "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
     "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/?utm_source=tldrnewsletter",
     "summary": "The iMac and the entry-level 14-inch MacBook Pro are both getting the M6 chip. The iMac will have two variants of the M6 chip, one with a 10-core CPU and a 10-core GPU, while the other will have 12 cores for each. The MacBook Pro will only have the 12-core option. Both computers will have the N1 chip for wireless connectivity, which means they will have Wi-Fi 7 and Bluetooth 6. Pre-orders will start on October 28, and they will start shipping on November 6.",
@@ -37,6 +25,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-28",
+    "section": "Big Tech & Startups",
+    "title": "Anthropic Raises Concerns",
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzE0ODQxNSwiZXhwIjoxNzkzNzUzMjE1LCJhcnRpY2xlSWQiOiJUTkoxUkdLSUpIOTUwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.vGUyKyDKL4LsWKbUP7cmX29Y9M-2H81FMKIA8wWC8jg&utm_source=tldrnewsletter",
+    "summary": "Anthropic's prospectus claims the biggest risks to its business are risks the business poses to everyone else. All other human enterprise will be eaten by Claude, so you might as well own some of it. The company's governance structure is exactly what you would expect for a company worried about existential AI risks. However, it is also the same governance structure for a startup that wants to raise a lot of outside capital without losing control.",
+    "read_minutes": 21,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns"
    },
    {
     "newsletter": "tech",
@@ -1084,18 +1084,6 @@
     "newsletter": "design",
     "date": "2026-10-28",
     "section": "News & Trends",
-    "title": "Access Video and Image Models from Figma Weave via the Figma MCP",
-    "url": "https://www.figma.com/release-notes/?title=access-video-and-image-models-from-figma-weave-via-the-figma-mcp&utm_source=tldrdesign",
-    "summary": "Figma Weave's full lineup of video and image models, including Seedance, Kling, and Nano Banana, can now be used inside external AI agents through the Figma MCP. Users need a Figma Weave account connected to their Figma account to generate media mid-conversation. Each video or image generated with a Weave model consumes Weave credits.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://figma.com/release-notes?title=access-video-and-image-models-from-figma-weave-via-the-figma-mcp"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-28",
-    "section": "News & Trends",
     "title": "Franki Branding: Inside Koto's New Identity",
     "url": "https://abduzeedo.com/franki-branding-inside-kotos-new-identity?utm_source=tldrdesign",
     "summary": "Koto's identity for restaurant discovery app Franki turns finding places to eat into the visual language of an insider's club, centered on bright yellow, oversized rounded typography, candid photography, and conversational copy. Diatype Rounded and a soft geometric symbol create a friendly foundation, while phrases such as “If we know, you know” reinforce Franki's positioning as a knowledgeable friend rather than a conventional recommendation platform. Motion extends through typography, UI, and content to suit the video-first product, while the same system carries into Franki Social Club and physical experiences.",
@@ -1115,6 +1103,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://neowin.net/reports/new-report-slams-microsoft-for-leveraging-dark-patterns-to-force-people-to-use-edge"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-28",
+    "section": "News & Trends",
+    "title": "Access Video and Image Models from Figma Weave via the Figma MCP",
+    "url": "https://www.figma.com/release-notes/?title=access-video-and-image-models-from-figma-weave-via-the-figma-mcp&utm_source=tldrdesign",
+    "summary": "Figma Weave's full lineup of video and image models, including Seedance, Kling, and Nano Banana, can now be used inside external AI agents through the Figma MCP. Users need a Figma Weave account connected to their Figma account to generate media mid-conversation. Each video or image generated with a Weave model consumes Weave credits.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://figma.com/release-notes?title=access-video-and-image-models-from-figma-weave-via-the-figma-mcp"
    },
    {
     "newsletter": "design",
@@ -1266,18 +1266,6 @@
     "newsletter": "marketing",
     "date": "2026-10-28",
     "section": "Strategies & Tactics",
-    "title": "How to Turn Webinars into Pipeline Before You Ever Go Live",
-    "url": "https://exitfive.com/newsletter/how-to-turn-webinars-into-pipeline-before-you-ever-go-live/?utm_source=tldrmarketing",
-    "summary": "After someone registers for a webinar, use the thank-you page to ask 5-6 questions about their role, challenges, and needs. This turns registration into a lead qualification flow before the event even happens. Use the answers to personalize follow-up offers and let high-intent prospects book demos immediately. About 90% of registrants complete the extra questions.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://exitfive.com/newsletter/how-to-turn-webinars-into-pipeline-before-you-ever-go-live"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-28",
-    "section": "Strategies & Tactics",
     "title": "Are you tracking LinkedIn traffic?",
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518612505024299008/?utm_source=tldrmarketing",
     "summary": "George Terry, co-founder of Winbox, tracked website visits from organic posts, his personal profile, the company page, and paid ads using separate UTMs. 80% of trackable LinkedIn form submissions came through his profile and the company page. Company page visitors spent longer on site and viewed more pages, while organic post clicks kept visitors engaged 12X longer than sponsored post clicks. He notes that paid activity may also drive people to profiles and company pages, and some visits go untracked as direct traffic.",
@@ -1285,6 +1273,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/feed/update/urn:li:activity:7518612505024299008"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-28",
+    "section": "Strategies & Tactics",
+    "title": "How to Turn Webinars into Pipeline Before You Ever Go Live",
+    "url": "https://exitfive.com/newsletter/how-to-turn-webinars-into-pipeline-before-you-ever-go-live/?utm_source=tldrmarketing",
+    "summary": "After someone registers for a webinar, use the thank-you page to ask 5-6 questions about their role, challenges, and needs. This turns registration into a lead qualification flow before the event even happens. Use the answers to personalize follow-up offers and let high-intent prospects book demos immediately. About 90% of registrants complete the extra questions.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://exitfive.com/newsletter/how-to-turn-webinars-into-pipeline-before-you-ever-go-live"
    },
    {
     "newsletter": "marketing",
@@ -1788,18 +1788,6 @@
     "newsletter": "it",
     "date": "2026-10-28",
     "section": "Analysis & Opinions",
-    "title": "Closing Linux EDR Gaps",
-    "url": "https://technologymatch.com/blog/extending-edr-to-linux-servers?utm_source=tldrit",
-    "summary": "Linux servers can show green in an EDR dashboard while collecting little or no security telemetry because of kernel incompatibilities or degraded sensor modes. Verify sensor health on each host before expanding coverage or switching vendors, then pilot changes through kernel updates and roll them out in stages. Container visibility and after-hours alert response also need explicit coverage.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://technologymatch.com/blog/extending-edr-to-linux-servers"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-28",
-    "section": "Analysis & Opinions",
     "title": "Is it time to retire VPNs?",
     "url": "https://www.networkworld.com/article/4240378/is-it-time-to-retire-vpns.html?utm_source=tldrit",
     "summary": "As recurring vulnerabilities expose legacy VPN gateways to rapid exploitation, organizations will need to transition to zero-trust architecture. Traditional VPNs grant broad internal network access once breached, a risk amplified by AI-driven vulnerability discovery. Zero-trust models replace this perimeter approach by making internal systems invisible to the public internet and restricting users and agents to specific applications.",
@@ -1807,6 +1795,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://networkworld.com/article/4240378/is-it-time-to-retire-vpns.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-28",
+    "section": "Analysis & Opinions",
+    "title": "Closing Linux EDR Gaps",
+    "url": "https://technologymatch.com/blog/extending-edr-to-linux-servers?utm_source=tldrit",
+    "summary": "Linux servers can show green in an EDR dashboard while collecting little or no security telemetry because of kernel incompatibilities or degraded sensor modes. Verify sensor health on each host before expanding coverage or switching vendors, then pilot changes through kernel updates and roll them out in stages. Container visibility and after-hours alert response also need explicit coverage.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://technologymatch.com/blog/extending-edr-to-linux-servers"
    },
    {
     "newsletter": "it",
