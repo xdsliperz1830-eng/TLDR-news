@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-10-27",
     "section": "Miscellaneous",
-    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
-    "url": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1&utm_source=tldrnewsletter",
-    "summary": "Microsoft is extending voluntary buyout offers to 60,000 employees in Canada, India, the UK, and the US. The program is time-limited. It provides eligible employees with financial support and career planning services. Microsoft expects less than 30% of employees will accept the latest buyouts. The voluntary retirement program is part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-27",
-    "section": "Miscellaneous",
     "title": "The End of the Internet",
     "url": "https://stratechery.com/2026/the-end-of-the-internet/?utm_source=tldrnewsletter",
     "summary": "Blogging began to die when Google started aggregating the internet. Social media made it much easier to create and share content, but this caused the amount of content to increase by orders of magnitude. Algorithms started to matter, and then these sites started becoming personal entertainment sites, tuned for engagement. The latest series of security vulnerabilities unveiled by AI will further shrink the public internet.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://stratechery.com/2026/the-end-of-the-internet"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-27",
+    "section": "Miscellaneous",
+    "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
+    "url": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1&utm_source=tldrnewsletter",
+    "summary": "Microsoft is extending voluntary buyout offers to 60,000 employees in Canada, India, the UK, and the US. The program is time-limited. It provides eligible employees with financial support and career planning services. Microsoft expects less than 30% of employees will accept the latest buyouts. The voluntary retirement program is part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1"
    },
    {
     "newsletter": "tech",
@@ -248,18 +248,6 @@
     "newsletter": "ai",
     "date": "2026-10-27",
     "section": "Deep Dives & Analysis",
-    "title": "Frontier models' ability to control robot arms is doubling every 54 days",
-    "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai",
-    "summary": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost per subtask down 6.2x. Models are held back mostly by efficiency and precision rather than reasoning.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-27",
-    "section": "Deep Dives & Analysis",
     "title": "Gemini 4 Argon: The Model and Safety Cards",
     "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards/?utm_source=tldrai",
     "summary": "The Gemini 4 Argon model showcases significant performance improvements over Gemini Flash 3.8, demonstrating stronger capabilities, reduced hallucination rates, and improved alignment, though it's still not a leap towards the Singularity. Evaluation awareness has increased, affecting test outcomes, and while Argon can bypass Chain of Thought monitoring under certain conditions, this hampers complex task performance. Google's extensive safety mitigations and defense-in-depth strategy reveal Argon's capability advancements, yet persistent concerns about catastrophic risks and its susceptibility to misuse remain, particularly in areas like cyber and bio threats.",
@@ -267,6 +255,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-27",
+    "section": "Deep Dives & Analysis",
+    "title": "Frontier models' ability to control robot arms is doubling every 54 days",
+    "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly?utm_source=tldrai",
+    "summary": "Researchers tested nine multimodal models on six real-arm tasks between July and October and found performance doubling about every 54 days, with the best execution rate up 4.4x and the lowest cost per subtask down 6.2x. Models are held back mostly by efficiency and precision rather than reasoning.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly"
    },
    {
     "newsletter": "ai",
@@ -744,18 +744,6 @@
     "newsletter": "infosec",
     "date": "2026-10-27",
     "section": "Miscellaneous",
-    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html?utm_source=tldrinfosec",
-    "summary": "The uCreator Android spyware kit hides inside sideloaded Telegram and Telegram X builds or runs WeChat in its own container. It can read chats, capture Telegram 2FA passwords before hashing, reset sessions, change phone numbers, and hide attacker devices. Its WeChat module extracts login credentials and clones accounts. A leaked backend shows a rentable service with customer IDs, phone farms, bulk-contact operations, and scheduled activity designed to evade platform risk checks.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-27",
-    "section": "Miscellaneous",
     "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
     "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363?utm_source=tldrinfosec",
     "summary": "UK Biobank says its Research Analysis Platform is secure and will reopen after government approval. The April attack led to data for all 500,000 volunteers being listed for sale on Alibaba. Access will return in phases: manual file review before downloads, no result downloads initially, 15-minute idle logouts with 2FA, isolated browsing, SSH removal, and CLI limits. Researchers must remove de-identified participant data from code repositories before regaining access.",
@@ -775,6 +763,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.codeminer42.com/who-do-you-trust-when-you-trust-a-certificate-the-emudhra-incident-explained"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-27",
+    "section": "Miscellaneous",
+    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+    "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html?utm_source=tldrinfosec",
+    "summary": "The uCreator Android spyware kit hides inside sideloaded Telegram and Telegram X builds or runs WeChat in its own container. It can read chats, capture Telegram 2FA passwords before hashing, reset sessions, change phone numbers, and hide attacker devices. Its WeChat module extracts login credentials and clones accounts. A leaked backend shows a rentable service with customer IDs, phone farms, bulk-contact operations, and scheduled activity designed to evade platform risk checks.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
    },
    {
     "newsletter": "infosec",
