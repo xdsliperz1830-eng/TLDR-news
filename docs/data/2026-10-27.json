@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-10-27",
     "section": "Miscellaneous",
-    "title": "The End of the Internet",
-    "url": "https://stratechery.com/2026/the-end-of-the-internet/?utm_source=tldrnewsletter",
-    "summary": "Blogging began to die when Google started aggregating the internet. Social media made it much easier to create and share content, but this caused the amount of content to increase by orders of magnitude. Algorithms started to matter, and then these sites started becoming personal entertainment sites, tuned for engagement. The latest series of security vulnerabilities unveiled by AI will further shrink the public internet.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://stratechery.com/2026/the-end-of-the-internet"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-27",
-    "section": "Miscellaneous",
     "title": "Microsoft Will Offer Buyouts to 60,000 Employees",
     "url": "https://www.wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1&utm_source=tldrnewsletter",
     "summary": "Microsoft is extending voluntary buyout offers to 60,000 employees in Canada, India, the UK, and the US. The program is time-limited. It provides eligible employees with financial support and career planning services. Microsoft expects less than 30% of employees will accept the latest buyouts. The voluntary retirement program is part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/tech/microsoft-will-offer-buyouts-to-60-000-employees-4c32945f?mod=tech_trendingnow_article_pos1"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-27",
+    "section": "Miscellaneous",
+    "title": "The End of the Internet",
+    "url": "https://stratechery.com/2026/the-end-of-the-internet/?utm_source=tldrnewsletter",
+    "summary": "Blogging began to die when Google started aggregating the internet. Social media made it much easier to create and share content, but this caused the amount of content to increase by orders of magnitude. Algorithms started to matter, and then these sites started becoming personal entertainment sites, tuned for engagement. The latest series of security vulnerabilities unveiled by AI will further shrink the public internet.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://stratechery.com/2026/the-end-of-the-internet"
    },
    {
     "newsletter": "tech",
@@ -636,18 +636,6 @@
     "newsletter": "infosec",
     "date": "2026-10-27",
     "section": "Attacks & Vulnerabilities",
-    "title": "Critical HTTP2Shell Brotli Vulnerability Triggers Emergency Patches",
-    "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/?utm_source=tldrinfosec",
-    "summary": "Originally reported as a Node.js vulnerability, researchers found that a critical flaw in the Brotli decoder could affect software across multiple ecosystems that use it. The vulnerability stems from a buffer overflow that an attacker can exploit with a specially crafted Brotli-compressed stream. Node.js, .NET, and several Python libraries released emergency patches to fix the vulnerability.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-27",
-    "section": "Attacks & Vulnerabilities",
     "title": "Gheist: Attempted Scaled Abuse of Stolen GitHub Tokens Stumbles",
     "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles?utm_source=tldrinfosec",
     "summary": "Attackers wielding stolen GitHub tokens from more than 850 accounts planted over 13,500 \"sync-check\" workflows that base32-encode repository and environment secrets to evade log masking, then pulled the logs through GitHub's own API and deleted the runs. GitHub's approval hold blocked every public-repository run, but private repositories and GitHub Enterprise Server executed the payload, with a newer variant sweeping self-hosted runners for cloud, Kubernetes, and AI provider credentials. Defenders should hunt for ci-sync-* branches, the gheist user agent, and OIDC role assumptions from those branches, then rotate every secret an affected repository could reach, since deleting the branch does not undo the exposure.",
@@ -655,6 +643,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-27",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Critical HTTP2Shell Brotli Vulnerability Triggers Emergency Patches",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/?utm_source=tldrinfosec",
+    "summary": "Originally reported as a Node.js vulnerability, researchers found that a critical flaw in the Brotli decoder could affect software across multiple ecosystems that use it. The vulnerability stems from a buffer overflow that an attacker can exploit with a specially crafted Brotli-compressed stream. Node.js, .NET, and several Python libraries released emergency patches to fix the vulnerability.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches"
    },
    {
     "newsletter": "infosec",
@@ -962,18 +962,6 @@
     "newsletter": "product",
     "date": "2026-10-27",
     "section": "Quick Links",
-    "title": "Stop Demoing Your AI Rollout. Find the Unavoidable Project",
-    "url": "https://www.scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project?utm_source=tldrproduct",
-    "summary": "Internal transformations and AI rollouts often fail due to brute-force mandates and product demos.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project"
-   },
-   {
-    "newsletter": "product",
-    "date": "2026-10-27",
-    "section": "Quick Links",
     "title": "AI Is Turning Product Managers Into Architects. Nobody Asked Them",
     "url": "https://britemind.io/blog/product-manager-architect-of-possibility/?utm_source=tldrproduct",
     "summary": "Generative AI tools are shifting product managers toward defining system boundaries and reviewing automated prototypes, risking a disconnection from the users they serve.",
@@ -981,6 +969,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://britemind.io/blog/product-manager-architect-of-possibility"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-10-27",
+    "section": "Quick Links",
+    "title": "Stop Demoing Your AI Rollout. Find the Unavoidable Project",
+    "url": "https://www.scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project?utm_source=tldrproduct",
+    "summary": "Internal transformations and AI rollouts often fail due to brute-force mandates and product demos.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project"
    }
   ],
   "design": [
