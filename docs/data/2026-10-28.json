@@ -1338,18 +1338,6 @@
     "newsletter": "marketing",
     "date": "2026-10-28",
     "section": "Miscellaneous",
-    "title": "How to work better with AI on your team",
-    "url": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team?utm_source=tldrmarketing",
-    "summary": "A study found that people working with AI and a colleague produced higher-quality solutions than people working alone. Participants performed 10.2% better when they worked with both AI and a colleague, compared with 9.6% better with AI alone and 6.3% better with a colleague alone. They were also roughly 3x more likely to rank among the top performers according to expert evaluations. The benefits disappeared when teammates had the same skills, suggesting that complementary expertise helps people and AI work together more effectively.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-28",
-    "section": "Miscellaneous",
     "title": "Why BelliWelli's co-founder and CEO is filming skits in Walmart at night",
     "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=tldrmarketing",
     "summary": "BelliWelli's CEO treats short-form production as core to her job because the skits drive so much of the brand's retail traffic. The improvised Walmart scenes, staged with about 65 rotating actors, show shoppers fighting over the fiber supplement so viewers wonder why it's in such demand. The videos run organically, not as ads, and the brand leans into cringe because it gets noticed. Filming in stores also gives Wilson regular conversations with shoppers about what they reach for in the category.",
@@ -1357,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-28",
+    "section": "Miscellaneous",
+    "title": "How to work better with AI on your team",
+    "url": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team?utm_source=tldrmarketing",
+    "summary": "A study found that people working with AI and a colleague produced higher-quality solutions than people working alone. Participants performed 10.2% better when they worked with both AI and a colleague, compared with 9.6% better with AI alone and 6.3% better with a colleague alone. They were also roughly 3x more likely to rank among the top performers according to expert evaluations. The benefits disappeared when teammates had the same skills, suggesting that complementary expertise helps people and AI work together more effectively.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team"
    },
    {
     "newsletter": "marketing",
@@ -1630,18 +1630,6 @@
     "newsletter": "crypto",
     "date": "2026-10-28",
     "section": "Innovation & Launches",
-    "title": "Digital Cash on Spark: ZK-Based Privacy for Bitcoin Payments",
-    "url": "https://x.com/lxdev_/status/2114728667595051096?utm_source=tldrcrypto",
-    "summary": "Spark, a Bitcoin offchain payments protocol from Lightspark, Flashnet, and Breez, exposes all user transactions to operators by default, a privacy gap shared by Ark, Bark, and Wavelength. Zark addresses this by layering a ZK co-signing protocol on top of Spark leaves without modifying the base protocol, structuring user-to-user transfer messages as ZKPs that prove payment validity without revealing transaction details to operators, and using a 2-of-2 signature scheme pairing a Zark co-signer with Spark operators. The main bottleneck is arbitrary-denomination payments through SSPs, where each leaf swap must prove and verify independently, pushing settlement times up to 10 minutes for complex combinations. The implementation is a regtest proof-of-concept, with aggregate ZK proving across batches identified as the path to practical settlement speeds.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/lxdev_/status/2114728667595051096"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-28",
-    "section": "Innovation & Launches",
     "title": "CZ Confirms BNB Chain New High-Speed Parallel L1",
     "url": "https://threadreaderapp.com/thread/2114589570469704087.html?utm_source=tldrcrypto",
     "summary": "Binance founder CZ has confirmed BNB Chain is building a new EVM-compatible parallel Layer 1 that will run alongside BNB Smart Chain, connected through a native bridge with BNB serving as the gas, staking, and governance token. The chain targets high-frequency trading and real-time payments with 200-millisecond block times and 20-millisecond pre-confirmations. Planned features include native account abstraction and onchain privacy pools. An internal multi-validator devnet is already live, with public testnet targeted for late 2026 and mainnet for early 2027.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2114589570469704087.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-28",
+    "section": "Innovation & Launches",
+    "title": "Digital Cash on Spark: ZK-Based Privacy for Bitcoin Payments",
+    "url": "https://x.com/lxdev_/status/2114728667595051096?utm_source=tldrcrypto",
+    "summary": "Spark, a Bitcoin offchain payments protocol from Lightspark, Flashnet, and Breez, exposes all user transactions to operators by default, a privacy gap shared by Ark, Bark, and Wavelength. Zark addresses this by layering a ZK co-signing protocol on top of Spark leaves without modifying the base protocol, structuring user-to-user transfer messages as ZKPs that prove payment validity without revealing transaction details to operators, and using a 2-of-2 signature scheme pairing a Zark co-signer with Spark operators. The main bottleneck is arbitrary-denomination payments through SSPs, where each leaf swap must prove and verify independently, pushing settlement times up to 10 minutes for complex combinations. The implementation is a regtest proof-of-concept, with aggregate ZK proving across batches identified as the path to practical settlement speeds.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/lxdev_/status/2114728667595051096"
    },
    {
     "newsletter": "crypto",
