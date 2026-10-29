@@ -732,18 +732,6 @@
     "newsletter": "infosec",
     "date": "2026-10-28",
     "section": "Strategies & Tactics",
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation?utm_source=tldrinfosec",
-    "summary": "Prompts longer than 681,280 tokens sent to Cloudflare's GLM-5.3 Workers AI model returned other customers' data in 155 responses, because disaggregated SGLang marked over-length requests as rejected yet still handed decode a one-token KV cache that left earlier sessions' pages intact. Cloudflare knew its prefill KV pool was smaller than the advertised 1M-token context but only validated HTTP status codes before launch, and it found no evidence of deliberate exploitation during the August 27 to September 9 window. Operators running disaggregated SGLang should upgrade to v0.5.22 or later, verify KV pool size against context length on every node, and enable --disaggregation-enable-kv-checksum where their model supports it.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.cloudflare.com/kv-cache-exposure-remediation"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-28",
-    "section": "Strategies & Tactics",
     "title": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
     "url": "https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks?utm_source=tldrinfosec",
     "summary": "Wiz has observed more threat actors leveraging AI agents to run end-to-end attacks on cloud environments. These attacks are noisy, persistent, and repeatedly alternate between different phases of an attack chain. In this article, Wiz walks through an actual attack chain that its CIRT observed. Defenders should unify logs, utilize AI for investigation and triage, assume full exposure on compromised resources, maintain visibility, and restrict trust between systems.",
@@ -763,6 +751,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://agentic.tracebit.com/factory"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-28",
+    "section": "Strategies & Tactics",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation?utm_source=tldrinfosec",
+    "summary": "Prompts longer than 681,280 tokens sent to Cloudflare's GLM-5.3 Workers AI model returned other customers' data in 155 responses, because disaggregated SGLang marked over-length requests as rejected yet still handed decode a one-token KV cache that left earlier sessions' pages intact. Cloudflare knew its prefill KV pool was smaller than the advertised 1M-token context but only validated HTTP status codes before launch, and it found no evidence of deliberate exploitation during the August 27 to September 9 window. Operators running disaggregated SGLang should upgrade to v0.5.22 or later, verify KV pool size against context length on every node, and enable --disaggregation-enable-kv-checksum where their model supports it.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.cloudflare.com/kv-cache-exposure-remediation"
    },
    {
     "newsletter": "infosec",
@@ -1084,18 +1084,6 @@
     "newsletter": "design",
     "date": "2026-10-28",
     "section": "News & Trends",
-    "title": "Franki Branding: Inside Koto's New Identity",
-    "url": "https://abduzeedo.com/franki-branding-inside-kotos-new-identity?utm_source=tldrdesign",
-    "summary": "Koto's identity for restaurant discovery app Franki turns finding places to eat into the visual language of an insider's club, centered on bright yellow, oversized rounded typography, candid photography, and conversational copy. Diatype Rounded and a soft geometric symbol create a friendly foundation, while phrases such as “If we know, you know” reinforce Franki's positioning as a knowledgeable friend rather than a conventional recommendation platform. Motion extends through typography, UI, and content to suit the video-first product, while the same system carries into Franki Social Club and physical experiences.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://abduzeedo.com/franki-branding-inside-kotos-new-identity"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-28",
-    "section": "News & Trends",
     "title": "New report slams Microsoft for leveraging dark patterns to force people to use Edge",
     "url": "https://www.neowin.net/reports/new-report-slams-microsoft-for-leveraging-dark-patterns-to-force-people-to-use-edge?utm_source=tldrdesign",
     "summary": "Microsoft continues using dark patterns, including misleading banners, default-browser restrictions, and forced actions, to steer Windows users toward Edge. Users outside the European Economic Area encounter more interference when downloading, setting, and keeping an alternative default browser, demonstrating how regulatory requirements can directly affect interface design. Windows features such as Search and Widgets can also bypass a user's chosen default and open links in Edge, reinforcing concerns that Microsoft's design decisions undermine meaningful browser choice.",
@@ -1103,6 +1091,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://neowin.net/reports/new-report-slams-microsoft-for-leveraging-dark-patterns-to-force-people-to-use-edge"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-28",
+    "section": "News & Trends",
+    "title": "Franki Branding: Inside Koto's New Identity",
+    "url": "https://abduzeedo.com/franki-branding-inside-kotos-new-identity?utm_source=tldrdesign",
+    "summary": "Koto's identity for restaurant discovery app Franki turns finding places to eat into the visual language of an insider's club, centered on bright yellow, oversized rounded typography, candid photography, and conversational copy. Diatype Rounded and a soft geometric symbol create a friendly foundation, while phrases such as “If we know, you know” reinforce Franki's positioning as a knowledgeable friend rather than a conventional recommendation platform. Motion extends through typography, UI, and content to suit the video-first product, while the same system carries into Franki Social Club and physical experiences.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://abduzeedo.com/franki-branding-inside-kotos-new-identity"
    },
    {
     "newsletter": "design",
@@ -1338,18 +1338,6 @@
     "newsletter": "marketing",
     "date": "2026-10-28",
     "section": "Miscellaneous",
-    "title": "Why BelliWelli's co-founder and CEO is filming skits in Walmart at night",
-    "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=tldrmarketing",
-    "summary": "BelliWelli's CEO treats short-form production as core to her job because the skits drive so much of the brand's retail traffic. The improvised Walmart scenes, staged with about 65 rotating actors, show shoppers fighting over the fiber supplement so viewers wonder why it's in such demand. The videos run organically, not as ads, and the brand leans into cringe because it gets noticed. Filming in stores also gives Wilson regular conversations with shoppers about what they reach for in the category.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-28",
-    "section": "Miscellaneous",
     "title": "How to work better with AI on your team",
     "url": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team?utm_source=tldrmarketing",
     "summary": "A study found that people working with AI and a colleague produced higher-quality solutions than people working alone. Participants performed 10.2% better when they worked with both AI and a colleague, compared with 9.6% better with AI alone and 6.3% better with a colleague alone. They were also roughly 3x more likely to rank among the top performers according to expert evaluations. The benefits disappeared when teammates had the same skills, suggesting that complementary expertise helps people and AI work together more effectively.",
@@ -1357,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://app.sciencesays.com/p/how-to-work-better-with-ai-on-your-team"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-28",
+    "section": "Miscellaneous",
+    "title": "Why BelliWelli's co-founder and CEO is filming skits in Walmart at night",
+    "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=tldrmarketing",
+    "summary": "BelliWelli's CEO treats short-form production as core to her job because the skits drive so much of the brand's retail traffic. The improvised Walmart scenes, staged with about 65 rotating actors, show shoppers fighting over the fiber supplement so viewers wonder why it's in such demand. The videos run organically, not as ads, and the brand leans into cringe because it gets noticed. Filming in stores also gives Wilson regular conversations with shoppers about what they reach for in the category.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night"
    },
    {
     "newsletter": "marketing",
