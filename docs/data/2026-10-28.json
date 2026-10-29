@@ -260,18 +260,6 @@
     "newsletter": "ai",
     "date": "2026-10-28",
     "section": "Deep Dives & Analysis",
-    "title": "Formalizing the Enormous Theorem",
-    "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/?utm_source=tldrai",
-    "summary": "Axiom Math has released the first complete computer-checked proof of the Classification of Finite Simple Groups (CFSG). The original CFSG proof is considered to be the longest mathematical proof ever written by humans. It spans roughly 15,000 pages in more than 500 articles written by about 100 mathematicians. Engineers and mathematicians at Axiom Math directed swarms of dozens of AI agents over 24 days in a project that produced approximately 43.1 million lines of code in the Lean proof assistant.",
-    "read_minutes": 27,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://axiommath.ai/research/the-enormous-theorem-formalized"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-28",
-    "section": "Deep Dives & Analysis",
     "title": "Anthropic Versus Anthropic",
     "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic/?utm_source=tldrai",
     "summary": "Anthropic is grappling with balancing bold safety initiatives and disappointing operational decisions. CEO Dario Amodei has defended their costly, safety-oriented strategies, yet concerns persist over alignment, governance, and potential risks from AI development. Their internal culture reflects both ambitious efforts and troubling signs of a conventional business approach, sparking debate about their commitment to AI safety and global responsibilities.",
@@ -279,6 +267,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-28",
+    "section": "Deep Dives & Analysis",
+    "title": "Formalizing the Enormous Theorem",
+    "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/?utm_source=tldrai",
+    "summary": "Axiom Math has released the first complete computer-checked proof of the Classification of Finite Simple Groups (CFSG). The original CFSG proof is considered to be the longest mathematical proof ever written by humans. It spans roughly 15,000 pages in more than 500 articles written by about 100 mathematicians. Engineers and mathematicians at Axiom Math directed swarms of dozens of AI agents over 24 days in a project that produced approximately 43.1 million lines of code in the Lean proof assistant.",
+    "read_minutes": 27,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://axiommath.ai/research/the-enormous-theorem-formalized"
    },
    {
     "newsletter": "ai",
@@ -1448,18 +1448,6 @@
     "newsletter": "founders",
     "date": "2026-10-28",
     "section": "Strategies & Tactics",
-    "title": "How to Pitch Really Damn Well",
-    "url": "https://postround.substack.com/p/how-to-pitch-really-damn-well?utm_source=tldrfounders",
-    "summary": "Investors walk into early meetings a bit skeptical, mostly looking for a reason to pass on you. A former YC partner explains how to build your pitch around a few claims that make passing feel a little riskier. Investors still don't know how to judge AI-era companies (and they've all watched a huge one slip away), so one tactic is to pick three or four claims where believing any one of them would make an investor nervous to say no. For example, you can test those claims in investor meetings six to twelve months before you raise and keep the ones people still repeat back to you a quarter later.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://postround.substack.com/p/how-to-pitch-really-damn-well"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-28",
-    "section": "Strategies & Tactics",
     "title": "If intelligence is getting cheap, what remains expensive?",
     "url": "https://x.com/prathiknaidu/status/2112928049935118493?utm_source=tldrfounders",
     "summary": "Buying established service businesses gives AI builders access to what's hardest to replicate: customer trust, distribution, and employees' hard-earned expertise. Ownership also lets them redesign entire workflows and capture the resulting profit gains, which would otherwise largely accrue to their customers. The challenge is turning hours saved into higher revenue and better service, rather than treating adoption alone as success.",
@@ -1467,6 +1455,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/prathiknaidu/status/2112928049935118493"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-28",
+    "section": "Strategies & Tactics",
+    "title": "How to Pitch Really Damn Well",
+    "url": "https://postround.substack.com/p/how-to-pitch-really-damn-well?utm_source=tldrfounders",
+    "summary": "Investors walk into early meetings a bit skeptical, mostly looking for a reason to pass on you. A former YC partner explains how to build your pitch around a few claims that make passing feel a little riskier. Investors still don't know how to judge AI-era companies (and they've all watched a huge one slip away), so one tactic is to pick three or four claims where believing any one of them would make an investor nervous to say no. For example, you can test those claims in investor meetings six to twelve months before you raise and keep the ones people still repeat back to you a quarter later.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://postround.substack.com/p/how-to-pitch-really-damn-well"
    },
    {
     "newsletter": "founders",
@@ -1606,18 +1606,6 @@
     "newsletter": "crypto",
     "date": "2026-10-28",
     "section": "Markets & Business",
-    "title": "Hyperliquid says Payward to be first CFTC-regulated HIP-3 deployer",
-    "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787?utm_source=tldrcrypto",
-    "summary": "Hyperliquid said it intends to make Payward the first CFTC-regulated deployer on its HIP-3 markets. The upgrade would let deployers restrict access through onchain allowlists, which could let regulated operators run US perpetual futures on Hyperliquid's infrastructure. Bitnomial, Payward's CFTC-regulated exchange and clearinghouse, would be the deployer, and NinjaTrader Clearing would carry client accounts if approved. The functionality is live on testnet, and the deployment still needs regulatory approval. It is unclear how permissioning would work or whether it would include built-in KYC. Payward first announced the plan on September 16.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-28",
-    "section": "Markets & Business",
     "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
     "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826?utm_source=tldrcrypto",
     "summary": "Mizuho cut its Circle price target to $43 from $45 and kept Underperform. That implies about 46% downside from Monday's $79.84 close, which was down 7% on the day. The analysts say AI personal assistants are a “marked risk.” In their simulation, agents steer USDC holders toward higher-yielding FDIC-insured options like SoFi savings, and even crypto-only users toward other platforms. They estimate USDC's market cap could shrink by $4B to $9B and reserve revenue could fall 10% to 20% over the medium term. Only about 17% of USDC sits on Circle's platform, which pays no yield, versus 30% on Coinbase and 53% elsewhere. Under faster AI adoption, they project 2027 average USDC at $101B (from $108B), reserve revenue down 5% to $4.1B, and adjusted EBITDA down 5% to $603M.",
@@ -1625,6 +1613,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-28",
+    "section": "Markets & Business",
+    "title": "Hyperliquid says Payward to be first CFTC-regulated HIP-3 deployer",
+    "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787?utm_source=tldrcrypto",
+    "summary": "Hyperliquid said it intends to make Payward the first CFTC-regulated deployer on its HIP-3 markets. The upgrade would let deployers restrict access through onchain allowlists, which could let regulated operators run US perpetual futures on Hyperliquid's infrastructure. Bitnomial, Payward's CFTC-regulated exchange and clearinghouse, would be the deployer, and NinjaTrader Clearing would carry client accounts if approved. The functionality is live on testnet, and the deployment still needs regulatory approval. It is unclear how permissioning would work or whether it would include built-in KYC. Payward first announced the plan on September 16.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787"
    },
    {
     "newsletter": "crypto",
