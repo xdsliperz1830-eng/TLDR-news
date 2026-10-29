@@ -962,6 +962,18 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Launches & Tools",
+    "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
+    "url": "https://manishrjain.com/egres/?utm_source=tldrdata",
+    "summary": "What would Postgres look like if designed today? Egres is the answer: a new open-source database that speaks the Postgres protocol but shares almost no Postgres code. It runs thousands of tenants in one process, metering CPU, memory, and disk per query, and its benchmark used 46% less disk than Postgres 18.",
+    "read_minutes": 26,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://manishrjain.com/egres"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Launches & Tools",
     "title": "SLayer",
     "url": "https://github.com/MotleyAI/slayer?utm_source=tldrdata",
     "summary": "SLayer is an MIT-licensed, embeddable semantic layer for governed agent and human access to warehouse data through MCP, REST, SQL, or Python. It combines read-only connectivity, SQL translation, transformations, row-level security, semantic search, and memory, and imports dbt, Cube, or Ossie definitions. Its expression model supports ratios, time shifts, and multi-stage queries beyond fixed BI metrics.",
@@ -981,18 +993,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://engineering.fb.com/2026/10/27/security/privacylib"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
-    "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
-    "url": "https://manishrjain.com/egres/?utm_source=tldrdata",
-    "summary": "What would Postgres look like if designed today? Egres is the answer: a new open-source database that speaks the Postgres protocol but shares almost no Postgres code. It runs thousands of tenants in one process, metering CPU, memory, and disk per query, and its benchmark used 46% less disk than Postgres 18.",
-    "read_minutes": 26,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://manishrjain.com/egres"
    },
    {
     "newsletter": "data",
