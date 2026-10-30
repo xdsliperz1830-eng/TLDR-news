@@ -162,18 +162,6 @@
     "newsletter": "tech",
     "date": "2026-10-29",
     "section": "Quick Links",
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
-    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Quick Links",
     "title": "Confessions from Slopaholics Anonymous",
     "url": "https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak?utm_source=tldrnewsletter",
     "summary": "It can be difficult to tell whether you are overusing AI unless someone directly engages with the details of your work.",
@@ -205,6 +193,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
+    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
    }
   ],
   "ai": [
@@ -478,6 +478,18 @@
     "newsletter": "webdev",
     "date": "2026-10-29",
     "section": "Opinions & Advice",
+    "title": "Website migration costs are going to zero",
+    "url": "https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev",
+    "summary": "AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dri.es/website-migration-costs-are-going-to-zero"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-29",
+    "section": "Opinions & Advice",
     "title": "Local-First Means Three Different Things",
     "url": "https://hologram.page/blog/local-first-means-three-different-things?utm_source=tldrdev",
     "summary": "Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data, and those promises lead to different architectures. Hologram prioritizes responsive local interfaces and offline support while retaining a server to enforce permissions and business rules.",
@@ -497,18 +509,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-29",
-    "section": "Opinions & Advice",
-    "title": "Website migration costs are going to zero",
-    "url": "https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev",
-    "summary": "AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://dri.es/website-migration-costs-are-going-to-zero"
    },
    {
     "newsletter": "webdev",
@@ -780,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/?utm_source=tldrinfosec",
-    "summary": "Thieves have stolen over $100 million in data center equipment since June. They compromise freight accounts through malicious links, then bid on shipments using hijacked identities, and those with fake licenses get accomplices hired as drivers. Two thefts involved ramming security escorts' vehicles. One $10 million shipment disappeared after its tracking coordinates were apparently spoofed.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
     "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811?utm_source=tldrinfosec",
     "summary": "Causal Security's Cipher found four EPICS Base vulnerabilities in three hours and 49 minutes. One critical integer overflow, rated CVSS 9.8, could enable remote code execution. Three high-severity flaws permit crashes, memory corruption, or information disclosure. Exploitation requires network access to vulnerable EPICS services. EPICS controls equipment including particle accelerators and fusion experiments.",
@@ -799,6 +787,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/?utm_source=tldrinfosec",
+    "summary": "Thieves have stolen over $100 million in data center equipment since June. They compromise freight accounts through malicious links, then bid on shipments using hijacked identities, and those with fake licenses get accomplices hired as drivers. Two thefts involved ramming security escorts' vehicles. One $10 million shipment disappeared after its tracking coordinates were apparently spoofed.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo"
    },
    {
     "newsletter": "infosec",
@@ -974,18 +974,6 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Launches & Tools",
-    "title": "SLayer",
-    "url": "https://github.com/MotleyAI/slayer?utm_source=tldrdata",
-    "summary": "SLayer is an MIT-licensed, embeddable semantic layer for governed agent and human access to warehouse data through MCP, REST, SQL, or Python. It combines read-only connectivity, SQL translation, transformations, row-level security, semantic search, and memory, and imports dbt, Cube, or Ossie definitions. Its expression model supports ratios, time shifts, and multi-stage queries beyond fixed BI metrics.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/MotleyAI/slayer"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
     "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
     "url": "https://engineering.fb.com/2026/10/27/security/privacylib?utm_source=tldrdata",
     "summary": "Meta built PrivacyLib to enforce privacy rules at the moment data is accessed, replacing one-off integrations with shared controls that work across many systems. The key lesson is to normalize diverse data platforms into a small set of common operations, which makes policy enforcement reusable, scalable, and adaptable enough to extend from traditional infrastructure to AI agents.",
@@ -1005,6 +993,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Launches & Tools",
+    "title": "SLayer",
+    "url": "https://github.com/MotleyAI/slayer?utm_source=tldrdata",
+    "summary": "SLayer is an MIT-licensed, embeddable semantic layer for governed agent and human access to warehouse data through MCP, REST, SQL, or Python. It combines read-only connectivity, SQL translation, transformations, row-level security, semantic search, and memory, and imports dbt, Cube, or Ossie definitions. Its expression model supports ratios, time shifts, and multi-stage queries beyond fixed BI metrics.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/MotleyAI/slayer"
    },
    {
     "newsletter": "data",
@@ -1108,18 +1108,6 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "Opinions & Tutorials",
-    "title": "A select should tell you something",
-    "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html?utm_source=tldrdesign",
-    "summary": "Customizable HTML selects can now include previews, secondary information, warnings, and other context that helps people recognize the right option instead of deciphering text labels. Practical examples include showing fonts in their actual typefaces, displaying current local times instead of UTC offsets, aligning delivery prices for comparison, and distinguishing people with identical names by job title and department. The technique progressively enhances the native `select`, so unsupported browsers can retain familiar controls while richer desktop experiences provide more useful information without replacing built-in semantics and keyboard behavior.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-29",
-    "section": "Opinions & Tutorials",
     "title": "One size doesn't fit all: rethinking “good design” across cultures",
     "url": "https://blog.readymag.com/one-size-doesnt-fit-all-rethinking-good-design-across-cultures/?utm_source=tldrdesign",
     "summary": "Ideas such as clarity, simplicity, restraint, and functionality are often treated as universal measures of good design even though they emerged from particular Western histories and cultural contexts. Design traditions excluded from the dominant canon can use decoration, complexity, symbolism, and craft in ways that are deeply functional within their cultures, challenging assumptions that minimalism is inherently more sophisticated or understandable. Evaluating design more broadly requires asking who established prevailing standards of taste, whose histories were documented and taught, and whether a design successfully serves its specific cultural purpose rather than conforming to a supposedly universal aesthetic.",
@@ -1127,6 +1115,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.readymag.com/one-size-doesnt-fit-all-rethinking-good-design-across-cultures"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-29",
+    "section": "Opinions & Tutorials",
+    "title": "A select should tell you something",
+    "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html?utm_source=tldrdesign",
+    "summary": "Customizable HTML selects can now include previews, secondary information, warnings, and other context that helps people recognize the right option instead of deciphering text labels. Practical examples include showing fonts in their actual typefaces, displaying current local times instead of UTC offsets, aligning delivery prices for comparison, and distinguishing people with identical names by job title and department. The technique progressively enhances the native `select`, so unsupported browsers can retain familiar controls while richer desktop experiences provide more useful information without replacing built-in semantics and keyboard behavior.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html"
    },
    {
     "newsletter": "design",
@@ -1168,18 +1168,6 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "The New York Times turns 175 with an identity, events and a campaign",
-    "url": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign?utm_source=tldrdesign",
-    "summary": "The New York Times is marking its 175th anniversary with a visual identity, campaign, and program of events that use the publication's history as material rather than simply commemorating its age. Familiar elements from its editorial and typographic heritage are reframed across contemporary applications, connecting decades of journalism with the publication's current cultural role. The system demonstrates how an established institution can celebrate recognizable brand equity while giving historical assets new relevance instead of replacing them.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "The Software Factory Forgot About Design",
     "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design?utm_source=tldrdesign",
     "summary": "A four-station workflow of Linear, Paper, a coding agent, and review brings design into the software factory, where issues otherwise turn straight into pull requests. Linear holds the intent, Paper hosts agent-drafted HTML and CSS designs made before implementation, and the coding agent builds from both issue and design. Review checks the build against intent, but agents still lack the history behind decisions, such as past designs, analytics, and design-system reasoning.",
@@ -1199,6 +1187,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "The New York Times turns 175 with an identity, events and a campaign",
+    "url": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign?utm_source=tldrdesign",
+    "summary": "The New York Times is marking its 175th anniversary with a visual identity, campaign, and program of events that use the publication's history as material rather than simply commemorating its age. Familiar elements from its editorial and typographic heritage are reframed across contemporary applications, connecting decades of journalism with the publication's current cultural role. The system demonstrates how an established institution can celebrate recognizable brand equity while giving historical assets new relevance instead of replacing them.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign"
    },
    {
     "newsletter": "design",
@@ -1752,18 +1752,6 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
-    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
-    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "News & Trends",
     "title": "Ripple gets OCC's unconditional charter approval",
     "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/?utm_source=tldrfintech",
     "summary": "Ripple has secured final OCC approval to launch a national trust bank, allowing it to provide digital asset custody and manage reserves backing its RLUSD stablecoin, but not accept deposits or make commercial loans. The company is also expanding its BNY partnership to support institutional custody and tokenized assets, explore tokenized trade finance, and eventually let clients mint and redeem RLUSD directly through the bank.",
@@ -1783,6 +1771,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lnkd.in/p/gDVV26Zz"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "News & Trends",
+    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
+    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
+    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
    },
    {
     "newsletter": "fintech",
@@ -2018,18 +2018,6 @@
     "newsletter": "it",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-    "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=tldrit",
-    "summary": "Anthropic researchers used an internal research model to discover critical vulnerabilities and construct sophisticated multi-step exploit chains in widely used software, including browsers, mobile operating systems, and kernel networking stacks. The model identified issues such as remote code execution, sandbox escapes, and lock-screen bypasses, which were reported to affected vendors under coordinated vulnerability disclosure. Anthropic argues that AI-assisted vulnerability discovery could help defenders identify and patch security flaws before attackers exploit them.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/research/discovering-vulnerabilities-with-claude"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements",
     "url": "https://www.sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements/?utm_source=tldrit",
     "summary": "Oracle expanded its Acceleron networking platform with new capabilities for AI and high-performance computing workloads. Updates include RDMA connectivity for front-end compute, expanded NVMe block-storage options, and communication libraries designed to maintain distributed AI workloads when network paths fail.",
@@ -2037,6 +2025,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+    "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=tldrit",
+    "summary": "Anthropic researchers used an internal research model to discover critical vulnerabilities and construct sophisticated multi-step exploit chains in widely used software, including browsers, mobile operating systems, and kernel networking stacks. The model identified issues such as remote code execution, sandbox escapes, and lock-screen bypasses, which were reported to affected vendors under coordinated vulnerability disclosure. Anthropic argues that AI-assisted vulnerability discovery could help defenders identify and patch security flaws before attackers exploit them.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/research/discovering-vulnerabilities-with-claude"
    },
    {
     "newsletter": "it",
