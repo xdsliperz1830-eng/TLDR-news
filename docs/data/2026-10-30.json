@@ -1302,18 +1302,6 @@
     "newsletter": "design",
     "date": "2026-10-30",
     "section": "Miscellaneous",
-    "title": "You Are the Best Artist",
-    "url": "https://www.kooslooijesteijn.net/blog/you-are-the-best-artist?utm_source=tldrdesign",
-    "summary": "Art is less about conveying emotion to an audience than about capturing it, since a painter alone in a studio still makes art. Comparing skills with others can help, but becoming a better artist is personal, because nobody can express someone's feelings like they can.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://kooslooijesteijn.net/blog/you-are-the-best-artist"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-30",
-    "section": "Miscellaneous",
     "title": "Designing a skill",
     "url": "https://iamnoman.com/writing/designing-a-skill?utm_source=tldrdesign",
     "summary": "Agent skills can be treated like apps whose interfaces happen to be written largely through instructions, with both the human invoking the skill and the AI interpreting it acting as users. Building a polished skill requires many familiar design practices, including finding the right form, refining copy, creating a visual system, anticipating repeated use, offering meaningful customization, and testing across different contexts. Precise instructions matter because agents fall back on familiar patterns when given vague directions, making skills a useful place to encode the context, trade-offs, intuition, and taste that individual prompts cannot reliably communicate.",
@@ -1321,6 +1309,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://iamnoman.com/writing/designing-a-skill"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-30",
+    "section": "Miscellaneous",
+    "title": "You Are the Best Artist",
+    "url": "https://www.kooslooijesteijn.net/blog/you-are-the-best-artist?utm_source=tldrdesign",
+    "summary": "Art is less about conveying emotion to an audience than about capturing it, since a painter alone in a studio still makes art. Comparing skills with others can help, but becoming a better artist is personal, because nobody can express someone's feelings like they can.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://kooslooijesteijn.net/blog/you-are-the-best-artist"
    },
    {
     "newsletter": "design",
@@ -1436,18 +1436,6 @@
     "newsletter": "marketing",
     "date": "2026-10-30",
     "section": "Resources & Tools",
-    "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/?utm_source=tldrmarketing",
-    "summary": "Reddit is shifting toward a primarily logged-in experience as AI-powered search reduces traffic from Google and other search engines. The move aims to limit AI scraping and encourage data-licensing deals while giving Reddit more user data to personalize feeds and target ads. Search referrals fell by more than 1M per week in October, while daily active users in the US dropped 2% year over year to 50.7M. Reddit will test the change in select markets outside the US in Q4.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-30",
-    "section": "Resources & Tools",
     "title": "B2B Events: What to Start, Stop, and Scale in 2027 (Webinar)",
     "url": "https://exitfive.com/live/b2b-events-blitz/?utm_source=tldrmarketing",
     "summary": "9 B2B marketers share what worked and failed at their 2026 events and what they'll change in 2027. They'll cover booth design, meeting bookings, and success metrics. In a blitz format, speakers get 2 minutes to make their case before the audience votes on finalists, who get 4 minutes to elaborate. This event will take place today at 12 PM ET.",
@@ -1455,6 +1443,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://exitfive.com/live/b2b-events-blitz"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-30",
+    "section": "Resources & Tools",
+    "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/?utm_source=tldrmarketing",
+    "summary": "Reddit is shifting toward a primarily logged-in experience as AI-powered search reduces traffic from Google and other search engines. The move aims to limit AI scraping and encourage data-licensing deals while giving Reddit more user data to personalize feeds and target ads. Search referrals fell by more than 1M per week in October, while daily active users in the US dropped 2% year over year to 50.7M. Reddit will test the change in select markets outside the US in Q4.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience"
    },
    {
     "newsletter": "marketing",
@@ -2164,18 +2164,6 @@
     "newsletter": "hardware",
     "date": "2026-10-30",
     "section": "Quick Links",
-    "title": "DOJ reportedly questions Nvidia's $12.9B Hugging Face deal over control of open-model distribution",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers?utm_source=tldrhardware",
-    "summary": "Reuters reports the DOJ is questioning whether owning the main distribution hub for open models would let Nvidia disadvantage rival chip and AI companies or gain leverage in negotiations.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-10-30",
-    "section": "Quick Links",
     "title": "FuriosaAI raises $620M at a $2.9B valuation to scale its 180 W RNGD inference chip",
     "url": "https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge?utm_source=tldrhardware",
     "summary": "FuriosaAI raised $620 million at a $2.9 billion valuation, about four times its prior round, to scale its RNGD inference chip, a 180 W part it claims matches GPU throughput at half the power or less.",
@@ -2183,6 +2171,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://app.dealroom.co/news/note/furiosaai-raises-620m-series-d-quadruples-valuation-to-2-9b-in-nvidia-challenge"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-10-30",
+    "section": "Quick Links",
+    "title": "DOJ reportedly questions Nvidia's $12.9B Hugging Face deal over control of open-model distribution",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers?utm_source=tldrhardware",
+    "summary": "Reuters reports the DOJ is questioning whether owning the main distribution hub for open models would let Nvidia disadvantage rival chip and AI companies or gain leverage in negotiations.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tomshardware.com/tech-industry/artificial-intelligence/dept-of-justice-reportedly-probes-nvidia-over-usd13-billion-hugging-face-ai-platform-acquisition-concerns-raised-over-competition-in-ai-and-pressure-on-customers"
    }
   ]
  }

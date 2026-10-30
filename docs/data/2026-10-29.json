@@ -296,6 +296,18 @@
     "newsletter": "ai",
     "date": "2026-10-29",
     "section": "Engineering & Research",
+    "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrai",
+    "summary": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and enterprise customers a fully managed way to build agents that reason, use tools, and complete complex, long-running tasks. It was built to perform across model families, and is flexible and configurable to any type of app, agent, or service.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-29",
+    "section": "Engineering & Research",
     "title": "Introducing Vercel CI",
     "url": "https://vercel.com/blog/introducing-vercel-ci?utm_source=tldrai",
     "summary": "The Vercel AI is now available in beta. The CI is able to keep up with coding agents. It runs only the tasks affected by a code change, and spins up only the compute those checks need. At Vercel, the system has decreased the time from git push to 'CI pass' by 2-6x.",
@@ -315,18 +327,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-29",
-    "section": "Engineering & Research",
-    "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrai",
-    "summary": "The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. It is now available through Microsoft Foundry. The harness gives developers and enterprise customers a fully managed way to build agents that reason, use tools, and complete complex, long-running tasks. It was built to perform across model families, and is flexible and configurable to any type of app, agent, or service.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work"
    },
    {
     "newsletter": "ai",
@@ -1752,18 +1752,6 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
-    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
-    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "News & Trends",
     "title": "Ripple gets OCC's unconditional charter approval",
     "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/?utm_source=tldrfintech",
     "summary": "Ripple has secured final OCC approval to launch a national trust bank, allowing it to provide digital asset custody and manage reserves backing its RLUSD stablecoin, but not accept deposits or make commercial loans. The company is also expanding its BNY partnership to support institutional custody and tokenized assets, explore tokenized trade finance, and eventually let clients mint and redeem RLUSD directly through the bank.",
@@ -1771,6 +1759,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "News & Trends",
+    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
+    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
+    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
    },
    {
     "newsletter": "fintech",
