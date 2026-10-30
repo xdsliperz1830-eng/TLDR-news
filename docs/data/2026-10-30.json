@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-10-30",
     "section": "Science & Futuristic Technology",
-    "title": "A golden age of science is coming",
-    "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming?utm_source=tldrnewsletter",
-    "summary": "Progress has started to accelerate in science in the last two years. AI can send hordes of superhumanly fast, well-read, and mathematically gifted researchers to accelerate scientific research. It is possible AI will enable new types of discovery and ways of understanding the natural world that no network of humans would ever be able to discover. Unless humans have actually somehow discovered most of the actual exploitable regularities in the Universe, we're about to enter a new golden age of science.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://noahpinion.blog/p/a-golden-age-of-science-is-coming"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-30",
-    "section": "Science & Futuristic Technology",
     "title": "Elon Says Blindsight Is Ready 2 Years After FDA Breakthrough",
     "url": "https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough/?utm_source=tldrnewsletter",
     "summary": "Neuralink's Blindsight implant is now ready from an engineering standpoint. The device is designed to help blind people see. It is currently waiting on regulatory approval before it can be sold to customers. It has already received Breakthrough Device Designation from the US FDA, which will help speed review of the device.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://teslanorth.com/2026/10/29/elon-blindsight-ready-2-years-after-fda-breakthrough"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-30",
+    "section": "Science & Futuristic Technology",
+    "title": "A golden age of science is coming",
+    "url": "https://www.noahpinion.blog/p/a-golden-age-of-science-is-coming?utm_source=tldrnewsletter",
+    "summary": "Progress has started to accelerate in science in the last two years. AI can send hordes of superhumanly fast, well-read, and mathematically gifted researchers to accelerate scientific research. It is possible AI will enable new types of discovery and ways of understanding the natural world that no network of humans would ever be able to discover. Unless humans have actually somehow discovered most of the actual exploitable regularities in the Universe, we're about to enter a new golden age of science.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://noahpinion.blog/p/a-golden-age-of-science-is-coming"
    },
    {
     "newsletter": "tech",
@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-10-30",
     "section": "Programming, Design & Data Science",
-    "title": "Making agents fast - what I've learnt over the last 12 months",
-    "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=tldrnewsletter",
-    "summary": "Knowing what part of inference a project relies on for speed is important. Check thinking budgets, and read traces, as they often contain valuable insight into what an agent wants to do. Give agents the tools they want rather than what you think they need. Faster hardware still matters, sandboxing and microVMs add complexity, parallelization helps, and classic software performance optimization is still relevant.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://martinalderson.com/posts/making-agents-fast"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-30",
-    "section": "Programming, Design & Data Science",
     "title": "A Little Determinism",
     "url": "https://cra.mr/a-little-determinism?utm_source=tldrnewsletter",
     "summary": "Adding constraints to AI agents usually makes them less capable. Sometimes the solution is to create a template or a complete multi-stage workflow. The challenge is in creating the deterministic behavior while retaining the agent's freedom to use the best tools for the job. This post discusses a solution that uses a man-in-the-middle egress proxy that forces behavior by denying actions and forces reactions via automated messages.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cra.mr/a-little-determinism"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-30",
+    "section": "Programming, Design & Data Science",
+    "title": "Making agents fast - what I've learnt over the last 12 months",
+    "url": "https://martinalderson.com/posts/making-agents-fast/?utm_source=tldrnewsletter",
+    "summary": "Knowing what part of inference a project relies on for speed is important. Check thinking budgets, and read traces, as they often contain valuable insight into what an agent wants to do. Give agents the tools they want rather than what you think they need. Faster hardware still matters, sandboxing and microVMs add complexity, parallelization helps, and classic software performance optimization is still relevant.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://martinalderson.com/posts/making-agents-fast"
    },
    {
     "newsletter": "tech",
@@ -145,18 +145,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://ramp.com/lp2/ai-cost-monitoring"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-30",
-    "section": "Quick Links",
-    "title": "General Hill-Climbing: The One Main Loop in AI",
-    "url": "https://danielmiessler.com/blog/general-hill-climbing?utm_source=tldrnewsletter",
-    "summary": "The General Hill-climbing System, combined with AI, is a problem-solving framework that works on pretty much anything you throw at it.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danielmiessler.com/blog/general-hill-climbing"
    },
    {
     "newsletter": "tech",
@@ -217,6 +205,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-30",
+    "section": "Quick Links",
+    "title": "General Hill-Climbing: The One Main Loop in AI",
+    "url": "https://danielmiessler.com/blog/general-hill-climbing?utm_source=tldrnewsletter",
+    "summary": "The General Hill-climbing System, combined with AI, is a problem-solving framework that works on pretty much anything you throw at it.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danielmiessler.com/blog/general-hill-climbing"
    }
   ],
   "ai": [
@@ -260,18 +260,6 @@
     "newsletter": "ai",
     "date": "2026-10-30",
     "section": "Deep Dives & Analysis",
-    "title": "The surprising leadership dynamics in agent swarms",
-    "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai",
-    "summary": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://raindrop.ai/blog/agent-swarm-leadership"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-30",
-    "section": "Deep Dives & Analysis",
     "title": "AI can turn security fixes into working exploits before users receive an update",
     "url": "https://epoch.ai/publications/open-weight-models-patch-gap?utm_source=tldrai",
     "summary": "GLM 5.3 can identify and exploit vulnerabilities in recent versions of the Mozilla Firefox browser using security fixes that have been published but not yet shipped to users. Widely available open-weight models can now do much, or even all, of this work on their own. Open-source projects are particularly vulnerable to this kind of attack as their code is publicly available. This threat vector will likely worsen as open-weight cyber capabilities continue to improve.",
@@ -279,6 +267,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://epoch.ai/publications/open-weight-models-patch-gap"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-30",
+    "section": "Deep Dives & Analysis",
+    "title": "The surprising leadership dynamics in agent swarms",
+    "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/?utm_source=tldrai",
+    "summary": "Agent swarms are groups of agents that work together to accomplish a task. Researchers created an experiment in which eight agents from four different models worked together to resolve simulated outages to understand how agents organize themselves in a swarm without a designated leader. They discovered two factors that could influence an agent's potential leadership: the agent's underlying models, and the order in which their name was listed in a prompt. This suggests that even seemingly minor details in how an agent swarm is configured can affect how agents coordinate.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://raindrop.ai/blog/agent-swarm-leadership"
    },
    {
     "newsletter": "ai",
@@ -308,18 +308,6 @@
     "newsletter": "ai",
     "date": "2026-10-30",
     "section": "Engineering & Research",
-    "title": "Droid 1.0: Building a Frontier Harness",
-    "url": "https://factory.com/news/frontier-harness?utm_source=tldrai",
-    "summary": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://factory.com/news/frontier-harness"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-30",
-    "section": "Engineering & Research",
     "title": "How Meta Catches Bugs Before Code Ships",
     "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/?utm_source=tldrai",
     "summary": "Meta details how it scaled its LLM-powered Just-in-Time Testing system from a research prototype into production infrastructure. The article explores how AI-generated tests catch bugs before code changes land, how the system operates at scale, and what Meta learned about reducing false positives and testing overhead.",
@@ -339,6 +327,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://figma.com/blog/training-a-figma-fluent-editing-model"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-30",
+    "section": "Engineering & Research",
+    "title": "Droid 1.0: Building a Frontier Harness",
+    "url": "https://factory.com/news/frontier-harness?utm_source=tldrai",
+    "summary": "Droid is an agent harness that lets agents run hundreds of tool calls in a single model request. Building a harness optimized for many models makes the harness better. It's hard to separate real progress from adaptations to that model's quirks when you tune against a single model. Working across models ensures the strongest improvements generalize and hold up beyond the model that inspired them.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://factory.com/news/frontier-harness"
    },
    {
     "newsletter": "ai",
@@ -466,18 +466,6 @@
     "newsletter": "webdev",
     "date": "2026-10-30",
     "section": "Articles & Tutorials",
-    "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
-    "url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/?utm_source=tldrdev",
-    "summary": "Deno's planned end of runtime development narrows the major server-side JavaScript choices to Node.js, Bun, and Cloudflare's workerd. Historical examples from Internet Explorer and the io.js fork show how independent implementations can prevent stagnation and push features into competing runtimes.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-30",
-    "section": "Articles & Tutorials",
     "title": "Measuring Soft Navigation Web Vitals",
     "url": "https://blog.sentry.io/measuring-soft-navigation-web-vitals/?utm_source=tldrdev",
     "summary": "Sentry's JavaScript SDK v11 measures LCP, CLS, and INP for client-side navigations, exposing slow routes that initial page-load metrics miss. Support currently requires Chromium 151 or later, and the scores should be filtered separately from page loads because their clocks start at different points.",
@@ -497,6 +485,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://sarthakmishra.com/blog/optimizing-tanstack-start"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-30",
+    "section": "Articles & Tutorials",
+    "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
+    "url": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/?utm_source=tldrdev",
+    "summary": "Deno's planned end of runtime development narrows the major server-side JavaScript choices to Node.js, Bun, and Cloudflare's workerd. Historical examples from Internet Explorer and the io.js fork show how independent implementations can prevent stagnation and push features into competing runtimes.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture"
    },
    {
     "newsletter": "webdev",
@@ -622,18 +622,6 @@
     "newsletter": "webdev",
     "date": "2026-10-30",
     "section": "Quick Links",
-    "title": "A Better Way to Handle Select Behaviour",
-    "url": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour?utm_source=tldrdev",
-    "summary": "The customizable native select introduces a shared interaction model through appearance: base-select, reducing the need to reproduce conflicting Mac and Windows conventions.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tempertemper.net/blog/a-better-way-to-handle-select-behaviour"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-30",
-    "section": "Quick Links",
     "title": "Thank you, but I prefer it my way",
     "url": "https://blog.julik.nl/2026/10/thanks-but-i-prefer-it-my-way?utm_source=tldrdev",
     "summary": "LLMs make rewriting libraries easier than collaborating on them, raising the risk of fragmented projects, and weakening the incentives to contribute improvements upstream.",
@@ -665,6 +653,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://iptrust.co/blog/if-ipv4-were-land"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-30",
+    "section": "Quick Links",
+    "title": "A Better Way to Handle Select Behaviour",
+    "url": "https://www.tempertemper.net/blog/a-better-way-to-handle-select-behaviour?utm_source=tldrdev",
+    "summary": "The customizable native select introduces a shared interaction model through appearance: base-select, reducing the need to reproduce conflicting Mac and Windows conventions.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tempertemper.net/blog/a-better-way-to-handle-select-behaviour"
    }
   ],
   "infosec": [
@@ -890,18 +890,6 @@
     "newsletter": "devops",
     "date": "2026-10-30",
     "section": "News & Trends",
-    "title": "Announcing the Workload Conformance Working Group",
-    "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/?utm_source=tldrdevops",
-    "summary": "The Kubernetes community launched a Workload Conformance Working Group to write a shared specification and tests for how workloads behave at runtime. The group aims for a stable first specification within two to three release cycles and seeks input from operators and application maintainers.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-10-30",
-    "section": "News & Trends",
     "title": "Match monitoring depth to workload needs with Infrastructure Basic",
     "url": "https://www.datadoghq.com/blog/infrastructure-monitoring-basic/?utm_source=tldrdevops",
     "summary": "Datadog describes Infrastructure Basic, a lightweight tier that collects core host metrics and selected process status for lower-priority workloads. It uses the same Agent in basic mode and can run alongside Pro or Enterprise tiers in one organization.",
@@ -925,14 +913,14 @@
    {
     "newsletter": "devops",
     "date": "2026-10-30",
-    "section": "Opinions & Tutorials",
-    "title": "1M Durable Workflows per Second on Postgres",
-    "url": "https://www.dbos.dev/blog/one-million-workflows?utm_source=tldrdevops",
-    "summary": "DBOS scaled a benchmark of no-op durable workflows from 20,000 per second on one Postgres server to one million across 50 shards using PgDog. The main obstacle was a contention feedback loop that collapsed throughput when a shard slowed down. Advisory locks limited concurrent dequeuers and restored stable scaling.",
-    "read_minutes": 6,
+    "section": "News & Trends",
+    "title": "Announcing the Workload Conformance Working Group",
+    "url": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/?utm_source=tldrdevops",
+    "summary": "The Kubernetes community launched a Workload Conformance Working Group to write a shared specification and tests for how workloads behave at runtime. The group aims for a stable first specification within two to three release cycles and seeks input from operators and application maintainers.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://dbos.dev/blog/one-million-workflows"
+    "key": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg"
    },
    {
     "newsletter": "devops",
@@ -957,6 +945,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://spacelift.io/blog/terraform-backstage"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-10-30",
+    "section": "Opinions & Tutorials",
+    "title": "1M Durable Workflows per Second on Postgres",
+    "url": "https://www.dbos.dev/blog/one-million-workflows?utm_source=tldrdevops",
+    "summary": "DBOS scaled a benchmark of no-op durable workflows from 20,000 per second on one Postgres server to one million across 50 shards using PgDog. The main obstacle was a contention feedback loop that collapsed throughput when a shard slowed down. Advisory locks limited concurrent dequeuers and restored stable scaling.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dbos.dev/blog/one-million-workflows"
    },
    {
     "newsletter": "devops",
@@ -986,18 +986,6 @@
     "newsletter": "devops",
     "date": "2026-10-30",
     "section": "Miscellaneous",
-    "title": "The Pwn Request Reckoning: What Still Works Against GitHub Actions",
-    "url": "https://www.wiz.io/blog/github-actions-security-pwn-request-reckoning?utm_source=tldrdevops",
-    "summary": "GitHub's upcoming platform changes in 2026 will make pull_request_target attacks harder, but gaps remain involving outdated checkout versions, script injection, and unprotected triggers like issue_comment. Pinning actions to old SHA values predating the July 2026 backport release bypasses the new checkout protections entirely. The default policy also does not apply to private repositories or workflow_run events.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wiz.io/blog/github-actions-security-pwn-request-reckoning"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-10-30",
-    "section": "Miscellaneous",
     "title": "The AI observability race will be won on interoperability",
     "url": "https://thenewstack.io/ai-observability-through-interoperability/?utm_source=tldrdevops",
     "summary": "OpenTelemetry offers a common method to capture and describe AI behavior using shared conventions for conversations and messages. This standardization helps teams compare models, reduce duplicate integration work, and measure cost per outcome rather than just token counts.",
@@ -1009,14 +997,14 @@
    {
     "newsletter": "devops",
     "date": "2026-10-30",
-    "section": "Quick Links",
-    "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
-    "url": "https://thenewstack.io/serverless-kubernetes-aws-fargate/?utm_source=tldrdevops",
-    "summary": "AWS Fargate for EKS routes pods with an admission webhook, provisions a dedicated environment per pod through its own scheduler, and attaches each pod to the customer VPC through a dedicated network interface.",
-    "read_minutes": 8,
+    "section": "Miscellaneous",
+    "title": "The Pwn Request Reckoning: What Still Works Against GitHub Actions",
+    "url": "https://www.wiz.io/blog/github-actions-security-pwn-request-reckoning?utm_source=tldrdevops",
+    "summary": "GitHub's upcoming platform changes in 2026 will make pull_request_target attacks harder, but gaps remain involving outdated checkout versions, script injection, and unprotected triggers like issue_comment. Pinning actions to old SHA values predating the July 2026 backport release bypasses the new checkout protections entirely. The default policy also does not apply to private repositories or workflow_run events.",
+    "read_minutes": 9,
     "kind": null,
     "sponsored": false,
-    "key": "https://thenewstack.io/serverless-kubernetes-aws-fargate"
+    "key": "https://wiz.io/blog/github-actions-security-pwn-request-reckoning"
    },
    {
     "newsletter": "devops",
@@ -1029,6 +1017,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-10-30",
+    "section": "Quick Links",
+    "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
+    "url": "https://thenewstack.io/serverless-kubernetes-aws-fargate/?utm_source=tldrdevops",
+    "summary": "AWS Fargate for EKS routes pods with an admission webhook, provisions a dedicated environment per pod through its own scheduler, and attaches each pod to the customer VPC through a dedicated network interface.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thenewstack.io/serverless-kubernetes-aws-fargate"
    }
   ],
   "product": [
@@ -1194,18 +1194,6 @@
     "newsletter": "design",
     "date": "2026-10-30",
     "section": "News & Trends",
-    "title": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
-    "url": "https://www.digitaltrends.com/computing/openai-now-lets-you-text-your-chatgpt-dot-agent-to-get-things-done/?utm_source=tldrdesign",
-    "summary": "ChatGPT Dot can now communicate through iMessage and RCS, letting users assign tasks, send photos or voice notes, and receive proactive updates without opening ChatGPT. Dot can use context from ChatGPT conversations and connected channels to decide where updates belong, while users can specify that only urgent information should arrive by text and approvals still happen inside ChatGPT. The beta is currently limited to ChatGPT Pro users in the US, with one-to-one messaging supported but no group chats, regular phone calls, or FaceTime.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://digitaltrends.com/computing/openai-now-lets-you-text-your-chatgpt-dot-agent-to-get-things-done"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-30",
-    "section": "News & Trends",
     "title": "Fitbit Edge: Premium Design for an Active Life",
     "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/?utm_source=tldrdesign",
     "summary": "Fitbit Edge pairs the brand's largest, brightest Hybrid OLED tracker display with a tactile side button for quick control mid-workout, even with sweaty fingers. A subtly curved chassis of 100% recycled aluminum keeps sensors against the wrist for 24/7 heart-rate and sleep tracking. Four finishes, four redesigned band styles, and up to seven days of battery life round out the design.",
@@ -1225,6 +1213,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://windowscentral.com/microsoft/windows-11/windows-security-will-finally-look-like-it-belongs-on-windows-11"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-30",
+    "section": "News & Trends",
+    "title": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
+    "url": "https://www.digitaltrends.com/computing/openai-now-lets-you-text-your-chatgpt-dot-agent-to-get-things-done/?utm_source=tldrdesign",
+    "summary": "ChatGPT Dot can now communicate through iMessage and RCS, letting users assign tasks, send photos or voice notes, and receive proactive updates without opening ChatGPT. Dot can use context from ChatGPT conversations and connected channels to decide where updates belong, while users can specify that only urgent information should arrive by text and approvals still happen inside ChatGPT. The beta is currently limited to ChatGPT Pro users in the US, with one-to-one messaging supported but no group chats, regular phone calls, or FaceTime.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://digitaltrends.com/computing/openai-now-lets-you-text-your-chatgpt-dot-agent-to-get-things-done"
    },
    {
     "newsletter": "design",
@@ -1364,18 +1364,6 @@
     "newsletter": "marketing",
     "date": "2026-10-30",
     "section": "News & Trends",
-    "title": "What marketers should know about the legal risks of algorithmic pricing",
-    "url": "https://www.marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963/?utm_source=tldrmarketing",
-    "summary": "Dynamic pricing, where every customer sees the same demand-driven price, is relatively safe, but pricing that changes based on the shopper carries much greater legal risk. A promo code sent to one segment or a retargeted offer that undercuts the public price can count as personalized pricing. Dozens of bills are pending across more than 20 states, and the FTC has drafted a policy statement on when the practice is misleading or unfair. False-advertising laws also apply, since a sale price only some shoppers see may misrepresent the discount.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-30",
-    "section": "News & Trends",
     "title": "Google AI Mode sends 57% of product links to Google Shopping",
     "url": "https://searchengineland.com/google-ai-mode-product-links-google-shopping-study-499887?utm_source=tldrmarketing",
     "summary": "Google's AI search experience keeps shoppers within its own ecosystem, especially for fashion and beauty products. A study of 55,198 AI answers found that 57% of product links led to Google Shopping and 46.5% of US product answers linked only to Google pages. Brands may gain visibility in AI search without receiving website traffic.",
@@ -1383,6 +1371,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://searchengineland.com/google-ai-mode-product-links-google-shopping-study-499887"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-30",
+    "section": "News & Trends",
+    "title": "What marketers should know about the legal risks of algorithmic pricing",
+    "url": "https://www.marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963/?utm_source=tldrmarketing",
+    "summary": "Dynamic pricing, where every customer sees the same demand-driven price, is relatively safe, but pricing that changes based on the shopper carries much greater legal risk. A promo code sent to one segment or a retargeted offer that undercuts the public price can count as personalized pricing. Dozens of bills are pending across more than 20 states, and the FTC has drafted a policy statement on when the practice is misleading or unfair. False-advertising laws also apply, since a sale price only some shoppers see may misrepresent the discount.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963"
    },
    {
     "newsletter": "marketing",
@@ -1558,18 +1558,6 @@
     "newsletter": "founders",
     "date": "2026-10-30",
     "section": "Strategies & Tactics",
-    "title": "Inside PM at Anthropic: Who Makes It, and Who Doesn't",
-    "url": "https://theskip.substack.com/p/inside-pm-at-anthropic?utm_source=tldrfounders",
-    "summary": "A bigger title at a bigger company counts for less than it used to when Anthropic hires product managers. The head of product for Anthropic's research teams walks through how she hires and ramps PMs on the team that incubated Claude Code. Her favorite candidate is a startup's first PM who also did customer success and business development, since people who've worked without structure go find answers themselves. The team also dropped annual planning for one-month plans, because yearly OKRs went out of date within two weeks.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theskip.substack.com/p/inside-pm-at-anthropic"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-30",
-    "section": "Strategies & Tactics",
     "title": "Nobody Learns in the Clean Half",
     "url": "https://wildfirelabs.substack.com/p/nobody-learns-in-the-clean-half?utm_source=tldrfounders",
     "summary": "AI is taking over the routine work that used to teach new hires their job, like reconciling ledgers or fixing small bugs. ATMs took over cash handling and left bank tellers with customer problems and loan conversations. The worry is who learns the messy half now, since a 500-person compliance team might shrink to 30 and the cuts land on people who learned on the easy tasks. One startup studio hired its AI engineer by asking them to fix a real SEO problem and demo the fix, so new hires hit judgment calls in their first months.",
@@ -1577,6 +1565,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wildfirelabs.substack.com/p/nobody-learns-in-the-clean-half"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-30",
+    "section": "Strategies & Tactics",
+    "title": "Inside PM at Anthropic: Who Makes It, and Who Doesn't",
+    "url": "https://theskip.substack.com/p/inside-pm-at-anthropic?utm_source=tldrfounders",
+    "summary": "A bigger title at a bigger company counts for less than it used to when Anthropic hires product managers. The head of product for Anthropic's research teams walks through how she hires and ramps PMs on the team that incubated Claude Code. Her favorite candidate is a startup's first PM who also did customer success and business development, since people who've worked without structure go find answers themselves. The team also dropped annual planning for one-month plans, because yearly OKRs went out of date within two weeks.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theskip.substack.com/p/inside-pm-at-anthropic"
    },
    {
     "newsletter": "founders",
@@ -1850,18 +1850,6 @@
     "newsletter": "it",
     "date": "2026-10-30",
     "section": "News & Trends",
-    "title": "Oracle wants to bill you for every AI task, not just every seat",
-    "url": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403?utm_source=tldrit",
-    "summary": "Oracle plans to introduce usage-based AI charges alongside existing subscriptions for its Fusion enterprise applications. Customers will consume AI units as automated tasks are completed, allowing Oracle to grow revenue without adding user licenses. The approach reflects a broader shift in enterprise software pricing from per-seat subscriptions toward charging for automated work, introducing new considerations for software budgets and cost forecasting.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-30",
-    "section": "News & Trends",
     "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation",
     "url": "https://www.reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29/?utm_source=tldrit",
     "summary": "Serval raised $150 million in a Sequoia-led round at a $3 billion valuation, tripling its valuation since December. The company builds AI agents for IT operations, including employee access management, troubleshooting, and software and hardware asset management. Serval positions its platform as an alternative to established IT service management products such as ServiceNow, with permissions and approvals controlled by IT and security teams.",
@@ -1869,6 +1857,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/business/serval-triples-valuation-3-billion-businesses-adopt-ai-workflow-automation-2026-10-29"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-30",
+    "section": "News & Trends",
+    "title": "Oracle wants to bill you for every AI task, not just every seat",
+    "url": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403?utm_source=tldrit",
+    "summary": "Oracle plans to introduce usage-based AI charges alongside existing subscriptions for its Fusion enterprise applications. Customers will consume AI units as automated tasks are completed, allowing Oracle to grow revenue without adding user licenses. The approach reflects a broader shift in enterprise software pricing from per-seat subscriptions toward charging for automated work, introducing new considerations for software budgets and cost forecasting.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403"
    },
    {
     "newsletter": "it",
@@ -1922,18 +1922,6 @@
     "newsletter": "it",
     "date": "2026-10-30",
     "section": "Launches & Partnerships",
-    "title": "Slackbot gets more proactive, in more places",
-    "url": "https://slack.com/blog/news/slackbot-proactive-ai-updates?utm_source=tldrit",
-    "summary": "Slack introduced event-triggered Slackbot tasks that can respond to messages, reactions, list updates, and channel creation events. The update also includes Slackbot Mini, a desktop interface for accessing the assistant outside Slack, and expanded Skills capabilities for sharing reusable workflows across teams. Administrators and users can configure approval requirements for automated actions, extending Slackbot beyond conversational assistance into workflow execution.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://slack.com/blog/news/slackbot-proactive-ai-updates"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-30",
-    "section": "Launches & Partnerships",
     "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
     "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/?utm_source=tldrit",
     "summary": "Microsoft is making the GitHub-developed Copilot harness available through Microsoft Foundry, providing developers and enterprise customers with a managed multi-model orchestration layer. The harness powers various Copilot experiences and supports over twenty frontier models, open standards, and tools while routing work intelligently based on tasks. Recently ported to Rust for improved performance, the system manages the agent loop, sandbox, governance, and optimization.",
@@ -1941,6 +1929,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-30",
+    "section": "Launches & Partnerships",
+    "title": "Slackbot gets more proactive, in more places",
+    "url": "https://slack.com/blog/news/slackbot-proactive-ai-updates?utm_source=tldrit",
+    "summary": "Slack introduced event-triggered Slackbot tasks that can respond to messages, reactions, list updates, and channel creation events. The update also includes Slackbot Mini, a desktop interface for accessing the assistant outside Slack, and expanded Skills capabilities for sharing reusable workflows across teams. Administrators and users can configure approval requirements for automated actions, extending Slackbot beyond conversational assistance into workflow execution.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://slack.com/blog/news/slackbot-proactive-ai-updates"
    },
    {
     "newsletter": "it",
@@ -2080,18 +2080,6 @@
     "newsletter": "hardware",
     "date": "2026-10-30",
     "section": "Research and Prototypes",
-    "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
-    "url": "https://www.ajupress.com/view/20261028171670308?utm_source=tldrhardware",
-    "summary": "Seoul Biosys has started producing rare earth-free white micro LEDs using WICOP technology, which eliminates the need for traditional packaging. The new LEDs measure 25µm x 10µm and achieve 0.015 lumens, with plans to double light efficiency to 200 lumens per watt. This innovation aims to reduce manufacturing costs and environmental impact, targeting applications in smart glasses, AR displays, and AI data transmission.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ajupress.com/view/20261028171670308"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-10-30",
-    "section": "Research and Prototypes",
     "title": "MIT's snake-inspired soft robot crawls the small intestine using kirigami traction sleeves",
     "url": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028?utm_source=tldrhardware",
     "summary": "MIT built a tethered soft enteroscope to cover the small intestine, a 20- to 25-foot tube that double balloon enteroscopy currently covers slowly by hand. Four-chamber inflatable actuators bend and extend the body, anchoring balloons at the head and tail take turns gripping, and kirigami sleeves pop out needles for traction. In animal tests, it advanced about 6.5 feet and used its camera, drug sprayer, and biopsy clips.",
@@ -2103,14 +2091,14 @@
    {
     "newsletter": "hardware",
     "date": "2026-10-30",
-    "section": "Miscellaneous",
-    "title": "SpaceX no longer needs NASA, and NASA's leverage is shrinking as a result",
-    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency?utm_source=tldrhardware",
-    "summary": "SpaceX no longer depends on NASA contracts to survive, while NASA depends heavily on SpaceX's rockets and capsules, which cuts the agency's negotiating leverage. SpaceX told NASA it will stop flying Crew Dragon by or before 2030 and has stopped selling commercial Falcon 9 launches for missions after 2028. That would leave NASA's ISS crew transport and station deorbit plans exposed.",
-    "read_minutes": 6,
+    "section": "Research and Prototypes",
+    "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+    "url": "https://www.ajupress.com/view/20261028171670308?utm_source=tldrhardware",
+    "summary": "Seoul Biosys has started producing rare earth-free white micro LEDs using WICOP technology, which eliminates the need for traditional packaging. The new LEDs measure 25µm x 10µm and achieve 0.015 lumens, with plans to double light efficiency to 200 lumens per watt. This innovation aims to reduce manufacturing costs and environmental impact, targeting applications in smart glasses, AR displays, and AI data transmission.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency"
+    "key": "https://ajupress.com/view/20261028171670308"
    },
    {
     "newsletter": "hardware",
@@ -2123,6 +2111,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/business/marvell-advanced-talks-buy-lumentum-bloomberg-news-reports-2026-10-28"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-10-30",
+    "section": "Miscellaneous",
+    "title": "SpaceX no longer needs NASA, and NASA's leverage is shrinking as a result",
+    "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency?utm_source=tldrhardware",
+    "summary": "SpaceX no longer depends on NASA contracts to survive, while NASA depends heavily on SpaceX's rockets and capsules, which cuts the agency's negotiating leverage. SpaceX told NASA it will stop flying Crew Dragon by or before 2030 and has stopped selling commercial Falcon 9 launches for missions after 2028. That would leave NASA's ISS crew transport and station deorbit plans exposed.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency"
    },
    {
     "newsletter": "hardware",

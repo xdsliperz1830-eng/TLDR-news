@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-10-29",
     "section": "Big Tech & Startups",
-    "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
-    "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited?utm_source=tldrnewsletter",
-    "summary": "Gemini 4 Carbon promises improvements in cybersecurity and complex software engineering. It is now available to selected cybersecurity defenders. A broader release will be available after Google improves guardrails on the model based on feedback. Carbon will launch at $2 per million input tokens and $10 per million output tokens, with a 95% discount for cached inputs. Prices will return to $4 per million input tokens and $20 per million output tokens when the introductory period ends.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Big Tech & Startups",
     "title": "Apple announces touchscreen MacBook Pro with OLED display",
     "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/?utm_source=tldrnewsletter",
     "summary": "The new MacBook Pro has an OLED touchscreen display. The display can achieve 2,000 nits of maximum brightness, and Apple claims it has a 10,000,000:1 contrast ratio. The new laptop is lighter than the previous model at just 3 pounds. The top-of-screen camera notch has been replaced by a Dynamic Island, and the Apple logo on the back of the lid glows like in older models.",
@@ -37,6 +25,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Big Tech & Startups",
+    "title": "Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited",
+    "url": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited?utm_source=tldrnewsletter",
+    "summary": "Gemini 4 Carbon promises improvements in cybersecurity and complex software engineering. It is now available to selected cybersecurity defenders. A broader release will be available after Google improves guardrails on the model based on feedback. Carbon will launch at $2 per million input tokens and $10 per million output tokens, with a 95% discount for cached inputs. Prices will return to $4 per million input tokens and $20 per million output tokens when the introductory period ends.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://venturebeat.com/technology/google-unveils-gemini-4-carbon-retaking-the-worlds-no-1-spot-on-updated-harder-benchmarks-but-access-is-limited"
    },
    {
     "newsletter": "tech",
@@ -138,18 +138,6 @@
     "newsletter": "tech",
     "date": "2026-10-29",
     "section": "Quick Links",
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
-    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Quick Links",
     "title": "Git for the US Code",
     "url": "https://lexifina.com/blog/git-for-the-us-code?utm_source=tldrnewsletter",
     "summary": "Lawyers also need a convenient system of record.",
@@ -205,6 +193,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=nrreXK&reflink=desktopwebshare_permalink"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
+    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
    }
   ],
   "ai": [
@@ -332,18 +332,6 @@
     "newsletter": "ai",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/?utm_source=tldrai",
-    "summary": "Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recommendations, addressing a major concern for enterprise clients. Despite competition from models like OpenAI's Astra, Anthropic's strong enterprise presence and sticky workflows continue to drive significant adoption and spending growth.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "Meta has a new AI pet app called Waddle World",
     "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/?utm_source=tldrai",
     "summary": "Meta launched Waddle World, a virtual AI pet app that functions like a Tamagotchi, in the Philippines on iOS and Android. Unlike traditional productivity tools or chatbots, it serves as a digital pet and personal journal, allowing users to interact and play mini-games without pressure. The app reflects Meta's cautious approach following legal issues faced by other AI companion apps.",
@@ -355,14 +343,14 @@
    {
     "newsletter": "ai",
     "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Your AI agents have more access than you think.",
-    "url": "https://jumpcloud.com/secure-every-identity?utm_source=TLDR&utm_medium=Contributed-Content&utm_campaign=FY26Q1_MorningBrew_AD&utm_content=TLDR10/29",
-    "summary": "72% of IT leaders report a gap between what AI is permitted to access and what they can prove it accessed. See what JumpCloud's latest research reveals about AI governance .",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://jumpcloud.com/secure-every-identity"
+    "section": "Miscellaneous",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/?utm_source=tldrai",
+    "summary": "Anthropic has launched reporting tools to help companies measure and optimize their AI spending with its products like Claude Code. The tools offer detailed insights on productivity, costs, and recommendations, addressing a major concern for enterprise clients. Despite competition from models like OpenAI's Astra, Anthropic's strong enterprise presence and sticky workflows continue to drive significant adoption and spending growth.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
    },
    {
     "newsletter": "ai",
@@ -375,6 +363,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://cloud.google.com/blog/topics/ai-infrastructure/introducing-agent-compute-engine-and-expanded-agent-governance?linkId=64202548"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Your AI agents have more access than you think.",
+    "url": "https://jumpcloud.com/secure-every-identity?utm_source=TLDR&utm_medium=Contributed-Content&utm_campaign=FY26Q1_MorningBrew_AD&utm_content=TLDR10/29",
+    "summary": "72% of IT leaders report a gap between what AI is permitted to access and what they can prove it accessed. See what JumpCloud's latest research reveals about AI governance .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://jumpcloud.com/secure-every-identity"
    },
    {
     "newsletter": "ai",
@@ -454,18 +454,6 @@
     "newsletter": "webdev",
     "date": "2026-10-29",
     "section": "Articles & Tutorials",
-    "title": "Ship less JavaScript in Next.js with your AI agent",
-    "url": "https://nextjs.org/blog/ship-less-javascript-with-ai?utm_source=tldrdev",
-    "summary": "Next.js 16.4 adds an agent skill that uses Turbopack's module graph to find unnecessary client JavaScript, including eager imports, duplicate dependencies, and missed tree shaking. Vercel reports removing or deferring nearly two megabytes of compressed JavaScript across pages in v0 and vercel.com, with snapshot comparisons to verify each change.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://nextjs.org/blog/ship-less-javascript-with-ai"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-29",
-    "section": "Articles & Tutorials",
     "title": "How to make postMessage type-safe in under 350 bytes",
     "url": "https://evilmartians.com/chronicles/how-to-make-postmessage-type-safe-in-under-350-bytes?utm_source=tldrdev",
     "summary": "typed-channel defines message names and payloads once so TypeScript can check both sides of a worker, iframe, or event-bus boundary. The core plus postMessage transport is 341 bytes with Brotli compression, while a separate request API adds typed replies and cancellation that propagates to the handler.",
@@ -477,14 +465,14 @@
    {
     "newsletter": "webdev",
     "date": "2026-10-29",
-    "section": "Opinions & Advice",
-    "title": "Website migration costs are going to zero",
-    "url": "https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev",
-    "summary": "AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable.",
-    "read_minutes": 2,
+    "section": "Articles & Tutorials",
+    "title": "Ship less JavaScript in Next.js with your AI agent",
+    "url": "https://nextjs.org/blog/ship-less-javascript-with-ai?utm_source=tldrdev",
+    "summary": "Next.js 16.4 adds an agent skill that uses Turbopack's module graph to find unnecessary client JavaScript, including eager imports, duplicate dependencies, and missed tree shaking. Vercel reports removing or deferring nearly two megabytes of compressed JavaScript across pages in v0 and vercel.com, with snapshot comparisons to verify each change.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://dri.es/website-migration-costs-are-going-to-zero"
+    "key": "https://nextjs.org/blog/ship-less-javascript-with-ai"
    },
    {
     "newsletter": "webdev",
@@ -509,6 +497,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://hologram.page/blog/local-first-means-three-different-things"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-29",
+    "section": "Opinions & Advice",
+    "title": "Website migration costs are going to zero",
+    "url": "https://dri.es/website-migration-costs-are-going-to-zero?utm_source=tldrdev",
+    "summary": "AI agents could make technical website migrations nearly free by using the existing site as a baseline for differential tests of pages and publishing workflows. The prediction shifts the durable sources of lock-in toward contracts, procurement approvals, and agent memory, making portable requirements and decision logs more valuable.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dri.es/website-migration-costs-are-going-to-zero"
    },
    {
     "newsletter": "webdev",
@@ -672,18 +672,6 @@
     "newsletter": "infosec",
     "date": "2026-10-29",
     "section": "Attacks & Vulnerabilities",
-    "title": "Sony ISP Subsidiary Data Breach Exposes 2.5M Customer Records",
-    "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/?utm_source=tldrinfosec",
-    "summary": "Sony Network Communications disclosed that an unauthorized party accessed 2.5M records from its So-net member database, which supports its internet access service. The records included full names, phone numbers, email addresses, user IDs, dates of birth, gender, and Internet connection IDs. Additionally, it exposed 54K email addresses and account passwords from several email services.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Attacks & Vulnerabilities",
     "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
     "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/?utm_source=tldrinfosec",
     "summary": "A 16-year-old buffer overflow in TianoCore EDK2's PXE Base Code driver (CVE-2026-97631, CVSS 9.5), the reference UEFI code behind most server firmware, allowed an attacker to send an oversized ICMP error during network boot and execute ring 0 code before Secure Boot and the TPM chain of trust loaded. An AMI pull request leaked the fix months ahead of a January coordinated disclosure, although exploitation required local network access and per-model address tuning. Defenders should request patched firmware from their UEFI vendors, disable PXE boot where feasible, and monitor network boot segments for anomalous ICMP traffic.",
@@ -691,6 +679,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Sony ISP Subsidiary Data Breach Exposes 2.5M Customer Records",
+    "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/?utm_source=tldrinfosec",
+    "summary": "Sony Network Communications disclosed that an unauthorized party accessed 2.5M records from its So-net member database, which supports its internet access service. The records included full names, phone numbers, email addresses, user IDs, dates of birth, gender, and Internet connection IDs. Additionally, it exposed 54K email addresses and account passwords from several email services.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records"
    },
    {
     "newsletter": "infosec",
@@ -878,18 +878,6 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Deep Dives",
-    "title": "Best Practices for Single Row Lookups (Point Queries)",
-    "url": "https://datafusion.apache.org/blog/2026/10/24/point-queries?utm_source=tldrdata",
-    "summary": "DataFusion can perform surprisingly well on point lookups when tuned for retrieval instead of analytics. The biggest gains came from storage layout and execution choices that minimize unnecessary work, such as sorted Parquet files, right-sized row groups, metadata caching, and prepared statements. The broader lesson is that analytical engines can serve low-latency reads if the workload is designed deliberately.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://datafusion.apache.org/blog/2026/10/24/point-queries"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Deep Dives",
     "title": "How JD.com Built a Lakestream with Apache Fluss and Apache Hudi",
     "url": "https://fluss.apache.org/blog/how-jd-built-a-lakestream-with-fluss-and-hudi?utm_source=tldrdata",
     "summary": "JD replaced parallel streaming and batch training-data pipelines with a staged migration: write once to Fluss, tier to Hudi, and union fresh plus historical reads. The difficult part is consistency: workers coordinate a single Hudi commit per tiering round and report matched stream offsets only after it completes. That pattern enables rollback-safe catch-up, but leaves schema evolution and dynamic bucketing unresolved.",
@@ -921,6 +909,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://warehouse-benchmark.estuary.dev/"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Deep Dives",
+    "title": "Best Practices for Single Row Lookups (Point Queries)",
+    "url": "https://datafusion.apache.org/blog/2026/10/24/point-queries?utm_source=tldrdata",
+    "summary": "DataFusion can perform surprisingly well on point lookups when tuned for retrieval instead of analytics. The biggest gains came from storage layout and execution choices that minimize unnecessary work, such as sorted Parquet files, right-sized row groups, metadata caching, and prepared statements. The broader lesson is that analytical engines can serve low-latency reads if the workload is designed deliberately.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://datafusion.apache.org/blog/2026/10/24/point-queries"
    },
    {
     "newsletter": "data",
@@ -962,18 +962,6 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Launches & Tools",
-    "title": "Gems of DuckDB 2.0.0",
-    "url": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html?utm_source=tldrdata",
-    "summary": "DuckDB 2.0 adds a Python appender for batching generated rows, CLI function manuals and queryable command history, plus secure views that hide underlying statistics and query plans. Other additions include custom partition paths, sorting within exported partitions, direct GeoJSON exports, and support for extension-defined window functions.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
     "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
     "url": "https://manishrjain.com/egres/?utm_source=tldrdata",
     "summary": "What would Postgres look like if designed today? Egres is the answer: a new open-source database that speaks the Postgres protocol but shares almost no Postgres code. It runs thousands of tenants in one process, metering CPU, memory, and disk per query, and its benchmark used 46% less disk than Postgres 18.",
@@ -981,6 +969,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://manishrjain.com/egres"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Launches & Tools",
+    "title": "Gems of DuckDB 2.0.0",
+    "url": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html?utm_source=tldrdata",
+    "summary": "DuckDB 2.0 adds a Python appender for batching generated rows, CLI function manuals and queryable command history, plus secure views that hide underlying statistics and query plans. Other additions include custom partition paths, sorting within exported partitions, direct GeoJSON exports, and support for extension-defined window functions.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html"
    },
    {
     "newsletter": "data",
@@ -1010,18 +1010,6 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Making Failure Diagnosis Reliable with Pensive AI",
-    "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?utm_source=tldrdata",
-    "summary": "Netflix made failure diagnosis more reliable by using LLMs to identify the exact log spans behind an error and provide on-demand root-cause analysis, instead of asking models to digest entire logs. That design improved coverage to all failures while reducing hallucination risk and latency, and early usage data suggests it sharply cuts manual log exploration during debugging.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "DuckDB Universe",
     "url": "https://duckdb-universe.vercel.app/?utm_source=tldrdata",
     "summary": "The DuckDB Universe is a searchable map of 516 open-source projects and 59 companies and products using DuckDB, spanning extensions, dashboards, libraries, and database integrations. Entries include GitHub star counts and source links, with examples ranging from PyGWalker and Evidence to MotherDuck and DeepSeek's smallpond.",
@@ -1029,6 +1017,18 @@
     "kind": "tool",
     "sponsored": false,
     "key": "https://duckdb-universe.vercel.app/"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "Making Failure Diagnosis Reliable with Pensive AI",
+    "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?utm_source=tldrdata",
+    "summary": "Netflix made failure diagnosis more reliable by using LLMs to identify the exact log spans behind an error and provide on-demand root-cause analysis, instead of asking models to digest entire logs. That design improved coverage to all failures while reducing hallucination risk and latency, and early usage data suggests it sharply cuts manual log exploration during debugging.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015"
    },
    {
     "newsletter": "data",
@@ -1060,18 +1060,6 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "We're Announcing Genie 4, Our New World Model for Real-Time Interactive Simulation",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/?utm_source=tldrdesign",
-    "summary": "Google's Genie 4, a new world model for real-time interactive simulation, brings more realistic visuals and native audio to generated worlds. Natural-language prompts steer scenes live, from moving the camera to changing the weather or adding characters. Rollout starts with a limited group of trusted testers, with Google AI Ultra subscribers in Project Genie and early-access Gemini API partners coming soon.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-29",
-    "section": "News & Trends",
     "title": "Apple launches its new touchscreen MacBook Pro",
     "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/?utm_source=tldrdesign",
     "summary": "Apple's first touchscreen MacBook Pro comes in 14- and 16-inch sizes, pairing a PROLED XDR display with a Dynamic Island-style cutout and a lighter body. A redesigned hinge keeps the screen steady during touch input, while M5 Pro and M5 Max chips power both models. Prices start at $2,899 for the 14-inch model and $3,399 for the 16-inch model, with preorders opening October 30 and availability beginning November 6.",
@@ -1091,6 +1079,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://digitaltrends.com/phones/google-photos-rolls-out-a-customizable-redesign-of-your-collections-tab"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-29",
+    "section": "News & Trends",
+    "title": "We're Announcing Genie 4, Our New World Model for Real-Time Interactive Simulation",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/?utm_source=tldrdesign",
+    "summary": "Google's Genie 4, a new world model for real-time interactive simulation, brings more realistic visuals and native audio to generated worlds. Natural-language prompts steer scenes live, from moving the camera to changing the weather or adding characters. Rollout starts with a limited group of trusted testers, with Google AI Ultra subscribers in Project Genie and early-access Gemini API partners coming soon.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4"
    },
    {
     "newsletter": "design",
@@ -1168,18 +1168,6 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "How Mother Design turned a séance into a new identity for Purple Garden",
-    "url": "https://www.creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden/?utm_source=tldrdesign",
-    "summary": "Mother Design began Purple Garden's rebrand with a séance, chakra reading, and automatic drawing workshop, using the resulting forms and feelings to build an identity around spirituality as “A Living Practice.” A whimsical wordmark, crystal-like guidance glyph, warm purple palette, tactile imagery, living typography inspired by cymatic patterns, and expressive motion create an immersive system without relying on familiar psychic-industry clichés. The process moved between physical experimentation, traditional design software, and AI tools, deliberately introducing unpredictability into both the creative process and the finished identity.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "The Software Factory Forgot About Design",
     "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design?utm_source=tldrdesign",
     "summary": "A four-station workflow of Linear, Paper, a coding agent, and review brings design into the software factory, where issues otherwise turn straight into pull requests. Linear holds the intent, Paper hosts agent-drafted HTML and CSS designs made before implementation, and the coding agent builds from both issue and design. Review checks the build against intent, but agents still lack the history behind decisions, such as past designs, analytics, and design-system reasoning.",
@@ -1199,6 +1187,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "How Mother Design turned a séance into a new identity for Purple Garden",
+    "url": "https://www.creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden/?utm_source=tldrdesign",
+    "summary": "Mother Design began Purple Garden's rebrand with a séance, chakra reading, and automatic drawing workshop, using the resulting forms and feelings to build an identity around spirituality as “A Living Practice.” A whimsical wordmark, crystal-like guidance glyph, warm purple palette, tactile imagery, living typography inspired by cymatic patterns, and expressive motion create an immersive system without relying on familiar psychic-industry clichés. The process moved between physical experimentation, traditional design software, and AI tools, deliberately introducing unpredictability into both the creative process and the finished identity.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden"
    },
    {
     "newsletter": "design",
@@ -1254,18 +1254,6 @@
     "newsletter": "marketing",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "Chatbots Put PR Back On The Brand Agenda. Social Listening Decides What It Should Say",
-    "url": "https://www.thestateofbrand.com/news/ai-search-visibility-social-listening-pr-kimberly-eberl-motion-agency?utm_source=tldrmarketing",
-    "summary": "AI search is giving PR a larger role in marketing because chatbots use third-party coverage to answer questions and recommend brands. One forecast projects that PR and earned media budgets will double by 2027 as more consumers use AI chatbots instead of traditional search. Social listening also gives brands real-time audience research, helping teams identify which creative ideas resonate and which risk backlash before investing further. As AI makes content cheaper to produce, audience understanding and independent brand credibility become more valuable.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thestateofbrand.com/news/ai-search-visibility-social-listening-pr-kimberly-eberl-motion-agency"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-29",
-    "section": "News & Trends",
     "title": "Ozempic is changing how Americans spend money, and the numbers are startling",
     "url": "https://www.fastcompany.com/91630739/ozempic-is-changing-how-americans-spend-money-and-the-numbers-are-startling?utm_source=tldrmarketing",
     "summary": "GLP-1 weight-loss drugs are reshaping consumer spending across food, fitness, and retail. 11% of American adults use these medications, with 26% of users spending more on clothing and 36% more on jewelry. Meanwhile, household spending at fast-food restaurants drops nearly 9% after 6-8 months on the drugs. Users are also buying fewer sweets and sugary drinks while spending more on fresh produce and protein.",
@@ -1273,6 +1261,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fastcompany.com/91630739/ozempic-is-changing-how-americans-spend-money-and-the-numbers-are-startling"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-29",
+    "section": "News & Trends",
+    "title": "Chatbots Put PR Back On The Brand Agenda. Social Listening Decides What It Should Say",
+    "url": "https://www.thestateofbrand.com/news/ai-search-visibility-social-listening-pr-kimberly-eberl-motion-agency?utm_source=tldrmarketing",
+    "summary": "AI search is giving PR a larger role in marketing because chatbots use third-party coverage to answer questions and recommend brands. One forecast projects that PR and earned media budgets will double by 2027 as more consumers use AI chatbots instead of traditional search. Social listening also gives brands real-time audience research, helping teams identify which creative ideas resonate and which risk backlash before investing further. As AI makes content cheaper to produce, audience understanding and independent brand credibility become more valuable.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thestateofbrand.com/news/ai-search-visibility-social-listening-pr-kimberly-eberl-motion-agency"
    },
    {
     "newsletter": "marketing",
@@ -1350,18 +1350,6 @@
     "newsletter": "marketing",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "How we built and launched a viral research campaign in partnership with LinkedIn",
-    "url": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin/?utm_source=tldrmarketing",
-    "summary": "Partnering with a brand that has complementary data and a shared interest can make original research stand out in a crowded market and expand its reach. Semrush combined its AI citation data with LinkedIn's content and engagement data to analyze around 89,000 LinkedIn URLs cited by AI search tools. The study found that 95% of cited posts were original content rather than reshares, and most cited posts averaged just 15 to 25 reactions. Semrush and LinkedIn coordinated media outreach, employee advocacy, social promotion, and launch timing to reach both audiences and generate strong media coverage, tens of thousands of visits, and dozens of signups. The collaboration also created new opportunities for guest content and speaking engagements beyond the initial campaign.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "The Anatomy of the Best-Performing Onboarding Paywalls",
     "url": "https://thepaywallindex.substack.com/p/the-anatomy-of-the-best-performing?utm_source=tldrmarketing",
     "summary": "Multi-page onboarding paywalls convert 47% better than single-page ones, and conversion peaks at 3 screens. The top performers follow the same sequence, a free-trial promise with no prices, then a trial-end reminder, then the offer. The reminder screen is the strongest single signal, lifting conversion from 8.7% to 14.8% by removing the fear of forgetting to cancel. Leading with one yearly plan beats the common yearly-plus-monthly picker by about 1.5x, and an abandon offer for users who cancel checkout adds roughly 18% revenue per view.",
@@ -1369,6 +1357,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thepaywallindex.substack.com/p/the-anatomy-of-the-best-performing"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "How we built and launched a viral research campaign in partnership with LinkedIn",
+    "url": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin/?utm_source=tldrmarketing",
+    "summary": "Partnering with a brand that has complementary data and a shared interest can make original research stand out in a crowded market and expand its reach. Semrush combined its AI citation data with LinkedIn's content and engagement data to analyze around 89,000 LinkedIn URLs cited by AI search tools. The study found that 95% of cited posts were original content rather than reshares, and most cited posts averaged just 15 to 25 reactions. Semrush and LinkedIn coordinated media outreach, employee advocacy, social promotion, and launch timing to reach both audiences and generate strong media coverage, tens of thousands of visits, and dozens of signups. The collaboration also created new opportunities for guest content and speaking engagements beyond the initial campaign.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin"
    },
    {
     "newsletter": "marketing",
@@ -1508,18 +1508,6 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "How I Built the Most AI-Pilled Company in the World",
-    "url": "https://x.com/jsnnsa/status/2115623382721126826?s=12&utm_source=tldrfounders",
-    "summary": "Spawn is a company with 10 people that spends 30 times its payroll on AI tokens. The company ships almost as much as Anthropic, with 77,000 substantial changes in the last 30 days. Its work is done by a fleet of permanent AI agents that each own a part of the company. Each new model improvement has made the team faster and more coherent, and pointed the company's velocity more in the right direction.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/jsnnsa/status/2115623382721126826?s=12"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "The 90% gross margin era is over",
     "url": "https://x.com/konstantine/status/2115474925741838554?utm_source=tldrfounders",
     "summary": "AI companies need a new way to pitch their economics. The cost of serving customers is much higher with AI. Companies need to separate gross margin by customer and gross margin by pricing cohort. When changing pricing, you ideally want to show investors that customers on the new model have higher margins than those on the old one, and that the gap keeps widening.",
@@ -1531,14 +1519,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Roll-Up Targets Shouldn't Just Be Cheap",
-    "url": "https://readonpaper.substack.com/p/roll-up-targets-shouldnt-just-be?utm_source=tldrfounders",
-    "summary": "One acquisition target was turning away work worth 4–5 times last year's revenue because it couldn't afford more staff.",
-    "read_minutes": 2,
+    "section": "Miscellaneous",
+    "title": "How I Built the Most AI-Pilled Company in the World",
+    "url": "https://x.com/jsnnsa/status/2115623382721126826?s=12&utm_source=tldrfounders",
+    "summary": "Spawn is a company with 10 people that spends 30 times its payroll on AI tokens. The company ships almost as much as Anthropic, with 77,000 substantial changes in the last 30 days. Its work is done by a fleet of permanent AI agents that each own a part of the company. Each new model improvement has made the team faster and more coherent, and pointed the company's velocity more in the right direction.",
+    "read_minutes": 20,
     "kind": null,
     "sponsored": false,
-    "key": "https://readonpaper.substack.com/p/roll-up-targets-shouldnt-just-be"
+    "key": "https://x.com/jsnnsa/status/2115623382721126826?s=12"
    },
    {
     "newsletter": "founders",
@@ -1587,6 +1575,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://webflow.com/blog/track-mcp-ai-visibility"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Roll-Up Targets Shouldn't Just Be Cheap",
+    "url": "https://readonpaper.substack.com/p/roll-up-targets-shouldnt-just-be?utm_source=tldrfounders",
+    "summary": "One acquisition target was turning away work worth 4–5 times last year's revenue because it couldn't afford more staff.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://readonpaper.substack.com/p/roll-up-targets-shouldnt-just-be"
    }
   ],
   "crypto": [
@@ -1618,18 +1618,6 @@
     "newsletter": "crypto",
     "date": "2026-10-29",
     "section": "Innovation & Launches",
-    "title": "Link Balance: How Stripe Built the Infrastructure for Agentic Commerce",
-    "url": "https://x.com/StripeCrypto/status/2115116672461807804?utm_source=tldrcrypto",
-    "summary": "Stripe Link balance is a pre-funded wallet for AI agents that removes per-transaction approval by letting consumers deposit funds and set spending limits upfront, with Instinct as the first integrated assistant. The stack routes fiat through Stripe Crypto Onramp into dollar-denominated stablecoins on Tempo, uses Privy's non-custodial wallets for key management and signing, then converts back to virtual debit cards via Stripe Issuing, so merchants receive standard card transactions with no crypto integration required. Agentic purchases through Link grew 38x in one month, with Muse reporting over 25% of weekly users shopping via agent. The architecture deploys stablecoins as settlement infrastructure rather than a user-facing asset class, keeping crypto rails invisible to both merchants and consumers while solving the approval-friction bottleneck that has constrained autonomous agent commerce.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/StripeCrypto/status/2115116672461807804"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-29",
-    "section": "Innovation & Launches",
     "title": "Fynd AMM: The First AMM that Outbids Competition in Real-Time",
     "url": "https://x.com/PropellerSwap/status/2115072040613142567?utm_source=tldrcrypto",
     "summary": "Fynd AMM introduces a last-mover pricing mechanism where the pool sets its price during routing after observing all competing quotes, rather than submitting a fixed price before DEX aggregators query it. Traditional AMMs and propAMMs bid blind, causing LPs to either overbid on trades they win or lose trades they could have priced to win. A backtest of 60 ETH/USDG trades on Robinhood shows a standard 30 bps pool captures half the trades but collects only 37% of available fees, while Fynd AMM charges the maximum fee that still wins each trade, generating 2.7x more LP revenue. The protocol is launching on Ekubo's concentrated liquidity infrastructure and is already integrated on Robinhood and Base.",
@@ -1637,6 +1625,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/PropellerSwap/status/2115072040613142567"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-29",
+    "section": "Innovation & Launches",
+    "title": "Link Balance: How Stripe Built the Infrastructure for Agentic Commerce",
+    "url": "https://x.com/StripeCrypto/status/2115116672461807804?utm_source=tldrcrypto",
+    "summary": "Stripe Link balance is a pre-funded wallet for AI agents that removes per-transaction approval by letting consumers deposit funds and set spending limits upfront, with Instinct as the first integrated assistant. The stack routes fiat through Stripe Crypto Onramp into dollar-denominated stablecoins on Tempo, uses Privy's non-custodial wallets for key management and signing, then converts back to virtual debit cards via Stripe Issuing, so merchants receive standard card transactions with no crypto integration required. Agentic purchases through Link grew 38x in one month, with Muse reporting over 25% of weekly users shopping via agent. The architecture deploys stablecoins as settlement infrastructure rather than a user-facing asset class, keeping crypto rails invisible to both merchants and consumers while solving the approval-friction bottleneck that has constrained autonomous agent commerce.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/StripeCrypto/status/2115116672461807804"
    },
    {
     "newsletter": "crypto",
@@ -1788,18 +1788,6 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "Deep Dives & Reports",
-    "title": "Meet the ghost card",
-    "url": "https://www.fintechbrainfood.com/p/meet-the-ghost-card?utm_source=tldrfintech",
-    "summary": "Fintech is rapidly converging around agents, stablecoins, and programmable money: Meta's Muse is driving real consumer agentic commerce, Ramp is pushing deeper into treasury and digital-asset infrastructure, Mercury has crossed $1 billion of annualized revenue, and Visa plus Mesh are turning wallet balances into card-network spending through invisible “ghost cards.” The financial stack is shifting from apps and standalone products toward agent-controlled money movement, embedded credit, tokenized assets, and new trust layers around identity, permissions, and liability.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fintechbrainfood.com/p/meet-the-ghost-card"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "Deep Dives & Reports",
     "title": "Anthropic IPO: S-1 breakdown",
     "url": "https://www.mostlymetrics.com/p/anthropic-ipo-s1-breakdown?utm_source=tldrfintech",
     "summary": "Anthropic's S-1 shows extraordinary growth and operating leverage: $16.3 billion of first-half 2026 revenue, roughly 900% net revenue retention, more than $6.6 million of trailing revenue per employee, and a profitable Q2, with consumption-based “pay-for-intelligence” generating 80% of revenue. The biggest questions are durability and infrastructure economics, as Anthropic remains highly dependent on cloud partners, faces enormous forward compute commitments, and operates in a market with low switching costs, even as customer usage and compute efficiency are improving at exceptional rates.",
@@ -1807,6 +1795,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mostlymetrics.com/p/anthropic-ipo-s1-breakdown"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "Deep Dives & Reports",
+    "title": "Meet the ghost card",
+    "url": "https://www.fintechbrainfood.com/p/meet-the-ghost-card?utm_source=tldrfintech",
+    "summary": "Fintech is rapidly converging around agents, stablecoins, and programmable money: Meta's Muse is driving real consumer agentic commerce, Ramp is pushing deeper into treasury and digital-asset infrastructure, Mercury has crossed $1 billion of annualized revenue, and Visa plus Mesh are turning wallet balances into card-network spending through invisible “ghost cards.” The financial stack is shifting from apps and standalone products toward agent-controlled money movement, embedded credit, tokenized assets, and new trust layers around identity, permissions, and liability.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fintechbrainfood.com/p/meet-the-ghost-card"
    },
    {
     "newsletter": "fintech",
@@ -1824,18 +1824,6 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "Launches & Products",
-    "title": "Ripple strikes deal with Robinhood to expand RLUSD stablecoin usage",
-    "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html?utm_source=tldrfintech",
-    "summary": "Ripple and Robinhood are expanding RLUSD across institutional trading, treasury management, and financing, with the stablecoin set to support settlement through Ripple Prime and Bitstamp while also being listed on Robinhood. The partnership shows stablecoins moving beyond crypto trading into 24/7 financial infrastructure, where issuers increasingly compete by bundling settlement, treasury, payments, and financing around their digital dollars.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "Launches & Products",
     "title": "Ramp launches Inspect, a collaborative coding agent for faster product development",
     "url": "https://x.com/karimatiyeh/status/2115096837736612130?utm_source=tldrfintech",
     "summary": "Ramp is opening early access to Inspect, a cloud-based coding agent that turns requests from Slack, GitHub, Linear, or the web into visually validated, reviewed pull requests inside a company's development environment. Ramp says Inspect now accounts for 74% of merged PRs and has helped builders ship 3.4x more PRs per person than a year ago, as the bottleneck shifts from writing code toward deciding which ideas are worth shipping.",
@@ -1843,6 +1831,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/karimatiyeh/status/2115096837736612130"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "Launches & Products",
+    "title": "Ripple strikes deal with Robinhood to expand RLUSD stablecoin usage",
+    "url": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html?utm_source=tldrfintech",
+    "summary": "Ripple and Robinhood are expanding RLUSD across institutional trading, treasury management, and financing, with the stablecoin set to support settlement through Ripple Prime and Bitstamp while also being listed on Robinhood. The partnership shows stablecoins moving beyond crypto trading into 24/7 financial infrastructure, where issuers increasingly compete by bundling settlement, treasury, payments, and financing around their digital dollars.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html"
    },
    {
     "newsletter": "fintech",
@@ -2018,18 +2018,6 @@
     "newsletter": "it",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
-    "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=tldrit",
-    "summary": "Anthropic researchers used an internal research model to discover critical vulnerabilities and construct sophisticated multi-step exploit chains in widely used software, including browsers, mobile operating systems, and kernel networking stacks. The model identified issues such as remote code execution, sandbox escapes, and lock-screen bypasses, which were reported to affected vendors under coordinated vulnerability disclosure. Anthropic argues that AI-assisted vulnerability discovery could help defenders identify and patch security flaws before attackers exploit them.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/research/discovering-vulnerabilities-with-claude"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements",
     "url": "https://www.sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements/?utm_source=tldrit",
     "summary": "Oracle expanded its Acceleron networking platform with new capabilities for AI and high-performance computing workloads. Updates include RDMA connectivity for front-end compute, expanded NVMe block-storage options, and communication libraries designed to maintain distributed AI workloads when network paths fail.",
@@ -2041,14 +2029,14 @@
    {
     "newsletter": "it",
     "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/?utm_source=tldrit",
-    "summary": "Microsoft is reminding Entra ID administrators to prepare for the February 2027 retirement of Microsoft-provided SMS and voice authentication.",
-    "read_minutes": 3,
+    "section": "Miscellaneous",
+    "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+    "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude?utm_source=tldrit",
+    "summary": "Anthropic researchers used an internal research model to discover critical vulnerabilities and construct sophisticated multi-step exploit chains in widely used software, including browsers, mobile operating systems, and kernel networking stacks. The model identified issues such as remote code execution, sandbox escapes, and lock-screen bypasses, which were reported to affected vendors under coordinated vulnerability disclosure. Anthropic argues that AI-assisted vulnerability discovery could help defenders identify and patch security flaws before attackers exploit them.",
+    "read_minutes": 8,
     "kind": null,
     "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys"
+    "key": "https://anthropic.com/research/discovering-vulnerabilities-with-claude"
    },
    {
     "newsletter": "it",
@@ -2073,6 +2061,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/?utm_source=tldrit",
+    "summary": "Microsoft is reminding Entra ID administrators to prepare for the February 2027 retirement of Microsoft-provided SMS and voice authentication.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys"
    }
   ]
  }
