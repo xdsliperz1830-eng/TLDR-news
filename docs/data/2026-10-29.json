@@ -1508,18 +1508,6 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "How I Built the Most AI-Pilled Company in the World",
-    "url": "https://x.com/jsnnsa/status/2115623382721126826?s=12&utm_source=tldrfounders",
-    "summary": "Spawn is a company with 10 people that spends 30 times its payroll on AI tokens. The company ships almost as much as Anthropic, with 77,000 substantial changes in the last 30 days. Its work is done by a fleet of permanent AI agents that each own a part of the company. Each new model improvement has made the team faster and more coherent, and pointed the company's velocity more in the right direction.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/jsnnsa/status/2115623382721126826?s=12"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "The 90% gross margin era is over",
     "url": "https://x.com/konstantine/status/2115474925741838554?utm_source=tldrfounders",
     "summary": "AI companies need a new way to pitch their economics. The cost of serving customers is much higher with AI. Companies need to separate gross margin by customer and gross margin by pricing cohort. When changing pricing, you ideally want to show investors that customers on the new model have higher margins than those on the old one, and that the gap keeps widening.",
@@ -1527,6 +1515,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/konstantine/status/2115474925741838554"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "How I Built the Most AI-Pilled Company in the World",
+    "url": "https://x.com/jsnnsa/status/2115623382721126826?s=12&utm_source=tldrfounders",
+    "summary": "Spawn is a company with 10 people that spends 30 times its payroll on AI tokens. The company ships almost as much as Anthropic, with 77,000 substantial changes in the last 30 days. Its work is done by a fleet of permanent AI agents that each own a part of the company. Each new model improvement has made the team faster and more coherent, and pointed the company's velocity more in the right direction.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/jsnnsa/status/2115623382721126826?s=12"
    },
    {
     "newsletter": "founders",
