@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-10-29",
     "section": "Programming, Design & Data Science",
-    "title": "The October inflection point for vibe game development",
-    "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/?utm_source=tldrnewsletter",
-    "summary": "Models have been able to create something that looks like a game for a while, but the games weren't fun. The latest generation of models exhibit meaningful improvements in game design, allowing them to create games with novel, compelling gameplay loops. The challenge now is coming up with concepts for games that wouldn't exist without AI assistance.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://simonwillison.net/2026/Oct/28/vibe-game-development"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Programming, Design & Data Science",
     "title": "Introducing the Slack Code API: Your agents, your team, one code channel",
     "url": "https://slack.com/blog/developers/slack-code-api?utm_source=tldrnewsletter",
     "summary": "The Slack Code API allows agents to start code channels, add relevant people and files, post updates as they work, and archive channels when the work is done. It enables teams to work together with agents on tasks with the same shared context. Users can see exactly what agents are doing and who approved it, and workspace controls and data boundaries are built in. Users can choose what agents and models they want to use to suit their needs.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://slack.com/blog/developers/slack-code-api"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Programming, Design & Data Science",
+    "title": "The October inflection point for vibe game development",
+    "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/?utm_source=tldrnewsletter",
+    "summary": "Models have been able to create something that looks like a game for a while, but the games weren't fun. The latest generation of models exhibit meaningful improvements in game design, allowing them to create games with novel, compelling gameplay loops. The challenge now is coming up with concepts for games that wouldn't exist without AI assistance.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://simonwillison.net/2026/Oct/28/vibe-game-development"
    },
    {
     "newsletter": "tech",
@@ -138,13 +138,13 @@
     "newsletter": "tech",
     "date": "2026-10-29",
     "section": "Quick Links",
-    "title": "The case of the 9 bit AES key",
-    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key?utm_source=tldrnewsletter",
-    "summary": "The randomness used in PDF encryption is often generated very insecurely, allowing for the passwordless description of protected PDFs.",
-    "read_minutes": 8,
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
+    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
+    "read_minutes": 6,
     "kind": null,
     "sponsored": false,
-    "key": "https://v12.sh/blog/the-case-of-the-9bit-aes-key"
+    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
    },
    {
     "newsletter": "tech",
@@ -157,6 +157,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lexifina.com/blog/git-for-the-us-code"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Reddit is the latest platform to embrace the ‘For You' feed",
+    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/?utm_source=tldrnewsletter",
+    "summary": "Reddit's redesigned feed is designed to nudge users to engage with content beyond the communities they already follow.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "The case of the 9 bit AES key",
+    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key?utm_source=tldrnewsletter",
+    "summary": "The randomness used in PDF encryption is often generated very insecurely, allowing for the passwordless description of protected PDFs.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://v12.sh/blog/the-case-of-the-9bit-aes-key"
    },
    {
     "newsletter": "tech",
@@ -181,30 +205,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=nrreXK&reflink=desktopwebshare_permalink"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Reddit is the latest platform to embrace the ‘For You' feed",
-    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/?utm_source=tldrnewsletter",
-    "summary": "Reddit's redesigned feed is designed to nudge users to engage with content beyond the communities they already follow.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "GitHub Universe 2026: Evolving every layer of the stack",
-    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrnewsletter",
-    "summary": "GitHub has introduced new products and is rebuilding its infrastructure to become the most comprehensive software delivery system in the world.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack"
    }
   ],
   "ai": [
@@ -248,18 +248,6 @@
     "newsletter": "ai",
     "date": "2026-10-29",
     "section": "Deep Dives & Analysis",
-    "title": "Building an Inference Stack That Improves Itself",
-    "url": "https://x.com/DecagonAI/status/2115511110120120437?utm_source=tldrai",
-    "summary": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up to 2.5x within endpoint latency requirements through quantization, scheduling, engine patches, and speculative decoding, with production changes requiring human approval.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/DecagonAI/status/2115511110120120437"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-29",
-    "section": "Deep Dives & Analysis",
     "title": "Artificial Analysis v5 and the benchmarker's dilemma",
     "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers?utm_source=tldrai",
     "summary": "Independent evaluation of language models is a hard task. It is difficult to create a number that is representative of current models that matches vibe checks, community sentiment, and scientific analysis, while being forward-looking enough so that it's not outdated in three months. Independent evaluators dictate the winners and losers of a trillion-dollar market. They can also influence the direction of model development, increasing the pressure.",
@@ -279,6 +267,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://divagr.com/blog/qwenputer"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-29",
+    "section": "Deep Dives & Analysis",
+    "title": "Building an Inference Stack That Improves Itself",
+    "url": "https://x.com/DecagonAI/status/2115511110120120437?utm_source=tldrai",
+    "summary": "Decagon's AutoResearch agents diagnose inference bottlenecks, test optimizations against production traffic replays, and preserve findings across experiments. The company reports throughput gains up to 2.5x within endpoint latency requirements through quantization, scheduling, engine patches, and speculative decoding, with production changes requiring human approval.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/DecagonAI/status/2115511110120120437"
    },
    {
     "newsletter": "ai",
@@ -380,6 +380,18 @@
     "newsletter": "ai",
     "date": "2026-10-29",
     "section": "Quick Links",
+    "title": "ElevenLabs Cue: Character-level audio timing",
+    "url": "https://elevenlabs.io/blog/cue-aligner?utm_source=tldrai",
+    "summary": "ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://elevenlabs.io/blog/cue-aligner"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-10-29",
+    "section": "Quick Links",
     "title": "Build and manage Connected Apps in one place",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/?utm_source=tldrai",
     "summary": "Google has introduced a centralized platform for building and managing connected apps.",
@@ -392,13 +404,13 @@
     "newsletter": "ai",
     "date": "2026-10-29",
     "section": "Quick Links",
-    "title": "ElevenLabs Cue: Character-level audio timing",
-    "url": "https://elevenlabs.io/blog/cue-aligner?utm_source=tldrai",
-    "summary": "ElevenLabs' Cue is a forced alignment model for precise character-level timing in audio files.",
-    "read_minutes": 7,
+    "title": "Copilot Automations now learn from outcomes and self-improve",
+    "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/?utm_source=tldrai",
+    "summary": "Copilot Automations now self-improve by learning from real-world outcomes on GitHub.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://elevenlabs.io/blog/cue-aligner"
+    "key": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve"
    },
    {
     "newsletter": "ai",
@@ -423,18 +435,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://engadget.com/2300235/openai-now-lets-you-text-your-dot-agent"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Copilot Automations now learn from outcomes and self-improve",
-    "url": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve/?utm_source=tldrai",
-    "summary": "Copilot Automations now self-improve by learning from real-world outcomes on GitHub.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.blog/changelog/2026-10-28-copilot-automations-now-learn-from-outcomes-and-self-improve"
    }
   ],
   "webdev": [
@@ -490,18 +490,6 @@
     "newsletter": "webdev",
     "date": "2026-10-29",
     "section": "Opinions & Advice",
-    "title": "Local-First Means Three Different Things",
-    "url": "https://hologram.page/blog/local-first-means-three-different-things?utm_source=tldrdev",
-    "summary": "Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data, and those promises lead to different architectures. Hologram prioritizes responsive local interfaces and offline support while retaining a server to enforce permissions and business rules.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://hologram.page/blog/local-first-means-three-different-things"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-29",
-    "section": "Opinions & Advice",
     "title": "The AI cost of JavaScript frameworks",
     "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks?utm_source=tldrdev",
     "summary": "A benchmark asks Opus 5.5 to build the same Pokémon app across JavaScript frameworks, then measures cost, time, spec compliance, performance, and accessibility over repeated runs. Hono with htmx, Astro, and Nuxt are among the cheapest in this experiment, but substantial run-to-run variance and a mostly content-focused app limit how broadly the ranking applies.",
@@ -509,6 +497,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-29",
+    "section": "Opinions & Advice",
+    "title": "Local-First Means Three Different Things",
+    "url": "https://hologram.page/blog/local-first-means-three-different-things?utm_source=tldrdev",
+    "summary": "Local-first can mean offline capability, fast optimistic interfaces, or user ownership of data, and those promises lead to different architectures. Hologram prioritizes responsive local interfaces and offline support while retaining a server to enforce permissions and business rules.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hologram.page/blog/local-first-means-three-different-things"
    },
    {
     "newsletter": "webdev",
@@ -574,18 +574,6 @@
     "newsletter": "webdev",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
-    "url": "https://armincat.com/articles/ai-agent-executed-same-query-254-times?utm_source=tldrdev",
-    "summary": "During a model comparison at Funnel, an internal data agent repeatedly executed a successful SQL query instead of finishing its task. The failure illustrates why model swaps need whole-system evaluation, explicit tool contracts, and bounds on repeated behavior.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://armincat.com/articles/ai-agent-executed-same-query-254-times"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
     "url": "https://nullpt.rs/fingerprinting-bioweapons?utm_source=tldrdev",
     "summary": "A browser fingerprinting script hides alarming prompts and variable names intended to trip LLM safety filters and frustrate automated analysis. Underneath the anti-LLM obfuscation, it collects conventional browser and WebGL signals and includes a gated Node.js routine for gathering system information.",
@@ -593,6 +581,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nullpt.rs/fingerprinting-bioweapons"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "Our AI Agent Executed the Same Successful SQL Query 254 Times",
+    "url": "https://armincat.com/articles/ai-agent-executed-same-query-254-times?utm_source=tldrdev",
+    "summary": "During a model comparison at Funnel, an internal data agent repeatedly executed a successful SQL query instead of finishing its task. The failure illustrates why model swaps need whole-system evaluation, explicit tool contracts, and bounds on repeated behavior.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://armincat.com/articles/ai-agent-executed-same-query-254-times"
    },
    {
     "newsletter": "webdev",
@@ -605,18 +605,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://app.mintlify.com/products/autopilot"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Ghostty 1.4",
-    "url": "https://ghostty.org/docs/install/release-notes/1-4-0?utm_source=tldrdev",
-    "summary": "Ghostty 1.4 adds complete Kitty graphics support, scrollback compression, faster terminal processing, improved SSH integration, and security fixes.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://ghostty.org/docs/install/release-notes/1-4-0"
    },
    {
     "newsletter": "webdev",
@@ -641,6 +629,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://yavashark.dev/blog/announcing-yavashark"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Ghostty 1.4",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0?utm_source=tldrdev",
+    "summary": "Ghostty 1.4 adds complete Kitty graphics support, scrollback compression, faster terminal processing, improved SSH integration, and security fixes.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://ghostty.org/docs/install/release-notes/1-4-0"
    },
    {
     "newsletter": "webdev",
@@ -672,18 +672,6 @@
     "newsletter": "infosec",
     "date": "2026-10-29",
     "section": "Attacks & Vulnerabilities",
-    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/?utm_source=tldrinfosec",
-    "summary": "A 16-year-old buffer overflow in TianoCore EDK2's PXE Base Code driver (CVE-2026-97631, CVSS 9.5), the reference UEFI code behind most server firmware, allowed an attacker to send an oversized ICMP error during network boot and execute ring 0 code before Secure Boot and the TPM chain of trust loaded. An AMI pull request leaked the fix months ahead of a January coordinated disclosure, although exploitation required local network access and per-model address tuning. Defenders should request patched firmware from their UEFI vendors, disable PXE boot where feasible, and monitor network boot segments for anomalous ICMP traffic.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Attacks & Vulnerabilities",
     "title": "Sony ISP Subsidiary Data Breach Exposes 2.5M Customer Records",
     "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/?utm_source=tldrinfosec",
     "summary": "Sony Network Communications disclosed that an unauthorized party accessed 2.5M records from its So-net member database, which supports its internet access service. The records included full names, phone numbers, email addresses, user IDs, dates of birth, gender, and Internet connection IDs. Additionally, it exposed 54K email addresses and account passwords from several email services.",
@@ -691,6 +679,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/?utm_source=tldrinfosec",
+    "summary": "A 16-year-old buffer overflow in TianoCore EDK2's PXE Base Code driver (CVE-2026-97631, CVSS 9.5), the reference UEFI code behind most server firmware, allowed an attacker to send an oversized ICMP error during network boot and execute ring 0 code before Secure Boot and the TPM chain of trust loaded. An AMI pull request leaked the fix months ahead of a January coordinated disclosure, although exploitation required local network access and per-model address tuning. Defenders should request patched firmware from their UEFI vendors, disable PXE boot where feasible, and monitor network boot segments for anomalous ICMP traffic.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth"
    },
    {
     "newsletter": "infosec",
@@ -708,18 +708,6 @@
     "newsletter": "infosec",
     "date": "2026-10-29",
     "section": "Strategies & Tactics",
-    "title": "Not Only ARTEX: The Different Levels AI is Used in Attacks Targeting Japan",
-    "url": "https://www.trendaisecurity.com/en-us/resources-insights/deep-research/not-only-artex-the-different-levels-ai-is-used-in-attacks-targeting-japan?utm_source=tldrinfosec",
-    "summary": "TrendAI examined three attacker infrastructures targeting Japan, documenting autonomous attacks, AI-assisted planning, and suspected AI-written tools. CyberStrikeAI coordinated 44 agents against at least 19 organizations. Another operator scanned 6,000 Japanese IPs and stole hundreds of thousands of records through default credentials. A third used recovered VPN credentials to enter corporate networks. Evidence came from exposed attacker files. Victim-side confirmation remains incomplete.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://trendaisecurity.com/en-us/resources-insights/deep-research/not-only-artex-the-different-levels-ai-is-used-in-attacks-targeting-japan"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Strategies & Tactics",
     "title": "What are Security Logs?",
     "url": "https://www.detectionengineering.net/p/what-are-security-logs-part-1?utm_source=tldrinfosec",
     "summary": "Logs are structured records of security events in formats such as JSON, CSV, Syslog, and Windows Event Logs. Security engineers need to apply transformations to event logs to normalize the various formats and fields, making the data uniform for correlation and composite detections.",
@@ -732,6 +720,18 @@
     "newsletter": "infosec",
     "date": "2026-10-29",
     "section": "Strategies & Tactics",
+    "title": "Not Only ARTEX: The Different Levels AI is Used in Attacks Targeting Japan",
+    "url": "https://www.trendaisecurity.com/en-us/resources-insights/deep-research/not-only-artex-the-different-levels-ai-is-used-in-attacks-targeting-japan?utm_source=tldrinfosec",
+    "summary": "TrendAI examined three attacker infrastructures targeting Japan, documenting autonomous attacks, AI-assisted planning, and suspected AI-written tools. CyberStrikeAI coordinated 44 agents against at least 19 organizations. Another operator scanned 6,000 Japanese IPs and stole hundreds of thousands of records through default credentials. A third used recovered VPN credentials to enter corporate networks. Evidence came from exposed attacker files. Victim-side confirmation remains incomplete.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://trendaisecurity.com/en-us/resources-insights/deep-research/not-only-artex-the-different-levels-ai-is-used-in-attacks-targeting-japan"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
+    "section": "Strategies & Tactics",
     "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
     "url": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/?utm_source=tldrinfosec",
     "summary": "Anchorage Digital and Turnkey ran the open-source VisualSign transaction parser inside AWS Nitro Enclaves, where each parsed result was signed with an ephemeral P-256 key and bundled with a Nitro attestation document whose PCRs wallets checked against reproducible builds. The design let wallets prove that unmodified, audited code decoded a transaction, removing blind trust in crypto transaction signing by providing verifiable attestation rather than relying solely on network identity or operator trust. The open-source awsnitroverifier Go library handles certificate-chain and PCR validation, which any organization can use to verify their services running in AWS Nitro.",
@@ -739,18 +739,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
-    "title": "Infisical (Product Launch)",
-    "url": "https://infisical.com/?utm_source=tldrinfosec",
-    "summary": "Infisical manages secrets, encryption keys, digital certificates, and privileged access across cloud and on-premises infrastructure. Its Agent Vault inserts credentials through a proxy, keeping them from AI agents.",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infisical.com/"
    },
    {
     "newsletter": "infosec",
@@ -779,14 +767,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-10-29",
-    "section": "Miscellaneous",
-    "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
-    "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811?utm_source=tldrinfosec",
-    "summary": "Causal Security's Cipher found four EPICS Base vulnerabilities in three hours and 49 minutes. One critical integer overflow, rated CVSS 9.8, could enable remote code execution. Three high-severity flaws permit crashes, memory corruption, or information disclosure. Exploitation requires network access to vulnerable EPICS services. EPICS controls equipment including particle accelerators and fusion experiments.",
-    "read_minutes": 3,
+    "section": "Launches & Tools",
+    "title": "Infisical (Product Launch)",
+    "url": "https://infisical.com/?utm_source=tldrinfosec",
+    "summary": "Infisical manages secrets, encryption keys, digital certificates, and privileged access across cloud and on-premises infrastructure. Its Agent Vault inserts credentials through a proxy, keeping them from AI agents.",
+    "read_minutes": null,
     "kind": null,
     "sponsored": false,
-    "key": "https://theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811"
+    "key": "https://infisical.com/"
    },
    {
     "newsletter": "infosec",
@@ -815,6 +803,18 @@
    {
     "newsletter": "infosec",
     "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+    "url": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811?utm_source=tldrinfosec",
+    "summary": "Causal Security's Cipher found four EPICS Base vulnerabilities in three hours and 49 minutes. One critical integer overflow, rated CVSS 9.8, could enable remote code execution. Three high-severity flaws permit crashes, memory corruption, or information disclosure. Exploitation requires network access to vulnerable EPICS services. EPICS controls equipment including particle accelerators and fusion experiments.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
     "section": "Quick Links",
     "title": "A $300K Bug Bounty for AI Agents",
     "url": "https://app.grayswan.ai/arena/start?utm_source=tldr&utm_medium=newsletter&utm_campaign=ipi-black&utm_content=infosec-quicklinks",
@@ -823,6 +823,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://app.grayswan.ai/arena/start"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "IR 8547, Transition to Post-Quantum Cryptography Standards",
+    "url": "https://csrc.nist.gov/pubs/ir/8547/final?utm_source=tldrinfosec",
+    "summary": "NIST finalized its roadmap for phasing out quantum-vulnerable public-key algorithms in favor of its PQC standards, backing a June executive order that requires federal high-value systems to adopt PQC key establishment by 2030 and signatures by 2031.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://csrc.nist.gov/pubs/ir/8547/final"
    },
    {
     "newsletter": "infosec",
@@ -847,18 +859,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "IR 8547, Transition to Post-Quantum Cryptography Standards",
-    "url": "https://csrc.nist.gov/pubs/ir/8547/final?utm_source=tldrinfosec",
-    "summary": "NIST finalized its roadmap for phasing out quantum-vulnerable public-key algorithms in favor of its PQC standards, backing a June executive order that requires federal high-value systems to adopt PQC key establishment by 2030 and signatures by 2031.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://csrc.nist.gov/pubs/ir/8547/final"
    }
   ],
   "data": [
@@ -878,25 +878,13 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Deep Dives",
-    "title": "The 2026 Cloud Data Warehouse Benchmark",
-    "url": "https://warehouse-benchmark.estuary.dev/?utm_source=tldrdata",
-    "summary": "At 100 GB, MotherDuck led in single-user speed and cost (235 ms, $0.00124/query), Fabric served 100 concurrent users under five seconds for $5.76/hour, and ClickHouse failed 20.4% of single-user runs. Databricks had the smallest latency increase from 1 GB to 1 TB (3.7x versus MotherDuck's 30x), with tuning and autoscaling disabled throughout.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://warehouse-benchmark.estuary.dev/"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Deep Dives",
-    "title": "The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates",
-    "url": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/?utm_source=tldrdata",
-    "summary": "Azure SQL once kept four full copies of each database, which capped practical size at around 4 TB. The 2019 Socrates paper separated the log from storage, so durability and availability could scale apart. This change in approach let Hyperscale reach 100 TB, halve storage copies, and restore a 50 TB database in minutes.",
-    "read_minutes": 8,
+    "title": "Best Practices for Single Row Lookups (Point Queries)",
+    "url": "https://datafusion.apache.org/blog/2026/10/24/point-queries?utm_source=tldrdata",
+    "summary": "DataFusion can perform surprisingly well on point lookups when tuned for retrieval instead of analytics. The biggest gains came from storage layout and execution choices that minimize unnecessary work, such as sorted Parquet files, right-sized row groups, metadata caching, and prepared statements. The broader lesson is that analytical engines can serve low-latency reads if the workload is designed deliberately.",
+    "read_minutes": 11,
     "kind": null,
     "sponsored": false,
-    "key": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates"
+    "key": "https://datafusion.apache.org/blog/2026/10/24/point-queries"
    },
    {
     "newsletter": "data",
@@ -914,13 +902,25 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Deep Dives",
-    "title": "Best Practices for Single Row Lookups (Point Queries)",
-    "url": "https://datafusion.apache.org/blog/2026/10/24/point-queries?utm_source=tldrdata",
-    "summary": "DataFusion can perform surprisingly well on point lookups when tuned for retrieval instead of analytics. The biggest gains came from storage layout and execution choices that minimize unnecessary work, such as sorted Parquet files, right-sized row groups, metadata caching, and prepared statements. The broader lesson is that analytical engines can serve low-latency reads if the workload is designed deliberately.",
-    "read_minutes": 11,
+    "title": "The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates",
+    "url": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/?utm_source=tldrdata",
+    "summary": "Azure SQL once kept four full copies of each database, which capped practical size at around 4 TB. The 2019 Socrates paper separated the log from storage, so durability and availability could scale apart. This change in approach let Hyperscale reach 100 TB, halve storage copies, and restore a 50 TB database in minutes.",
+    "read_minutes": 8,
     "kind": null,
     "sponsored": false,
-    "key": "https://datafusion.apache.org/blog/2026/10/24/point-queries"
+    "key": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Deep Dives",
+    "title": "The 2026 Cloud Data Warehouse Benchmark",
+    "url": "https://warehouse-benchmark.estuary.dev/?utm_source=tldrdata",
+    "summary": "At 100 GB, MotherDuck led in single-user speed and cost (235 ms, $0.00124/query), Fabric served 100 concurrent users under five seconds for $5.76/hour, and ClickHouse failed 20.4% of single-user runs. Databricks had the smallest latency increase from 1 GB to 1 TB (3.7x versus MotherDuck's 30x), with tuning and autoscaling disabled throughout.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://warehouse-benchmark.estuary.dev/"
    },
    {
     "newsletter": "data",
@@ -962,30 +962,6 @@
     "newsletter": "data",
     "date": "2026-10-29",
     "section": "Launches & Tools",
-    "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
-    "url": "https://manishrjain.com/egres/?utm_source=tldrdata",
-    "summary": "What would Postgres look like if designed today? Egres is the answer: a new open-source database that speaks the Postgres protocol but shares almost no Postgres code. It runs thousands of tenants in one process, metering CPU, memory, and disk per query, and its benchmark used 46% less disk than Postgres 18.",
-    "read_minutes": 26,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://manishrjain.com/egres"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
-    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
-    "url": "https://engineering.fb.com/2026/10/27/security/privacylib?utm_source=tldrdata",
-    "summary": "Meta built PrivacyLib to enforce privacy rules at the moment data is accessed, replacing one-off integrations with shared controls that work across many systems. The key lesson is to normalize diverse data platforms into a small set of common operations, which makes policy enforcement reusable, scalable, and adaptable enough to extend from traditional infrastructure to AI agents.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://engineering.fb.com/2026/10/27/security/privacylib"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-10-29",
-    "section": "Launches & Tools",
     "title": "Gems of DuckDB 2.0.0",
     "url": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html?utm_source=tldrdata",
     "summary": "DuckDB 2.0 adds a Python appender for batching generated rows, CLI function manuals and queryable command history, plus secure views that hide underlying statistics and query plans. Other additions include custom partition paths, sorting within exported partitions, direct GeoJSON exports, and support for extension-defined window functions.",
@@ -993,6 +969,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://duckdb.org/2026/10/26/gems-of-duckdb-200.html"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Launches & Tools",
+    "title": "Egres: A Postgres-compatible database for heavy, multi-tenant workloads",
+    "url": "https://manishrjain.com/egres/?utm_source=tldrdata",
+    "summary": "What would Postgres look like if designed today? Egres is the answer: a new open-source database that speaks the Postgres protocol but shares almost no Postgres code. It runs thousands of tenants in one process, metering CPU, memory, and disk per query, and its benchmark used 46% less disk than Postgres 18.",
+    "read_minutes": 26,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://manishrjain.com/egres"
    },
    {
     "newsletter": "data",
@@ -1009,14 +997,14 @@
    {
     "newsletter": "data",
     "date": "2026-10-29",
-    "section": "Miscellaneous",
-    "title": "DuckDB Universe",
-    "url": "https://duckdb-universe.vercel.app/?utm_source=tldrdata",
-    "summary": "The DuckDB Universe is a searchable map of 516 open-source projects and 59 companies and products using DuckDB, spanning extensions, dashboards, libraries, and database integrations. Entries include GitHub star counts and source links, with examples ranging from PyGWalker and Evidence to MotherDuck and DeepSeek's smallpond.",
-    "read_minutes": null,
-    "kind": "tool",
+    "section": "Launches & Tools",
+    "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+    "url": "https://engineering.fb.com/2026/10/27/security/privacylib?utm_source=tldrdata",
+    "summary": "Meta built PrivacyLib to enforce privacy rules at the moment data is accessed, replacing one-off integrations with shared controls that work across many systems. The key lesson is to normalize diverse data platforms into a small set of common operations, which makes policy enforcement reusable, scalable, and adaptable enough to extend from traditional infrastructure to AI agents.",
+    "read_minutes": 12,
+    "kind": null,
     "sponsored": false,
-    "key": "https://duckdb-universe.vercel.app/"
+    "key": "https://engineering.fb.com/2026/10/27/security/privacylib"
    },
    {
     "newsletter": "data",
@@ -1029,6 +1017,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "DuckDB Universe",
+    "url": "https://duckdb-universe.vercel.app/?utm_source=tldrdata",
+    "summary": "The DuckDB Universe is a searchable map of 516 open-source projects and 59 companies and products using DuckDB, spanning extensions, dashboards, libraries, and database integrations. Entries include GitHub star counts and source links, with examples ranging from PyGWalker and Evidence to MotherDuck and DeepSeek's smallpond.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://duckdb-universe.vercel.app/"
    },
    {
     "newsletter": "data",
@@ -1060,13 +1060,13 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "Google Photos Rolls Out a Customizable Redesign of Your ‘Collections' Tab",
-    "url": "https://www.digitaltrends.com/phones/google-photos-rolls-out-a-customizable-redesign-of-your-collections-tab/?utm_source=tldrdesign",
-    "summary": "Google Photos on Android is getting a customizable Collections tab that lets users pin frequently opened collections, hide sections they rarely use, and rearrange the layout. Favorites, Screenshots, and Trash are pinned by default, while albums, people and pets, places, and other categories get carousels that can be hidden or reordered. The update arrives with Google Photos version 7.97 through a server-side switch, with no broader release date announced.",
-    "read_minutes": 3,
+    "title": "We're Announcing Genie 4, Our New World Model for Real-Time Interactive Simulation",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/?utm_source=tldrdesign",
+    "summary": "Google's Genie 4, a new world model for real-time interactive simulation, brings more realistic visuals and native audio to generated worlds. Natural-language prompts steer scenes live, from moving the camera to changing the weather or adding characters. Rollout starts with a limited group of trusted testers, with Google AI Ultra subscribers in Project Genie and early-access Gemini API partners coming soon.",
+    "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://digitaltrends.com/phones/google-photos-rolls-out-a-customizable-redesign-of-your-collections-tab"
+    "key": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4"
    },
    {
     "newsletter": "design",
@@ -1084,13 +1084,13 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "News & Trends",
-    "title": "We're Announcing Genie 4, Our New World Model for Real-Time Interactive Simulation",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/?utm_source=tldrdesign",
-    "summary": "Google's Genie 4, a new world model for real-time interactive simulation, brings more realistic visuals and native audio to generated worlds. Natural-language prompts steer scenes live, from moving the camera to changing the weather or adding characters. Rollout starts with a limited group of trusted testers, with Google AI Ultra subscribers in Project Genie and early-access Gemini API partners coming soon.",
-    "read_minutes": 1,
+    "title": "Google Photos Rolls Out a Customizable Redesign of Your ‘Collections' Tab",
+    "url": "https://www.digitaltrends.com/phones/google-photos-rolls-out-a-customizable-redesign-of-your-collections-tab/?utm_source=tldrdesign",
+    "summary": "Google Photos on Android is getting a customizable Collections tab that lets users pin frequently opened collections, hide sections they rarely use, and rearrange the layout. Favorites, Screenshots, and Trash are pinned by default, while albums, people and pets, places, and other categories get carousels that can be hidden or reordered. The update arrives with Google Photos version 7.97 through a server-side switch, with no broader release date announced.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4"
+    "key": "https://digitaltrends.com/phones/google-photos-rolls-out-a-customizable-redesign-of-your-collections-tab"
    },
    {
     "newsletter": "design",
@@ -1168,18 +1168,6 @@
     "newsletter": "design",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "The Software Factory Forgot About Design",
-    "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design?utm_source=tldrdesign",
-    "summary": "A four-station workflow of Linear, Paper, a coding agent, and review brings design into the software factory, where issues otherwise turn straight into pull requests. Linear holds the intent, Paper hosts agent-drafted HTML and CSS designs made before implementation, and the coding agent builds from both issue and design. Review checks the build against intent, but agents still lack the history behind decisions, such as past designs, analytics, and design-system reasoning.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://atifaz.am/writing/the-software-factory-forgot-about-design"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "How Mother Design turned a séance into a new identity for Purple Garden",
     "url": "https://www.creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden/?utm_source=tldrdesign",
     "summary": "Mother Design began Purple Garden's rebrand with a séance, chakra reading, and automatic drawing workshop, using the resulting forms and feelings to build an identity around spirituality as “A Living Practice.” A whimsical wordmark, crystal-like guidance glyph, warm purple palette, tactile imagery, living typography inspired by cymatic patterns, and expressive motion create an immersive system without relying on familiar psychic-industry clichés. The process moved between physical experimentation, traditional design software, and AI tools, deliberately introducing unpredictability into both the creative process and the finished identity.",
@@ -1187,6 +1175,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://creativeboom.com/work/how-mother-design-turned-a-seance-into-a-new-identity-for-purple-garden"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "The Software Factory Forgot About Design",
+    "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design?utm_source=tldrdesign",
+    "summary": "A four-station workflow of Linear, Paper, a coding agent, and review brings design into the software factory, where issues otherwise turn straight into pull requests. Linear holds the intent, Paper hosts agent-drafted HTML and CSS designs made before implementation, and the coding agent builds from both issue and design. Review checks the build against intent, but agents still lack the history behind decisions, such as past designs, analytics, and design-system reasoning.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://atifaz.am/writing/the-software-factory-forgot-about-design"
    },
    {
     "newsletter": "design",
@@ -1278,18 +1278,6 @@
     "newsletter": "marketing",
     "date": "2026-10-29",
     "section": "Strategies & Tactics",
-    "title": "I Analyzed the Lead Magnet Funnel of a 190,000 LinkedIn Creator",
-    "url": "https://www.linkedin.com/pulse/i-analyzed-lead-magnet-funnel-190000-linkedin-creator-bustamante--biehe/?utm_source=tldrmarketing",
-    "summary": "An audit of a creator's lead magnet funnel reveals ways to turn email subscribers into clients. Keep landing pages focused with a clear promise and visible signup form. Use the thank-you page to book calls or collect information for personalized follow-ups instead of showing a generic confirmation. In the welcome email, build credibility with personal stories and testimonials while previewing upcoming lessons. Encourage replies to improve deliverability and let eager subscribers access the full course immediately.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/pulse/i-analyzed-lead-magnet-funnel-190000-linkedin-creator-bustamante--biehe"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-29",
-    "section": "Strategies & Tactics",
     "title": "Spotting CTR decay early: how to catch ad creative fatigue",
     "url": "https://viktor.com/blog/spot-ad-creative-fatigue-early?utm_source=tldrmarketing",
     "summary": "Creative fatigue shows up as one ad's CTR sliding week after week below its own launch-week level while frequency climbs and the other ads in the same ad set hold steady. A single early drop that then flattens is normal settling, not fatigue. CPM rising on every ad at once points to the auction or the calendar instead, and frequency rising while reach plateaus points to an exhausted audience. Meta's own “Creative fatigue” status only appears once cost per result doubles, well after spend is lost.",
@@ -1297,6 +1285,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://viktor.com/blog/spot-ad-creative-fatigue-early"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-29",
+    "section": "Strategies & Tactics",
+    "title": "I Analyzed the Lead Magnet Funnel of a 190,000 LinkedIn Creator",
+    "url": "https://www.linkedin.com/pulse/i-analyzed-lead-magnet-funnel-190000-linkedin-creator-bustamante--biehe/?utm_source=tldrmarketing",
+    "summary": "An audit of a creator's lead magnet funnel reveals ways to turn email subscribers into clients. Keep landing pages focused with a clear promise and visible signup form. Use the thank-you page to book calls or collect information for personalized follow-ups instead of showing a generic confirmation. In the welcome email, build credibility with personal stories and testimonials while previewing upcoming lessons. Encourage replies to improve deliverability and let eager subscribers access the full course immediately.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/pulse/i-analyzed-lead-magnet-funnel-190000-linkedin-creator-bustamante--biehe"
    },
    {
     "newsletter": "marketing",
@@ -1314,18 +1314,6 @@
     "newsletter": "marketing",
     "date": "2026-10-29",
     "section": "Resources & Tools",
-    "title": "How to win BFCM (Webinar)",
-    "url": "https://luma.com/vrdlrifq?utm_source=tldrmarketing",
-    "summary": "Verbose's Lifecycle Live workshop brings together lifecycle marketing experts to share BFCM campaign strategies. Joined by Hightouch's Luke Kline, the session covers contingency planning and cross-channel messaging. Attendees will learn how to drive customer engagement and long-term value beyond discounts.",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://luma.com/vrdlrifq"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-29",
-    "section": "Resources & Tools",
     "title": "The evolution of web series on YouTube: Microdramas",
     "url": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/?utm_source=tldrmarketing",
     "summary": "Creators are turning Shorts into serialized dramas with short episodes and audience-driven storylines. YouTube is adding tools to organize episodes into series and improve discovery. New monetization options will also let creators offer members-only episodes. Brands can partner with creators to integrate products into these short-form stories.",
@@ -1333,6 +1321,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-29",
+    "section": "Resources & Tools",
+    "title": "How to win BFCM (Webinar)",
+    "url": "https://luma.com/vrdlrifq?utm_source=tldrmarketing",
+    "summary": "Verbose's Lifecycle Live workshop brings together lifecycle marketing experts to share BFCM campaign strategies. Joined by Hightouch's Luke Kline, the session covers contingency planning and cross-channel messaging. Attendees will learn how to drive customer engagement and long-term value beyond discounts.",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://luma.com/vrdlrifq"
    },
    {
     "newsletter": "marketing",
@@ -1350,6 +1350,18 @@
     "newsletter": "marketing",
     "date": "2026-10-29",
     "section": "Miscellaneous",
+    "title": "How we built and launched a viral research campaign in partnership with LinkedIn",
+    "url": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin/?utm_source=tldrmarketing",
+    "summary": "Partnering with a brand that has complementary data and a shared interest can make original research stand out in a crowded market and expand its reach. Semrush combined its AI citation data with LinkedIn's content and engagement data to analyze around 89,000 LinkedIn URLs cited by AI search tools. The study found that 95% of cited posts were original content rather than reshares, and most cited posts averaged just 15 to 25 reactions. Semrush and LinkedIn coordinated media outreach, employee advocacy, social promotion, and launch timing to reach both audiences and generate strong media coverage, tens of thousands of visits, and dozens of signups. The collaboration also created new opportunities for guest content and speaking engagements beyond the initial campaign.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
     "title": "The Anatomy of the Best-Performing Onboarding Paywalls",
     "url": "https://thepaywallindex.substack.com/p/the-anatomy-of-the-best-performing?utm_source=tldrmarketing",
     "summary": "Multi-page onboarding paywalls convert 47% better than single-page ones, and conversion peaks at 3 screens. The top performers follow the same sequence, a free-trial promise with no prices, then a trial-end reminder, then the offer. The reminder screen is the strongest single signal, lifting conversion from 8.7% to 14.8% by removing the fear of forgetting to cancel. Leading with one yearly plan beats the common yearly-plus-monthly picker by about 1.5x, and an abandon offer for users who cancel checkout adds roughly 18% revenue per view.",
@@ -1361,14 +1373,14 @@
    {
     "newsletter": "marketing",
     "date": "2026-10-29",
-    "section": "Miscellaneous",
-    "title": "How we built and launched a viral research campaign in partnership with LinkedIn",
-    "url": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin/?utm_source=tldrmarketing",
-    "summary": "Partnering with a brand that has complementary data and a shared interest can make original research stand out in a crowded market and expand its reach. Semrush combined its AI citation data with LinkedIn's content and engagement data to analyze around 89,000 LinkedIn URLs cited by AI search tools. The study found that 95% of cited posts were original content rather than reshares, and most cited posts averaged just 15 to 25 reactions. Semrush and LinkedIn coordinated media outreach, employee advocacy, social promotion, and launch timing to reach both audiences and generate strong media coverage, tens of thousands of visits, and dozens of signups. The collaboration also created new opportunities for guest content and speaking engagements beyond the initial campaign.",
-    "read_minutes": 4,
+    "section": "Quick Links",
+    "title": "GEO Doesn't Create Demand. It Captures Demand That Already Exists.",
+    "url": "https://marketingadvice.substack.com/p/geo-doesnt-create-demand-it-captures?utm_source=tldrmarketing",
+    "summary": "AI answers also only reach buyers already in-market, yet GEO is often judged like a performance channel.",
+    "read_minutes": 6,
     "kind": null,
     "sponsored": false,
-    "key": "https://theartofcontent.blog/2026/10/27/how-we-built-and-launched-a-viral-research-campaign-in-partnership-with-linkedin"
+    "key": "https://marketingadvice.substack.com/p/geo-doesnt-create-demand-it-captures"
    },
    {
     "newsletter": "marketing",
@@ -1393,18 +1405,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/feed/update/urn:li:activity:7521190548766957568"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "GEO Doesn't Create Demand. It Captures Demand That Already Exists.",
-    "url": "https://marketingadvice.substack.com/p/geo-doesnt-create-demand-it-captures?utm_source=tldrmarketing",
-    "summary": "AI answers also only reach buyers already in-market, yet GEO is often judged like a performance channel.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marketingadvice.substack.com/p/geo-doesnt-create-demand-it-captures"
    }
   ],
   "founders": [
@@ -1424,18 +1424,6 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Headlines & Trends",
-    "title": "Databricks & the future of the firm",
-    "url": "https://a16z.com/databricks-the-future-of-the-firm/?utm_source=tldrfounders",
-    "summary": "Most companies don't need smarter AI models to unlock major productivity gains. The bigger bottleneck is context: models lack access to internal knowledge, unwritten processes, and the judgment sitting in employees' heads. Databricks is building a shared system of record that gives agents this context, alongside permissions and feedback on their work. This could reduce management layers devoted to moving information around, while shifting employees toward defining tasks, delegating execution, and judging results. The lasting competitive advantage would come from capturing what a company learns, so its AI systems improve even when it switches models.",
-    "read_minutes": 29,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://a16z.com/databricks-the-future-of-the-firm"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-29",
-    "section": "Headlines & Trends",
     "title": "The future of the firm",
     "url": "https://openai.com/index/the-future-of-the-firm/?utm_source=tldrfounders",
     "summary": "Managing people used to be something you earned after years of grunt work. In this post, two people at OpenAI who were running teams of agents at 24 walk through where AI could end up on a company's org chart. In the simplest version, nobody changes seats, so everyone just becomes a manager (an accountant still owns the accounting while agents do the spreadsheet work). The accounting team doesn't shrink either, because the rest of the company is getting more productive and needs more accounting than before.",
@@ -1447,14 +1435,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-29",
-    "section": "Strategies & Tactics",
-    "title": "Design the Dinner for the Follow-Up",
-    "url": "https://workbench.substack.com/p/gtm-weekly-32-design-the-dinner-for?utm_source=tldrfounders",
-    "summary": "Most customer dinners are planned around the night itself, and the \"great meeting you\" email afterward gets ignored. One conference dinner turned into $4M in revenue for Recall.ai. The trick was to put a rep at every table whose only job was seating customers next to prospects, so prospects heard about the product from people who already trusted it. Reps then sent each prospect an intro to the customer they sat beside (\"You two were talking about X at the dinner\"). That email is much harder to ignore than a thank-you note.",
-    "read_minutes": 2,
+    "section": "Headlines & Trends",
+    "title": "Databricks & the future of the firm",
+    "url": "https://a16z.com/databricks-the-future-of-the-firm/?utm_source=tldrfounders",
+    "summary": "Most companies don't need smarter AI models to unlock major productivity gains. The bigger bottleneck is context: models lack access to internal knowledge, unwritten processes, and the judgment sitting in employees' heads. Databricks is building a shared system of record that gives agents this context, alongside permissions and feedback on their work. This could reduce management layers devoted to moving information around, while shifting employees toward defining tasks, delegating execution, and judging results. The lasting competitive advantage would come from capturing what a company learns, so its AI systems improve even when it switches models.",
+    "read_minutes": 29,
     "kind": null,
     "sponsored": false,
-    "key": "https://workbench.substack.com/p/gtm-weekly-32-design-the-dinner-for"
+    "key": "https://a16z.com/databricks-the-future-of-the-firm"
    },
    {
     "newsletter": "founders",
@@ -1467,6 +1455,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://digitalnative.tech/p/what-comes-after-selling-work"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-29",
+    "section": "Strategies & Tactics",
+    "title": "Design the Dinner for the Follow-Up",
+    "url": "https://workbench.substack.com/p/gtm-weekly-32-design-the-dinner-for?utm_source=tldrfounders",
+    "summary": "Most customer dinners are planned around the night itself, and the \"great meeting you\" email afterward gets ignored. One conference dinner turned into $4M in revenue for Recall.ai. The trick was to put a rep at every table whose only job was seating customers next to prospects, so prospects heard about the product from people who already trusted it. Reps then sent each prospect an intro to the customer they sat beside (\"You two were talking about X at the dinner\"). That email is much harder to ignore than a thank-you note.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://workbench.substack.com/p/gtm-weekly-32-design-the-dinner-for"
    },
    {
     "newsletter": "founders",
@@ -1484,18 +1484,6 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Tools & Resources",
-    "title": "AI traffic insights now available in Vercel Observability",
-    "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability?utm_source=tldrfounders",
-    "summary": "Vercel now shows how AI bots use your site, including which pages assistants fetch when someone asks them a question and which pages return errors to those bots. Querying the numbers from the CLI requires Observability Plus.",
-    "read_minutes": null,
-    "kind": "tool",
-    "sponsored": false,
-    "key": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-29",
-    "section": "Tools & Resources",
     "title": "Introducing the Slack Code API: Your agents, your team, one code channel",
     "url": "https://slack.com/blog/developers/slack-code-api?utm_source=tldrfounders",
     "summary": "The Slack Code API allows agents to start code channels, add relevant people and files, post updates as they work, and archive channels when the work is done. It enables teams to work together with agents on tasks with the same shared context. Users can see exactly what agents are doing and who approved it, and workspace controls and data boundaries are built in. Users can choose what agents and models they want to use to suit their needs.",
@@ -1507,14 +1495,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-29",
-    "section": "Miscellaneous",
-    "title": "The 90% gross margin era is over",
-    "url": "https://x.com/konstantine/status/2115474925741838554?utm_source=tldrfounders",
-    "summary": "AI companies need a new way to pitch their economics. The cost of serving customers is much higher with AI. Companies need to separate gross margin by customer and gross margin by pricing cohort. When changing pricing, you ideally want to show investors that customers on the new model have higher margins than those on the old one, and that the gap keeps widening.",
-    "read_minutes": 2,
-    "kind": null,
+    "section": "Tools & Resources",
+    "title": "AI traffic insights now available in Vercel Observability",
+    "url": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability?utm_source=tldrfounders",
+    "summary": "Vercel now shows how AI bots use your site, including which pages assistants fetch when someone asks them a question and which pages return errors to those bots. Querying the numbers from the CLI requires Observability Plus.",
+    "read_minutes": null,
+    "kind": "tool",
     "sponsored": false,
-    "key": "https://x.com/konstantine/status/2115474925741838554"
+    "key": "https://vercel.com/changelog/ai-traffic-insights-now-available-in-vercel-observability"
    },
    {
     "newsletter": "founders",
@@ -1531,14 +1519,14 @@
    {
     "newsletter": "founders",
     "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Developers ask AI which tool to use. Here's how Webflow tracked the answer",
-    "url": "https://webflow.com/blog/track-mcp-ai-visibility?utm_source=tldrfounders",
-    "summary": "Being named is easy, but being described correctly requires a bit of effort.",
-    "read_minutes": 13,
+    "section": "Miscellaneous",
+    "title": "The 90% gross margin era is over",
+    "url": "https://x.com/konstantine/status/2115474925741838554?utm_source=tldrfounders",
+    "summary": "AI companies need a new way to pitch their economics. The cost of serving customers is much higher with AI. Companies need to separate gross margin by customer and gross margin by pricing cohort. When changing pricing, you ideally want to show investors that customers on the new model have higher margins than those on the old one, and that the gap keeps widening.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://webflow.com/blog/track-mcp-ai-visibility"
+    "key": "https://x.com/konstantine/status/2115474925741838554"
    },
    {
     "newsletter": "founders",
@@ -1556,18 +1544,6 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Quick Links",
-    "title": "Which business advantages can a solo developer build?",
-    "url": "https://flaviocopes.com/indie-business-moats/?utm_source=tldrfounders",
-    "summary": "Review what work a proposed moat would require every week, and then decide whether customers value the result enough to support that work.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://flaviocopes.com/indie-business-moats"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-10-29",
-    "section": "Quick Links",
     "title": "How to steal your competitor's customers for &lt;$100",
     "url": "https://www.marketingideas.com/p/steal-your-competitors-customers?utm_source=tldrfounders",
     "summary": "Wispr Flow pays affiliates $35 to bring over paying Granola users, while Granola pays $20 to recruit new ones.",
@@ -1580,6 +1556,18 @@
     "newsletter": "founders",
     "date": "2026-10-29",
     "section": "Quick Links",
+    "title": "Which business advantages can a solo developer build?",
+    "url": "https://flaviocopes.com/indie-business-moats/?utm_source=tldrfounders",
+    "summary": "Review what work a proposed moat would require every week, and then decide whether customers value the result enough to support that work.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://flaviocopes.com/indie-business-moats"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-29",
+    "section": "Quick Links",
     "title": "System of Action",
     "url": "https://tidemarkcap.com/system-of-action/?utm_source=tldrfounders",
     "summary": "System of Action is a series of essays that details what it takes for vertical software to win in the age of AI.",
@@ -1587,21 +1575,21 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://tidemarkcap.com/system-of-action"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Developers ask AI which tool to use. Here's how Webflow tracked the answer",
+    "url": "https://webflow.com/blog/track-mcp-ai-visibility?utm_source=tldrfounders",
+    "summary": "Being named is easy, but being described correctly requires a bit of effort.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://webflow.com/blog/track-mcp-ai-visibility"
    }
   ],
   "crypto": [
-   {
-    "newsletter": "crypto",
-    "date": "2026-10-29",
-    "section": "Markets & Business",
-    "title": "Bithumb hacked through employee system",
-    "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks?utm_source=tldrcrypto",
-    "summary": "Bithumb, South Korea's second-largest exchange, said an outsider breached the internal mobile system employees use for work and messaging, and personal information was stolen. No crypto funds were reported lost. It says the system is separate from its trading platform, so customer assets can't be reached that way. It has not said how many people's data were exposed or whether deposits or withdrawals were affected. Regulators are also assessing Daishin Securities, which said data for 38,490 customers leaked, and Mirae Asset Global Investments, which blocked abnormal access. The regulator's governor said cyberattacks had hit 16 financial firms as of October 14. In February, Bithumb mistakenly credited customers with 620,000 BTC instead of 620,000 won.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
-   },
    {
     "newsletter": "crypto",
     "date": "2026-10-29",
@@ -1617,14 +1605,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-10-29",
-    "section": "Innovation & Launches",
-    "title": "Fynd AMM: The First AMM that Outbids Competition in Real-Time",
-    "url": "https://x.com/PropellerSwap/status/2115072040613142567?utm_source=tldrcrypto",
-    "summary": "Fynd AMM introduces a last-mover pricing mechanism where the pool sets its price during routing after observing all competing quotes, rather than submitting a fixed price before DEX aggregators query it. Traditional AMMs and propAMMs bid blind, causing LPs to either overbid on trades they win or lose trades they could have priced to win. A backtest of 60 ETH/USDG trades on Robinhood shows a standard 30 bps pool captures half the trades but collects only 37% of available fees, while Fynd AMM charges the maximum fee that still wins each trade, generating 2.7x more LP revenue. The protocol is launching on Ekubo's concentrated liquidity infrastructure and is already integrated on Robinhood and Base.",
-    "read_minutes": 4,
+    "section": "Markets & Business",
+    "title": "Bithumb hacked through employee system",
+    "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks?utm_source=tldrcrypto",
+    "summary": "Bithumb, South Korea's second-largest exchange, said an outsider breached the internal mobile system employees use for work and messaging, and personal information was stolen. No crypto funds were reported lost. It says the system is separate from its trading platform, so customer assets can't be reached that way. It has not said how many people's data were exposed or whether deposits or withdrawals were affected. Regulators are also assessing Daishin Securities, which said data for 38,490 customers leaked, and Mirae Asset Global Investments, which blocked abnormal access. The regulator's governor said cyberattacks had hit 16 financial firms as of October 14. In February, Bithumb mistakenly credited customers with 620,000 BTC instead of 620,000 won.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://x.com/PropellerSwap/status/2115072040613142567"
+    "key": "https://coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
    },
    {
     "newsletter": "crypto",
@@ -1637,6 +1625,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/StripeCrypto/status/2115116672461807804"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-10-29",
+    "section": "Innovation & Launches",
+    "title": "Fynd AMM: The First AMM that Outbids Competition in Real-Time",
+    "url": "https://x.com/PropellerSwap/status/2115072040613142567?utm_source=tldrcrypto",
+    "summary": "Fynd AMM introduces a last-mover pricing mechanism where the pool sets its price during routing after observing all competing quotes, rather than submitting a fixed price before DEX aggregators query it. Traditional AMMs and propAMMs bid blind, causing LPs to either overbid on trades they win or lose trades they could have priced to win. A backtest of 60 ETH/USDG trades on Robinhood shows a standard 30 bps pool captures half the trades but collects only 37% of available fees, while Fynd AMM charges the maximum fee that still wins each trade, generating 2.7x more LP revenue. The protocol is launching on Ekubo's concentrated liquidity infrastructure and is already integrated on Robinhood and Base.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/PropellerSwap/status/2115072040613142567"
    },
    {
     "newsletter": "crypto",
@@ -1752,6 +1752,18 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "News & Trends",
+    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
+    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
+    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "News & Trends",
     "title": "Ripple gets OCC's unconditional charter approval",
     "url": "https://www.bankingdive.com/news/ripple-occ-charter-bny-robinhood-partnerships-garlinghouse-alderoty/872896/?utm_source=tldrfintech",
     "summary": "Ripple has secured final OCC approval to launch a national trust bank, allowing it to provide digital asset custody and manage reserves backing its RLUSD stablecoin, but not accept deposits or make commercial loans. The company is also expanding its BNY partnership to support institutional custody and tokenized assets, explore tokenized trade finance, and eventually let clients mint and redeem RLUSD directly through the bank.",
@@ -1771,18 +1783,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lnkd.in/p/gDVV26Zz"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "News & Trends",
-    "title": "S&P Dow Jones partners with Kalshi for index-based events contracts, use prediction data",
-    "url": "https://www.reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26/?utm_source=tldrfintech",
-    "summary": "Kalshi will offer event contracts settled against official S&P Dow Jones index values, while S&P plans to turn Kalshi's probability data into new benchmarks covering economics, politics, and sports. The agreement gives the prediction-market operator institutional credibility amid ongoing gambling-related criticism and moves event contracts closer to mainstream financial-market infrastructure.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/business/finance/sp-dow-jones-partners-with-kalshi-index-based-events-contracts-use-prediction-2026-10-26"
    },
    {
     "newsletter": "fintech",
@@ -1848,18 +1848,6 @@
     "newsletter": "fintech",
     "date": "2026-10-29",
     "section": "Miscellaneous",
-    "title": "Guidewire agrees to acquire hyperexponential for up to $2.1B",
-    "url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential?utm_source=tldrfintech",
-    "summary": "Guidewire agreed to acquire AI-native underwriting platform hyperexponential for $1.7 billion in cash plus up to $400 million of contingent consideration, bringing hx's pricing and risk-decision technology into Guidewire's P&C insurance platform. The deal is aimed at accelerating “agentic underwriting,” where AI agents work alongside underwriters and actuaries across submission triage, pricing, and portfolio decisions, and Guidewire says hx already supports decisions across more than $75 billion of annual commercial P&C premium.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-10-29",
-    "section": "Miscellaneous",
     "title": "RedotPay reportedly plans US IPO by year-end at up to $5B valuation",
     "url": "https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end?utm_source=tldrfintech",
     "summary": "Hong Kong-based stablecoin payments company RedotPay is reportedly preparing a confidential US IPO filing that could value the business at about $5 billion, with JPMorgan and Goldman Sachs advising. The company says it serves more than 9 million customers and has surpassed $180 million in annualized revenue, although the offering would come while RedotPay remains in an ongoing $473 million legal dispute with Binance.",
@@ -1867,6 +1855,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-10-29",
+    "section": "Miscellaneous",
+    "title": "Guidewire agrees to acquire hyperexponential for up to $2.1B",
+    "url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential?utm_source=tldrfintech",
+    "summary": "Guidewire agreed to acquire AI-native underwriting platform hyperexponential for $1.7 billion in cash plus up to $400 million of contingent consideration, bringing hx's pricing and risk-decision technology into Guidewire's P&C insurance platform. The deal is aimed at accelerating “agentic underwriting,” where AI agents work alongside underwriters and actuaries across submission triage, pricing, and portfolio decisions, and Guidewire says hx already supports decisions across more than $75 billion of annual commercial P&C premium.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential"
    },
    {
     "newsletter": "fintech",
@@ -1946,18 +1946,6 @@
     "newsletter": "it",
     "date": "2026-10-29",
     "section": "Analysis & Opinions",
-    "title": "What enterprises can learn from Anthropic's IPO prospectus about vendor dependency",
-    "url": "https://www.itpro.com/business/what-enterprises-can-learn-from-anthropics-ipo-prospectus-about-vendor-dependency?utm_source=tldrit",
-    "summary": "Anthropic's IPO prospectus reveals that nearly half of its sales are routed through cloud partners Amazon and Google, highlighting significant vendor dependency and concentration risk across the AI ecosystem. Industry experts advise enterprise CIOs to treat AI procurement as a resilience conversation by questioning supplier supply chains and ensuring data and workflow portability.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://itpro.com/business/what-enterprises-can-learn-from-anthropics-ipo-prospectus-about-vendor-dependency"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-29",
-    "section": "Analysis & Opinions",
     "title": "Information overload is harming enterprise productivity - here's how IT leaders can solve that",
     "url": "https://www.itpro.com/software/business-apps/information-overload-is-harming-enterprise-productivity-heres-how-it-leaders-can-solve-that?utm_source=tldrit",
     "summary": "A Forrester study commissioned by Staffbase found that fragmented workplace communication is affecting employee productivity, with 48% of respondents reporting reduced efficiency and 44% citing more errors or missed deadlines. The findings suggest that consolidating information and connecting workplace applications could reduce unnecessary context switching.",
@@ -1965,6 +1953,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://itpro.com/software/business-apps/information-overload-is-harming-enterprise-productivity-heres-how-it-leaders-can-solve-that"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-29",
+    "section": "Analysis & Opinions",
+    "title": "What enterprises can learn from Anthropic's IPO prospectus about vendor dependency",
+    "url": "https://www.itpro.com/business/what-enterprises-can-learn-from-anthropics-ipo-prospectus-about-vendor-dependency?utm_source=tldrit",
+    "summary": "Anthropic's IPO prospectus reveals that nearly half of its sales are routed through cloud partners Amazon and Google, highlighting significant vendor dependency and concentration risk across the AI ecosystem. Industry experts advise enterprise CIOs to treat AI procurement as a resilience conversation by questioning supplier supply chains and ensuring data and workflow portability.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://itpro.com/business/what-enterprises-can-learn-from-anthropics-ipo-prospectus-about-vendor-dependency"
    },
    {
     "newsletter": "it",
@@ -1994,18 +1994,6 @@
     "newsletter": "it",
     "date": "2026-10-29",
     "section": "Launches & Partnerships",
-    "title": "Snowflake and Oracle: Bringing the AI Data Cloud to OCI",
-    "url": "https://www.snowflake.com/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci/?utm_source=tldrit",
-    "summary": "Snowflake and Oracle are expanding their partnership to bring Snowflake's AI Data Cloud natively to Oracle Cloud Infrastructure as a first-party offering. Planned as an integrated service purchased and billed directly through Oracle, Snowflake on OCI aims to connect enterprise data across Oracle applications and databases with other sources to support analytics and AI workflows.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://snowflake.com/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-10-29",
-    "section": "Launches & Partnerships",
     "title": "GitHub Universe 2026: Evolving every layer of the stack",
     "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/?utm_source=tldrit",
     "summary": "GitHub has introduced a new Copilot app, Copilot Fusion, for automatically routing coding tasks across multiple AI models and agent workflows spanning repositories and development tools. GitHub also announced that Enterprise customers can access Copilot features without purchasing a separate subscription, with usage billed through AI credits.",
@@ -2017,14 +2005,14 @@
    {
     "newsletter": "it",
     "date": "2026-10-29",
-    "section": "Miscellaneous",
-    "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements",
-    "url": "https://www.sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements/?utm_source=tldrit",
-    "summary": "Oracle expanded its Acceleron networking platform with new capabilities for AI and high-performance computing workloads. Updates include RDMA connectivity for front-end compute, expanded NVMe block-storage options, and communication libraries designed to maintain distributed AI workloads when network paths fail.",
-    "read_minutes": 3,
+    "section": "Launches & Partnerships",
+    "title": "Snowflake and Oracle: Bringing the AI Data Cloud to OCI",
+    "url": "https://www.snowflake.com/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci/?utm_source=tldrit",
+    "summary": "Snowflake and Oracle are expanding their partnership to bring Snowflake's AI Data Cloud natively to Oracle Cloud Infrastructure as a first-party offering. Planned as an integrated service purchased and billed directly through Oracle, Snowflake on OCI aims to connect enterprise data across Oracle applications and databases with other sources to support analytics and AI workflows.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements"
+    "key": "https://snowflake.com/en/blog/snowflake-oracle-partnership-ai-data-cloud-oci"
    },
    {
     "newsletter": "it",
@@ -2041,14 +2029,14 @@
    {
     "newsletter": "it",
     "date": "2026-10-29",
-    "section": "Quick Links",
-    "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud?utm_source=tldrit",
-    "summary": "The specialized AI model serves as a high-level brain for robots across various physical embodiments, combining spatio-temporal video understanding, long-horizon planning, and agentic tool orchestration for enterprise production environments.",
-    "read_minutes": 5,
+    "section": "Miscellaneous",
+    "title": "Oracle Cloud Acceleron adds AI-assisting networking enhancements",
+    "url": "https://www.sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements/?utm_source=tldrit",
+    "summary": "Oracle expanded its Acceleron networking platform with new capabilities for AI and high-performance computing workloads. Updates include RDMA connectivity for front-end compute, expanded NVMe block-storage options, and communication libraries designed to maintain distributed AI workloads when network paths fail.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
+    "key": "https://sdxcentral.com/news/oracle-cloud-acceleron-adds-ai-assisting-networking-enhancements"
    },
    {
     "newsletter": "it",
@@ -2073,6 +2061,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://itpro.com/software/open-source/tesco-eyes-open-source-vmware-alternative-amid-long-running-spat"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-10-29",
+    "section": "Quick Links",
+    "title": "Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud?utm_source=tldrit",
+    "summary": "The specialized AI model serves as a high-level brain for robots across various physical embodiments, combining spatio-temporal video understanding, long-horizon planning, and agentic tool orchestration for enterprise production environments.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud"
    }
   ]
  }
