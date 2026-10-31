@@ -732,18 +732,6 @@
     "newsletter": "infosec",
     "date": "2026-10-30",
     "section": "Strategies & Tactics",
-    "title": "Threat Hunting for Malicious IP-KVM Usage",
-    "url": "https://nebulock.io/blog/threat-hunting-for-malicious-ip-kvm-usage?utm_source=tldrinfosec",
-    "summary": "IP-KVM devices like PiKVM let remote operators drive a machine at the hardware layer with input indistinguishable from a local user, a tactic North Korean IT workers used to control laptop farms. Nebulock's hunt guide treated its sparse-peripheral and onboarding-timing heuristics as triage signals rather than attribution, since product strings and VID/PIDs can be spoofed. Threat hunters should search USB telemetry for known KVM vendors, then flag rare composite HID devices that also expose storage, networking, or video, and correlate hits with new-hire timing and identity anomalies before escalating to physical inspection.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://nebulock.io/blog/threat-hunting-for-malicious-ip-kvm-usage"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-10-30",
-    "section": "Strategies & Tactics",
     "title": "Securing Internet-Critical Software: How We Could Have Backdoored Bash",
     "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah?utm_source=tldrinfosec",
     "summary": "GNU Savannah's Savane forge passed a user's email address unescaped into a shell command during GPG key testing, so an RFC-valid address containing backtick-wrapped commands gave any registered user code execution on the backend. Hacktron researchers used that foothold to read database credentials, grant themselves superuser, and impersonate Bash maintainer Chet Ramey, which exposed an SSH key page that would have allowed pushes to upstream Bash, before an unpatched GameOver(lay) kernel bug gave them root and a key to a GNU backup server. The FSF fixed all 26 reported flaws, and forge operators should pass process arguments as arrays rather than shell strings, treat email local parts as untrusted input, and verify that LTS kernels actually receive backported fixes.",
@@ -751,6 +739,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://hacktron.ai/blog/hacking-gnu-savannah"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-10-30",
+    "section": "Strategies & Tactics",
+    "title": "Threat Hunting for Malicious IP-KVM Usage",
+    "url": "https://nebulock.io/blog/threat-hunting-for-malicious-ip-kvm-usage?utm_source=tldrinfosec",
+    "summary": "IP-KVM devices like PiKVM let remote operators drive a machine at the hardware layer with input indistinguishable from a local user, a tactic North Korean IT workers used to control laptop farms. Nebulock's hunt guide treated its sparse-peripheral and onboarding-timing heuristics as triage signals rather than attribution, since product strings and VID/PIDs can be spoofed. Threat hunters should search USB telemetry for known KVM vendors, then flag rare composite HID devices that also expose storage, networking, or video, and correlate hits with new-hire timing and identity anomalies before escalating to physical inspection.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://nebulock.io/blog/threat-hunting-for-malicious-ip-kvm-usage"
    },
    {
     "newsletter": "infosec",
