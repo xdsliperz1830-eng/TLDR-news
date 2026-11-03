@@ -780,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-11-02",
     "section": "Quick Links",
-    "title": "Applebee's exposed customers' personal data after leaving database password in app",
-    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/?utm_source=tldrinfosec",
-    "summary": "A researcher found a hardcoded database password in Applebee's Android app.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-02",
-    "section": "Quick Links",
     "title": "Implant reported in a Trezor sold by CryptoBilis",
     "url": "https://trezor.io/blog/news/implant-reported-in-a-trezor-sold-by-cryptobilis?utm_source=tldrinfosec",
     "summary": "An Indonesian customer reported finding an extra circuit board with a cellular modem inside a Trezor Safe 5 bought from former Southeast Asian reseller CryptoBilis.",
@@ -811,6 +799,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-02",
+    "section": "Quick Links",
+    "title": "Applebee's exposed customers' personal data after leaving database password in app",
+    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/?utm_source=tldrinfosec",
+    "summary": "A researcher found a hardcoded database password in Applebee's Android app.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app"
    }
   ],
   "devops": [
@@ -1144,18 +1144,6 @@
     "newsletter": "data",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "What Five P99 CONF Talks Reveal About Database Trade-offs",
-    "url": "https://thenewstack.io/p99-conf-database-tradeoffs/?utm_source=tldrdata",
-    "summary": "A sponsored P99 CONF round-up exposes the costs behind several database designs: object storage trades low-cost durability for cold-read latency, read-optimized engines trade RAM and write amplification for tail latency, and vector search trades quantization and cache complexity for scale. The reported benchmarks are workload-specific, but the recurring lesson is: removing one bottleneck moves the constraint elsewhere.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thenewstack.io/p99-conf-database-tradeoffs"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "Active-Active Oracle GoldenGate Across Regions: Decide Who Owns the Data Before You Resolve Conflict",
     "url": "https://hackernoon.com/active-active-oracle-goldengate-across-regions-decide-who-owns-the-data-before-you-resolve-conflict?utm_source=tldrdata",
     "summary": "Active-active GoldenGate only works when data ownership and conflict policy are designed table by table before replication starts. Simulations showed that even convergent strategies like last-writer-wins can silently lose updates, while delta merging preserves each decrement but cannot prevent both regions from accepting a request against the same last unit before replication catches up. The lesson is blunt: if business rules cannot tolerate reconciliation, do not rely on multi-master replication to fix the problem later.",
@@ -1163,6 +1151,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://hackernoon.com/active-active-oracle-goldengate-across-regions-decide-who-owns-the-data-before-you-resolve-conflict"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "What Five P99 CONF Talks Reveal About Database Trade-offs",
+    "url": "https://thenewstack.io/p99-conf-database-tradeoffs/?utm_source=tldrdata",
+    "summary": "A sponsored P99 CONF round-up exposes the costs behind several database designs: object storage trades low-cost durability for cold-read latency, read-optimized engines trade RAM and write amplification for tail latency, and vector search trades quantization and cache complexity for scale. The reported benchmarks are workload-specific, but the recurring lesson is: removing one bottleneck moves the constraint elsewhere.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thenewstack.io/p99-conf-database-tradeoffs"
    },
    {
     "newsletter": "data",
@@ -1484,18 +1484,6 @@
     "newsletter": "marketing",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "Nobody Yet Knows How to Measure an Ad Inside a Chatbot Answer",
-    "url": "https://karandhir.substack.com/p/nobody-yet-knows-how-to-measure-an?utm_source=tldrmarketing",
-    "summary": "Ads in ChatGPT and Google AI Mode reach consumers while they're expressing purchase intent, but neither platform can prove they generate incremental sales. Conversion tracking shows which purchases follow an ad but not whether they would have happened anyway. Facebook research found observational measurement can misstate results by 3X or more. Treat AI ads as an experimental channel and use geographic holdouts to measure their actual impact until platforms offer randomized lift studies.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://karandhir.substack.com/p/nobody-yet-knows-how-to-measure-an"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "Why AI Fails In Marketing: The Organizational Problem Leaders Overlook",
     "url": "https://brandingstrategyinsider.com/2026/10/why-ai-fails-in-marketing-the-organizational-problem-leaders-overlook/?utm_source=tldrmarketing",
     "summary": "AI in marketing mostly fails for organizational reasons, not technical ones. Marketing owns revenue and retention targets but rarely controls pricing or product, so AI insights go unused. The highest-value uses also depend on sales, finance, and product sharing goals and data. Judged on cost savings alone, marketing AI tools just makes ineffective activities cheaper, not more effective.",
@@ -1503,6 +1491,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://brandingstrategyinsider.com/2026/10/why-ai-fails-in-marketing-the-organizational-problem-leaders-overlook"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "Nobody Yet Knows How to Measure an Ad Inside a Chatbot Answer",
+    "url": "https://karandhir.substack.com/p/nobody-yet-knows-how-to-measure-an?utm_source=tldrmarketing",
+    "summary": "Ads in ChatGPT and Google AI Mode reach consumers while they're expressing purchase intent, but neither platform can prove they generate incremental sales. Conversion tracking shows which purchases follow an ad but not whether they would have happened anyway. Facebook research found observational measurement can misstate results by 3X or more. Treat AI ads as an experimental channel and use geographic holdouts to measure their actual impact until platforms offer randomized lift studies.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://karandhir.substack.com/p/nobody-yet-knows-how-to-measure-an"
    },
    {
     "newsletter": "marketing",
@@ -1570,18 +1570,6 @@
     "newsletter": "founders",
     "date": "2026-11-02",
     "section": "Strategies & Tactics",
-    "title": "How to give AI company context and build a company brain",
-    "url": "https://ramp.com/blog/how-to-give-ai-context?utm_source=tldrfounders",
-    "summary": "Ramp recommends a one-to-two-page context document paired with live connectors to the tools where work happens, arguing AI gives confident but wrong answers because it cannot guess internal definitions, policies, and workflows. The guide compares five ways to supply context, from custom instructions to fine-tuning, and advises setting permissions first, testing with 10 to 20 known-answer questions, and assigning owners. Ramp says its most AI-forward staff kept personal setups few colleagues saw, which led to its Glass workspace.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ramp.com/blog/how-to-give-ai-context"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-02",
-    "section": "Strategies & Tactics",
     "title": "Principles for Building Effective Vertical AI Products",
     "url": "https://www.monaco.com/blog/principles-of-effective-vertical-ai?utm_source=tldrfounders",
     "summary": "Vertical AI takes the workflows of the best practitioners and codifies them into agentic systems that deliver capability, quality, and efficiency a third-party frontier model can't match. The challenge is finding workflows and translating them into products, context layers, agentic harnesses, data systems, and feedback loops. Seamless transition requires an organization and culture that brings world-class GTM and engineering to the same table every day. The organization's people need to speak a common language and rapidly build based on that shared vernacular and best practices.",
@@ -1589,6 +1577,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://monaco.com/blog/principles-of-effective-vertical-ai"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-02",
+    "section": "Strategies & Tactics",
+    "title": "How to give AI company context and build a company brain",
+    "url": "https://ramp.com/blog/how-to-give-ai-context?utm_source=tldrfounders",
+    "summary": "Ramp recommends a one-to-two-page context document paired with live connectors to the tools where work happens, arguing AI gives confident but wrong answers because it cannot guess internal definitions, policies, and workflows. The guide compares five ways to supply context, from custom instructions to fine-tuning, and advises setting permissions first, testing with 10 to 20 known-answer questions, and assigning owners. Ramp says its most AI-forward staff kept personal setups few colleagues saw, which led to its Glass workspace.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ramp.com/blog/how-to-give-ai-context"
    },
    {
     "newsletter": "founders",
@@ -1618,18 +1618,6 @@
     "newsletter": "founders",
     "date": "2026-11-02",
     "section": "Tools & Resources",
-    "title": "Edit entire presentations with Gemini in Google Slides",
-    "url": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html?utm_source=tldrfounders",
-    "summary": "Gemini in Google Slides can now be used to edit multiple slides or an entire presentation with a single prompt. It can update content throughout a deck, refresh visual styles in bulk, or match the style of another presentation. The AI determines which slides need to change and applies edits directly. Users stay in full control and can make further adjustments. Gemini displays a summary of the changes in the side panel after it finishes editing.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-02",
-    "section": "Tools & Resources",
     "title": "Cloudflare services for private origins is now generally available",
     "url": "https://blog.cloudflare.com/private-origins-public-to-private?utm_source=tldrfounders",
     "summary": "Cloudflare services for private origins connects internal services to the Internet without exposing a public IP, opening a firewall port, or running cloudflared alongside the origin. It gives private applications the same protections and controls used for public applications. Argo Smart Routing and Dedicated CDN Egress IPs aren't supported, and origin health checks require Load Balancing.",
@@ -1637,6 +1625,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.cloudflare.com/private-origins-public-to-private"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-02",
+    "section": "Tools & Resources",
+    "title": "Edit entire presentations with Gemini in Google Slides",
+    "url": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html?utm_source=tldrfounders",
+    "summary": "Gemini in Google Slides can now be used to edit multiple slides or an entire presentation with a single prompt. It can update content throughout a deck, refresh visual styles in bulk, or match the style of another presentation. The AI determines which slides need to change and applies edits directly. Users stay in full control and can make further adjustments. Gemini displays a summary of the changes in the side panel after it finishes editing.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://workspaceupdates.googleblog.com/2026/10/edit-entire-presentations-with-gemini-in-Google-Slides.html"
    },
    {
     "newsletter": "founders",
@@ -1958,18 +1958,6 @@
     "newsletter": "fintech",
     "date": "2026-11-02",
     "section": "Launches & Products",
-    "title": "Apple Pay and Google Pay launch in Uzbekistan",
-    "url": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan?utm_source=tldrfintech",
-    "summary": "Uzbekistan has announced the arrival of Apple Pay and Google Pay into its banking system as the Central Asian nation looks to open up its financial services.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-02",
-    "section": "Launches & Products",
     "title": "AI Is Coming for Billable Hours. Intuit Turns Accountants Into Growth Advisors",
     "url": "https://fintechisfemme.beehiiv.com/p/the-end-of-the-billable-hour?utm_source=tldrfintech",
     "summary": "New tools will automate month-end close, flag financial anomalies, and let firms build custom agents, freeing up time for higher-value client work. According to the company, its Accountant Suite serves more than 260,000 firms, with users reporting savings of over nine hours per client each month and many spending 30% more time on advisory services. The platform will also match growing businesses with firms, helping them replace revenue from routine tasks with advice and new client relationships.",
@@ -1977,6 +1965,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fintechisfemme.beehiiv.com/p/the-end-of-the-billable-hour"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-02",
+    "section": "Launches & Products",
+    "title": "Apple Pay and Google Pay launch in Uzbekistan",
+    "url": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan?utm_source=tldrfintech",
+    "summary": "Uzbekistan has announced the arrival of Apple Pay and Google Pay into its banking system as the Central Asian nation looks to open up its financial services.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan"
    },
    {
     "newsletter": "fintech",
