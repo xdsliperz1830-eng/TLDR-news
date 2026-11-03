@@ -428,18 +428,6 @@
     "newsletter": "ai",
     "date": "2026-11-03",
     "section": "Quick Links",
-    "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs",
-    "url": "https://x.com/elonmusk/status/2116992258520064397?utm_source=tldrai",
-    "summary": "Elon Musk confirmed that Grok Bot usage limits were reduced after operating costs became unsustainably high relative to revenue.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/elonmusk/status/2116992258520064397"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-03",
-    "section": "Quick Links",
     "title": "Teaching Qwen Why",
     "url": "https://www.lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1?utm_source=tldrai",
     "summary": "The research extends Anthropic's \"Teaching Claude Why\" methods to new models, focusing on reducing agentic misalignment through synthetic document finetuning (SDF) and supervised finetuning (SFT) with fictional stories and ethical dilemmas.",
@@ -447,6 +435,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lesswrong.com/posts/35yw2qGK7naFLAvcq/teaching-qwen-why-1"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-03",
+    "section": "Quick Links",
+    "title": "Elon Musk Limits Grok Bot Usage Over Rising Costs",
+    "url": "https://x.com/elonmusk/status/2116992258520064397?utm_source=tldrai",
+    "summary": "Elon Musk confirmed that Grok Bot usage limits were reduced after operating costs became unsustainably high relative to revenue.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/elonmusk/status/2116992258520064397"
    }
   ],
   "webdev": [
@@ -1544,18 +1544,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Quick Links",
-    "title": "The New Security Agenda",
-    "url": "https://a16z.com/the-new-security-agenda/?utm_source=tldrfounders",
-    "summary": "87% of 100 surveyed CISOs at companies with more than 1,000 employees expect cybersecurity spending to rise in 2027, yet only 18% run AI SOC tools in production, while 45% plan to buy or upgrade internal AI agent security.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://a16z.com/the-new-security-agenda"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Quick Links",
     "title": "Why You Don't Want Humans Doing Outbound Anymore",
     "url": "https://www.saastr.com/why-you-dont-want-humans-doing-outbound-anymore?utm_source=tldrfounders",
     "summary": "Agents can run much higher volumes than humans and with better accuracy.",
@@ -1587,6 +1575,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/omooretweets/status/2117293168714711423"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Quick Links",
+    "title": "The New Security Agenda",
+    "url": "https://a16z.com/the-new-security-agenda/?utm_source=tldrfounders",
+    "summary": "87% of 100 surveyed CISOs at companies with more than 1,000 employees expect cybersecurity spending to rise in 2027, yet only 18% run AI SOC tools in production, while 45% plan to buy or upgrade internal AI agent security.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://a16z.com/the-new-security-agenda"
    }
   ],
   "crypto": [
@@ -1654,18 +1654,6 @@
     "newsletter": "crypto",
     "date": "2026-11-03",
     "section": "Guides & Resources",
-    "title": "The Crypto End-game: Belief Assets and Cashflow Assets",
-    "url": "https://x.com/tzedonn/status/2116119902029574293?utm_source=tldrcrypto",
-    "summary": "Crypto assets are either belief assets (value from shared conviction, no cashflows) and cashflow assets (value from earnings), and token creation is automated but durable demand is not. Belief assets share five structural features: a cult figurehead, a near-death survival that filters for devout holders, early backers made wealthy, a meme-identity layer, and a one-liner rally cry. ZEC qualifies as an emerging belief asset via its shielded-pool vulnerability survival, 30x run, and \"private/quantum-proof bitcoin\" positioning, with Pearl (PRL) flagged as a possible \"AI bitcoin\" candidate. The endgame is a two-tier structure: belief assets on top, cashflow assets underneath.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/tzedonn/status/2116119902029574293"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-03",
-    "section": "Guides & Resources",
     "title": "An Asymmetric Bet for Your Institutional Finance Brand",
     "url": "https://x.com/dorreguinho/status/2115839806748201411?utm_source=tldrcrypto",
     "summary": "Five digital asset infrastructure companies pitch to the same fintech founders while ignoring the risk leads, compliance officers, and CTOs who gate institutional deals. The counter-move is niche media positioning: stop publishing about your product and become the searchable reference for your evaluator audience's hardest questions. For a compliant onchain yield infrastructure seller, that means long-form guides and newsletters helping risk teams assess yield integrations, built around lawyers advising fintechs on yield and treasury teams that have shipped integrations. The asymmetric payoff comes from owning one specific question for two or more years while competitors exhaust budget chasing founders who do not decide.",
@@ -1673,6 +1661,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/dorreguinho/status/2115839806748201411"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-03",
+    "section": "Guides & Resources",
+    "title": "The Crypto End-game: Belief Assets and Cashflow Assets",
+    "url": "https://x.com/tzedonn/status/2116119902029574293?utm_source=tldrcrypto",
+    "summary": "Crypto assets are either belief assets (value from shared conviction, no cashflows) and cashflow assets (value from earnings), and token creation is automated but durable demand is not. Belief assets share five structural features: a cult figurehead, a near-death survival that filters for devout holders, early backers made wealthy, a meme-identity layer, and a one-liner rally cry. ZEC qualifies as an emerging belief asset via its shielded-pool vulnerability survival, 30x run, and \"private/quantum-proof bitcoin\" positioning, with Pearl (PRL) flagged as a possible \"AI bitcoin\" candidate. The endgame is a two-tier structure: belief assets on top, cashflow assets underneath.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/tzedonn/status/2116119902029574293"
    },
    {
     "newsletter": "crypto",
