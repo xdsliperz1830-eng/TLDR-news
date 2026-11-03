@@ -236,18 +236,6 @@
     "newsletter": "ai",
     "date": "2026-11-02",
     "section": "Headlines & Launches",
-    "title": "Anthropic prepares to release Claude Mythos 5.5 model",
-    "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/?utm_source=tldrai",
-    "summary": "A reference to Claude Mythos 5.5 was spotted on Anthropic's official Mythos webpage, indicating that the company may be preparing for an upcoming release. The change only covers the version number, and there are no new specifications and no announcement. Multiple reports suggest that the model is being A/B tested with selected users. If the company follows a similar strategy to previous releases, Mythos 5.5 may initially remain exclusive to selected cyberdefenders.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-02",
-    "section": "Headlines & Launches",
     "title": "GPT-Rosalind-6 System Card Addendum",
     "url": "https://deploymentsafety.openai.com/gpt-rosalind-6?utm_source=tldrai",
     "summary": "GPT-Rosalind-6 is a frontier reasoning model for biology, drug discovery, and translational medicine. It is available as GPT-Rosalind-6 Research to qualified scientists, research institutes, companies, and government partners. The model uses the same weights as GPT-6 Astra. It is designed to support legitimate biological research while refusing requests for biological weaponization. The model is rated as High Capability in the Biological and Chemical domain under OpenAI's Preparedness Framework.",
@@ -255,6 +243,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://deploymentsafety.openai.com/gpt-rosalind-6"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-02",
+    "section": "Headlines & Launches",
+    "title": "Anthropic prepares to release Claude Mythos 5.5 model",
+    "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/?utm_source=tldrai",
+    "summary": "A reference to Claude Mythos 5.5 was spotted on Anthropic's official Mythos webpage, indicating that the company may be preparing for an upcoming release. The change only covers the version number, and there are no new specifications and no announcement. Multiple reports suggest that the model is being A/B tested with selected users. If the company follows a similar strategy to previous releases, Mythos 5.5 may initially remain exclusive to selected cyberdefenders.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model"
    },
    {
     "newsletter": "ai",
@@ -756,18 +756,6 @@
     "newsletter": "infosec",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "CVE-2026-98432: which Linux kernels are still vulnerable",
-    "url": "https://ma.ttias.be/linux-cve-2026-98432-vulnerable-kernels/?utm_source=tldrinfosec",
-    "summary": "Mattias Geniar found 712 Multipath TCP listeners on his own Ubuntu 26.04 laptop, opened without his knowledge by Go programs like tailscaled, because Go 1.24 and later enable MPTCP on listening sockets by default. That matters because the only known exploit for CVE-2026-98432 needs an MPTCP listener. The bug is a use-after-free in the kernel's IPv4 TCP handshake that dates back to Linux 4.4 and can be reached with a single SYN. Upstream stable kernels were fixed in mid-October, and Debian, Amazon Linux, and Oracle UEK have shipped patches, but Ubuntu and RHEL still had no fixed kernel as of November 1.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ma.ttias.be/linux-cve-2026-98432-vulnerable-kernels"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "Legal Exploits May Emerge At Scale",
     "url": "https://www.felixringe.com/legal-exploits/?utm_source=tldrinfosec",
     "summary": "The authors argue that legal systems may have dormant “vulnerabilities” that an attacker can leverage with an LLM to find and exploit. They present an example from the German legal system, which requires executive regulations to cite their legal basis. The authors then showcase a selection of regulations with provisions lacking proper citations, which could render them void and unenforceable.",
@@ -775,6 +763,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://felixringe.com/legal-exploits"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "CVE-2026-98432: which Linux kernels are still vulnerable",
+    "url": "https://ma.ttias.be/linux-cve-2026-98432-vulnerable-kernels/?utm_source=tldrinfosec",
+    "summary": "Mattias Geniar found 712 Multipath TCP listeners on his own Ubuntu 26.04 laptop, opened without his knowledge by Go programs like tailscaled, because Go 1.24 and later enable MPTCP on listening sockets by default. That matters because the only known exploit for CVE-2026-98432 needs an MPTCP listener. The bug is a use-after-free in the kernel's IPv4 TCP handshake that dates back to Linux 4.4 and can be reached with a single SYN. Upstream stable kernels were fixed in mid-October, and Debian, Amazon Linux, and Oracle UEK have shipped patches, but Ubuntu and RHEL still had no fixed kernel as of November 1.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ma.ttias.be/linux-cve-2026-98432-vulnerable-kernels"
    },
    {
     "newsletter": "infosec",
@@ -830,18 +830,6 @@
     "newsletter": "devops",
     "date": "2026-11-02",
     "section": "News & Trends",
-    "title": "Spacelift Brought Scale to Your IaC Provisioning. Now We're Automating Everything That Happens After.",
-    "url": "https://spacelift.io/blog/full-stack-infrastructure-orchestration?utm_source=tldrdevops",
-    "summary": "Spacelift is expanding from IaC provisioning into Day 2 operations with Spacelift Flows. It also renamed its IaC and GitOps offering to 'Spacelift Deploy' and bundles it with the Spacelift Intelligence assistant in one control plane.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://spacelift.io/blog/full-stack-infrastructure-orchestration"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-11-02",
-    "section": "News & Trends",
     "title": "Cloudflare Services for Private Origins Is Now Generally Available",
     "url": "https://blog.cloudflare.com/private-origins-public-to-private/?utm_source=tldrdevops",
     "summary": "Cloudflare can now route public requests to private origin IPs over existing Cloudflare One connectivity while applying WAF, caching, bot management, and Workers. Origins retain private addresses without inbound firewall exceptions. Setup requires account enablement, supported connectivity, and appropriate return routes.",
@@ -849,6 +837,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.cloudflare.com/private-origins-public-to-private"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-11-02",
+    "section": "News & Trends",
+    "title": "Spacelift Brought Scale to Your IaC Provisioning. Now We're Automating Everything That Happens After.",
+    "url": "https://spacelift.io/blog/full-stack-infrastructure-orchestration?utm_source=tldrdevops",
+    "summary": "Spacelift is expanding from IaC provisioning into Day 2 operations with Spacelift Flows. It also renamed its IaC and GitOps offering to 'Spacelift Deploy' and bundles it with the Spacelift Intelligence assistant in one control plane.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://spacelift.io/blog/full-stack-infrastructure-orchestration"
    },
    {
     "newsletter": "devops",
@@ -1812,18 +1812,6 @@
     "newsletter": "crypto",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "The Lenders Behind Curator Vaults",
-    "url": "https://x.com/RWA_xyz/status/2116221097460785224?utm_source=tldrcrypto",
-    "summary": "RWA.xyz's analysis of $6.1B in Morpho variable-rate stablecoin lending identifies supply, not borrowing demand, as the binding growth constraint, with five curators (Steakhouse, Sentora, Gauntlet, SparkDAO, and RockawayX) overseeing 80%+ ($5.0B) of deployed capital. Of the $2.6B traced to specific funding sources, platform earn integrations and Sky-authorized protocol balance sheets each account for $1.1B, with issuer reserve lending via Ethena and similar protocols contributing the rest. Platform earn integrations offer the most expandable near-term growth vector, while credit limits cap protocol balance sheet allocations and redemption liquidity requirements constrain issuer reserve portfolios. For tokenized collateral, transfer restrictions, redemption terms, and secondary-market liquidity under stress set the ceiling on lender capacity.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/RWA_xyz/status/2116221097460785224"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "This Week on Base: Denim, $243M Card Spend, 20+ Launches",
     "url": "https://x.com/base/status/2116446180397797540?utm_source=tldrcrypto",
     "summary": "Base's Denim upgrade, its fourth network update of 2026, was deployed to Sepolia ahead of a November 5 mainnet activation that cuts block times to 200ms. Card spend settled on Base hit $243M in October, an 80% increase from March, and Coinbase Tokenized Stocks crossed $4B in all-time DEX trading volume on the network. FalconX launched an institutional USDC credit facility on Base, Ripple deployed RLUSD liquidity, and PeerXYZ opened an Alipay beta for USDC acquisition against CNY payments. Y Combinator paid a $500K MochaTrade investment in USDC on Base and published a Crypto Request for Startups targeting AI agents, stablecoins, capital raising, and trading.",
@@ -1831,6 +1819,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/base/status/2116446180397797540"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "The Lenders Behind Curator Vaults",
+    "url": "https://x.com/RWA_xyz/status/2116221097460785224?utm_source=tldrcrypto",
+    "summary": "RWA.xyz's analysis of $6.1B in Morpho variable-rate stablecoin lending identifies supply, not borrowing demand, as the binding growth constraint, with five curators (Steakhouse, Sentora, Gauntlet, SparkDAO, and RockawayX) overseeing 80%+ ($5.0B) of deployed capital. Of the $2.6B traced to specific funding sources, platform earn integrations and Sky-authorized protocol balance sheets each account for $1.1B, with issuer reserve lending via Ethena and similar protocols contributing the rest. Platform earn integrations offer the most expandable near-term growth vector, while credit limits cap protocol balance sheet allocations and redemption liquidity requirements constrain issuer reserve portfolios. For tokenized collateral, transfer restrictions, redemption terms, and secondary-market liquidity under stress set the ceiling on lender capacity.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/RWA_xyz/status/2116221097460785224"
    },
    {
     "newsletter": "crypto",
@@ -2274,18 +2274,6 @@
     "newsletter": "hardware",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "China's embodied AI startups raised $13B in H1 2026, five times last year, as robot makers shift from moves to brains",
-    "url": "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/?utm_source=tldrhardware",
-    "summary": "After years of building humanoids that run, dance, and backflip, Chinese companies are pouring money into the AI that would make them useful across more jobs, meaning software that lets robots understand their surroundings and learn new tasks without per-job programming. Chinese embodied AI companies raised 93.5 billion yuan across 322 deals in the first half of 2026, five times a year earlier, with funding increasingly going to specialist robot-intelligence developers as well as manufacturers.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "Intel's Fab 28 explosion costs about $600M in revenue and squeezes 10nm Xeon supply into 2027",
     "url": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory?utm_source=tldrhardware",
     "summary": "On October 14, an explosion at Intel's Fab 28 in Kiryat Gat, Israel, killed two workers and halted the plant for about two weeks. The fab makes 10nm-class server chips such as Xeon 6 I/O dies, and Intel expects about $600 million in lost revenue across Q4 and Q1. Wafers take roughly six months to finish, so scrapped work delays supply into 2027 on top of an already tight server market.",
@@ -2293,6 +2281,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "China's embodied AI startups raised $13B in H1 2026, five times last year, as robot makers shift from moves to brains",
+    "url": "https://www.japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains/?utm_source=tldrhardware",
+    "summary": "After years of building humanoids that run, dance, and backflip, Chinese companies are pouring money into the AI that would make them useful across more jobs, meaning software that lets robots understand their surroundings and learn new tasks without per-job programming. Chinese embodied AI companies raised 93.5 billion yuan across 322 deals in the first half of 2026, five times a year earlier, with funding increasingly going to specialist robot-intelligence developers as well as manufacturers.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains"
    },
    {
     "newsletter": "hardware",
