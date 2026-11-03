@@ -344,18 +344,6 @@
     "newsletter": "ai",
     "date": "2026-11-02",
     "section": "Miscellaneous",
-    "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
-    "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
-    "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-02",
-    "section": "Miscellaneous",
     "title": "Reading Anthropic's S-1",
     "url": "https://www.tilomitra.com/blog/anthropic-s1-in-charts?utm_source=tldrai",
     "summary": "Anthropic is growing absurdly fast. It just had its first profitable quarter. The real risk is years of locked-in compute bills paid for by customers who can cut back any month. The company is also dealing with regulatory issues and copyright suits, and it has a heavy reliance on the big cloud companies.",
@@ -375,6 +363,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-02",
+    "section": "Miscellaneous",
+    "title": "Senior Software Engineer, Applied AI at TLDR ($300k base + $60k bonus, Fully Remote)",
+    "url": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d?utm_source=tldr",
+    "summary": "TLDR is hiring a senior engineer to build the agent-first operating layer used across the company. We're looking for a builder who has taken an LLM agent to production and still owns it. Click here to learn more .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jobs.ashbyhq.com/tldr.tech/7aefaa32-da0f-4b36-9853-738d30fcb69d"
    },
    {
     "newsletter": "ai",
