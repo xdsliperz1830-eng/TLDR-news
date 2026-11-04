@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-11-03",
     "section": "Miscellaneous",
-    "title": "Our organizations are being DDoSed from the inside",
-    "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrnewsletter",
-    "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-03",
-    "section": "Miscellaneous",
     "title": "The value of open source",
     "url": "https://haydenbleasel.com/writing/open-source?utm_source=tldrnewsletter",
     "summary": "People open source projects for various reasons. Some do it to build a company or product, others do it performatively, and some ship code just for the love of the game. Open source was never free to copy, and the code was never the moat. AI can remake a product, but it can't provide the rest of the value a company generates. The technology is helping maintainers ship and fix problems faster.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://haydenbleasel.com/writing/open-source"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-03",
+    "section": "Miscellaneous",
+    "title": "Our organizations are being DDoSed from the inside",
+    "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrnewsletter",
+    "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside"
    },
    {
     "newsletter": "tech",
@@ -1326,18 +1326,6 @@
     "newsletter": "marketing",
     "date": "2026-11-03",
     "section": "Resources & Tools",
-    "title": "Algos Wiki",
-    "url": "https://algos.wiki/?utm_source=tldrmarketing",
-    "summary": "Algos.wiki is an unofficial, AI-powered encyclopedia of Instagram's algorithm that organizes information from platform announcements and leadership interviews into searchable topics. Use it to research how content is ranked and recommended, including how posting times and shares affect reach. It also tracks algorithm updates and links to supporting sources.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://algos.wiki/"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-03",
-    "section": "Resources & Tools",
     "title": "6 App Growth Annual workshops you can watch for free (+ presenter slides)",
     "url": "https://www.revenuecat.com/blog/company/app-growth-annual-2026-workshops?utm_source=tldrmarketing",
     "summary": "RevenueCat has made 6 App Growth Annual workshops free to watch, with presenter slides and handouts. Sessions cover mining customer feedback to write higher-converting copy and researching users to drive organic downloads. Others show how to use competitor ads to create AI-generated creatives and automate Meta ad research and optimization with AI.",
@@ -1345,6 +1333,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://revenuecat.com/blog/company/app-growth-annual-2026-workshops"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-03",
+    "section": "Resources & Tools",
+    "title": "Algos Wiki",
+    "url": "https://algos.wiki/?utm_source=tldrmarketing",
+    "summary": "Algos.wiki is an unofficial, AI-powered encyclopedia of Instagram's algorithm that organizes information from platform announcements and leadership interviews into searchable topics. Use it to research how content is ranked and recommended, including how posting times and shares affect reach. It also tracks algorithm updates and links to supporting sources.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://algos.wiki/"
    },
    {
     "newsletter": "marketing",
@@ -1460,18 +1460,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Strategies & Tactics",
-    "title": "Building a growth engine with AI agents",
-    "url": "https://www.anitakirkovska.com/blog/agent-led-growth?utm_source=tldrfounders",
-    "summary": "Growth is becoming an engineering problem. This post presents a case study of agent-led growth for growth marketing teams experimenting with AI agents. It covers the experiments the team shipped, what worked, and what went wrong. Not everything needs to scale, and not every problem needs AI.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anitakirkovska.com/blog/agent-led-growth"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Strategies & Tactics",
     "title": "When the models catch up",
     "url": "https://x.com/hnshah/status/2117435376344371589?utm_source=tldrfounders",
     "summary": "If the promised outcome depends on future model improvements, start with the work customers can finish today. Products that only demonstrate what might be possible can generate excitement, but back it up with evidence about what customers can finish today, as people pay for what they can accomplish. A useful partial solution can help you gain valuable feedback for the next model iteration. Keep in mind what the business can still offer when competitors can buy access to the same model.",
@@ -1479,6 +1467,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/hnshah/status/2117435376344371589"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Strategies & Tactics",
+    "title": "Building a growth engine with AI agents",
+    "url": "https://www.anitakirkovska.com/blog/agent-led-growth?utm_source=tldrfounders",
+    "summary": "Growth is becoming an engineering problem. This post presents a case study of agent-led growth for growth marketing teams experimenting with AI agents. It covers the experiments the team shipped, what worked, and what went wrong. Not everything needs to scale, and not every problem needs AI.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anitakirkovska.com/blog/agent-led-growth"
    },
    {
     "newsletter": "founders",
@@ -1520,18 +1520,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Miscellaneous",
-    "title": "Our organizations are being DDoSed from the inside",
-    "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrfounders",
-    "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Miscellaneous",
     "title": "What channels grow when organic search shrinks?",
     "url": "https://www.growth-memo.com/p/what-channels-grow-when-organic-search?utm_source=tldrfounders",
     "summary": "An email audience is becoming more valuable as organic search sends fewer visitors. An analysis of Similarweb data puts US email traffic up 16.3% in the first eight months of 2026 against the same period last year. Email added more visits than paid search after excluding Google's ad-routing domain, and the median website's email traffic grew 14.7%. The gains include receipts and notifications, so they measure visits rather than new customers. As search becomes less dependable, give potential buyers a reason to keep reading your emails and return directly to your site.",
@@ -1539,6 +1527,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://growth-memo.com/p/what-channels-grow-when-organic-search"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Miscellaneous",
+    "title": "Our organizations are being DDoSed from the inside",
+    "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrfounders",
+    "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside"
    },
    {
     "newsletter": "founders",
@@ -1568,18 +1568,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Quick Links",
-    "title": "Meta's Muse Opportunity in Small Businesses",
-    "url": "https://x.com/omooretweets/status/2117293168714711423?utm_source=tldrfounders",
-    "summary": "Meta's consumer reach and SMB relationships could make Muse a hub for business operations and agent-driven shopping.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/omooretweets/status/2117293168714711423"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Quick Links",
     "title": "The New Security Agenda",
     "url": "https://a16z.com/the-new-security-agenda/?utm_source=tldrfounders",
     "summary": "87% of 100 surveyed CISOs at companies with more than 1,000 employees expect cybersecurity spending to rise in 2027, yet only 18% run AI SOC tools in production, while 45% plan to buy or upgrade internal AI agent security.",
@@ -1587,6 +1575,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://a16z.com/the-new-security-agenda"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Quick Links",
+    "title": "Meta's Muse Opportunity in Small Businesses",
+    "url": "https://x.com/omooretweets/status/2117293168714711423?utm_source=tldrfounders",
+    "summary": "Meta's consumer reach and SMB relationships could make Muse a hub for business operations and agent-driven shopping.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/omooretweets/status/2117293168714711423"
    }
   ],
   "crypto": [
@@ -1678,18 +1678,6 @@
     "newsletter": "crypto",
     "date": "2026-11-03",
     "section": "Miscellaneous",
-    "title": "Vitalik Buterin on Digital Minimalism",
-    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html?utm_source=tldrcrypto",
-    "summary": "Vitalik Buterin published an essay advocating \"digital minimalism,\" the practice of choosing interfaces rather than accepting platform-native defaults. After X's recommendation algorithm surfaced pro-Hitler content and Grok produced antisemitic output in late 2024 and early 2025, he switched to Firefly, a multi-platform client aggregating X, Bluesky, Farcaster, and Lens that bypasses X's algorithmic feed. He reports the switch cut exposure to extremist content and culture-war disputes without requiring him to abandon X. The essay also criticizes \"financial nihilism\" in crypto circles, the assumption that blockchains trend toward gambling, as a product of the same engagement-optimized information diet warping broader online discourse.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-03",
-    "section": "Miscellaneous",
     "title": "Visa's strongest growth year in more than 15 years",
     "url": "https://threadreaderapp.com/thread/2116884870890664396.html?utm_source=tldrcrypto",
     "summary": "Visa's FY2026 revenue was $45.9B, up 15%. In Q4, net revenue was $12.1B (+13%), net income $6.0B (+18%), payments volume +9%, cross-border volume +14%, and 74.2B transactions processed (+10%). Other revenue rose 40% to $1.6B. The CEO says “trust” is the next growth vector, backed by a planned $2.4B acquisition of fraud-intelligence company BioCatch.",
@@ -1697,6 +1685,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2116884870890664396.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-03",
+    "section": "Miscellaneous",
+    "title": "Vitalik Buterin on Digital Minimalism",
+    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html?utm_source=tldrcrypto",
+    "summary": "Vitalik Buterin published an essay advocating \"digital minimalism,\" the practice of choosing interfaces rather than accepting platform-native defaults. After X's recommendation algorithm surfaced pro-Hitler content and Grok produced antisemitic output in late 2024 and early 2025, he switched to Firefly, a multi-platform client aggregating X, Bluesky, Farcaster, and Lens that bypasses X's algorithmic feed. He reports the switch cut exposure to extremist content and culture-war disputes without requiring him to abandon X. The essay also criticizes \"financial nihilism\" in crypto circles, the assumption that blockchains trend toward gambling, as a product of the same engagement-optimized information diet warping broader online discourse.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
    },
    {
     "newsletter": "crypto",
@@ -1726,18 +1726,6 @@
     "newsletter": "crypto",
     "date": "2026-11-03",
     "section": "Quick Links",
-    "title": "Binance attacker moved about $242 million via Tron within two days",
-    "url": "https://threadreaderapp.com/thread/2117080117881282964.html?utm_source=tldrcrypto",
-    "summary": "~$628M in stolen assets were on Tron.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2117080117881282964.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-03",
-    "section": "Quick Links",
     "title": "Coinbase Holds 30% of All USDC, Captured 50% of Economics",
     "url": "https://threadreaderapp.com/thread/2116156332478800296.html?utm_source=tldrcrypto",
     "summary": "Coinbase averaged $22B in USDC holdings in Q3, representing 30% of USDC's $73B market cap, and captured roughly 50% of all USDC economics over the past year – its 14th consecutive record quarter, up 49% year-over-year.",
@@ -1745,6 +1733,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2116156332478800296.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-03",
+    "section": "Quick Links",
+    "title": "Binance attacker moved about $242 million via Tron within two days",
+    "url": "https://threadreaderapp.com/thread/2117080117881282964.html?utm_source=tldrcrypto",
+    "summary": "~$628M in stolen assets were on Tron.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2117080117881282964.html"
    }
   ],
   "it": [
