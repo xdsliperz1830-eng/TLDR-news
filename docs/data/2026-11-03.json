@@ -150,18 +150,6 @@
     "newsletter": "tech",
     "date": "2026-11-03",
     "section": "Quick Links",
-    "title": "Prototypes are not that helpful anymore",
-    "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore?utm_source=tldrnewsletter",
-    "summary": "A prototype is no longer an indicator that the builder is competent.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-03",
-    "section": "Quick Links",
     "title": "Resisting Cognitive Surrender",
     "url": "https://knlb.dev/essays/surrender?utm_source=tldrnewsletter",
     "summary": "Cognitive surrender is when someone uncritically accepts whatever agents output without actually thinking, exploring, or considering alternatives.",
@@ -217,6 +205,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-03",
+    "section": "Quick Links",
+    "title": "Prototypes are not that helpful anymore",
+    "url": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore?utm_source=tldrnewsletter",
+    "summary": "A prototype is no longer an indicator that the builder is competent.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://elliotmorris.net/prototypes-are-not-that-helpful-anymore"
    }
   ],
   "ai": [
@@ -272,18 +272,6 @@
     "newsletter": "ai",
     "date": "2026-11-03",
     "section": "Deep Dives & Analysis",
-    "title": "How to Train a Swarm",
-    "url": "https://www.gr.inc/blog/how-to-train-a-swarm?utm_source=tldrai",
-    "summary": "Swarms are AI systems where multiple agents cooperate towards a shared goal. This post discusses a technique called collective inference-time scaling, where agents scale the amount of useful work performed in parallel and the communication needed to achieve it. It also explains how to design incentives for parallel work, and covers the general topic of designing incentives for reinforcement learning.",
-    "read_minutes": 19,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://gr.inc/blog/how-to-train-a-swarm"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-03",
-    "section": "Deep Dives & Analysis",
     "title": "Lessons from building Copilot Cowork",
     "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/?utm_source=tldrai",
     "summary": "Microsoft's Copilot Cowork, an AI-driven agentic execution layer, achieved global availability in four and a half months, switching its runtime from Python to Rust while live. Key practices included writing clear specs before coding, running narrow agents with clear boundaries, and ensuring automated checks genuinely verify code changes. The transition to Rust improved efficiency and highlighted the importance of clear testing, boundary setting, and human oversight in the development process.",
@@ -291,6 +279,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-03",
+    "section": "Deep Dives & Analysis",
+    "title": "How to Train a Swarm",
+    "url": "https://www.gr.inc/blog/how-to-train-a-swarm?utm_source=tldrai",
+    "summary": "Swarms are AI systems where multiple agents cooperate towards a shared goal. This post discusses a technique called collective inference-time scaling, where agents scale the amount of useful work performed in parallel and the communication needed to achieve it. It also explains how to design incentives for parallel work, and covers the general topic of designing incentives for reinforcement learning.",
+    "read_minutes": 19,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://gr.inc/blog/how-to-train-a-swarm"
    },
    {
     "newsletter": "ai",
@@ -1326,18 +1326,6 @@
     "newsletter": "marketing",
     "date": "2026-11-03",
     "section": "Resources & Tools",
-    "title": "6 App Growth Annual workshops you can watch for free (+ presenter slides)",
-    "url": "https://www.revenuecat.com/blog/company/app-growth-annual-2026-workshops?utm_source=tldrmarketing",
-    "summary": "RevenueCat has made 6 App Growth Annual workshops free to watch, with presenter slides and handouts. Sessions cover mining customer feedback to write higher-converting copy and researching users to drive organic downloads. Others show how to use competitor ads to create AI-generated creatives and automate Meta ad research and optimization with AI.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://revenuecat.com/blog/company/app-growth-annual-2026-workshops"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-03",
-    "section": "Resources & Tools",
     "title": "Algos Wiki",
     "url": "https://algos.wiki/?utm_source=tldrmarketing",
     "summary": "Algos.wiki is an unofficial, AI-powered encyclopedia of Instagram's algorithm that organizes information from platform announcements and leadership interviews into searchable topics. Use it to research how content is ranked and recommended, including how posting times and shares affect reach. It also tracks algorithm updates and links to supporting sources.",
@@ -1345,6 +1333,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://algos.wiki/"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-03",
+    "section": "Resources & Tools",
+    "title": "6 App Growth Annual workshops you can watch for free (+ presenter slides)",
+    "url": "https://www.revenuecat.com/blog/company/app-growth-annual-2026-workshops?utm_source=tldrmarketing",
+    "summary": "RevenueCat has made 6 App Growth Annual workshops free to watch, with presenter slides and handouts. Sessions cover mining customer feedback to write higher-converting copy and researching users to drive organic downloads. Others show how to use competitor ads to create AI-generated creatives and automate Meta ad research and optimization with AI.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://revenuecat.com/blog/company/app-growth-annual-2026-workshops"
    },
    {
     "newsletter": "marketing",
@@ -1460,18 +1460,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Strategies & Tactics",
-    "title": "When the models catch up",
-    "url": "https://x.com/hnshah/status/2117435376344371589?utm_source=tldrfounders",
-    "summary": "If the promised outcome depends on future model improvements, start with the work customers can finish today. Products that only demonstrate what might be possible can generate excitement, but back it up with evidence about what customers can finish today, as people pay for what they can accomplish. A useful partial solution can help you gain valuable feedback for the next model iteration. Keep in mind what the business can still offer when competitors can buy access to the same model.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/hnshah/status/2117435376344371589"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Strategies & Tactics",
     "title": "Building a growth engine with AI agents",
     "url": "https://www.anitakirkovska.com/blog/agent-led-growth?utm_source=tldrfounders",
     "summary": "Growth is becoming an engineering problem. This post presents a case study of agent-led growth for growth marketing teams experimenting with AI agents. It covers the experiments the team shipped, what worked, and what went wrong. Not everything needs to scale, and not every problem needs AI.",
@@ -1479,6 +1467,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anitakirkovska.com/blog/agent-led-growth"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Strategies & Tactics",
+    "title": "When the models catch up",
+    "url": "https://x.com/hnshah/status/2117435376344371589?utm_source=tldrfounders",
+    "summary": "If the promised outcome depends on future model improvements, start with the work customers can finish today. Products that only demonstrate what might be possible can generate excitement, but back it up with evidence about what customers can finish today, as people pay for what they can accomplish. A useful partial solution can help you gain valuable feedback for the next model iteration. Keep in mind what the business can still offer when competitors can buy access to the same model.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/hnshah/status/2117435376344371589"
    },
    {
     "newsletter": "founders",
@@ -1520,18 +1520,6 @@
     "newsletter": "founders",
     "date": "2026-11-03",
     "section": "Miscellaneous",
-    "title": "What channels grow when organic search shrinks?",
-    "url": "https://www.growth-memo.com/p/what-channels-grow-when-organic-search?utm_source=tldrfounders",
-    "summary": "An email audience is becoming more valuable as organic search sends fewer visitors. An analysis of Similarweb data puts US email traffic up 16.3% in the first eight months of 2026 against the same period last year. Email added more visits than paid search after excluding Google's ad-routing domain, and the median website's email traffic grew 14.7%. The gains include receipts and notifications, so they measure visits rather than new customers. As search becomes less dependable, give potential buyers a reason to keep reading your emails and return directly to your site.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://growth-memo.com/p/what-channels-grow-when-organic-search"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-03",
-    "section": "Miscellaneous",
     "title": "Our organizations are being DDoSed from the inside",
     "url": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside/?utm_source=tldrfounders",
     "summary": "Organizations are losing attention as everyone within is doing something they think is useful, but all that work draws on the same limited capacity to understand, review, and decide. Just because work exists doesn't mean it's the right thing to do. Output is not proof of value. A working implementation only means that something can be built, not that it should be - some changes have negative value.",
@@ -1539,6 +1527,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://karrisaarinen.com/posts/our-organizations-are-being-ddosed-from-the-inside"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-03",
+    "section": "Miscellaneous",
+    "title": "What channels grow when organic search shrinks?",
+    "url": "https://www.growth-memo.com/p/what-channels-grow-when-organic-search?utm_source=tldrfounders",
+    "summary": "An email audience is becoming more valuable as organic search sends fewer visitors. An analysis of Similarweb data puts US email traffic up 16.3% in the first eight months of 2026 against the same period last year. Email added more visits than paid search after excluding Google's ad-routing domain, and the median website's email traffic grew 14.7%. The gains include receipts and notifications, so they measure visits rather than new customers. As search becomes less dependable, give potential buyers a reason to keep reading your emails and return directly to your site.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://growth-memo.com/p/what-channels-grow-when-organic-search"
    },
    {
     "newsletter": "founders",
@@ -1594,18 +1594,6 @@
     "newsletter": "crypto",
     "date": "2026-11-03",
     "section": "Markets & Business",
-    "title": "Strategy's preferred-stock fix sets up renewed bitcoin buying",
-    "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214?utm_source=tldrcrypto",
-    "summary": "MSTR fell nearly 10% after Q3 results and traded at $129.90, down about 27% this year. StoneX and TD Cowen kept buy ratings, with price targets of $435 and $260. Strategy ended the quarter with $5.07B in dollar assets, including a $4.83B cash reserve that covers about 3.2 to 3.4 years of preferred dividends and interest. It spent about $2B buying back its STRC preferred, restoring it near its $100 par value. The cost was bitcoin per share, which is down 3.7% this year. Preferred holders approved daily dividend accrual, effective November 1 for STRC and January 1 for the rest.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-03",
-    "section": "Markets & Business",
     "title": "Spot bitcoin ETFs see largest daily outflows in four months",
     "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270?utm_source=tldrcrypto",
     "summary": "US spot bitcoin ETFs lost $643.3M on Friday, the largest outflow since June 25. Spot ether ETFs lost $155.9M, their largest since October 7, and $431.5M for the week. This followed the $6.3B Binance hack, which the FBI attributes to North Korean hackers. Binance saw $3.64B in net outflows in the first nine and a half hours after reopening withdrawals Sunday. Analysts call the ETF move a “sentiment shock” and a de-risking day, since ETF holders have no direct Binance exposure and the outflow was under 1% of ETF assets.",
@@ -1613,6 +1601,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-03",
+    "section": "Markets & Business",
+    "title": "Strategy's preferred-stock fix sets up renewed bitcoin buying",
+    "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214?utm_source=tldrcrypto",
+    "summary": "MSTR fell nearly 10% after Q3 results and traded at $129.90, down about 27% this year. StoneX and TD Cowen kept buy ratings, with price targets of $435 and $260. Strategy ended the quarter with $5.07B in dollar assets, including a $4.83B cash reserve that covers about 3.2 to 3.4 years of preferred dividends and interest. It spent about $2B buying back its STRC preferred, restoring it near its $100 par value. The cost was bitcoin per share, which is down 3.7% this year. Preferred holders approved daily dividend accrual, effective November 1 for STRC and January 1 for the rest.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
    },
    {
     "newsletter": "crypto",
