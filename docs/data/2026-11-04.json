@@ -126,18 +126,6 @@
     "newsletter": "tech",
     "date": "2026-11-04",
     "section": "Quick Links",
-    "title": "Your meeting history, inside Claude and ChatGPT",
-    "url": "https://ref.wisprflow.ai/tldr-nov04-quicklinks-headline?sp=JHoiF7s-SoDgbGylMuNlHIcU",
-    "summary": "Wispr Flow Notetaker connects to Claude, ChatGPT, Gemini and any tool that speaks MCP. No copy-paste required. Free on Mac and Windows. Get Notetaker free",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://ref.wisprflow.ai/tldr-nov04-quicklinks-headline"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-04",
-    "section": "Quick Links",
     "title": "Reach 8 million tech professionals reading TLDR",
     "url": "https://advertise.tldr.tech/?utm_source=tldr&utm_medium=newsletter&utm_campaign=quicklinks11042026&sp=TrnKAeXmqW_tM5ONXoRk0KKl",
     "summary": "Ads get ignored on social media but not in TLDR! Reach developers, PMs, marketers, founders and other tech leaders where they actually pay attention. Learn more about sponsorship opportunities .",
@@ -145,6 +133,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://advertise.tldr.tech/"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-04",
+    "section": "Quick Links",
+    "title": "Your meeting history, inside Claude and ChatGPT",
+    "url": "https://ref.wisprflow.ai/tldr-nov04-quicklinks-headline?sp=JHoiF7s-SoDgbGylMuNlHIcU",
+    "summary": "Wispr Flow Notetaker connects to Claude, ChatGPT, Gemini and any tool that speaks MCP. No copy-paste required. Free on Mac and Windows. Get Notetaker free",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://ref.wisprflow.ai/tldr-nov04-quicklinks-headline"
    },
    {
     "newsletter": "tech",
@@ -768,6 +768,18 @@
     "newsletter": "infosec",
     "date": "2026-11-04",
     "section": "Miscellaneous",
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html?utm_source=tldrinfosec",
+    "summary": "Red Hat has patched CVE-2026-98432, a 9.8-rated use-after-free in the Linux kernel's IPv4 TCP handling. A remote attacker can send IPv4 Record Route or Timestamp options to a listening TCP port and trigger a race that reads freed memory, potentially allowing code execution. RHEL 8, 9, and 10 fixes require a reboot. No exploitation has been reported. An nftables rule can drop IPv4 TCP packets with IP options, but it does not fully prevent exploitation.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-04",
+    "section": "Miscellaneous",
     "title": "How Cisco defends at machine speed with OpenAI",
     "url": "https://openai.com/index/cisco-cyber/?utm_source=tldrinfosec",
     "summary": "Cisco is pairing its network telemetry with OpenAI's Daybreak program and GPT-6 Astra to link signals that look harmless on their own and to speed up vulnerability patching, and Cisco's Jeetu Patel calls the gains \"step function improvements.\" Patel also argued that agent security will depend on telling a hijacked agent apart from one pursuing a legitimate goal in an unintended way. That will take security telemetry and observability data read side by side. The post is an OpenAI customer story with no metrics or technical detail behind its claims, so it reads more as a sign of where vendor AI partnerships are heading than as evidence of results.",
@@ -787,18 +799,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-04",
-    "section": "Miscellaneous",
-    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-    "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html?utm_source=tldrinfosec",
-    "summary": "Red Hat has patched CVE-2026-98432, a 9.8-rated use-after-free in the Linux kernel's IPv4 TCP handling. A remote attacker can send IPv4 Record Route or Timestamp options to a listening TCP port and trigger a race that reads freed memory, potentially allowing code execution. RHEL 8, 9, and 10 fixes require a reboot. No exploitation has been reported. An nftables rule can drop IPv4 TCP packets with IP options, but it does not fully prevent exploitation.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
    },
    {
     "newsletter": "infosec",
@@ -1376,18 +1376,6 @@
     "newsletter": "founders",
     "date": "2026-11-04",
     "section": "Headlines & Trends",
-    "title": "2026: The State of Enterprise AI",
-    "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=tldrfounders",
-    "summary": "The labs selling you model access are also competing for your customers' software budgets. Menlo's yearly enterprise AI report estimates the frontier labs now capture 69% of enterprise AI deployment spending. Agents are growing the pie, though, since new budgets funded 55% of the extra AI spend in Menlo's survey, and the firm reads that as companies paying for work software couldn't do before. Startups still take 61% of application spending once the labs' own apps are left out.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-04",
-    "section": "Headlines & Trends",
     "title": "Who Wins the AI App Layer?",
     "url": "https://insights.euclid.vc/p/who-wins-the-ai-app-layer-verticalist-summit-2026?utm_source=tldrfounders",
     "summary": "AI labs are now shipping products aimed right at vertical AI customers, like OpenAI's tool for lawyers that launched a week after Harvey raised at $15.5B. Most of the value still lands with the apps, as long as they own data the labs can't simulate or buy. Coding took off because the labs can grade it automatically, so the moat is outcome data that only exists when someone does the job, like whether a loan defaulted or a claim got approved. A quick test is to list every outcome your product touches and capture the job byproducts as structured data from day one.",
@@ -1399,14 +1387,14 @@
    {
     "newsletter": "founders",
     "date": "2026-11-04",
-    "section": "Strategies & Tactics",
-    "title": "Presenting an Annual Plan (AI-Era Edition)",
-    "url": "https://www.onlycfo.io/p/presenting-an-annual-plan-ai-era?utm_source=tldrfounders",
-    "summary": "AI can make an annual plan look leaner before any of the savings show up. The fix is to put AI spend right beside the headcount plan and show when avoided hires or extra output will hit the numbers. Revenue needs the same split, because usage-based AI products can carry very different margins from the subscriptions next to them. Give the AI cost of free trials and proofs of concept its own line too.",
-    "read_minutes": 8,
+    "section": "Headlines & Trends",
+    "title": "2026: The State of Enterprise AI",
+    "url": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai/?utm_source=tldrfounders",
+    "summary": "The labs selling you model access are also competing for your customers' software budgets. Menlo's yearly enterprise AI report estimates the frontier labs now capture 69% of enterprise AI deployment spending. Agents are growing the pie, though, since new budgets funded 55% of the extra AI spend in Menlo's survey, and the firm reads that as companies paying for work software couldn't do before. Startups still take 61% of application spending once the labs' own apps are left out.",
+    "read_minutes": 18,
     "kind": null,
     "sponsored": false,
-    "key": "https://onlycfo.io/p/presenting-an-annual-plan-ai-era"
+    "key": "https://menlovc.com/perspective/2026-the-state-of-enterprise-ai"
    },
    {
     "newsletter": "founders",
@@ -1435,6 +1423,18 @@
    {
     "newsletter": "founders",
     "date": "2026-11-04",
+    "section": "Strategies & Tactics",
+    "title": "Presenting an Annual Plan (AI-Era Edition)",
+    "url": "https://www.onlycfo.io/p/presenting-an-annual-plan-ai-era?utm_source=tldrfounders",
+    "summary": "AI can make an annual plan look leaner before any of the savings show up. The fix is to put AI spend right beside the headcount plan and show when avoided hires or extra output will hit the numbers. Revenue needs the same split, because usage-based AI products can carry very different margins from the subscriptions next to them. Give the AI cost of free trials and proofs of concept its own line too.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://onlycfo.io/p/presenting-an-annual-plan-ai-era"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-04",
     "section": "Tools & Resources",
     "title": "Private banking for tech founders and leaders",
     "url": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees?utm_source=jpmwm-email-tldr&utm_medium=con-tldrfounders1104-dir-site&utm_campaign=us-en-pbcore-acq&utm_content=email-ipo-tldrfounders1104-v1",
@@ -1448,18 +1448,6 @@
     "newsletter": "founders",
     "date": "2026-11-04",
     "section": "Tools & Resources",
-    "title": "Introducing: Email Assistant by Superhuman Mail",
-    "url": "https://blog.superhuman.com/introducing-email-assistant/?utm_source=tldrfounders",
-    "summary": "Superhuman Mail Email Assistant brings the best of Superhuman Mail directly into Gmail and Outlook. It separates what needs a reply from what is just an FYI, resurfaces important conversations, and archives low-priority emails. Email Assistant can draft replies in users' voice and tone using context from other emails and information from online research. Users remain in control of how Email Assistant writes, schedules, and triages.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.superhuman.com/introducing-email-assistant"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-04",
-    "section": "Tools & Resources",
     "title": "Auto-connect your organization's apps to Claude",
     "url": "https://support.claude.com/en/articles/15537633-auto-connect-your-organization-s-apps-to-claude?utm_source=tldrfounders",
     "summary": "Claude Enterprise-managed auth is an authorization and authentication model for connectors in Claude. It allows administrators to provision connector access centrally instead of having every person authenticate each connector individually. Administrators can control which connectors are enabled, which groups or roles get them, and at what access level. Teams get connectors automatically the first time they log in once they are enabled for an organization.",
@@ -1467,6 +1455,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://support.claude.com/en/articles/15537633-auto-connect-your-organization-s-apps-to-claude"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-04",
+    "section": "Tools & Resources",
+    "title": "Introducing: Email Assistant by Superhuman Mail",
+    "url": "https://blog.superhuman.com/introducing-email-assistant/?utm_source=tldrfounders",
+    "summary": "Superhuman Mail Email Assistant brings the best of Superhuman Mail directly into Gmail and Outlook. It separates what needs a reply from what is just an FYI, resurfaces important conversations, and archives low-priority emails. Email Assistant can draft replies in users' voice and tone using context from other emails and information from online research. Users remain in control of how Email Assistant writes, schedules, and triages.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.superhuman.com/introducing-email-assistant"
    },
    {
     "newsletter": "founders",
@@ -1508,6 +1508,18 @@
     "newsletter": "founders",
     "date": "2026-11-04",
     "section": "Quick Links",
+    "title": "The Psychology of SMS",
+    "url": "https://ckarchive.com/b/92uzhnhxkd6nli3roomrdfzzdzrngfwh2pxox?utm_source=tldrfounders",
+    "summary": "A text from a brand lands in the same inbox as messages from family, so it either feels personal or gets an instant STOP.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ckarchive.com/b/92uzhnhxkd6nli3roomrdfzzdzrngfwh2pxox"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-04",
+    "section": "Quick Links",
     "title": "The cost of changing your mind is collapsing",
     "url": "https://x.com/hnshah/status/2117644051126395114?utm_source=tldrfounders",
     "summary": "Agents can finish the code before you have even decided whether the product is right.",
@@ -1527,18 +1539,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://stillunbuilt.shiptiffin.app/"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-04",
-    "section": "Quick Links",
-    "title": "The Psychology of SMS",
-    "url": "https://ckarchive.com/b/92uzhnhxkd6nli3roomrdfzzdzrngfwh2pxox?utm_source=tldrfounders",
-    "summary": "A text from a brand lands in the same inbox as messages from family, so it either feels personal or gets an instant STOP.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ckarchive.com/b/92uzhnhxkd6nli3roomrdfzzdzrngfwh2pxox"
    },
    {
     "newsletter": "founders",
@@ -1630,18 +1630,6 @@
     "newsletter": "crypto",
     "date": "2026-11-04",
     "section": "Miscellaneous",
-    "title": "Coinbase Q3 Earnings",
-    "url": "https://threadreaderapp.com/thread/2116140309629595765.html?utm_source=tldrcrypto",
-    "summary": "Coinbase posted Q3 GAAP net income of $719M, but adjusted net income came in at $78M after stripping out $641M in unrealized gains on crypto held as a treasury asset. CFO Alesia Haas confirmed the GAAP figure reflects mark-to-market appreciation, not operational earnings. Coinbase CEO Brian Armstrong filed a 10b5-1 plan to sell up to 8.17M COIN shares (~$1.31B) through October 2027, with co-founder Fred Ehrsam and COO Emilie Choi entering similar plans for up to 3.87M and 1.56M shares. The pre-scheduled filings insulate executives from insider trading claims and represent a combined potential disposal of over 13.6M shares.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2116140309629595765.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-04",
-    "section": "Miscellaneous",
     "title": "Agentic products are getting ahead of themselves on access",
     "url": "https://threadreaderapp.com/thread/2117288085692072155.html?utm_source=tldrcrypto",
     "summary": "Teams are racing to give agents access through virtual cards, API credentials, prepaid balances, and tokens without addressing what happens once they're inside. The harder problem is whether an LLM understands what a person asked for (intent), what the system allows (execution), and whether the two match. A payment can clear and still be the wrong purchase, and access doesn't equal authorization, which doesn't equal intent. Cards and API wrappers won't solve the problem, so teams need to understand the whole transaction lifecycle. AI makes software easier to generate but not easier to architect, and infrastructure has to be deliberate.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2117288085692072155.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-04",
+    "section": "Miscellaneous",
+    "title": "Coinbase Q3 Earnings",
+    "url": "https://threadreaderapp.com/thread/2116140309629595765.html?utm_source=tldrcrypto",
+    "summary": "Coinbase posted Q3 GAAP net income of $719M, but adjusted net income came in at $78M after stripping out $641M in unrealized gains on crypto held as a treasury asset. CFO Alesia Haas confirmed the GAAP figure reflects mark-to-market appreciation, not operational earnings. Coinbase CEO Brian Armstrong filed a 10b5-1 plan to sell up to 8.17M COIN shares (~$1.31B) through October 2027, with co-founder Fred Ehrsam and COO Emilie Choi entering similar plans for up to 3.87M and 1.56M shares. The pre-scheduled filings insulate executives from insider trading claims and represent a combined potential disposal of over 13.6M shares.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2116140309629595765.html"
    },
    {
     "newsletter": "crypto",
