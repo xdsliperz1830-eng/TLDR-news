@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-11-04",
     "section": "Science & Futuristic Technology",
-    "title": "The State of Longevity",
-    "url": "https://www.a16z.news/p/the-state-of-longevity?utm_source=tldrnewsletter",
-    "summary": "The fringe movement of biohackers and people taking a more hands-on approach to longevity has moved into the mainstream thanks to the COVID-19 pandemic and AI chatbots. More and more people are now taking their health into their own hands and spending time, money, and energy on health and longevity. This post looks at how people view health and explores how the people at the cutting edge of health and technology approach their own health. Some of the biggest opportunities in longevity will go to the companies that help people take action and manage their health over time.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://a16z.news/p/the-state-of-longevity"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-04",
-    "section": "Science & Futuristic Technology",
     "title": "Neuralink's China Rival Targets Obesity With ‘Electronic' GLP-1",
     "url": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzc2NjIyOSwiZXhwIjoxNzk0MzcxMDI5LCJhcnRpY2xlSWQiOiJUTldWU0JLSzNOWTgwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9._EOYJORteRaZpC1kV0zdY39mi4h074JYQDhJGzPJJ38&utm_source=tldrnewsletter",
     "summary": "BrainCo, a Chinese neurotech company, is developing a wearable device that suppresses appetite by stimulating the brain. It aims to bring the device to market within the next two to three years. The device will launch first in China before potentially expanding to the US. BrainCo currently markets brain-computer interface-enabled headsets to address neurological disorders such as autism, ADHD, and insomnia. Its devices can collect, decode, and stimulate neural signals.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-04",
+    "section": "Science & Futuristic Technology",
+    "title": "The State of Longevity",
+    "url": "https://www.a16z.news/p/the-state-of-longevity?utm_source=tldrnewsletter",
+    "summary": "The fringe movement of biohackers and people taking a more hands-on approach to longevity has moved into the mainstream thanks to the COVID-19 pandemic and AI chatbots. More and more people are now taking their health into their own hands and spending time, money, and energy on health and longevity. This post looks at how people view health and explores how the people at the cutting edge of health and technology approach their own health. Some of the biggest opportunities in longevity will go to the companies that help people take action and manage their health over time.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://a16z.news/p/the-state-of-longevity"
    },
    {
     "newsletter": "tech",
@@ -236,18 +236,6 @@
     "newsletter": "ai",
     "date": "2026-11-04",
     "section": "Headlines & Launches",
-    "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops",
-    "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier?utm_source=tldrai",
-    "summary": "Baseten announced Grid for model routing and governance, resumable VM-isolated Sandboxes for agent execution, and general availability of Loops for serverless supervised fine-tuning and reinforcement learning. The products connect training, inference, and execution, with customers retaining ownership of trained weights.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://baseten.co/blog/the-building-blocks-of-the-open-frontier"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-04",
-    "section": "Headlines & Launches",
     "title": "Siri AI is now open to all developers",
     "url": "https://developer.apple.com/news/?id=gdk2umrf&utm_source=tldrai",
     "summary": "Developers can now integrate Siri AI into their apps with the iOS 27.3 beta. This update allows apps to leverage Siri's advanced features, like natural language processing and personal context understanding, enhancing user interaction. Siri AI is currently unavailable in the EU and for users under 13. It supports multiple languages, with more to come.",
@@ -260,6 +248,18 @@
     "newsletter": "ai",
     "date": "2026-11-04",
     "section": "Headlines & Launches",
+    "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops",
+    "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier?utm_source=tldrai",
+    "summary": "Baseten announced Grid for model routing and governance, resumable VM-isolated Sandboxes for agent execution, and general availability of Loops for serverless supervised fine-tuning and reinforcement learning. The products connect training, inference, and execution, with customers retaining ownership of trained weights.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://baseten.co/blog/the-building-blocks-of-the-open-frontier"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-04",
+    "section": "Headlines & Launches",
     "title": "Fireworks Launches Faster AI Inference and Enterprise Tools",
     "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence?utm_source=tldrai",
     "summary": "Fireworks AI unveiled new products at Forge, including Ultra-fast inference reaching up to 1,500 tokens per second, lower-cost background processing, and Nexus for accessing multiple AI models within existing tools. It also introduced capabilities for model evaluation, fine-tuning deployment, and enterprise-controlled infrastructure.",
@@ -267,18 +267,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-04",
-    "section": "Deep Dives & Analysis",
-    "title": "Training a Text-to-Image Model for $21K",
-    "url": "https://www.linum.ai/field-notes/pjit-21k?utm_source=tldrai",
-    "summary": "Linium is a two-person research lab that is trying to train its own generative video models entirely from scratch, aiming to create tools to democratize access to animation. Pyramid-JiT (P-JiT) is a pixel-space architecture that achieves aggressive token reduction through a noise schedule that helps pixel-space models better learn fine-grained detail. This study looks at how models trained on the architecture perform when trained for longer as a pressure test along the way towards larger models and video. Examples of images generated by the resulting model are available.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linum.ai/field-notes/pjit-21k"
    },
    {
     "newsletter": "ai",
@@ -307,6 +295,18 @@
    {
     "newsletter": "ai",
     "date": "2026-11-04",
+    "section": "Deep Dives & Analysis",
+    "title": "Training a Text-to-Image Model for $21K",
+    "url": "https://www.linum.ai/field-notes/pjit-21k?utm_source=tldrai",
+    "summary": "Linium is a two-person research lab that is trying to train its own generative video models entirely from scratch, aiming to create tools to democratize access to animation. Pyramid-JiT (P-JiT) is a pixel-space architecture that achieves aggressive token reduction through a noise schedule that helps pixel-space models better learn fine-grained detail. This study looks at how models trained on the architecture perform when trained for longer as a pressure test along the way towards larger models and video. Examples of images generated by the resulting model are available.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linum.ai/field-notes/pjit-21k"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-04",
     "section": "Engineering & Research",
     "title": "How to Balance AI Value and Risk: Takeaways from the Gartner IT Symposium/Xpo™ 2026",
     "url": "https://www.gartner.com/en/chief-information-officer/insights/2026-itsym-keynote-ec?utm_source=tldr&utm_medium=display&utm_campaign=GTR_GB_2026_GTR_PD_DS15_AITLDRNL&utm_term=hubpage",
@@ -315,18 +315,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://gartner.com/en/chief-information-officer/insights/2026-itsym-keynote-ec"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-04",
-    "section": "Engineering & Research",
-    "title": "Accelerating engineering for the physical world",
-    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/?utm_source=tldrai",
-    "summary": "OpenAI is leveraging its AI models to enhance mechanical and electrical engineering processes, from design to simulation and production, speeding up internal workflows and improving industry practices. Engineers utilize models like GPT‑6 Astra for tasks such as device design, CAD model creation, and performance simulations, while collaborating with companies like Mazda to explore applications in vehicle aerodynamics.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
    },
    {
     "newsletter": "ai",
@@ -351,6 +339,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anthropic.com/research/provable-inference"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-04",
+    "section": "Engineering & Research",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/?utm_source=tldrai",
+    "summary": "OpenAI is leveraging its AI models to enhance mechanical and electrical engineering processes, from design to simulation and production, speeding up internal workflows and improving industry practices. Engineers utilize models like GPT‑6 Astra for tasks such as device design, CAD model creation, and performance simulations, while collaborating with companies like Mazda to explore applications in vehicle aerodynamics.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
    },
    {
     "newsletter": "ai",
@@ -1582,18 +1582,6 @@
     "newsletter": "crypto",
     "date": "2026-11-04",
     "section": "Innovation & Launches",
-    "title": "Introducing Silver: Gattaca's New Ethereum Consensus Client",
-    "url": "https://x.com/gattacahq/status/2115835196360569086?utm_source=tldrcrypto",
-    "summary": "Silver is an open-source Ethereum consensus client built from scratch. It recorded median block-processing latency of 6.5ms (5.2x faster than next-best) and p99 of 9.5ms (9.6x faster) across 20,300 canonical mainnet blocks benchmarked against Prysm, Lighthouse, and Grandine from October 17-20. The performance gains stem from Gattaca's thread-per-core, share-nothing Flux runtime with six CPU-pinned tiles, a new p2p layer supporting up to 2 Gbit/s gossip traffic, and a formally verified BLS/KZG crypto library delivering 2x+ throughput over existing implementations. Gattaca's roadmap targets EIP-8198 (Quick Slots for shorter slot times) and EIP-8292 (post-quantum attestation), with plans to publish the underlying libraries so other client teams can adopt them. Silver is currently in alpha, with audits and final testing still pending.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/gattacahq/status/2115835196360569086"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-04",
-    "section": "Innovation & Launches",
     "title": "Consensys launches cross-ledger settlement and routing stack",
     "url": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375?utm_source=tldrcrypto",
     "summary": "Launched at Devcon in Mumbai, “Sovereign Network Interoperability” lets banks settle across independently run blockchains without moving assets off their native ledgers. It covers securities settlement, collateral mobility, wholesale and cross-currency payments, and funds servicing. A Cross Ledger Interoperability Protocol built on zero-knowledge research verifies cross-ledger state cryptographically, with no bridges. An institution sets its requirements and approved counterparties, and the software picks a route, coordinates execution, and tracks the result. EVM networks are supported now, with Canton planned, and it will also support the Ethereum Economic Zone standard and IBC. The launch follows Consensys' October 8 ClearToken partnership and September split of MetaMask from its institutional business.",
@@ -1605,14 +1593,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-11-04",
-    "section": "Guides & Resources",
-    "title": "The Next Front in the Personal Agent Wars: Consumer Finance",
-    "url": "https://x.com/FTDA_US/status/2115847526859591803?utm_source=tldrcrypto",
-    "summary": "Dedicated finance AI agents will displace general competitors like Meta's Muse and Instinct for money management, because their incentives run in opposite directions: general agents monetize via transaction fees and advertising, rewarding spending, while finance agents succeed when users save more. Licensing and fiduciary obligations compound the divide, as general agents lack the compliance infrastructure to move money, recommend investments, or manage debt. Crypto rails resolve the infrastructure gap: agent-owned wallets interact with any protocol without logins, programmable conditions enforce user limits at the wallet layer, and stablecoin settlement runs 24/7 with every action auditable on-chain. The projected end state pairs a life-concierge general agent with a finance CFO agent coordinating via agent-to-agent messaging, with US stablecoin legislation now providing a regulated on-chain rail from launch.",
-    "read_minutes": 8,
+    "section": "Innovation & Launches",
+    "title": "Introducing Silver: Gattaca's New Ethereum Consensus Client",
+    "url": "https://x.com/gattacahq/status/2115835196360569086?utm_source=tldrcrypto",
+    "summary": "Silver is an open-source Ethereum consensus client built from scratch. It recorded median block-processing latency of 6.5ms (5.2x faster than next-best) and p99 of 9.5ms (9.6x faster) across 20,300 canonical mainnet blocks benchmarked against Prysm, Lighthouse, and Grandine from October 17-20. The performance gains stem from Gattaca's thread-per-core, share-nothing Flux runtime with six CPU-pinned tiles, a new p2p layer supporting up to 2 Gbit/s gossip traffic, and a formally verified BLS/KZG crypto library delivering 2x+ throughput over existing implementations. Gattaca's roadmap targets EIP-8198 (Quick Slots for shorter slot times) and EIP-8292 (post-quantum attestation), with plans to publish the underlying libraries so other client teams can adopt them. Silver is currently in alpha, with audits and final testing still pending.",
+    "read_minutes": 6,
     "kind": null,
     "sponsored": false,
-    "key": "https://x.com/FTDA_US/status/2115847526859591803"
+    "key": "https://x.com/gattacahq/status/2115835196360569086"
    },
    {
     "newsletter": "crypto",
@@ -1625,6 +1613,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/alfongj/status/2116940733403853025"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-04",
+    "section": "Guides & Resources",
+    "title": "The Next Front in the Personal Agent Wars: Consumer Finance",
+    "url": "https://x.com/FTDA_US/status/2115847526859591803?utm_source=tldrcrypto",
+    "summary": "Dedicated finance AI agents will displace general competitors like Meta's Muse and Instinct for money management, because their incentives run in opposite directions: general agents monetize via transaction fees and advertising, rewarding spending, while finance agents succeed when users save more. Licensing and fiduciary obligations compound the divide, as general agents lack the compliance infrastructure to move money, recommend investments, or manage debt. Crypto rails resolve the infrastructure gap: agent-owned wallets interact with any protocol without logins, programmable conditions enforce user limits at the wallet layer, and stablecoin settlement runs 24/7 with every action auditable on-chain. The projected end state pairs a life-concierge general agent with a finance CFO agent coordinating via agent-to-agent messaging, with US stablecoin legislation now providing a regulated on-chain rail from launch.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/FTDA_US/status/2115847526859591803"
    },
    {
     "newsletter": "crypto",
@@ -1934,18 +1934,6 @@
     "newsletter": "hardware",
     "date": "2026-11-04",
     "section": "Miscellaneous",
-    "title": "Agility lists at roughly 1,550x 2025 sales with a -151% gross margin, while Unitree's humanoid margin premium shrinks",
-    "url": "https://read.corematter.com/p/agility-unitree-humanoid-financials-compared?utm_source=tldrhardware",
-    "summary": "Agility goes public via SPAC at roughly $2.8 billion on $1.8 million of 2025 revenue. Its gross margin was -151%, since a Digit costs about $125,000 to build against a $75,000 target. Unitree is worth about $40 billion on $239 million of revenue and 5,500 humanoids sold, but its gross margin slipped to 54%, and humanoids' margin edge over its other products shrank to 6 points. Agility spends about 4.5x Unitree's R&D on 1/134th of its revenue.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://read.corematter.com/p/agility-unitree-humanoid-financials-compared"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-04",
-    "section": "Miscellaneous",
     "title": "Northwood Space raises $375M at a $2B valuation to scale satellite communications gear",
     "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth?utm_source=tldrhardware",
     "summary": "Northwood Space raised a $375 million Series C at a $2 billion valuation, co-led by a16z and DFJ Growth, alongside a financing agreement with HSBC. Founded in 2022 and led by CEO Bridgit Mendler, it builds antennas and software that help satellites communicate with Earth. It raised a $100 million Series B in January and won a nearly $50 million Space Force contract to upgrade the satellite control network.",
@@ -1953,6 +1941,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-04",
+    "section": "Miscellaneous",
+    "title": "Agility lists at roughly 1,550x 2025 sales with a -151% gross margin, while Unitree's humanoid margin premium shrinks",
+    "url": "https://read.corematter.com/p/agility-unitree-humanoid-financials-compared?utm_source=tldrhardware",
+    "summary": "Agility goes public via SPAC at roughly $2.8 billion on $1.8 million of 2025 revenue. Its gross margin was -151%, since a Digit costs about $125,000 to build against a $75,000 target. Unitree is worth about $40 billion on $239 million of revenue and 5,500 humanoids sold, but its gross margin slipped to 54%, and humanoids' margin edge over its other products shrank to 6 points. Agility spends about 4.5x Unitree's R&D on 1/134th of its revenue.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://read.corematter.com/p/agility-unitree-humanoid-financials-compared"
    },
    {
     "newsletter": "hardware",
