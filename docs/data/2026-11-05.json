@@ -150,18 +150,6 @@
     "newsletter": "tech",
     "date": "2026-11-05",
     "section": "Quick Links",
-    "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic's Dollar Growth",
-    "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/?utm_source=tldrnewsletter",
-    "summary": "Adoption across all other firms is still rising.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-05",
-    "section": "Quick Links",
     "title": "Watts in Store for 2027: The AI Ceiling",
     "url": "https://tomtunguz.com/watts-in-store-for-2027-inference?utm_source=tldrnewsletter",
     "summary": "US AI capacity will grow from 38 GW today to an 81 GW ceiling in 2027.",
@@ -217,6 +205,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-05",
+    "section": "Quick Links",
+    "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic's Dollar Growth",
+    "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/?utm_source=tldrnewsletter",
+    "summary": "Adoption across all other firms is still rising.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth"
    }
   ],
   "ai": [
@@ -404,6 +404,18 @@
     "newsletter": "ai",
     "date": "2026-11-05",
     "section": "Quick Links",
+    "title": "Kimi-K3.1-Pro",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro?utm_source=tldrai",
+    "summary": "Kimi K3.1 Pro, the latest in the 3T-class models, excels in multimodal tasks, improving outputs in coding, 3D creation, and factual accuracy with a million-token context window.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-05",
+    "section": "Quick Links",
     "title": "Web grounding for the Decisions API",
     "url": "https://www.perplexity.ai/hub/blog/web-grounding-for-the-decisions-api?utm_source=tldrai",
     "summary": "Perplexity's Decisions API can now search the web before it answers.",
@@ -423,18 +435,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/_catwu/status/2118137612577968402"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-05",
-    "section": "Quick Links",
-    "title": "Kimi-K3.1-Pro",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro?utm_source=tldrai",
-    "summary": "Kimi K3.1 Pro, the latest in the 3T-class models, excels in multimodal tasks, improving outputs in coding, 3D creation, and factual accuracy with a million-token context window.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
    }
   ],
   "webdev": [
@@ -696,18 +696,6 @@
     "newsletter": "infosec",
     "date": "2026-11-05",
     "section": "Strategies & Tactics",
-    "title": "You Had Me at “Hello”: Inside The Greeter, A Chinese‑Language Framework Targeting AI Infrastructure",
-    "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack?utm_source=tldrinfosec",
-    "summary": "Era researchers tracked a Chinese-language framework, Greeter, exploiting Flowise's overrideConfig code-injection flaw (CVE-2024-58351) across seven honeypots from July to October. Each “hello” request delivered a different command through javascriptFunction, without changing the saved chatflow. The framework ran host reconnaissance, searched .env files, SSH keys, and Flowise encryption keys, probed AWS, Azure, and Google Cloud metadata services, and checked Docker socket access, Linux capabilities, persistence paths, and memory-based execution. Of 3,277 identifiable internet-exposed Flowise instances, 703 lacked authentication. 46 matched the honeypot's vulnerable conditions.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-05",
-    "section": "Strategies & Tactics",
     "title": "Why Conventional Reputation Feeds Miss Software Supply Chain Attacks",
     "url": "https://opensourcemalware.com/blog/why-conventional-reputation-feeds-miss-software-supply-chain-attacks?utm_source=tldrinfosec",
     "summary": "Conventional threat intelligence feeds and multi-engine scanners fail to detect most software supply chain attacks on day zero, exposing organizations to malicious package behavior for months after public disclosure. Research indicates that blind-spot rates for supply chain attacks in these reputation tools range from 70% to 90%. General-purpose security tools remain ineffective against these threats because they are designed to detect inbound perimeter probes rather than malicious package behavior.",
@@ -715,6 +703,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://opensourcemalware.com/blog/why-conventional-reputation-feeds-miss-software-supply-chain-attacks"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-05",
+    "section": "Strategies & Tactics",
+    "title": "You Had Me at “Hello”: Inside The Greeter, A Chinese‑Language Framework Targeting AI Infrastructure",
+    "url": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack?utm_source=tldrinfosec",
+    "summary": "Era researchers tracked a Chinese-language framework, Greeter, exploiting Flowise's overrideConfig code-injection flaw (CVE-2024-58351) across seven honeypots from July to October. Each “hello” request delivered a different command through javascriptFunction, without changing the saved chatflow. The framework ran host reconnaissance, searched .env files, SSH keys, and Flowise encryption keys, probed AWS, Azure, and Google Cloud metadata services, and checked Docker socket access, Linux capabilities, persistence paths, and memory-based execution. Of 3,277 identifiable internet-exposed Flowise instances, 703 lacked authentication. 46 matched the honeypot's vulnerable conditions.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://era.security/blog/greeter-flowise-ai-infrastructure-attack"
    },
    {
     "newsletter": "infosec",
@@ -792,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-11-05",
     "section": "Quick Links",
-    "title": "Residential Proxies Detected on White House Network",
-    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network?utm_source=tldrinfosec",
-    "summary": "Proxy-detection vendor Layer3 Intel says its probes exited through the White House's own network (AS2650) 236 times in a month via 6 addresses and 28 commercial residential proxy services.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://layer3intel.com/blog/residential-proxies-white-house-network"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-05",
-    "section": "Quick Links",
     "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
     "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html?utm_source=tldrinfosec",
     "summary": "Chainstack says an attacker entered via a third-party component on October 26 and reached production systems, accessing customer names, organizational details, email addresses, and password hashes.",
@@ -811,6 +799,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-05",
+    "section": "Quick Links",
+    "title": "Residential Proxies Detected on White House Network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network?utm_source=tldrinfosec",
+    "summary": "Proxy-detection vendor Layer3 Intel says its probes exited through the White House's own network (AS2650) 236 times in a month via 6 addresses and 28 commercial residential proxy services.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://layer3intel.com/blog/residential-proxies-white-house-network"
    },
    {
     "newsletter": "infosec",
@@ -950,18 +950,6 @@
     "newsletter": "data",
     "date": "2026-11-05",
     "section": "Launches & Tools",
-    "title": "Apache Hudi-rs 0.6.0: Native Writes from Rust and Python",
-    "url": "https://hudi.apache.org/blog/2026/11/03/apache-hudi-rs-0-6-0-release-announcement?utm_source=tldrdata",
-    "summary": "Apache Hudi-rs 0.6.0 introduces native write support for Rust and Python, allowing applications to create, append, update, upsert, and delete records without Spark or a JVM. Its record-level index enables sub-second small-batch updates on tables containing millions of rows. The release also improves Python read performance by up to 6x while maintaining compatibility with existing Hudi query engines.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://hudi.apache.org/blog/2026/11/03/apache-hudi-rs-0-6-0-release-announcement"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-05",
-    "section": "Launches & Tools",
     "title": "SurrealDB 4",
     "url": "https://surrealdb.com/4?utm_source=tldrdata",
     "summary": "SurrealDB 4 rebuilds the query engine with 240+ fixes. It reports 42% faster CRUD operations and projects 22x faster indexed queries, while adding PostgreSQL, MySQL, and MongoDB compatibility. The same engine powers Earth's serverless databases on Cloudflare and SurrealDS' distributed clusters, which confirm writes only after storing them across two zones.",
@@ -969,6 +957,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://surrealdb.com/4"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-05",
+    "section": "Launches & Tools",
+    "title": "Apache Hudi-rs 0.6.0: Native Writes from Rust and Python",
+    "url": "https://hudi.apache.org/blog/2026/11/03/apache-hudi-rs-0-6-0-release-announcement?utm_source=tldrdata",
+    "summary": "Apache Hudi-rs 0.6.0 introduces native write support for Rust and Python, allowing applications to create, append, update, upsert, and delete records without Spark or a JVM. Its record-level index enables sub-second small-batch updates on tables containing millions of rows. The release also improves Python read performance by up to 6x while maintaining compatibility with existing Hudi query engines.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hudi.apache.org/blog/2026/11/03/apache-hudi-rs-0-6-0-release-announcement"
    },
    {
     "newsletter": "data",
@@ -1048,18 +1048,6 @@
     "newsletter": "design",
     "date": "2026-11-05",
     "section": "News & Trends",
-    "title": "iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari",
-    "url": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/?utm_source=tldrdesign",
-    "summary": "Apple is introducing vertical tabs in Safari's developer betas across iPhone, iPad, and Mac, with tabs displayed as compact icons in a left sidebar that can expand to show website titles. A new Adaptive Dark Mode can automatically generate dark versions of websites that lack native support, either on demand or through a persistent preference. Siri AI can also organize, sort, move, and close tabs, with broader awareness of webpage content planned for a future update.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-05",
-    "section": "News & Trends",
     "title": "Adobe Premiere Mobile App is Getting Licensed Music from Universal and Warner Music",
     "url": "https://www.digitaltrends.com/phones/adobe-premiere-mobile-app-is-getting-licensed-music-from-universal-and-warner-music/?utm_source=tldrdesign",
     "summary": "Adobe is bringing licensed tracks from Universal Music Group and Warner Music Group into its Premiere mobile app, searchable by genre and duration. Videos using them can be shared on social media without copyright strikes, though only for personal use. Each video can include no more than 60 seconds of a song.",
@@ -1079,6 +1067,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-05",
+    "section": "News & Trends",
+    "title": "iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari",
+    "url": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/?utm_source=tldrdesign",
+    "summary": "Apple is introducing vertical tabs in Safari's developer betas across iPhone, iPad, and Mac, with tabs displayed as compact icons in a left sidebar that can expand to show website titles. A new Adaptive Dark Mode can automatically generate dark versions of websites that lack native support, either on demand or through a persistent preference. Siri AI can also organize, sort, move, and close tabs, with broader awareness of webpage content planned for a future update.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari"
    },
    {
     "newsletter": "design",
@@ -1168,18 +1168,6 @@
     "newsletter": "design",
     "date": "2026-11-05",
     "section": "Miscellaneous",
-    "title": "Tokenizer Mono",
-    "url": "https://george.mand.is/2026/11/the-tokenizer-font/?utm_source=tldrdesign",
-    "summary": "Tokenizer Mono is an experimental typeface based on IBM Plex Mono that visualizes how language models split text into tokens, using OpenType features to highlight boundaries directly as someone types without running a tokenizer in JavaScript. Its 28 styles represent different tokenizers from OpenAI, Meta, Google, DeepSeek, and others, combining contextual glyph substitutions with built-in color palettes to approximate token boundaries. Most styles achieve roughly 98% agreement with real tokenizers in testing, demonstrating how advanced font technology can perform surprisingly complex text processing while revealing its limitations around line breaks, uncommon words, and tokenization algorithms.",
-    "read_minutes": 30,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://george.mand.is/2026/11/the-tokenizer-font"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-05",
-    "section": "Miscellaneous",
     "title": "How Afternow put Kinetik's identity and four products into one system",
     "url": "https://the-brandidentity.com/project/how-afternow-put-kinetiks-identity-and-four-products-into-one-system?utm_source=tldrdesign",
     "summary": "Afternow redesigned healthcare transportation platform Kinetik around painterly city landscapes inspired by the view from a car window, replacing conventional clinical imagery with a warmer visual language built from purple, deep greens, gold, salmon, and lavender. GT Alpina provides expressive editorial typography, DM Sans supports accessible product interfaces, and AI-generated landscapes are carefully art-directed with documented prompts to maintain consistency. The identity extends across four products through a shared design system containing more than 300 components and 2,000 screens, using tokens to adapt spacing, density, and accessibility for administrators, transportation providers, and elderly patients.",
@@ -1191,14 +1179,14 @@
    {
     "newsletter": "design",
     "date": "2026-11-05",
-    "section": "Quick Links",
-    "title": "Dutch Digital Artist Creates the Most Warm, Ethereal Artworks You Will Ever Lay Eyes On",
-    "url": "https://designyoutrust.com/2026/10/dutch-digital-artist-creates-the-most-warm-ethereal-artworks-you-will-ever-lay-eyes-on/?utm_source=tldrdesign",
-    "summary": "Utrecht-based digital artist and animator Lois van Baarle, known as Loish, paints expressive female figures in soft, glowing light, rich color, and flowing hair and clothing.",
-    "read_minutes": 1,
+    "section": "Miscellaneous",
+    "title": "Tokenizer Mono",
+    "url": "https://george.mand.is/2026/11/the-tokenizer-font/?utm_source=tldrdesign",
+    "summary": "Tokenizer Mono is an experimental typeface based on IBM Plex Mono that visualizes how language models split text into tokens, using OpenType features to highlight boundaries directly as someone types without running a tokenizer in JavaScript. Its 28 styles represent different tokenizers from OpenAI, Meta, Google, DeepSeek, and others, combining contextual glyph substitutions with built-in color palettes to approximate token boundaries. Most styles achieve roughly 98% agreement with real tokenizers in testing, demonstrating how advanced font technology can perform surprisingly complex text processing while revealing its limitations around line breaks, uncommon words, and tokenization algorithms.",
+    "read_minutes": 30,
     "kind": null,
     "sponsored": false,
-    "key": "https://designyoutrust.com/2026/10/dutch-digital-artist-creates-the-most-warm-ethereal-artworks-you-will-ever-lay-eyes-on"
+    "key": "https://george.mand.is/2026/11/the-tokenizer-font"
    },
    {
     "newsletter": "design",
@@ -1211,6 +1199,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://digitaltrends.com/computing/chromes-new-menu-search-makes-settings-and-bookmarks-easier-to-find"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-05",
+    "section": "Quick Links",
+    "title": "Dutch Digital Artist Creates the Most Warm, Ethereal Artworks You Will Ever Lay Eyes On",
+    "url": "https://designyoutrust.com/2026/10/dutch-digital-artist-creates-the-most-warm-ethereal-artworks-you-will-ever-lay-eyes-on/?utm_source=tldrdesign",
+    "summary": "Utrecht-based digital artist and animator Lois van Baarle, known as Loish, paints expressive female figures in soft, glowing light, rich color, and flowing hair and clothing.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://designyoutrust.com/2026/10/dutch-digital-artist-creates-the-most-warm-ethereal-artworks-you-will-ever-lay-eyes-on"
    },
    {
     "newsletter": "design",
@@ -1266,18 +1266,6 @@
     "newsletter": "marketing",
     "date": "2026-11-05",
     "section": "Strategies & Tactics",
-    "title": "Created a Content Collab Formula to Drive Revenue & Newsletter Signups",
-    "url": "https://thetrove.io/artifacts/483?utm_source=tldrmarketing",
-    "summary": "Content partnerships can drive newsletter growth without paid placements. Start by identifying newsletters with overlapping audiences and pitch data-backed research that fits their readers. Build the relationship before asking for promotional CTAs. Then actively promote each collaboration to make it worthwhile for both sides. One company attributes 60-70% of new newsletter signups to 3 recommendation engines that continue driving subscribers months after the original collaborations.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thetrove.io/artifacts/483"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-05",
-    "section": "Strategies & Tactics",
     "title": "He's done 852 B2B video ads, here's what the top 1% have in common",
     "url": "https://demandcollective.substack.com/p/hes-done-852-b2b-video-ads-heres?utm_source=tldrmarketing",
     "summary": "The strongest B2B video ads are built for a viewer who will probably skip them. The brand name lands in the first 5 seconds, and the product appears one feature at a time as a simple input and output. Hooks name a specific, emotional problem, and benefits become a moment the viewer can picture instead of a promise of saved time. Each cut is made for its specific channel, with an exaggerated prop like a dusty onboarding binder to make it more memorable.",
@@ -1285,6 +1273,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://demandcollective.substack.com/p/hes-done-852-b2b-video-ads-heres"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-05",
+    "section": "Strategies & Tactics",
+    "title": "Created a Content Collab Formula to Drive Revenue & Newsletter Signups",
+    "url": "https://thetrove.io/artifacts/483?utm_source=tldrmarketing",
+    "summary": "Content partnerships can drive newsletter growth without paid placements. Start by identifying newsletters with overlapping audiences and pitch data-backed research that fits their readers. Build the relationship before asking for promotional CTAs. Then actively promote each collaboration to make it worthwhile for both sides. One company attributes 60-70% of new newsletter signups to 3 recommendation engines that continue driving subscribers months after the original collaborations.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thetrove.io/artifacts/483"
    },
    {
     "newsletter": "marketing",
@@ -1302,18 +1302,6 @@
     "newsletter": "marketing",
     "date": "2026-11-05",
     "section": "Resources & Tools",
-    "title": "HTML vs. XML Sitemaps for Ecommerce",
-    "url": "https://www.practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce?utm_source=tldrmarketing",
-    "summary": "Ecommerce sites should use both XML and HTML sitemaps to improve page discovery, crawling, and indexing. XML sitemaps automatically list every URL intended for indexing, while HTML sitemaps provide users and search engines with links to important categories, subcategories, and site pages. HTML sitemaps can also strengthen internal linking and help reduce the number of pages that Google crawls but does not index. Neither replaces a well-organized site hierarchy or strong internal linking, but HTML sitemaps can serve as a temporary solution during site restructures.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-05",
-    "section": "Resources & Tools",
     "title": "How to use Google Analytics for social media (GA4 setup + reports)",
     "url": "https://blog.hootsuite.com/google-analytics-social-media/?utm_source=tldrmarketing",
     "summary": "Use GA4 to measure what happens after someone clicks a social media link by tracking website traffic, engagement, conversions, and revenue. Start by setting up key events for actions like form submissions, purchases, and signups, then add UTM parameters to every social link to identify the platform, campaign, and specific post generating traffic. Use GA4's Traffic Acquisition, User Acquisition, Landing Page, and Attribution reports to compare platform performance, evaluate landing pages, and understand how social contributes to conversions across the customer journey. Build a Looker Studio dashboard to track these metrics over time and report social media's contribution to leads and revenue.",
@@ -1321,6 +1309,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.hootsuite.com/google-analytics-social-media"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-05",
+    "section": "Resources & Tools",
+    "title": "HTML vs. XML Sitemaps for Ecommerce",
+    "url": "https://www.practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce?utm_source=tldrmarketing",
+    "summary": "Ecommerce sites should use both XML and HTML sitemaps to improve page discovery, crawling, and indexing. XML sitemaps automatically list every URL intended for indexing, while HTML sitemaps provide users and search engines with links to important categories, subcategories, and site pages. HTML sitemaps can also strengthen internal linking and help reduce the number of pages that Google crawls but does not index. Neither replaces a well-organized site hierarchy or strong internal linking, but HTML sitemaps can serve as a temporary solution during site restructures.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce"
    },
    {
     "newsletter": "marketing",
@@ -1374,18 +1374,6 @@
     "newsletter": "marketing",
     "date": "2026-11-05",
     "section": "Quick Links",
-    "title": "We Are Testing Ad Placements in Reddit Search Pages",
-    "url": "https://redditinc.com/news/we-are-testing-ad-placements-in-reddit-search-pages?utm_source=tldrmarketing",
-    "summary": "Half of Reddit users say the platform helps them discover something new, which makes its search pages a high-intent spot for ads.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://redditinc.com/news/we-are-testing-ad-placements-in-reddit-search-pages"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-05",
-    "section": "Quick Links",
     "title": "Canva Cut 1,271 Roles Without Blaming AI. ChatGPT is Still Eating its Free Tier",
     "url": "https://www.thestateofbrand.com/news/canva-layoffs-22-percent-workforce?utm_source=tldrmarketing",
     "summary": "Canva is betting on brand management as AI makes design creation easier and cheaper.",
@@ -1393,6 +1381,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thestateofbrand.com/news/canva-layoffs-22-percent-workforce"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-05",
+    "section": "Quick Links",
+    "title": "We Are Testing Ad Placements in Reddit Search Pages",
+    "url": "https://redditinc.com/news/we-are-testing-ad-placements-in-reddit-search-pages?utm_source=tldrmarketing",
+    "summary": "Half of Reddit users say the platform helps them discover something new, which makes its search pages a high-intent spot for ads.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://redditinc.com/news/we-are-testing-ad-placements-in-reddit-search-pages"
    }
   ],
   "founders": [
@@ -1606,18 +1606,6 @@
     "newsletter": "crypto",
     "date": "2026-11-05",
     "section": "Innovation & Launches",
-    "title": "Mastercard and OpenAI Build the Payment Rails for AI Agents",
-    "url": "https://threadreaderapp.com/thread/2117234254010613774.html?utm_source=tldrcrypto",
-    "summary": "Mastercard formalized a strategic partnership with OpenAI anchored by a four-product agentic commerce stack addressing payment trust, agent trust, ecosystem trust, and merchant discoverability. The four products are Agent Pay (tokenized payments for AI agents), Verifiable Intent (buyer authorization capture), Agentic Trust Intelligence (bank and merchant risk scoring for AI-initiated transactions), and Agent Connect (merchant discovery by AI agents). Shopify's Shop Pay is among the first live deployments. Mastercard is betting on network tokens over one-time virtual card numbers as the core primitive. Visa, Stripe, and PayPal are building parallel infrastructure. Holiday shopping is expected to be the first high-volume stress test for agentic payment rails at scale.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2117234254010613774.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-05",
-    "section": "Innovation & Launches",
     "title": "Solar: Paradigm's 100x Faster Solidity Compiler",
     "url": "https://threadreaderapp.com/thread/2117326277363597751.html?utm_source=tldrcrypto",
     "summary": "Paradigm's Solar is a new Solidity compiler that compiles contracts over 100x faster than Solc, the current standard. Beyond compilation speed, Solar produces more EVM-efficient bytecode than Solady without requiring inline assembly, reducing on-chain execution costs for deployed contracts. The compiler also resolves the Stack Too Deep error, a long-standing constraint that forced Solidity developers to restructure code or rely on workarounds. Solar is available now via Foundry: run foundryup, then forge --use solar.",
@@ -1629,14 +1617,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-11-05",
-    "section": "Guides & Resources",
-    "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
-    "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
-    "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction.",
+    "section": "Innovation & Launches",
+    "title": "Mastercard and OpenAI Build the Payment Rails for AI Agents",
+    "url": "https://threadreaderapp.com/thread/2117234254010613774.html?utm_source=tldrcrypto",
+    "summary": "Mastercard formalized a strategic partnership with OpenAI anchored by a four-product agentic commerce stack addressing payment trust, agent trust, ecosystem trust, and merchant discoverability. The four products are Agent Pay (tokenized payments for AI agents), Verifiable Intent (buyer authorization capture), Agentic Trust Intelligence (bank and merchant risk scoring for AI-initiated transactions), and Agent Connect (merchant discovery by AI agents). Shopify's Shop Pay is among the first live deployments. Mastercard is betting on network tokens over one-time virtual card numbers as the core primitive. Visa, Stripe, and PayPal are building parallel infrastructure. Holiday shopping is expected to be the first high-volume stress test for agentic payment rails at scale.",
     "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2117322178853240919.html"
+    "key": "https://threadreaderapp.com/thread/2117234254010613774.html"
    },
    {
     "newsletter": "crypto",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/CLR_Fomo/status/2117260547351548359"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-05",
+    "section": "Guides & Resources",
+    "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
+    "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
+    "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2117322178853240919.html"
    },
    {
     "newsletter": "crypto",
@@ -1776,6 +1776,18 @@
     "newsletter": "fintech",
     "date": "2026-11-05",
     "section": "Deep Dives & Reports",
+    "title": "NetSuite founder says “ERP as we know it is over”",
+    "url": "https://www.linkedin.com/pulse/end-erp-we-know-evan-goldberg-cyrgc/?utm_source=tldrfintech",
+    "summary": "AI will change ERP more profoundly than cloud computing by shifting software from a system people operate into one that understands business context and increasingly performs work on their behalf. NetSuite is pushing this through NetSuite Next, MCP-based AI connectors and SuiteSkills, industry-specific agents, faster AI-assisted implementations, and an “Autonomous Suite” where agents handle tasks such as reconciliations, approvals, and close exceptions while staying within existing permissions and controls.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/pulse/end-erp-we-know-evan-goldberg-cyrgc"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-05",
+    "section": "Deep Dives & Reports",
     "title": "Payments are the new ads",
     "url": "https://www.fintechbrainfood.com/p/payments-new-ads?utm_source=tldrfintech",
     "summary": "The one-time virtual cards behind most agent purchases today are a fragile bridge, breaking rewards, purchase protection, and checkout flows, while banks hold off on issuing agent network tokens until liability is settled. Meanwhile, agent platforms are routing around banks with prefunded stablecoin balances, where the bank sees one top-up and the platform earns roughly 4x more per $100 than on a virtual card. As agents erode ad revenue, platforms like Meta (charging fees on Muse-completed sales) will turn to payments to monetize, and banks risk losing the customer unless they step in to own agent liability.",
@@ -1795,18 +1807,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fintechbrainfood.com/p/sweat-the-details"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-05",
-    "section": "Deep Dives & Reports",
-    "title": "NetSuite founder says “ERP as we know it is over”",
-    "url": "https://www.linkedin.com/pulse/end-erp-we-know-evan-goldberg-cyrgc/?utm_source=tldrfintech",
-    "summary": "AI will change ERP more profoundly than cloud computing by shifting software from a system people operate into one that understands business context and increasingly performs work on their behalf. NetSuite is pushing this through NetSuite Next, MCP-based AI connectors and SuiteSkills, industry-specific agents, faster AI-assisted implementations, and an “Autonomous Suite” where agents handle tasks such as reconciliations, approvals, and close exceptions while staying within existing permissions and controls.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/pulse/end-erp-we-know-evan-goldberg-cyrgc"
    },
    {
     "newsletter": "fintech",
@@ -1872,18 +1872,6 @@
     "newsletter": "fintech",
     "date": "2026-11-05",
     "section": "Miscellaneous",
-    "title": "AI financing drives private credit growth as refinancing risks rise",
-    "url": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/?utm_source=tldrfintech",
-    "summary": "AI infrastructure is expanding private credit beyond traditional corporate lending into land, power, semiconductors, and compute, with hyperscalers and CoreWeave expected to spend nearly $1 trillion in 2027 using cash flow, debt, joint ventures, and SPVs. The risk is a large refinancing wall from 2027 to 2029, especially for weaker borrowers using PIK interest, while increasingly circular financing between chipmakers, AI developers, and infrastructure providers could create correlated losses in a downturn.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-05",
-    "section": "Miscellaneous",
     "title": "API-Driven Commerce: How Programmable Money is Automated for Modern B2B Marketplaces",
     "url": "https://www.finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces?utm_source=tldrfintech",
     "summary": "B2B marketplaces routinely process transactions involving three suppliers, four tax jurisdictions, net-60 terms, and a platform take-rate. Handling these payment flows via batch processing or manual finance ops creates immediate bottlenecks. Moving money across complex seller networks requires treating currency as software logic rather than static banking entries.",
@@ -1891,6 +1879,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-05",
+    "section": "Miscellaneous",
+    "title": "AI financing drives private credit growth as refinancing risks rise",
+    "url": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/?utm_source=tldrfintech",
+    "summary": "AI infrastructure is expanding private credit beyond traditional corporate lending into land, power, semiconductors, and compute, with hyperscalers and CoreWeave expected to spend nearly $1 trillion in 2027 using cash flow, debt, joint ventures, and SPVs. The risk is a large refinancing wall from 2027 to 2029, especially for weaker borrowers using PIK interest, while increasingly circular financing between chipmakers, AI developers, and infrastructure providers could create correlated losses in a downturn.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27"
    },
    {
     "newsletter": "fintech",
@@ -2090,18 +2090,6 @@
     "newsletter": "it",
     "date": "2026-11-05",
     "section": "Quick Links",
-    "title": "IBM launches managed HashiCorp Vault on dedicated infrastructure",
-    "url": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm?utm_source=tldrit",
-    "summary": "IBM Cloud Secrets Manager Vault Dedicated offers single-tenant Vault Enterprise deployments with IBM handling infrastructure and operations, alongside dynamic credentials, automated rotation, and policy-based access.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-05",
-    "section": "Quick Links",
     "title": "Google unveils $15 billion data center investment in Malaysia",
     "url": "https://techxplore.com/news/2026-11-google-unveils-billion-center-investment.html?utm_source=tldrit",
     "summary": "Google announced a $15 billion investment in Malaysia over the next two years to build data centers and other infrastructure to support surging demand for artificial intelligence services.",
@@ -2121,6 +2109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-05",
+    "section": "Quick Links",
+    "title": "IBM launches managed HashiCorp Vault on dedicated infrastructure",
+    "url": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm?utm_source=tldrit",
+    "summary": "IBM Cloud Secrets Manager Vault Dedicated offers single-tenant Vault Enterprise deployments with IBM handling infrastructure and operations, alongside dynamic credentials, automated rotation, and policy-based access.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm"
    }
   ]
  }

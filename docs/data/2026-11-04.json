@@ -332,18 +332,6 @@
     "newsletter": "ai",
     "date": "2026-11-04",
     "section": "Engineering & Research",
-    "title": "Progress on provable inference for large language models",
-    "url": "https://www.anthropic.com/research/provable-inference?utm_source=tldrai",
-    "summary": "It is almost impossible to verify which model produced a specific output. Cryptographic proofs of inference allow model providers to prove that preach suppose was produced which a specific model. These proofs could enable new applications and contribute to a toolkit for verifying compliance with AI pacing requirements. This post details the progress made on a powerful type of cryptographic proof uniquely fit for provable inference called zKSNARK.",
-    "read_minutes": 30,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/research/provable-inference"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-04",
-    "section": "Engineering & Research",
     "title": "Accelerating engineering for the physical world",
     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world/?utm_source=tldrai",
     "summary": "OpenAI is leveraging its AI models to enhance mechanical and electrical engineering processes, from design to simulation and production, speeding up internal workflows and improving industry practices. Engineers utilize models like GPT‑6 Astra for tasks such as device design, CAD model creation, and performance simulations, while collaborating with companies like Mazda to explore applications in vehicle aerodynamics.",
@@ -351,6 +339,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-04",
+    "section": "Engineering & Research",
+    "title": "Progress on provable inference for large language models",
+    "url": "https://www.anthropic.com/research/provable-inference?utm_source=tldrai",
+    "summary": "It is almost impossible to verify which model produced a specific output. Cryptographic proofs of inference allow model providers to prove that preach suppose was produced which a specific model. These proofs could enable new applications and contribute to a toolkit for verifying compliance with AI pacing requirements. This post details the progress made on a powerful type of cryptographic proof uniquely fit for provable inference called zKSNARK.",
+    "read_minutes": 30,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/research/provable-inference"
    },
    {
     "newsletter": "ai",
@@ -780,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-11-04",
     "section": "Miscellaneous",
-    "title": "How Cisco defends at machine speed with OpenAI",
-    "url": "https://openai.com/index/cisco-cyber/?utm_source=tldrinfosec",
-    "summary": "Cisco is pairing its network telemetry with OpenAI's Daybreak program and GPT-6 Astra to link signals that look harmless on their own and to speed up vulnerability patching, and Cisco's Jeetu Patel calls the gains \"step function improvements.\" Patel also argued that agent security will depend on telling a hijacked agent apart from one pursuing a legitimate goal in an unintended way. That will take security telemetry and observability data read side by side. The post is an OpenAI customer story with no metrics or technical detail behind its claims, so it reads more as a sign of where vendor AI partnerships are heading than as evidence of results.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/cisco-cyber"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-04",
-    "section": "Miscellaneous",
     "title": "Token thieves costing companies $100K+ per day in illicit LLM charges",
     "url": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967?utm_source=tldrinfosec",
     "summary": "Google Mandiant reports that criminals are stealing LLM API keys and cloud service account credentials, then running high-volume model inference at victims' expense. Charges reached $100,000 per day in one case and $1 million in total before access was revoked. One service, Jet Night, allegedly used stolen keys to offer access to frontier models for about $60 per month.",
@@ -799,6 +787,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-04",
+    "section": "Miscellaneous",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber/?utm_source=tldrinfosec",
+    "summary": "Cisco is pairing its network telemetry with OpenAI's Daybreak program and GPT-6 Astra to link signals that look harmless on their own and to speed up vulnerability patching, and Cisco's Jeetu Patel calls the gains \"step function improvements.\" Patel also argued that agent security will depend on telling a hijacked agent apart from one pursuing a legitimate goal in an unintended way. That will take security telemetry and observability data read side by side. The post is an OpenAI customer story with no metrics or technical detail behind its claims, so it reads more as a sign of where vendor AI partnerships are heading than as evidence of results.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/cisco-cyber"
    },
    {
     "newsletter": "infosec",
