@@ -1582,18 +1582,6 @@
     "newsletter": "crypto",
     "date": "2026-11-04",
     "section": "Innovation & Launches",
-    "title": "Consensys launches cross-ledger settlement and routing stack",
-    "url": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375?utm_source=tldrcrypto",
-    "summary": "Launched at Devcon in Mumbai, “Sovereign Network Interoperability” lets banks settle across independently run blockchains without moving assets off their native ledgers. It covers securities settlement, collateral mobility, wholesale and cross-currency payments, and funds servicing. A Cross Ledger Interoperability Protocol built on zero-knowledge research verifies cross-ledger state cryptographically, with no bridges. An institution sets its requirements and approved counterparties, and the software picks a route, coordinates execution, and tracks the result. EVM networks are supported now, with Canton planned, and it will also support the Ethereum Economic Zone standard and IBC. The launch follows Consensys' October 8 ClearToken partnership and September split of MetaMask from its institutional business.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-04",
-    "section": "Innovation & Launches",
     "title": "Introducing Silver: Gattaca's New Ethereum Consensus Client",
     "url": "https://x.com/gattacahq/status/2115835196360569086?utm_source=tldrcrypto",
     "summary": "Silver is an open-source Ethereum consensus client built from scratch. It recorded median block-processing latency of 6.5ms (5.2x faster than next-best) and p99 of 9.5ms (9.6x faster) across 20,300 canonical mainnet blocks benchmarked against Prysm, Lighthouse, and Grandine from October 17-20. The performance gains stem from Gattaca's thread-per-core, share-nothing Flux runtime with six CPU-pinned tiles, a new p2p layer supporting up to 2 Gbit/s gossip traffic, and a formally verified BLS/KZG crypto library delivering 2x+ throughput over existing implementations. Gattaca's roadmap targets EIP-8198 (Quick Slots for shorter slot times) and EIP-8292 (post-quantum attestation), with plans to publish the underlying libraries so other client teams can adopt them. Silver is currently in alpha, with audits and final testing still pending.",
@@ -1601,6 +1589,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/gattacahq/status/2115835196360569086"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-04",
+    "section": "Innovation & Launches",
+    "title": "Consensys launches cross-ledger settlement and routing stack",
+    "url": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375?utm_source=tldrcrypto",
+    "summary": "Launched at Devcon in Mumbai, “Sovereign Network Interoperability” lets banks settle across independently run blockchains without moving assets off their native ledgers. It covers securities settlement, collateral mobility, wholesale and cross-currency payments, and funds servicing. A Cross Ledger Interoperability Protocol built on zero-knowledge research verifies cross-ledger state cryptographically, with no bridges. An institution sets its requirements and approved counterparties, and the software picks a route, coordinates execution, and tracks the result. EVM networks are supported now, with Canton planned, and it will also support the Ethereum Economic Zone standard and IBC. The launch follows Consensys' October 8 ClearToken partnership and September split of MetaMask from its institutional business.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375"
    },
    {
     "newsletter": "crypto",
