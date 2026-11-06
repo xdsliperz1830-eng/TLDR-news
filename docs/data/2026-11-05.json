@@ -1836,18 +1836,6 @@
     "newsletter": "fintech",
     "date": "2026-11-05",
     "section": "Launches & Products",
-    "title": "Mastercard expands HDFC partnership to scale in India",
-    "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/?utm_source=tldrfintech",
-    "summary": "Mastercard expanded its partnership with HDFC Bank, India's largest private bank, with a new small-business agreement that could support roughly 3 million additional cards and more services sold through HDFC's 100 million-customer base. The strategy is to grow alongside India's UPI system, betting that greater digital-payment adoption will eventually push more consumers and businesses toward debit, credit, and other Mastercard products.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://paymentsdive.com/news/mastercard-scales-in-india/873405"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-05",
-    "section": "Launches & Products",
     "title": "OnePay introduces stablecoin deposits powered by Stripe",
     "url": "https://www.finextra.com/pressarticle/111557/onepay-introduces-stablecoin-deposits-powered-by-stripe?utm_source=tldrfintech",
     "summary": "Starting today, select customers in the US can use stablecoins to fund their OnePay Checking and receive the value as US dollars. Send stablecoins from an external wallet to a deposit address, and they are converted to US dollars and credited to your Checking balance within moments, with no conversion fees at launch.",
@@ -1855,6 +1843,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://finextra.com/pressarticle/111557/onepay-introduces-stablecoin-deposits-powered-by-stripe"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-05",
+    "section": "Launches & Products",
+    "title": "Mastercard expands HDFC partnership to scale in India",
+    "url": "https://www.paymentsdive.com/news/mastercard-scales-in-india/873405/?utm_source=tldrfintech",
+    "summary": "Mastercard expanded its partnership with HDFC Bank, India's largest private bank, with a new small-business agreement that could support roughly 3 million additional cards and more services sold through HDFC's 100 million-customer base. The strategy is to grow alongside India's UPI system, betting that greater digital-payment adoption will eventually push more consumers and businesses toward debit, credit, and other Mastercard products.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://paymentsdive.com/news/mastercard-scales-in-india/873405"
    },
    {
     "newsletter": "fintech",
