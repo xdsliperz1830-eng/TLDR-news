@@ -648,18 +648,6 @@
     "newsletter": "infosec",
     "date": "2026-11-05",
     "section": "Attacks & Vulnerabilities",
-    "title": "Cyberattack on French plasma stores is enough to make your blood boil",
-    "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519?utm_source=tldrinfosec",
-    "summary": "Attackers compromised a refrigeration supplier and altered cold-room settings at France's Blood Establishment, changing temperatures from -30°C to 110°C. EFS monitoring detected the changes. Staff controlled or isolated affected units and moved plasma and samples elsewhere. No blood products were lost. The incident follows European attacks on supermarket refrigeration, including defrost cycles that spoiled food. CERT-FR had urged remediation of vulnerabilities in Danfoss AK-SM and AK-SC controllers.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-05",
-    "section": "Attacks & Vulnerabilities",
     "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Breach",
     "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach?utm_source=tldrinfosec",
     "summary": "An unknown actor copied 27 SQL Server backup databases belonging to the Philippine Overseas Employment Administration in 24 minutes. The 69GB set includes migrant-worker records, contracts, accreditation data, and cashier and LandBank financial records. The attacker used GodPotato, SeImpersonate, and Impacket, then left logs and tools on an open Singapore staging server. The stolen backups have not appeared for sale, and the final destination remains unknown. Hunt.io notified CERT-PH and the Department of Migrant Workers.",
@@ -679,6 +667,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://heise.de/en/news/mSecure-password-manager-Secure-your-credentials-after-an-IT-incident-11509870.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-05",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Cyberattack on French plasma stores is enough to make your blood boil",
+    "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519?utm_source=tldrinfosec",
+    "summary": "Attackers compromised a refrigeration supplier and altered cold-room settings at France's Blood Establishment, changing temperatures from -30°C to 110°C. EFS monitoring detected the changes. Staff controlled or isolated affected units and moved plasma and samples elsewhere. No blood products were lost. The incident follows European attacks on supermarket refrigeration, including defrost cycles that spoiled food. CERT-FR had urged remediation of vulnerabilities in Danfoss AK-SM and AK-SC controllers.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519"
    },
    {
     "newsletter": "infosec",
