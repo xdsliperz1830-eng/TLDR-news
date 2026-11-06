@@ -150,6 +150,18 @@
     "newsletter": "tech",
     "date": "2026-11-06",
     "section": "Quick Links",
+    "title": "Getting Data to Grow in a Dish",
+    "url": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish?utm_source=tldrnewsletter",
+    "summary": "This essay looks at what it takes to build a physical platform capable of performing biological experiments, measuring their outcomes reliably, and generating evidence at the scale AI requires.",
+    "read_minutes": 30,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-06",
+    "section": "Quick Links",
     "title": "The Exploit Was the Bottleneck",
     "url": "https://a16z.com/the-exploit-was-the-bottleneck/?utm_source=tldrnewsletter",
     "summary": "The average time from disclosure to attack has been falling for some time, but AI has changed who can operate inside that window, and how fast known bugs get weaponized.",
@@ -193,18 +205,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://seangoedecke.com/a-database-is-a-store-for-global-variables"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-06",
-    "section": "Quick Links",
-    "title": "Getting Data to Grow in a Dish",
-    "url": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish?utm_source=tldrnewsletter",
-    "summary": "This essay looks at what it takes to build a physical platform capable of performing biological experiments, measuring their outcomes reliably, and generating evidence at the scale AI requires.",
-    "read_minutes": 30,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://deepphenotype.substack.com/p/getting-data-to-grow-in-a-dish"
    },
    {
     "newsletter": "tech",
@@ -380,6 +380,18 @@
     "newsletter": "ai",
     "date": "2026-11-06",
     "section": "Quick Links",
+    "title": "The Ultimate MoE Training Handbook",
+    "url": "https://huggingface.co/spaces/huggingface/moe-blogpost?utm_source=tldrai",
+    "summary": "Hugging Face released \"The Ultimate MoE Training Handbook,\" a comprehensive guide on training mixture-of-experts models.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://huggingface.co/spaces/huggingface/moe-blogpost"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-06",
+    "section": "Quick Links",
     "title": "Muse Voice",
     "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/?utm_source=tldrai",
     "summary": "Meta announced voice conversations and expressive avatars for its Muse app, allowing users to brainstorm, plan trips, and complete tasks through spoken interactions.",
@@ -399,18 +411,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/cursor_ai/status/2118458629091426304"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-06",
-    "section": "Quick Links",
-    "title": "The Ultimate MoE Training Handbook",
-    "url": "https://huggingface.co/spaces/huggingface/moe-blogpost?utm_source=tldrai",
-    "summary": "Hugging Face released \"The Ultimate MoE Training Handbook,\" a comprehensive guide on training mixture-of-experts models.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://huggingface.co/spaces/huggingface/moe-blogpost"
    },
    {
     "newsletter": "ai",
@@ -478,18 +478,6 @@
     "newsletter": "webdev",
     "date": "2026-11-06",
     "section": "Opinions & Advice",
-    "title": "Don't Build the Reusable Component Yet",
-    "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet?utm_source=tldrdev",
-    "summary": "Similar-looking workflows can have different failure modes, audit requirements, and owners, so combining them too early creates flags and coordination costs. Wait until a pattern appears three times for the same reason before extracting it, while sharing stable primitives, design tokens, accessibility behavior, and standards-driven utilities from the start.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-06",
-    "section": "Opinions & Advice",
     "title": "Design Systems Should Be Fast by Default",
     "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default?utm_source=tldrdev",
     "summary": "Tests of ten design systems show why interaction performance needs the same attention as accessibility, using a 249-country dropdown and a list of 100 checkboxes as realistic stress cases. The practical approach combines Playwright performance budgets, checks for long frames and nonlinear scaling, and defaults such as automatic virtualization so every app benefits.",
@@ -497,6 +485,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://denodell.com/blog/design-systems-should-be-fast-by-default"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-06",
+    "section": "Opinions & Advice",
+    "title": "Don't Build the Reusable Component Yet",
+    "url": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet?utm_source=tldrdev",
+    "summary": "Similar-looking workflows can have different failure modes, audit requirements, and owners, so combining them too early creates flags and coordination costs. Wait until a pattern appears three times for the same reason before extracting it, while sharing stable primitives, design tokens, accessibility behavior, and standards-driven utilities from the start.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet"
    },
    {
     "newsletter": "webdev",
@@ -1460,13 +1460,13 @@
     "newsletter": "marketing",
     "date": "2026-11-06",
     "section": "Quick Links",
-    "title": "2 types of posts that drive 100+ followers",
-    "url": "https://www.linkedin.com/posts/noahg_something-is-up-with-linkedin-this-month-share-7523791233509380097--RkX/?utm_source=tldrmarketing",
-    "summary": "2 LinkedIn formats are currently driving follower growth: niche job roundups with salaries and practical how-to posts.",
-    "read_minutes": 1,
+    "title": "How companies are pivoting their brands to be mascot-led",
+    "url": "https://www.opensourceceo.com/p/ai-cute-mascots?utm_source=tldrmarketing",
+    "summary": "Character-led campaigns are more likely to report big market share gains, 41% versus 30%, yet brands largely dropped mascots until AI companies revived them.",
+    "read_minutes": 10,
     "kind": null,
     "sponsored": false,
-    "key": "https://linkedin.com/posts/noahg_something-is-up-with-linkedin-this-month-share-7523791233509380097--RkX"
+    "key": "https://opensourceceo.com/p/ai-cute-mascots"
    },
    {
     "newsletter": "marketing",
@@ -1484,13 +1484,13 @@
     "newsletter": "marketing",
     "date": "2026-11-06",
     "section": "Quick Links",
-    "title": "How companies are pivoting their brands to be mascot-led",
-    "url": "https://www.opensourceceo.com/p/ai-cute-mascots?utm_source=tldrmarketing",
-    "summary": "Character-led campaigns are more likely to report big market share gains, 41% versus 30%, yet brands largely dropped mascots until AI companies revived them.",
-    "read_minutes": 10,
+    "title": "2 types of posts that drive 100+ followers",
+    "url": "https://www.linkedin.com/posts/noahg_something-is-up-with-linkedin-this-month-share-7523791233509380097--RkX/?utm_source=tldrmarketing",
+    "summary": "2 LinkedIn formats are currently driving follower growth: niche job roundups with salaries and practical how-to posts.",
+    "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://opensourceceo.com/p/ai-cute-mascots"
+    "key": "https://linkedin.com/posts/noahg_something-is-up-with-linkedin-this-month-share-7523791233509380097--RkX"
    }
   ],
   "founders": [
@@ -1898,18 +1898,6 @@
     "newsletter": "it",
     "date": "2026-11-06",
     "section": "Launches & Partnerships",
-    "title": "Confluent brings live SQL queries to streaming data",
-    "url": "https://www.confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context/?utm_source=tldrit",
-    "summary": "Confluent made Lightning Tables generally available on AWS, letting applications query continuously updated Kafka data through SQL and APIs without maintaining a separate serving database. The launch supports its Streamhouse architecture, which combines streaming, processing, governance, and querying to give applications and AI agents current business context.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-06",
-    "section": "Launches & Partnerships",
     "title": "Introducing MariaDB Enterprise Platform 2027: one foundation for the agentic enterprise",
     "url": "https://mariadb.com/resources/blog/introducing-mariadb-enterprise-platform-2027-one-foundation-for-the-agentic-enterprise?utm_source=tldrit",
     "summary": "MariaDB has introduced its Enterprise Platform 2027, a unified data foundation designed for AI agents and enterprise workloads. The platform combines transactions, real-time analytics, vector search, and AI tooling such as Agent Memory and Semantic Cache to reduce latency and token costs. Additionally, it delivers a 56 percent increase in peak throughput compared to version 11.8 and introduces multi-region active-active scalability via MariaDB Raft Cluster.",
@@ -1917,6 +1905,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mariadb.com/resources/blog/introducing-mariadb-enterprise-platform-2027-one-foundation-for-the-agentic-enterprise"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-06",
+    "section": "Launches & Partnerships",
+    "title": "Confluent brings live SQL queries to streaming data",
+    "url": "https://www.confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context/?utm_source=tldrit",
+    "summary": "Confluent made Lightning Tables generally available on AWS, letting applications query continuously updated Kafka data through SQL and APIs without maintaining a separate serving database. The launch supports its Streamhouse architecture, which combines streaming, processing, governance, and querying to give applications and AI agents current business context.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://confluent.io/press-release/confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context"
    },
    {
     "newsletter": "it",

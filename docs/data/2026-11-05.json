@@ -150,6 +150,18 @@
     "newsletter": "tech",
     "date": "2026-11-05",
     "section": "Quick Links",
+    "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic's Dollar Growth",
+    "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/?utm_source=tldrnewsletter",
+    "summary": "Adoption across all other firms is still rising.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-05",
+    "section": "Quick Links",
     "title": "Watts in Store for 2027: The AI Ceiling",
     "url": "https://tomtunguz.com/watts-in-store-for-2027-inference?utm_source=tldrnewsletter",
     "summary": "US AI capacity will grow from 38 GW today to an 81 GW ceiling in 2027.",
@@ -205,18 +217,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-05",
-    "section": "Quick Links",
-    "title": "The Top 1% of AI Spenders Stalled in Q3. So Did Anthropic's Dollar Growth",
-    "url": "https://www.saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth/?utm_source=tldrnewsletter",
-    "summary": "Adoption across all other firms is still rising.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/the-top-1-of-ai-spenders-stalled-in-q3-so-did-anthropics-dollar-growth"
    }
   ],
   "ai": [
@@ -1630,18 +1630,6 @@
     "newsletter": "crypto",
     "date": "2026-11-05",
     "section": "Guides & Resources",
-    "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
-    "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
-    "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2117322178853240919.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-05",
-    "section": "Guides & Resources",
     "title": "Crypto Protocols Are Winning the AI Inference Price War",
     "url": "https://x.com/CLR_Fomo/status/2117260547351548359?utm_source=tldrcrypto",
     "summary": "Centralized inference providers face structural pricing floors tied to manual approval gates, regional electricity costs, and capital-market margin requirements, creating an opening for permissionless crypto routing layers. Surplus lets holders of excess API credits from OpenAI, Anthropic, and DeepSeek sell at a discount for USDC with no KYC, posting 57x token growth (10B to 570B tokens/day) and 78x request growth (143k to 11.2M/day) over the past 90 days. Engy runs a global miner competition on hardware and electricity efficiency, growing from 2.7B to 153B tokens/day while buyback-directed revenue climbed from $363 to $8,000/day in the same window. With the inference market at $160B/year and projected to reach $350B, autonomous AI agents consuming 5x more tokens than humans will concentrate purchasing power in the cheapest available providers, positioning these protocols to capture a growing share of AI compute spend as agent usage scales.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/CLR_Fomo/status/2117260547351548359"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-05",
+    "section": "Guides & Resources",
+    "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
+    "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
+    "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2117322178853240919.html"
    },
    {
     "newsletter": "crypto",
@@ -1872,18 +1872,6 @@
     "newsletter": "fintech",
     "date": "2026-11-05",
     "section": "Miscellaneous",
-    "title": "API-Driven Commerce: How Programmable Money is Automated for Modern B2B Marketplaces",
-    "url": "https://www.finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces?utm_source=tldrfintech",
-    "summary": "B2B marketplaces routinely process transactions involving three suppliers, four tax jurisdictions, net-60 terms, and a platform take-rate. Handling these payment flows via batch processing or manual finance ops creates immediate bottlenecks. Moving money across complex seller networks requires treating currency as software logic rather than static banking entries.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-05",
-    "section": "Miscellaneous",
     "title": "AI financing drives private credit growth as refinancing risks rise",
     "url": "https://www.reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27/?utm_source=tldrfintech",
     "summary": "AI infrastructure is expanding private credit beyond traditional corporate lending into land, power, semiconductors, and compute, with hyperscalers and CoreWeave expected to spend nearly $1 trillion in 2027 using cash flow, debt, joint ventures, and SPVs. The risk is a large refinancing wall from 2027 to 2029, especially for weaker borrowers using PIK interest, while increasingly circular financing between chipmakers, AI developers, and infrastructure providers could create correlated losses in a downturn.",
@@ -1891,6 +1879,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/legal/transactional/ai-financing-driving-private-credit-growth-refinancing-risks-rise-moodys-says-2026-10-27"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-05",
+    "section": "Miscellaneous",
+    "title": "API-Driven Commerce: How Programmable Money is Automated for Modern B2B Marketplaces",
+    "url": "https://www.finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces?utm_source=tldrfintech",
+    "summary": "B2B marketplaces routinely process transactions involving three suppliers, four tax jurisdictions, net-60 terms, and a platform take-rate. Handling these payment flows via batch processing or manual finance ops creates immediate bottlenecks. Moving money across complex seller networks requires treating currency as software logic rather than static banking entries.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/blogposting/33157/api-driven-commerce-how-programmable-money-is-automated-for-modern-b2b-marketplaces"
    },
    {
     "newsletter": "fintech",
@@ -2042,18 +2042,6 @@
     "newsletter": "it",
     "date": "2026-11-05",
     "section": "Launches & Partnerships",
-    "title": "Adobe brings customer experience agents into major AI platforms",
-    "url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms?utm_source=tldrit",
-    "summary": "Adobe's CX Enterprise Coworker is now available within ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft Copilot. The integrations let marketers retrieve data and coordinate customer experience tasks across connected systems, with AWS, IBM, and Snowflake support planned.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-05",
-    "section": "Launches & Partnerships",
     "title": "MongoDB brings live Atlas data into Microsoft 365 Copilot",
     "url": "https://www.mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot?utm_source=tldrit",
     "summary": "MongoDB's generally available Atlas connector lets Microsoft 365 Copilot answer questions using live operational data. The integration uses a managed MCP server to query Atlas directly, allowing users to investigate orders, incidents, and business metrics without relying on a static data copy.",
@@ -2061,6 +2049,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mongodb.com/company/blog/product-release-announcements/bring-live-atlas-data-into-microsoft-365-copilot"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-05",
+    "section": "Launches & Partnerships",
+    "title": "Adobe brings customer experience agents into major AI platforms",
+    "url": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms?utm_source=tldrit",
+    "summary": "Adobe's CX Enterprise Coworker is now available within ChatGPT, Claude, Databricks Genie, Gemini for business, and Microsoft Copilot. The integrations let marketers retrieve data and coordinate customer experience tasks across connected systems, with AWS, IBM, and Snowflake support planned.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://news.adobe.com/news/2026/11/adobe-integrates-agentic-cx-enterprise-coworker-into-ai-platforms"
    },
    {
     "newsletter": "it",
@@ -2090,6 +2090,18 @@
     "newsletter": "it",
     "date": "2026-11-05",
     "section": "Quick Links",
+    "title": "IBM launches managed HashiCorp Vault on dedicated infrastructure",
+    "url": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm?utm_source=tldrit",
+    "summary": "IBM Cloud Secrets Manager Vault Dedicated offers single-tenant Vault Enterprise deployments with IBM handling infrastructure and operations, alongside dynamic credentials, automated rotation, and policy-based access.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-05",
+    "section": "Quick Links",
     "title": "Google unveils $15 billion data center investment in Malaysia",
     "url": "https://techxplore.com/news/2026-11-google-unveils-billion-center-investment.html?utm_source=tldrit",
     "summary": "Google announced a $15 billion investment in Malaysia over the next two years to build data centers and other infrastructure to support surging demand for artificial intelligence services.",
@@ -2109,18 +2121,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-05",
-    "section": "Quick Links",
-    "title": "IBM launches managed HashiCorp Vault on dedicated infrastructure",
-    "url": "https://www.ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm?utm_source=tldrit",
-    "summary": "IBM Cloud Secrets Manager Vault Dedicated offers single-tenant Vault Enterprise deployments with IBM handling infrastructure and operations, alongside dynamic credentials, automated rotation, and policy-based access.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ibm.com/new/announcements/introducing-ibm-cloud-secrets-manager-vault-dedicated-hashicorp-vault-enterprise-managed-by-ibm"
    }
   ]
  }
