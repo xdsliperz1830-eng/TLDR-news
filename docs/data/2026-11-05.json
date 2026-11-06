@@ -1302,18 +1302,6 @@
     "newsletter": "marketing",
     "date": "2026-11-05",
     "section": "Resources & Tools",
-    "title": "How to use Google Analytics for social media (GA4 setup + reports)",
-    "url": "https://blog.hootsuite.com/google-analytics-social-media/?utm_source=tldrmarketing",
-    "summary": "Use GA4 to measure what happens after someone clicks a social media link by tracking website traffic, engagement, conversions, and revenue. Start by setting up key events for actions like form submissions, purchases, and signups, then add UTM parameters to every social link to identify the platform, campaign, and specific post generating traffic. Use GA4's Traffic Acquisition, User Acquisition, Landing Page, and Attribution reports to compare platform performance, evaluate landing pages, and understand how social contributes to conversions across the customer journey. Build a Looker Studio dashboard to track these metrics over time and report social media's contribution to leads and revenue.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.hootsuite.com/google-analytics-social-media"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-05",
-    "section": "Resources & Tools",
     "title": "HTML vs. XML Sitemaps for Ecommerce",
     "url": "https://www.practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce?utm_source=tldrmarketing",
     "summary": "Ecommerce sites should use both XML and HTML sitemaps to improve page discovery, crawling, and indexing. XML sitemaps automatically list every URL intended for indexing, while HTML sitemaps provide users and search engines with links to important categories, subcategories, and site pages. HTML sitemaps can also strengthen internal linking and help reduce the number of pages that Google crawls but does not index. Neither replaces a well-organized site hierarchy or strong internal linking, but HTML sitemaps can serve as a temporary solution during site restructures.",
@@ -1321,6 +1309,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://practicalecommerce.com/html-vs-xml-sitemaps-for-ecommerce"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-05",
+    "section": "Resources & Tools",
+    "title": "How to use Google Analytics for social media (GA4 setup + reports)",
+    "url": "https://blog.hootsuite.com/google-analytics-social-media/?utm_source=tldrmarketing",
+    "summary": "Use GA4 to measure what happens after someone clicks a social media link by tracking website traffic, engagement, conversions, and revenue. Start by setting up key events for actions like form submissions, purchases, and signups, then add UTM parameters to every social link to identify the platform, campaign, and specific post generating traffic. Use GA4's Traffic Acquisition, User Acquisition, Landing Page, and Attribution reports to compare platform performance, evaluate landing pages, and understand how social contributes to conversions across the customer journey. Build a Looker Studio dashboard to track these metrics over time and report social media's contribution to leads and revenue.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.hootsuite.com/google-analytics-social-media"
    },
    {
     "newsletter": "marketing",
@@ -1630,18 +1630,6 @@
     "newsletter": "crypto",
     "date": "2026-11-05",
     "section": "Guides & Resources",
-    "title": "Crypto Protocols Are Winning the AI Inference Price War",
-    "url": "https://x.com/CLR_Fomo/status/2117260547351548359?utm_source=tldrcrypto",
-    "summary": "Centralized inference providers face structural pricing floors tied to manual approval gates, regional electricity costs, and capital-market margin requirements, creating an opening for permissionless crypto routing layers. Surplus lets holders of excess API credits from OpenAI, Anthropic, and DeepSeek sell at a discount for USDC with no KYC, posting 57x token growth (10B to 570B tokens/day) and 78x request growth (143k to 11.2M/day) over the past 90 days. Engy runs a global miner competition on hardware and electricity efficiency, growing from 2.7B to 153B tokens/day while buyback-directed revenue climbed from $363 to $8,000/day in the same window. With the inference market at $160B/year and projected to reach $350B, autonomous AI agents consuming 5x more tokens than humans will concentrate purchasing power in the cheapest available providers, positioning these protocols to capture a growing share of AI compute spend as agent usage scales.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/CLR_Fomo/status/2117260547351548359"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-05",
-    "section": "Guides & Resources",
     "title": "SEC Token Taxonomy FAQ Clarifies Decentralization Standards for Builders",
     "url": "https://threadreaderapp.com/thread/2117322178853240919.html?utm_source=tldrcrypto",
     "summary": "The SEC released a new FAQ expanding its token taxonomy framework, drawing on three clarifications flagged by a16z crypto General Counsel Miles Jennings. Q 1.4 confirms that projects can maintain decentralized governance while using legal entities like DUNAs (Decentralized Unincorporated Nonprofit Associations), resolving a structural question teams have faced when adding off-chain legal wrappers to on-chain protocols. Q 1.5 draws a formal line between permissioned and permissionless systems, and Q 1.6 separates \"functional\" tokens from tokens that qualify as investment contracts under securities law. Builders now have clearer criteria from the SEC to determine whether their protocol architecture and token design fall outside the agency's jurisdiction.",
@@ -1649,6 +1637,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2117322178853240919.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-05",
+    "section": "Guides & Resources",
+    "title": "Crypto Protocols Are Winning the AI Inference Price War",
+    "url": "https://x.com/CLR_Fomo/status/2117260547351548359?utm_source=tldrcrypto",
+    "summary": "Centralized inference providers face structural pricing floors tied to manual approval gates, regional electricity costs, and capital-market margin requirements, creating an opening for permissionless crypto routing layers. Surplus lets holders of excess API credits from OpenAI, Anthropic, and DeepSeek sell at a discount for USDC with no KYC, posting 57x token growth (10B to 570B tokens/day) and 78x request growth (143k to 11.2M/day) over the past 90 days. Engy runs a global miner competition on hardware and electricity efficiency, growing from 2.7B to 153B tokens/day while buyback-directed revenue climbed from $363 to $8,000/day in the same window. With the inference market at $160B/year and projected to reach $350B, autonomous AI agents consuming 5x more tokens than humans will concentrate purchasing power in the cheapest available providers, positioning these protocols to capture a growing share of AI compute spend as agent usage scales.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/CLR_Fomo/status/2117260547351548359"
    },
    {
     "newsletter": "crypto",
