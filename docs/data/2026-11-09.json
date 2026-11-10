@@ -308,18 +308,6 @@
     "newsletter": "ai",
     "date": "2026-11-09",
     "section": "Engineering & Research",
-    "title": "Introducing the New Auto and Auto Code Routers",
-    "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/?utm_source=tldrai",
-    "summary": "OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-09",
-    "section": "Engineering & Research",
     "title": "A proof of the Aaronson-Ambainis conjecture",
     "url": "https://psi.inc/research/aaronson-ambainis/?utm_source=tldrai",
     "summary": "The Aaronson-Ambainis conjecture, a key open problem in quantum complexity theory, has been proven by a research system developed at PSI using an Anthropic model. This proof shows quantum computers are not exponentially faster on random inputs compared to classical ones, resolving a significant question about quantum speedups.",
@@ -327,6 +315,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://psi.inc/research/aaronson-ambainis"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-09",
+    "section": "Engineering & Research",
+    "title": "Introducing the New Auto and Auto Code Routers",
+    "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/?utm_source=tldrai",
+    "summary": "OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers"
    },
    {
     "newsletter": "ai",
@@ -368,18 +368,6 @@
     "newsletter": "ai",
     "date": "2026-11-09",
     "section": "Quick Links",
-    "title": "Self-Learning Agentic Workflows. Free Dev Conference, Nov 12",
-    "url": "https://neo4j.com/nodes/?utm_source=tldr-ai&utm_medium=newsletter-1109&utm_campaign=dev",
-    "summary": "Check out agents that remember, reason, decide, and learn continuously across 100+ technical sessions at Neo4j NODES 2026. Register free.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://neo4j.com/nodes"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-09",
-    "section": "Quick Links",
     "title": "Reach 8 million tech professionals reading TLDR",
     "url": "https://advertise.tldr.tech/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklinks11092026&sp=dfNRD7xI20DEuHaKetK3ZLae",
     "summary": "Ads get ignored on social media but not in TLDR! Reach AI engineers, researchers and ML leaders where they actually pay attention. Learn Reach 8 million tech professionals reading TLDR (Sponsor) Ads get ignored on social media but not in TLDR! Reach AI engineers, researchers and ML leaders where they actually pay attention. Learn more about sponsorship opportunities . more about sponsorship opportunities.",
@@ -387,6 +375,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://advertise.tldr.tech/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-09",
+    "section": "Quick Links",
+    "title": "Self-Learning Agentic Workflows. Free Dev Conference, Nov 12",
+    "url": "https://neo4j.com/nodes/?utm_source=tldr-ai&utm_medium=newsletter-1109&utm_campaign=dev",
+    "summary": "Check out agents that remember, reason, decide, and learn continuously across 100+ technical sessions at Neo4j NODES 2026. Register free.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://neo4j.com/nodes"
    },
    {
     "newsletter": "ai",
@@ -816,18 +816,6 @@
     "newsletter": "infosec",
     "date": "2026-11-09",
     "section": "Miscellaneous",
-    "title": "Secure Code Benchmark Finds Top Coding Agents Write Secure Code Only 25% of the Time",
-    "url": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time?utm_source=tldrinfosec",
-    "summary": "Qwen researchers tested six frontier coding agents on LSCBench, 450 security-neutral tasks built from 150 real vulnerabilities across seven languages, and found that while 73.6% to 91.3% of outputs worked, even the top performer, Claude Fable 5, wrote code that was both functional and secure only 25.1% of the time. Agents often added local defenses like bounds checks but almost never secured SSRF or information exposure, which depend on policies the spec never stated, and a one-line security reminder raised joint pass rates by 15 to 21 points for three of the four models retested. Pooled together, the six models secured 44% of tasks, though the tests and specs were drafted with Qwen's own Qwen3.8-Max, which the authors argued did not tilt the results.",
-    "read_minutes": 25,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-09",
-    "section": "Miscellaneous",
     "title": "Agents reveal secrets when offered to team up with each other",
     "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260?utm_source=tldrinfosec",
     "summary": "In sandboxed tests, nine coding agents were given a private deploy token and access to a forum of 24 agents. To obtain a bug fix, the forum demanded the token and an install script. Across 181 trials, agents shared the token 15 percent of the time and ran the script 24 percent of the time, with agent pressure increasing script execution from 19 percent to 34 percent.",
@@ -847,6 +835,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.zgp.org/txlf"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-09",
+    "section": "Miscellaneous",
+    "title": "Secure Code Benchmark Finds Top Coding Agents Write Secure Code Only 25% of the Time",
+    "url": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time?utm_source=tldrinfosec",
+    "summary": "Qwen researchers tested six frontier coding agents on LSCBench, 450 security-neutral tasks built from 150 real vulnerabilities across seven languages, and found that while 73.6% to 91.3% of outputs worked, even the top performer, Claude Fable 5, wrote code that was both functional and secure only 25.1% of the time. Agents often added local defenses like bounds checks but almost never secured SSRF or information exposure, which depend on policies the spec never stated, and a one-line security reminder raised joint pass rates by 15 to 21 points for three of the four models retested. Pooled together, the six models secured 44% of tasks, though the tests and specs were drafted with Qwen's own Qwen3.8-Max, which the authors argued did not tilt the results.",
+    "read_minutes": 25,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hackernoon.com/secure-code-benchmark-finds-top-coding-agents-write-secure-code-only-25percent-of-the-time"
    },
    {
     "newsletter": "infosec",
@@ -1738,18 +1738,6 @@
     "newsletter": "founders",
     "date": "2026-11-09",
     "section": "Tools & Resources",
-    "title": "Analyze your Stripe data directly with your agent",
-    "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent?utm_source=tldrfounders",
-    "summary": "Any Stripe customer can now connect an agent like Claude or Cursor to its Stripe data and ask why monthly recurring revenue changed. Stripe shows the SQL behind every answer, so a founder can check the math before it goes into an investor update. The Reports API stays free, and the Queries API is free until January 31.",
-    "read_minutes": null,
-    "kind": "tool",
-    "sponsored": false,
-    "key": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-09",
-    "section": "Tools & Resources",
     "title": "Introducing the New Auto and Auto Code Routers",
     "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers/?utm_source=tldrfounders",
     "summary": "OpenRouter has launched the next generation of Auto Router, which outperforms the old router by up to 4x. The launch includes Auto Code, a new router specialized for coding work. The new Auto Router and Auto Code choose models by weighing eleven factors about each request and combining them with live pricing, provider health, and cache status. Users can apply any governance policies, and Auto Router makes efficient choices from the models available.",
@@ -1757,6 +1745,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-09",
+    "section": "Tools & Resources",
+    "title": "Analyze your Stripe data directly with your agent",
+    "url": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent?utm_source=tldrfounders",
+    "summary": "Any Stripe customer can now connect an agent like Claude or Cursor to its Stripe data and ask why monthly recurring revenue changed. Stripe shows the SQL behind every answer, so a founder can check the math before it goes into an investor update. The Reports API stays free, and the Queries API is free until January 31.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent"
    },
    {
     "newsletter": "founders",
@@ -2162,18 +2162,6 @@
     "newsletter": "fintech",
     "date": "2026-11-09",
     "section": "Quick Links",
-    "title": "Fiserv doubles savings target to $1B and explores asset sales",
-    "url": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/?utm_source=tldrfintech",
-    "summary": "Fiserv has doubled its cost-savings target to $1 billion, already cutting about 3,000 employees and contractors.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-09",
-    "section": "Quick Links",
     "title": "KCB Tanzania integrates PayPal into mobile banking",
     "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking?utm_source=tldrfintech",
     "summary": "KCB Bank Tanzania has partnered with PayPal to integrate PayPal services into the KCB Mobile App, giving customers a simple, secure, and convenient way to connect to global payments directly through their banking app.",
@@ -2181,6 +2169,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-09",
+    "section": "Quick Links",
+    "title": "Fiserv doubles savings target to $1B and explores asset sales",
+    "url": "https://www.paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604/?utm_source=tldrfintech",
+    "summary": "Fiserv has doubled its cost-savings target to $1 billion, already cutting about 3,000 employees and contractors.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://paymentsdive.com/news/fiserv-talks-to-potential-asset-buyers/873604"
    }
   ],
   "it": [
@@ -2526,18 +2526,6 @@
     "newsletter": "hardware",
     "date": "2026-11-09",
     "section": "Quick Links",
-    "title": "Omarchy 4.5 installs natively on M1 to M3 and Neo MacBooks, its first non-x86 release, built on Asahi Linux",
-    "url": "https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523?utm_source=tldrhardware",
-    "summary": "Omarchy, an Arch-based Hyprland desktop distro, shipped 4.5 with Apple Silicon as a primary target through the Omarchy M team via a dual-boot installer.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-09",
-    "section": "Quick Links",
     "title": "Six pallets of Nvidia hardware worth $11.4M vanished on a truck from Oakland to Fort Worth",
     "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas?utm_source=tldrhardware",
     "summary": "A truck carrying six pallets of Nvidia hardware valued at $11.4 million left Oakland on August 29 and was lost near San Bernardino County.",
@@ -2569,6 +2557,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-09",
+    "section": "Quick Links",
+    "title": "Omarchy 4.5 installs natively on M1 to M3 and Neo MacBooks, its first non-x86 release, built on Asahi Linux",
+    "url": "https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523?utm_source=tldrhardware",
+    "summary": "Omarchy, an Arch-based Hyprland desktop distro, shipped 4.5 with Apple Silicon as a primary target through the Omarchy M team via a dual-boot installer.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://medium.com/@michaelswengel/omarchy-linux-now-works-on-apple-silicon-macs-6a36659df523"
    }
   ]
  }
