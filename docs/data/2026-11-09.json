@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-11-09",
     "section": "Programming, Design & Data Science",
-    "title": "Programming and fatigue",
-    "url": "https://www.natemeyvis.com/programming-and-fatigue/?utm_source=tldrnewsletter",
-    "summary": "Programming is much more tiring with AI. This is a sign that you are diligently working on things that require human brainpower and judgment. AI is taking over the repetitive and obvious parts of the job, leaving developers to deal with higher-judgment tasks. It is no surprise that these would be more tiring.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://natemeyvis.com/programming-and-fatigue"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-09",
-    "section": "Programming, Design & Data Science",
     "title": "LLMs are terrible at designing AI systems",
     "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/?utm_source=tldrnewsletter",
     "summary": "Large language models don't know how to design software that uses LLMs. This could be because most training code is pre-LLMs, or RLVR may just not be a good environment to write code that calls LLMs. Also, current AI agents might just not be good enough at software design for the task. LLMs are good and bad seemingly at random, but if you can predict where they will do well or badly ahead of time, you can get enormous value from them.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-09",
+    "section": "Programming, Design & Data Science",
+    "title": "Programming and fatigue",
+    "url": "https://www.natemeyvis.com/programming-and-fatigue/?utm_source=tldrnewsletter",
+    "summary": "Programming is much more tiring with AI. This is a sign that you are diligently working on things that require human brainpower and judgment. AI is taking over the repetitive and obvious parts of the job, leaving developers to deal with higher-judgment tasks. It is no surprise that these would be more tiring.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://natemeyvis.com/programming-and-fatigue"
    },
    {
     "newsletter": "tech",
@@ -828,18 +828,6 @@
     "newsletter": "infosec",
     "date": "2026-11-09",
     "section": "Miscellaneous",
-    "title": "Notes and links from my talk at Texas Linux Fest",
-    "url": "https://blog.zgp.org/txlf/?utm_source=tldrinfosec",
-    "summary": "In his Texas Linux Fest talk, Don Marti argued that open source beat the Clipper Chip and DRM mandates, but that open source's own \"commoditize the complement\" logic, applied to content, gave rise to an adtech system that now profits from matching scammers with victims. He cited Pew data showing 73% of US adults had faced an online scam, along with estimates that Meta earned around 10% of its ad revenue from fraud, and noted that once-niche privacy nerd advice like DNS-level ad blocking was now standard corporate IT guidance. Marti framed California privacy law and favorable jury verdicts as the most promising counterweight, though the post was explicitly preliminary and its framing of Google and Meta as crime organizations was his own opinion.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.zgp.org/txlf"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-09",
-    "section": "Miscellaneous",
     "title": "Agents reveal secrets when offered to team up with each other",
     "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260?utm_source=tldrinfosec",
     "summary": "In sandboxed tests, nine coding agents were given a private deploy token and access to a forum of 24 agents. To obtain a bug fix, the forum demanded the token and an install script. Across 181 trials, agents shared the token 15 percent of the time and ran the script 24 percent of the time, with agent pressure increasing script execution from 19 percent to 34 percent.",
@@ -847,6 +835,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-09",
+    "section": "Miscellaneous",
+    "title": "Notes and links from my talk at Texas Linux Fest",
+    "url": "https://blog.zgp.org/txlf/?utm_source=tldrinfosec",
+    "summary": "In his Texas Linux Fest talk, Don Marti argued that open source beat the Clipper Chip and DRM mandates, but that open source's own \"commoditize the complement\" logic, applied to content, gave rise to an adtech system that now profits from matching scammers with victims. He cited Pew data showing 73% of US adults had faced an online scam, along with estimates that Meta earned around 10% of its ad revenue from fraud, and noted that once-niche privacy nerd advice like DNS-level ad blocking was now standard corporate IT guidance. Marti framed California privacy law and favorable jury verdicts as the most promising counterweight, though the post was explicitly preliminary and its framing of Google and Meta as crime organizations was his own opinion.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.zgp.org/txlf"
    },
    {
     "newsletter": "infosec",
@@ -1264,18 +1264,6 @@
     "newsletter": "data",
     "date": "2026-11-09",
     "section": "Quick Links",
-    "title": "Query the Murder: Learn SQL by Solving Murder Mysteries",
-    "url": "https://querythemurder.com/?utm_source=tldrdata",
-    "summary": "A free SQL game with 18 Agatha Christie cases that moves from SELECT and WHERE to joins, subqueries, and window functions.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://querythemurder.com/"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-09",
-    "section": "Quick Links",
     "title": "On automating the creation of a semantic layer",
     "url": "https://www.linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG?utm_source=tldrdata",
     "summary": "Canva's data agent records query intent and business jargon in SQL comments, which the team mines to build a semantic layer, reconcile terminology across departments, and test for unsafe answers.",
@@ -1283,6 +1271,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-09",
+    "section": "Quick Links",
+    "title": "Query the Murder: Learn SQL by Solving Murder Mysteries",
+    "url": "https://querythemurder.com/?utm_source=tldrdata",
+    "summary": "A free SQL game with 18 Agatha Christie cases that moves from SELECT and WHERE to joins, subqueries, and window functions.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://querythemurder.com/"
    }
   ],
   "design": [
@@ -2368,6 +2368,18 @@
     "newsletter": "it",
     "date": "2026-11-09",
     "section": "Quick Links",
+    "title": "Enterprises must take blame for their AI agents' mistakes, say regulators",
+    "url": "https://www.infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html?utm_source=tldrit",
+    "summary": "Four UK regulators have warned that organizations remain accountable for autonomous AI agents they deploy.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-09",
+    "section": "Quick Links",
     "title": "Atlassian: Our Q1 FY27 letter to shareholders",
     "url": "https://www.atlassian.com/blog/company-news/shareholder-letter-q1fy27?utm_source=tldrit",
     "summary": "Reporting strong Q1 FY2027 financial results, Atlassian emphasized momentum in its System of Work, driven by expanding adoption of its Teamwork Graph, Rovo agents, and Agentic Multiplayer Protocol.",
@@ -2399,18 +2411,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cio.com/article/4245419/the-cios-trust-paradox-your-team-may-be-more-honest-with-ai-than-with-you.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-09",
-    "section": "Quick Links",
-    "title": "Enterprises must take blame for their AI agents' mistakes, say regulators",
-    "url": "https://www.infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html?utm_source=tldrit",
-    "summary": "Four UK regulators have warned that organizations remain accountable for autonomous AI agents they deploy.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoworld.com/article/4245776/enterprises-must-take-blame-for-their-ai-agents-mistakes-say-regulators-3.html"
    }
   ],
   "hardware": [
