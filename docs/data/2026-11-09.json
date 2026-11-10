@@ -1264,18 +1264,6 @@
     "newsletter": "data",
     "date": "2026-11-09",
     "section": "Quick Links",
-    "title": "On automating the creation of a semantic layer",
-    "url": "https://www.linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG?utm_source=tldrdata",
-    "summary": "Canva's data agent records query intent and business jargon in SQL comments, which the team mines to build a semantic layer, reconcile terminology across departments, and test for unsafe answers.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-09",
-    "section": "Quick Links",
     "title": "Query the Murder: Learn SQL by Solving Murder Mysteries",
     "url": "https://querythemurder.com/?utm_source=tldrdata",
     "summary": "A free SQL game with 18 Agatha Christie cases that moves from SELECT and WHERE to joins, subqueries, and window functions.",
@@ -1283,6 +1271,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://querythemurder.com/"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-09",
+    "section": "Quick Links",
+    "title": "On automating the creation of a semantic layer",
+    "url": "https://www.linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG?utm_source=tldrdata",
+    "summary": "Canva's data agent records query intent and business jargon in SQL comments, which the team mines to build a semantic layer, reconcile terminology across departments, and test for unsafe answers.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/posts/ryguyrg_dataoutpost-semanticlayer-ai-share-7524187892517085185-w7NG"
    }
   ],
   "design": [
@@ -1338,18 +1338,6 @@
     "newsletter": "design",
     "date": "2026-11-09",
     "section": "Opinions & Tutorials",
-    "title": "Mental Models, Conventions, and Expectations in UX Design: The Expectation Economy",
-    "url": "https://jakobnielsenphd.substack.com/p/user-expectations?utm_source=tldrdesign",
-    "summary": "Users arrive pre-trained by thousands of other products, judging every new design against those mental templates, so interfaces should look and behave like what they resemble. Seven principles, from mental models and least astonishment to signifiers, mere exposure, and MAYA, show when honoring conventions pays and when an improvement justifies the relearning. Conversational AI raises the stakes, since swapping a model can feel like a redesign, and 37 closing guidelines turn the principles into a release checklist.",
-    "read_minutes": 39,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jakobnielsenphd.substack.com/p/user-expectations"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-09",
-    "section": "Opinions & Tutorials",
     "title": "Why Designers Should Welcome AI Prototypes",
     "url": "https://boagworld.com/emails/ai-prototypes/?utm_source=tldrdesign",
     "summary": "AI-generated prototypes created by clients and stakeholders can help designers understand expectations earlier by turning vague ideas into something concrete and interactive. These prototypes are best treated as functional specifications rather than finished designs, since accessibility, usability, technical integration, and underlying assumptions still need professional evaluation. Designers can improve the process by providing design systems, component guidance, and AI skills while focusing their own expertise on research, refinement, and decisions that determine whether a product actually works.",
@@ -1357,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://boagworld.com/emails/ai-prototypes"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-09",
+    "section": "Opinions & Tutorials",
+    "title": "Mental Models, Conventions, and Expectations in UX Design: The Expectation Economy",
+    "url": "https://jakobnielsenphd.substack.com/p/user-expectations?utm_source=tldrdesign",
+    "summary": "Users arrive pre-trained by thousands of other products, judging every new design against those mental templates, so interfaces should look and behave like what they resemble. Seven principles, from mental models and least astonishment to signifiers, mere exposure, and MAYA, show when honoring conventions pays and when an improvement justifies the relearning. Conversational AI raises the stakes, since swapping a model can feel like a redesign, and 37 closing guidelines turn the principles into a release checklist.",
+    "read_minutes": 39,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jakobnielsenphd.substack.com/p/user-expectations"
    },
    {
     "newsletter": "design",
