@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-11-10",
     "section": "Miscellaneous",
-    "title": "How Product Hunt almost died",
-    "url": "https://www.ryanhoover.me/post/how-product-hunt-almost-died?utm_source=tldrnewsletter",
-    "summary": "Product Hunt needed an acquisition to survive. Markets can change quickly. Assume each consecutive round will be 10 times harder than the last, and know the risks if you're planning to pitch the growth narrative. It only takes one 'yes', so create a wide funnel and find people you can speak to without the mask. Try to divorce your emotions from the outcome.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ryanhoover.me/post/how-product-hunt-almost-died"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-10",
-    "section": "Miscellaneous",
     "title": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
     "url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?st=1jHw5p&utm_source=tldrnewsletter",
     "summary": "Anthropic plans to start trading its shares by the end of next week. Investors anticipated a target valuation of around $1.5 trillion last week, but some major investors are now pushing for it to be lower. Anthropic could still decide to delay its plans and wait for more favorable conditions, but doing so could spark panic in the market. Even before the recent market volatility, investor enthusiasm had been waning for AI names due to increasing concerns about the increasing investments required and a lack of clarity on their potential payoff.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?st=1jHw5p"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-10",
+    "section": "Miscellaneous",
+    "title": "How Product Hunt almost died",
+    "url": "https://www.ryanhoover.me/post/how-product-hunt-almost-died?utm_source=tldrnewsletter",
+    "summary": "Product Hunt needed an acquisition to survive. Markets can change quickly. Assume each consecutive round will be 10 times harder than the last, and know the risks if you're planning to pitch the growth narrative. It only takes one 'yes', so create a wide funnel and find people you can speak to without the mask. Try to divorce your emotions from the outcome.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ryanhoover.me/post/how-product-hunt-almost-died"
    },
    {
     "newsletter": "tech",
@@ -145,6 +145,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://wsj.com/logistics-report/alphabets-wing-to-build-new-texas-factory-for-delivery-drones-57e8a143?st=mg2s23&reflink=desktopwebshare_permalink"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "Writing as a thinking tool",
+    "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=tldrnewsletter",
+    "summary": "Language lets us externalize some of our thinking, and writing lets us externalize even more of it.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "A Timeline of Nvidia CEO Jensen Huang's Suspected Spy Drama",
+    "url": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
+    "summary": "Jensen Huang told President Trump that he had no idea that Alice Huang was a spy.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&reflink=desktopwebshare_permalink"
    },
    {
     "newsletter": "tech",
@@ -181,30 +205,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mbi-deepdives.com/ant-vs-meta"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-10",
-    "section": "Quick Links",
-    "title": "Writing as a thinking tool",
-    "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html?utm_source=tldrnewsletter",
-    "summary": "Language lets us externalize some of our thinking, and writing lets us externalize even more of it.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-10",
-    "section": "Quick Links",
-    "title": "A Timeline of Nvidia CEO Jensen Huang's Suspected Spy Drama",
-    "url": "https://www.wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&reflink=desktopwebshare_permalink&utm_source=tldrnewsletter",
-    "summary": "Jensen Huang told President Trump that he had no idea that Alice Huang was a spy.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wsj.com/tech/ai/a-timeline-of-nvidia-ceo-jensen-huangs-suspected-spy-drama-05cbebf3?st=DGNvz6&reflink=desktopwebshare_permalink"
    }
   ],
   "ai": [
@@ -308,18 +308,6 @@
     "newsletter": "ai",
     "date": "2026-11-10",
     "section": "Engineering & Research",
-    "title": "NVIDIA Introduces Hardware-Aware LLM Compression",
-    "url": "https://arxiv.org/abs/2611.08290?utm_source=tldrai",
-    "summary": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance.",
-    "read_minutes": 24,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://arxiv.org/abs/2611.08290"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-10",
-    "section": "Engineering & Research",
     "title": "What objective is reasoning solving?",
     "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/?utm_source=tldrai",
     "summary": "Reasoning is pathfinding in token space. There are many paths from the problem to a correct answer, and the model traverses each of them with each sample. A path is not guaranteed to converge to the correct answer - it's only in aggregate, over the distribution of paths, do we get a high probability of success. RL training directly raises the success probability. The gains credited to 'thinking longer' come from the search paid for during training rather than at inference.",
@@ -339,6 +327,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://forethought.org/research/two-kinds-of-test-time-scaling"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-10",
+    "section": "Engineering & Research",
+    "title": "NVIDIA Introduces Hardware-Aware LLM Compression",
+    "url": "https://arxiv.org/abs/2611.08290?utm_source=tldrai",
+    "summary": "NVIDIA's AutoCompress framework optimizes LLM pruning for hardware-specific latency, throughput, and memory constraints rather than parameter counts alone. It compressed Nemotron 3.5 Super from 120B to 74B parameters while retaining its performance.",
+    "read_minutes": 24,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arxiv.org/abs/2611.08290"
    },
    {
     "newsletter": "ai",
@@ -502,18 +502,6 @@
     "newsletter": "webdev",
     "date": "2026-11-10",
     "section": "Opinions & Advice",
-    "title": "The new bottleneck is intent",
-    "url": "https://x.com/ZKiihne/status/2119952199564599683?utm_source=tldrdev",
-    "summary": "As AI makes finding and fixing bugs cheaper, deciding what software should do becomes the bottleneck. Real user feedback, simulated users, and deterministic testing each leave gaps in defining expected behavior. This article recommends smoke tests and realistic user journeys, established conventions for minor decisions, and human ownership of product choices.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/ZKiihne/status/2119952199564599683"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-10",
-    "section": "Opinions & Advice",
     "title": "The great software IP writedown",
     "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=tldrdev",
     "summary": "AI agents are eroding the scarcity of engineering talent that supported software's high margins, while making products easier to copy and customers easier to migrate. Cheaper development could favor smaller, specialized products and shift acquisition value toward customers and distribution, as sales remain a bottleneck and code becomes less durable as an asset.",
@@ -533,6 +521,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://claude.dev/blog/which-claude-model-should-you-build-with"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-10",
+    "section": "Opinions & Advice",
+    "title": "The new bottleneck is intent",
+    "url": "https://x.com/ZKiihne/status/2119952199564599683?utm_source=tldrdev",
+    "summary": "As AI makes finding and fixing bugs cheaper, deciding what software should do becomes the bottleneck. Real user feedback, simulated users, and deterministic testing each leave gaps in defining expected behavior. This article recommends smoke tests and realistic user journeys, established conventions for minor decisions, and human ownership of product choices.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/ZKiihne/status/2119952199564599683"
    },
    {
     "newsletter": "webdev",
@@ -598,18 +598,6 @@
     "newsletter": "webdev",
     "date": "2026-11-10",
     "section": "Miscellaneous",
-    "title": "The Race to Build a “Find My” for AI Chips",
-    "url": "https://spectrum.ieee.org/find-my-ai-chip?utm_source=tldrdev",
-    "summary": "Location verification could help detect advanced AI chips diverted to restricted destinations despite export controls. This article examines efforts to establish where chips are operating as US legislators push for verification requirements.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://spectrum.ieee.org/find-my-ai-chip"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-10",
-    "section": "Miscellaneous",
     "title": "Testing Claude on real-world electronics design",
     "url": "https://www.anthropic.com/research/claude-electronics-design?utm_source=tldrdev",
     "summary": "Claude Fable 5.2 designed a speakerphone, a voice-assistant hub, and a virtual pet, covering circuit boards, enclosures, firmware, and assembly instructions. Human engineers built working prototypes without circuit fixes, but the devices have not undergone electrical validation, antenna tuning, thermal testing, or certification.",
@@ -617,6 +605,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://anthropic.com/research/claude-electronics-design"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-10",
+    "section": "Miscellaneous",
+    "title": "The Race to Build a “Find My” for AI Chips",
+    "url": "https://spectrum.ieee.org/find-my-ai-chip?utm_source=tldrdev",
+    "summary": "Location verification could help detect advanced AI chips diverted to restricted destinations despite export controls. This article examines efforts to establish where chips are operating as US legislators push for verification requirements.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://spectrum.ieee.org/find-my-ai-chip"
    },
    {
     "newsletter": "webdev",
@@ -629,6 +629,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://go.outsystems.com/outsystemsmcp"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "Skullet",
+    "url": "https://github.com/lochie/skullet?utm_source=tldrdev",
+    "summary": "Skullet generates loading skeletons from real components rendered with sample data, so placeholders match the space the content will occupy.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/lochie/skullet"
    },
    {
     "newsletter": "webdev",
@@ -653,18 +665,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/shaharglazner/status/2119796029256032278"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-10",
-    "section": "Quick Links",
-    "title": "Skullet",
-    "url": "https://github.com/lochie/skullet?utm_source=tldrdev",
-    "summary": "Skullet generates loading skeletons from real components rendered with sample data, so placeholders match the space the content will occupy.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/lochie/skullet"
    },
    {
     "newsletter": "webdev",
@@ -708,18 +708,6 @@
     "newsletter": "infosec",
     "date": "2026-11-10",
     "section": "Attacks & Vulnerabilities",
-    "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
-    "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild?utm_source=tldrinfosec",
-    "summary": "From October 14 to 26, an attacker used IAM credentials from Qubole's AWS account (805246085872) to assume the cross-account roles customers had set up to trust the vendor. It then harvested Secrets Manager, SSM, and Lambda secrets, checked them against AWS, Entra ID, and Okta using TruffleHog, and downloaded entire S3 buckets. Most of the roles it assumed had no legitimate Qubole activity that month, and every request included a valid External ID. Customers should search CloudTrail for AssumeRole calls from that account originating from non-AWS IPs or with quiam-* session names, delete unused vendor roles, and pin trust policies to the vendor's principal using an aws:SourceIp condition, which alone would have blocked every attempt.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://wiz.io/blog/qubole-cross-account-access-abused-in-the-wild"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-10",
-    "section": "Attacks & Vulnerabilities",
     "title": "SonicWall Warns of New SSL-VPN MFA Bypass Flaw Exploited in Attacks",
     "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/?utm_source=tldrinfosec",
     "summary": "SonicWall is warning customers of a new vulnerability in SonicOS SSL-VPN devices that an attacker with credentials for an alternate authentication method can exploit to bypass SAML authentication controls, potentially including MFA. CISA added the vulnerability to the KEV list, and the SonicWall PSIRT reported it as potentially exploited. SonicWall also fixed six other vulnerabilities, including two management interface flaws, pre-authentication buffer overflows that could lead to DoS, and weak password hashing vulnerabilities.",
@@ -727,6 +715,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-10",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Trusted by Default: Qubole Cross-Account Access Abused in the Wild",
+    "url": "https://www.wiz.io/blog/qubole-cross-account-access-abused-in-the-wild?utm_source=tldrinfosec",
+    "summary": "From October 14 to 26, an attacker used IAM credentials from Qubole's AWS account (805246085872) to assume the cross-account roles customers had set up to trust the vendor. It then harvested Secrets Manager, SSM, and Lambda secrets, checked them against AWS, Entra ID, and Okta using TruffleHog, and downloaded entire S3 buckets. Most of the roles it assumed had no legitimate Qubole activity that month, and every request included a valid External ID. Customers should search CloudTrail for AssumeRole calls from that account originating from non-AWS IPs or with quiam-* session names, delete unused vendor roles, and pin trust policies to the vendor's principal using an aws:SourceIp condition, which alone would have blocked every attempt.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wiz.io/blog/qubole-cross-account-access-abused-in-the-wild"
    },
    {
     "newsletter": "infosec",
@@ -780,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-11-10",
     "section": "Launches & Tools",
-    "title": "0",
-    "url": "https://github.com/0sec-labs/0?utm_source=tldrinfosec",
-    "summary": "0 is an open-source AI security harness from YC-backed 0.security that runs vulnerability investigations, finding verification, and fix workflows in a local browser console, using whatever model provider you bring. It also does Ghidra-backed binary analysis through its 0verse MCP server, and it keeps source-linked memory of past findings so later runs can build on them. Its workflows are exposed over CLI and MCP, so Claude Code or another coding agent can drive the same runs, and a GitHub Action fits it into CI.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/0sec-labs/0"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-10",
-    "section": "Launches & Tools",
     "title": "AbliteratedOutTheBox",
     "url": "https://github.com/heterodoxin/AbliteratedOutTheBox?utm_source=tldrinfosec",
     "summary": "AbliteratedOutTheBox is a fork of llama.cpp that gets any supported model to answer flagged harmful prompts, delivering the requested content instead of a refusal, at inference time and with the original weights left on disk unchanged.",
@@ -811,6 +799,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/mrwadams/attackgen"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-10",
+    "section": "Launches & Tools",
+    "title": "0",
+    "url": "https://github.com/0sec-labs/0?utm_source=tldrinfosec",
+    "summary": "0 is an open-source AI security harness from YC-backed 0.security that runs vulnerability investigations, finding verification, and fix workflows in a local browser console, using whatever model provider you bring. It also does Ghidra-backed binary analysis through its 0verse MCP server, and it keeps source-linked memory of past findings so later runs can build on them. Its workflows are exposed over CLI and MCP, so Claude Code or another coding agent can drive the same runs, and a GitHub Action fits it into CI.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/0sec-labs/0"
    },
    {
     "newsletter": "infosec",
@@ -1084,18 +1084,6 @@
     "newsletter": "design",
     "date": "2026-11-10",
     "section": "Opinions & Tutorials",
-    "title": "No Figma, one branch, a 3-4 day sprint, and where the engineers take over",
-    "url": "https://nurxmedov.substack.com/p/what-does-a-design-engineer-do?utm_source=tldrdesign",
-    "summary": "Design engineers can shorten the distance between design and development by creating functional prototypes directly in a product's codebase instead of producing static Figma handoffs. In one team's workflow, a design engineer collaborates on discovery, builds and tests prototypes with users in three to four days, and delivers finished components with Storybook documentation while software engineers handle backend systems and architecture. The role combines front-end development, rapid prototyping, user research, and AI-assisted coding, allowing designers to contribute directly to production without replacing specialized engineering expertise.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://nurxmedov.substack.com/p/what-does-a-design-engineer-do"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-10",
-    "section": "Opinions & Tutorials",
     "title": "Why I Make Mood Boards",
     "url": "https://www.chrbutler.com/why-i-make-mood-boards?utm_source=tldrdesign",
     "summary": "Mood boards can become more than collections of visual references when the arrangement of images creates meanings that none of the individual pictures communicate alone. Juxtaposition, proximity, and contrast generate unexpected relationships between otherwise unrelated subjects, turning the act of collecting and arranging images into a form of visual thinking. Building collections gradually around themes such as machines, time, or technology allows new connections to emerge through experimentation rather than following a predetermined narrative.",
@@ -1103,6 +1091,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://chrbutler.com/why-i-make-mood-boards"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-10",
+    "section": "Opinions & Tutorials",
+    "title": "No Figma, one branch, a 3-4 day sprint, and where the engineers take over",
+    "url": "https://nurxmedov.substack.com/p/what-does-a-design-engineer-do?utm_source=tldrdesign",
+    "summary": "Design engineers can shorten the distance between design and development by creating functional prototypes directly in a product's codebase instead of producing static Figma handoffs. In one team's workflow, a design engineer collaborates on discovery, builds and tests prototypes with users in three to four days, and delivers finished components with Storybook documentation while software engineers handle backend systems and architecture. The role combines front-end development, rapid prototyping, user research, and AI-assisted coding, allowing designers to contribute directly to production without replacing specialized engineering expertise.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://nurxmedov.substack.com/p/what-does-a-design-engineer-do"
    },
    {
     "newsletter": "design",
@@ -1192,18 +1192,6 @@
     "newsletter": "design",
     "date": "2026-11-10",
     "section": "Quick Links",
-    "title": "Apple might be getting rid of the iPhone's Action button already",
-    "url": "https://www.digitaltrends.com/phones/apple-might-be-getting-rid-of-the-iphones-action-button-already/?utm_source=tldrdesign",
-    "summary": "Apple may remove the dedicated Action button from its 2027 iPhone lineup, merging its functionality with the existing Camera Control button as part of a broader redesign.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://digitaltrends.com/phones/apple-might-be-getting-rid-of-the-iphones-action-button-already"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-10",
-    "section": "Quick Links",
     "title": "César Cid Turns Famous Artists into Letters in His Playful Alphabet Series",
     "url": "https://www.creativeboom.com/inspiration/cesar-cid-turns-famous-artists-into-letters-in-his-playful-alphabet-series/?utm_source=tldrdesign",
     "summary": "The Artphabet turns 26 famous artworks into 3D letters, from a Warhol soup can shaped like an A to Munch's The Scream bent into a Z.",
@@ -1211,6 +1199,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://creativeboom.com/inspiration/cesar-cid-turns-famous-artists-into-letters-in-his-playful-alphabet-series"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "Apple might be getting rid of the iPhone's Action button already",
+    "url": "https://www.digitaltrends.com/phones/apple-might-be-getting-rid-of-the-iphones-action-button-already/?utm_source=tldrdesign",
+    "summary": "Apple may remove the dedicated Action button from its 2027 iPhone lineup, merging its functionality with the existing Camera Control button as part of a broader redesign.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://digitaltrends.com/phones/apple-might-be-getting-rid-of-the-iphones-action-button-already"
    }
   ],
   "marketing": [
@@ -1254,18 +1254,6 @@
     "newsletter": "marketing",
     "date": "2026-11-10",
     "section": "Strategies & Tactics",
-    "title": "What to put in your media kit",
-    "url": "https://www.linkedin.com/posts/taracrymble_im-going-to-be-honest-with-you-your-media-share-7525278014415343616-Mbe_/?utm_source=tldrmarketing",
-    "summary": "A B2B creator media kit should fit on one page and make it easy for brands to justify a partnership. Include a one-line description of your content and audience. Add 90-day performance metrics with analytics screenshots and audience demographics by job title and industry. Link to relevant posts that showcase potential product integrations. Include simple starting rates for posts and videos, plus contact links for all platforms.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/posts/taracrymble_im-going-to-be-honest-with-you-your-media-share-7525278014415343616-Mbe_"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-10",
-    "section": "Strategies & Tactics",
     "title": "Stop picking B2B influencers by follower count",
     "url": "https://www.linkedin.com/posts/emiliakorczynska_i-dont-like-it-but-the-best-thing-you-share-7524817753308839936-I7np/?utm_source=tldrmarketing",
     "summary": "Prioritize creators trusted by their target buyers over those with the largest followings. Find them by checking which creators 10 target-account employees engage with, then vet their comments for actual buyers. Sponsor strong posts as LinkedIn Thought Leader Ads and test Brand Awareness for cold audiences versus Engagement for warm ones. Budget to reach 50% of your target audience twice. Calculate spend using audience size × cost per 1,000 reached/1,000.",
@@ -1285,6 +1273,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aakashg.com/how-to-talk-to-every-one-of-your-customers-with-ai"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-10",
+    "section": "Strategies & Tactics",
+    "title": "What to put in your media kit",
+    "url": "https://www.linkedin.com/posts/taracrymble_im-going-to-be-honest-with-you-your-media-share-7525278014415343616-Mbe_/?utm_source=tldrmarketing",
+    "summary": "A B2B creator media kit should fit on one page and make it easy for brands to justify a partnership. Include a one-line description of your content and audience. Add 90-day performance metrics with analytics screenshots and audience demographics by job title and industry. Link to relevant posts that showcase potential product integrations. Include simple starting rates for posts and videos, plus contact links for all platforms.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/posts/taracrymble_im-going-to-be-honest-with-you-your-media-share-7525278014415343616-Mbe_"
    },
    {
     "newsletter": "marketing",
@@ -1568,18 +1568,6 @@
     "newsletter": "founders",
     "date": "2026-11-10",
     "section": "Quick Links",
-    "title": "Not everything needs an LLM",
-    "url": "https://newsletter.posthog.com/p/decision-models?utm_source=tldrfounders",
-    "summary": "Decision models can take any job when an LLM is overkill - LLMs should still be used for open-ended jobs.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://newsletter.posthog.com/p/decision-models"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-10",
-    "section": "Quick Links",
     "title": "The Widening Gap in Revenue Per Employee",
     "url": "https://www.saastr.com/the-new-normal-in-revenue-per-employee-237k-is-the-median-655k-is-the-top-tier-and-six-b2b-leaders-now-clear-1-5m/?utm_source=tldrfounders",
     "summary": "ICONIQ benchmarks put median B2B ARR per employee at $237,000, versus $655,000 among leading growth companies.",
@@ -1599,6 +1587,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/dvdhsu/status/2119873785080017244"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "Not everything needs an LLM",
+    "url": "https://newsletter.posthog.com/p/decision-models?utm_source=tldrfounders",
+    "summary": "Decision models can take any job when an LLM is overkill - LLMs should still be used for open-ended jobs.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://newsletter.posthog.com/p/decision-models"
    }
   ],
   "crypto": [
@@ -1738,18 +1738,6 @@
     "newsletter": "crypto",
     "date": "2026-11-10",
     "section": "Quick Links",
-    "title": "Mastercard, floor by floor",
-    "url": "https://threadreaderapp.com/thread/2119465483703583197.html?utm_source=tldrcrypto",
-    "summary": "See an infographic framing Mastercard as a building with six floors built in-house, from cards up to stablecoins and AI agents, and the network below ground that switched 175.5B transactions last year.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2119465483703583197.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-10",
-    "section": "Quick Links",
     "title": "Trump says he knows “nothing” about UAE-linked investment in WLFI",
     "url": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079?utm_source=tldrcrypto",
     "summary": "In a 60 Minutes interview, Trump said he knows nothing about the company's foreign investors, that his sons run it, and asked: “How do you divest from cash?”",
@@ -1757,6 +1745,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "Mastercard, floor by floor",
+    "url": "https://threadreaderapp.com/thread/2119465483703583197.html?utm_source=tldrcrypto",
+    "summary": "See an infographic framing Mastercard as a building with six floors built in-house, from cards up to stablecoins and AI agents, and the network below ground that switched 175.5B transactions last year.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2119465483703583197.html"
    }
   ],
   "it": [
@@ -1896,18 +1896,6 @@
     "newsletter": "it",
     "date": "2026-11-10",
     "section": "Miscellaneous",
-    "title": "How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security",
-    "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory?utm_source=tldrit",
-    "summary": "Cisco IT built a multi-tenant AI infrastructure platform combining pooled networking, NVIDIA and AMD GPUs, rack-level cooling, and integrated security. Cisco reports tripling average GPU utilization from 15% to approximately 50% and expanding its GPU footprint sixfold without adding data center space. The architecture is designed to improve infrastructure economics while supporting enterprise AI workloads at scale.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-10",
-    "section": "Miscellaneous",
     "title": "I'm the Bottleneck",
     "url": "https://frantic.im/bottleneck/?utm_source=tldrit",
     "summary": "Managing AI coding agents can increase developer exhaustion through constant context switching, decision fatigue, and pressure to keep agents running. These patterns can lead to cognitive surrender, where developers increasingly defer decisions to AI without fully understanding the results. Rather than optimizing code output, teams should redesign workflows around human attention and recovery.",
@@ -1919,14 +1907,14 @@
    {
     "newsletter": "it",
     "date": "2026-11-10",
-    "section": "Quick Links",
-    "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
-    "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/?utm_source=tldrit",
-    "summary": "The data indicates that this AI spending growth is not cannibalizing traditional software budgets, as AI-heavy companies actually increased their software spending as well.",
-    "read_minutes": 3,
+    "section": "Miscellaneous",
+    "title": "How Cisco Built an Enterprise AI Factory: Scaling Economics, Performance, and Security",
+    "url": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory?utm_source=tldrit",
+    "summary": "Cisco IT built a multi-tenant AI infrastructure platform combining pooled networking, NVIDIA and AMD GPUs, rack-level cooling, and integrated security. Cisco reports tripling average GPU utilization from 15% to approximately 50% and expanding its GPU footprint sixfold without adding data center space. The architecture is designed to improve infrastructure economics while supporting enterprise AI workloads at scale.",
+    "read_minutes": 5,
     "kind": null,
     "sponsored": false,
-    "key": "https://forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse"
+    "key": "https://blogs.cisco.com/cisco-on-cisco/how-cisco-built-an-enterprise-ai-factory"
    },
    {
     "newsletter": "it",
@@ -1951,6 +1939,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://workspaceupdates.googleblog.com/2026/11/quickly-confirm-system-applied-classification-labels-in-Google-Drive-Docs-Sheets-and-Slides.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-10",
+    "section": "Quick Links",
+    "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+    "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/?utm_source=tldrit",
+    "summary": "The data indicates that this AI spending growth is not cannibalizing traditional software budgets, as AI-heavy companies actually increased their software spending as well.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse"
    }
   ]
  }
