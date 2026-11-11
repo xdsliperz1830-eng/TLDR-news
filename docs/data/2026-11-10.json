@@ -1520,18 +1520,6 @@
     "newsletter": "founders",
     "date": "2026-11-10",
     "section": "Miscellaneous",
-    "title": "The great software IP writedown",
-    "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=tldrfounders",
-    "summary": "Software companies count on years of engineering work continuing to pay off after the product ships. Faster copying is turning that investment into a recurring expense. Agents can already start reproducing apps from screenshots. Switching is now easier too because an agent can pull customer records out of the old web app even when the vendor offers no clean export.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://martinalderson.com/posts/the-great-software-ip-writedown"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-10",
-    "section": "Miscellaneous",
     "title": "The Thing I Talk To Most",
     "url": "https://blog.shanemac.com/the-thing-i-talk-to-most/?utm_source=tldrfounders",
     "summary": "Picnic's founder had an agent read customer replies and come back with a feature he hadn't thought to build. One person wanted to stop approving each inbox search, and another needed to keep a client's Social Security numbers out of the results. The agent proposed a permission that stays on until revoked and lets the customer block specific terms. It suggested showing the idea first to the person with the privacy request and drafted a reply.",
@@ -1539,6 +1527,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.shanemac.com/the-thing-i-talk-to-most"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-10",
+    "section": "Miscellaneous",
+    "title": "The great software IP writedown",
+    "url": "https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=tldrfounders",
+    "summary": "Software companies count on years of engineering work continuing to pay off after the product ships. Faster copying is turning that investment into a recurring expense. Agents can already start reproducing apps from screenshots. Switching is now easier too because an agent can pull customer records out of the old web app even when the vendor offers no clean export.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://martinalderson.com/posts/the-great-software-ip-writedown"
    },
    {
     "newsletter": "founders",

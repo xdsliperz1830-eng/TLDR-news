@@ -219,6 +219,236 @@
     "key": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews"
    }
   ],
+  "ai": [
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "",
+    "title": "CI is dead. Long live CI.",
+    "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
+    "summary": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way. Buildkite is the pro-tool for CI orchestration, and when you're setup, you can forget we exist. Programmable primitives you control. No compromises. Good enough for Cursor, OpenAI, Anthropic, Perplexity, Nvidia, Uber, Airbnb and more. Build and test faster, more securely, more reliably, with the CI engineered for frontier scale, used by the teams setting the pace. You deserve better CI. Start with our 30 day trial →",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://buildkite.com/home"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Headlines & Launches",
+    "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors",
+    "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrai",
+    "summary": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Claude Meetings, which will bring Claude into calls to take notes and update documents, is coming soon.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Headlines & Launches",
+    "title": "Businesses and Business Agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt/?utm_source=tldrai",
+    "summary": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/introducing-businesses-chatgpt"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Headlines & Launches",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tldrai",
+    "summary": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon. The release adds frontier cybersecurity capabilities through the Fairwind Program and previews /swarm, a multi-agent mode in Antigravity.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Deep Dives & Analysis",
+    "title": "Suppressing Reward Hacking Through Model Weight Arithmetic",
+    "url": "https://x.com/KunhaoZ/status/2120172863734849903?utm_source=tldrai",
+    "summary": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/KunhaoZ/status/2120172863734849903"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Deep Dives & Analysis",
+    "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+    "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the?utm_source=tldrai",
+    "summary": "A Superhuman AI Researcher (SAR) is predicted to arrive at some point in 2027, assuming there is no substantial deliberate slowdown in development. AIs that can automate all white-collar work are predicted to arrive before 2028. Companies are currently not on track to align an SAR, and using a misaligned SAR to do recursive self-improvement will have negative consequences. China will probably be able to steal the training recipe and maybe even the model weights if an SAR is trained in the near future.",
+    "read_minutes": 125,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Deep Dives & Analysis",
+    "title": "Why Instinct Feels Like a Personal Assistant",
+    "url": "https://x.com/nizzyabi/status/2120194267066863738?utm_source=tldrai",
+    "summary": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/nizzyabi/status/2120194267066863738"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Deep Dives & Analysis",
+    "title": "Neurons as an Interpretable Basis",
+    "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis?utm_source=tldrai",
+    "summary": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://goodfire.com/research/neurons-as-an-interpretable-basis"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Engineering & Research",
+    "title": "Build software factories that work for humans with LaunchDarkly Release Autopilot",
+    "url": "https://launchdarkly.com/how-it-works/release-autopilot/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=rel-autopilot&utm_term=secondary&utm_content=ra",
+    "summary": "Most AI software factories end at deploy, and when the automation stops, the risk begins. Release Autopilot helps eliminate that risk with new automation capabilities built to fit the factory you already have, automating releases within the rules engineers set so AI-written code reaches customers faster and safer. Learn how",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://launchdarkly.com/how-it-works/release-autopilot"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Engineering & Research",
+    "title": "Swarm (/swarm)",
+    "url": "https://antigravity.google/docs/swarm/?utm_source=tldrai",
+    "summary": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and Google AI Ultra plans in the Google Antigravity App and Antigravity CLI. Every worker is its own agent, so swarms use quotas much faster than single conversations.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://antigravity.google/docs/swarm"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Engineering & Research",
+    "title": "Meta Releases Faster K-Means Alternative",
+    "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means?utm_source=tldrai",
+    "summary": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Engineering & Research",
+    "title": "MAI-Transcribe-2",
+    "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
+    "summary": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. MAI-Transcribe-2 can handle a broader range of real-world audio than leading models like Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large, and ScribeV2. The model costs just $0.10 per hour of audio.",
+    "read_minutes": 125,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Miscellaneous",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/?utm_source=tldrai",
+    "summary": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies as customers or partners. Odessia's founder previously founded a travel startup called Sonder, focused on short-term leasing of upscale apartments, as a college student in 2014.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Miscellaneous",
+    "title": "Anthropic's IPO Roadshow",
+    "url": "https://www.anthropic.com/news/roadshow-launch?utm_source=tldrai",
+    "summary": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70–$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly issued shares going to Anthropic.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/news/roadshow-launch"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Your best agent, now working with your whole team",
+    "url": "https://www.switchagents.ai/blog-posts/my-agent-is-my-best-teammate-now-it-works-with-my-whole-team?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklink111126",
+    "summary": "See how a PM at Switch AI turned her personal agent from a solo helper into a teammate her whole team works with, in one shared room. Read her story .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://switchagents.ai/blog-posts/my-agent-is-my-best-teammate-now-it-works-with-my-whole-team"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own",
+    "url": "https://blog.claroc.io/ghostshares-grok-build-apps?utm_source=tldrai",
+    "summary": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.claroc.io/ghostshares-grok-build-apps"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Introducing Gemini for healthcare",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare?utm_source=tldrai",
+    "summary": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
+    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/?utm_source=tldrai",
+    "summary": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Google DeepMind Uses AI to Verify Signal's Security",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/?utm_source=tldrai",
+    "summary": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://deepmind.google/blog/introducing-alphaproof-code"
+   }
+  ],
   "webdev": [
    {
     "newsletter": "webdev",
@@ -502,18 +732,6 @@
     "newsletter": "infosec",
     "date": "2026-11-11",
     "section": "Strategies & Tactics",
-    "title": "Exchange for breakfast: Turla's Cereal tricks are not for kids",
-    "url": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/?utm_source=tldrinfosec",
-    "summary": "Turla's newly discovered Cereal toolset turns a victim's Exchange server into its command-and-control system. A passive backdoor waits for encrypted commands sent through ordinary-looking OWA, Autodiscover, and ActiveSync paths. Meanwhile, a module injected into EdgeTransport.exe hooks existing transport agents to quietly copy emails and attachments involving NATO and EU addresses. ESET found the toolset at government agencies in Kazakhstan and Romania and attributed it to Turla with high confidence, noting that it never observed attacker-controlled infrastructure. Exchange admins should check for DLLs disguised as Windows components in System32\\wbem, unexpected Microsoft.Exchange.*.ni.dll files in the .NET native image cache, and EdgeTransport.exe loading assemblies that aren't registered as transport agents.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-11",
-    "section": "Strategies & Tactics",
     "title": "PwC's CISO on AI, Robots & What's Next for Security",
     "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security?utm_source=tldrinfosec",
     "summary": "PwC global CISO and CIO James Shira says AI expands attack surfaces and accelerates change in patching, vulnerability management, and client requests. He expects organizations to reduce their digital footprint and use AI to replace some application front doors, potentially reducing exposure, although he also expects token costs to affect security budgets. Shira advises cybersecurity entrants to pursue certifications and hands-on experience. He recommends a four-year degree for executive roles and says boards respond to delivered results, clear explanations, and stories rather than technical jargon.",
@@ -537,6 +755,18 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-11",
+    "section": "Strategies & Tactics",
+    "title": "Exchange for breakfast: Turla's Cereal tricks are not for kids",
+    "url": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/?utm_source=tldrinfosec",
+    "summary": "Turla's newly discovered Cereal toolset turns a victim's Exchange server into its command-and-control system. A passive backdoor waits for encrypted commands sent through ordinary-looking OWA, Autodiscover, and ActiveSync paths. Meanwhile, a module injected into EdgeTransport.exe hooks existing transport agents to quietly copy emails and attachments involving NATO and EU addresses. ESET found the toolset at government agencies in Kazakhstan and Romania and attributed it to Turla with high confidence, noting that it never observed attacker-controlled infrastructure. Exchange admins should check for DLLs disguised as Windows components in System32\\wbem, unexpected Microsoft.Exchange.*.ni.dll files in the .NET native image cache, and EdgeTransport.exe loading assemblies that aren't registered as transport agents.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-11",
     "section": "Launches & Tools",
     "title": "Keep GRC aligned as AI scales",
     "url": "https://pages.awscloud.com/awsmp-gim-i0v9-webinar-sec-grc-security-lab-grc-security-lab.html?trk=a14fc5eb-744e-42cf-a02f-92ec4581c527&sc_channel=el",
@@ -545,18 +775,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://pages.awscloud.com/awsmp-gim-i0v9-webinar-sec-grc-security-lab-grc-security-lab.html"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-11",
-    "section": "Launches & Tools",
-    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrinfosec",
-    "summary": "Anthropic's Claude Fable 5.2 and Claude Mythos 5.2 share one underlying model. Mythos targets cybersecurity work: it found 10.2% more vulnerabilities than Opus 5.5 and 14.4% more than Mythos 5.1 in Anthropic's 1,829-CVE Rediscovery test. Fable blocks high-risk cyber tasks, including penetration testing and exploit generation, while reducing false-positive blocks by about 60%.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://anthropic.com/claude-fable-and-mythos-5-2"
    },
    {
     "newsletter": "infosec",
@@ -581,6 +799,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/yamixst/installctl"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-11",
+    "section": "Launches & Tools",
+    "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2?utm_source=tldrinfosec",
+    "summary": "Anthropic's Claude Fable 5.2 and Claude Mythos 5.2 share one underlying model. Mythos targets cybersecurity work: it found 10.2% more vulnerabilities than Opus 5.5 and 14.4% more than Mythos 5.1 in Anthropic's 1,829-CVE Rediscovery test. Fable blocks high-risk cyber tasks, including penetration testing and exploit generation, while reducing false-positive blocks by about 60%.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://anthropic.com/claude-fable-and-mythos-5-2"
    },
    {
     "newsletter": "infosec",
@@ -622,18 +852,6 @@
     "newsletter": "infosec",
     "date": "2026-11-11",
     "section": "Quick Links",
-    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
-    "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/?utm_source=tldrinfosec",
-    "summary": "Amplifon Americas says attackers entered its internal systems in January and copied files between January 18 and February 8.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://securityweek.com/amplifon-americas-data-breach-impacts-1-3-million"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-11",
-    "section": "Quick Links",
     "title": "Queens Public Library Network Outage Updates",
     "url": "https://connect.queenslibrary.org/?utm_source=tldrinfosec",
     "summary": "A ransomware attack has knocked out Queens Public Library's website, mobile app, digital media services, and public computers at most branches.",
@@ -641,6 +859,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://connect.queenslibrary.org/"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+    "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/?utm_source=tldrinfosec",
+    "summary": "Amplifon Americas says attackers entered its internal systems in January and copied files between January 18 and February 8.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securityweek.com/amplifon-americas-data-breach-impacts-1-3-million"
    },
    {
     "newsletter": "infosec",
@@ -744,18 +974,6 @@
     "newsletter": "devops",
     "date": "2026-11-11",
     "section": "Resources & Tools",
-    "title": "Astryx",
-    "url": "https://github.com/meta/astryx?utm_source=tldrdevops",
-    "summary": "Astryx is an open-source design system with over 150 accessible components. It grew inside Meta over eight years to power more than 13,000 apps. The system is built on React 19 and StyleX, with a CLI designed for both human developers and AI assistants.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/meta/astryx"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-11-11",
-    "section": "Resources & Tools",
     "title": "HA-MCP",
     "url": "https://github.com/homeassistant-ai/ha-mcp?utm_source=tldrdevops",
     "summary": "HA-MCP lets users configure and automate Home Assistant with AI assistants like Claude and ChatGPT. The recommended integration installs directly through HACS or the built-in Marketplace on Home Assistant 2026.11+, runs in-process, and works across all installation types.",
@@ -763,6 +981,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/homeassistant-ai/ha-mcp"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-11-11",
+    "section": "Resources & Tools",
+    "title": "Astryx",
+    "url": "https://github.com/meta/astryx?utm_source=tldrdevops",
+    "summary": "Astryx is an open-source design system with over 150 accessible components. It grew inside Meta over eight years to power more than 13,000 apps. The system is built on React 19 and StyleX, with a CLI designed for both human developers and AI assistants.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/meta/astryx"
    },
    {
     "newsletter": "devops",
@@ -1182,18 +1412,6 @@
     "newsletter": "founders",
     "date": "2026-11-11",
     "section": "Headlines & Trends",
-    "title": "Inside the AI-Native Services Business Model",
-    "url": "https://www.focusedchaos.co/p/inside-the-ai-native-services-business?utm_source=tldrfounders",
-    "summary": "AI-native services companies promise the same quality as services businesses but with faster turnaround and typically at a lower cost. The market is big - arguably bigger than the software market. The challenge is in delivering more work without needing proportionally more people while maintaining quality and keeping enough of the efficiency gains. AI-native services may be reasonably easy to get off the ground, but scaling them is another story.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://focusedchaos.co/p/inside-the-ai-native-services-business"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-11",
-    "section": "Headlines & Trends",
     "title": "The era of fully autonomous companies",
     "url": "https://www.generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies?utm_source=tldrfounders",
     "summary": "We are now entering the era of autonomous companies. An autonomous company is a company managed entirely by agents. All management decisions are made by AI - there may be humans involved on occasion, but only at the very bottom of the hierarchy for specific tasks. By this time next year, there will be millions of autonomous companies, and many of them will be profitable.",
@@ -1201,6 +1419,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://generalintelligencecompany.com/writing/the-era-of-fully-autonomous-companies"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-11",
+    "section": "Headlines & Trends",
+    "title": "Inside the AI-Native Services Business Model",
+    "url": "https://www.focusedchaos.co/p/inside-the-ai-native-services-business?utm_source=tldrfounders",
+    "summary": "AI-native services companies promise the same quality as services businesses but with faster turnaround and typically at a lower cost. The market is big - arguably bigger than the software market. The challenge is in delivering more work without needing proportionally more people while maintaining quality and keeping enough of the efficiency gains. AI-native services may be reasonably easy to get off the ground, but scaling them is another story.",
+    "read_minutes": 20,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://focusedchaos.co/p/inside-the-ai-native-services-business"
    },
    {
     "newsletter": "founders",
@@ -1242,18 +1472,6 @@
     "newsletter": "founders",
     "date": "2026-11-11",
     "section": "Tools & Resources",
-    "title": "Cursor Projects is now multiplayer",
-    "url": "https://cursor.com/blog/projects-multiplayer?utm_source=tldrfounders",
-    "summary": "Cursor Projects lets teammates work alongside AI agents in a shared workspace with common documents, decisions, and a task board. Agents can coordinate overlapping work and carry context across handovers instead of each teammate rebuilding it. The feature is rolling out in beta to all Cursor users starting November 10.",
-    "read_minutes": null,
-    "kind": "tool",
-    "sponsored": false,
-    "key": "https://cursor.com/blog/projects-multiplayer"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-11",
-    "section": "Tools & Resources",
     "title": "ChatGPT visual ads are rolling out",
     "url": "https://searchengineland.com/chatgpt-visual-ads-are-rolling-out-501253?utm_source=tldrfounders",
     "summary": "OpenAI is rolling out visual ads in ChatGPT. Some users will now see ads when ChatGPT generates images. The ads disappear after the images are generated. A video that shows what an ad looks like is available in the article.",
@@ -1261,6 +1479,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://searchengineland.com/chatgpt-visual-ads-are-rolling-out-501253"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-11",
+    "section": "Tools & Resources",
+    "title": "Cursor Projects is now multiplayer",
+    "url": "https://cursor.com/blog/projects-multiplayer?utm_source=tldrfounders",
+    "summary": "Cursor Projects lets teammates work alongside AI agents in a shared workspace with common documents, decisions, and a task board. Agents can coordinate overlapping work and carry context across handovers instead of each teammate rebuilding it. The feature is rolling out in beta to all Cursor users starting November 10.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://cursor.com/blog/projects-multiplayer"
    },
    {
     "newsletter": "founders",
@@ -1534,18 +1764,6 @@
     "newsletter": "it",
     "date": "2026-11-11",
     "section": "News & Trends",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/?utm_source=tldrit",
-    "summary": "OpenAI has made ChatGPT Enterprise available through the AWS Marketplace, allowing organizations to purchase and manage the AI product using their existing AWS accounts and billing relationships. Customers gain access to the same models and features available directly from OpenAI while being able to apply eligible spend toward AWS commitments. Additionally, eligible customers can access specialized offerings such as ChatGPT for Healthcare and ChatGPT for Financial Services.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-11",
-    "section": "News & Trends",
     "title": "Microsoft presses Trump to scuttle ban on Chinese data center tech",
     "url": "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/?utm_source=tldrit",
     "summary": "Microsoft and industry groups are lobbying against a proposed US ban on new Chinese optical transceivers used in data centers. They warn that alternative suppliers lack capacity to replace Chinese vendors, potentially delaying construction and leaving purchased AI chips idle. The restrictions are still under consideration.",
@@ -1553,6 +1771,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-11",
+    "section": "News & Trends",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/?utm_source=tldrit",
+    "summary": "OpenAI has made ChatGPT Enterprise available through the AWS Marketplace, allowing organizations to purchase and manage the AI product using their existing AWS accounts and billing relationships. Customers gain access to the same models and features available directly from OpenAI while being able to apply eligible spend toward AWS commitments. Additionally, eligible customers can access specialized offerings such as ChatGPT for Healthcare and ChatGPT for Financial Services.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
    },
    {
     "newsletter": "it",
@@ -1654,18 +1884,6 @@
     "newsletter": "it",
     "date": "2026-11-11",
     "section": "Quick Links",
-    "title": "Anthropic and OpenAI are coming for the development workflow",
-    "url": "https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html?utm_source=tldrit",
-    "summary": "Frontier AI labs like Anthropic and OpenAI are increasingly expanding their functionality to control more of the end-to-end software development workflow in order to maximize profitability and extend the commercial value of their models.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-11",
-    "section": "Quick Links",
     "title": "Amazon CloudWatch Logs announces account-level retention policies",
     "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/?utm_source=tldrit",
     "summary": "CloudWatch now supports account-wide or prefix-based retention policies for log groups.",
@@ -1685,6 +1903,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-profiles-multiple-per-vpc"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Anthropic and OpenAI are coming for the development workflow",
+    "url": "https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html?utm_source=tldrit",
+    "summary": "Frontier AI labs like Anthropic and OpenAI are increasingly expanding their functionality to control more of the end-to-end software development workflow in order to maximize profitability and extend the commercial value of their models.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html"
    }
   ],
   "hardware": [
@@ -1716,18 +1946,6 @@
     "newsletter": "hardware",
     "date": "2026-11-11",
     "section": "Engineering and Applications",
-    "title": "Google's $29.99 Pixel Tag uses UWB for precision finding, with no NFC, and Lost mode shows owner contact info instead",
-    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available?utm_source=tldrhardware",
-    "summary": "The tag finds nearby items over Bluetooth and ultra-wideband, falls back to Google's Find Hub network of over a billion Android devices when out of range, and pairs via Fast Pair on Android 9 or newer. It has a roughly 80 dB speaker, an IP67 stainless steel body, 0.2 inches thickness and 0.4 oz weight, and a replaceable CR2032 rated for up to a year. Without NFC, Lost mode shares the owner's contact details with finders, and a double press rings your phone.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-11",
-    "section": "Engineering and Applications",
     "title": "AMD's Zen 6 Family: Feeding the Beast",
     "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast?utm_source=tldrhardware",
     "summary": "AMD's Zen 6 CPUs enhance performance with a faster branch predictor, a dual decode cluster for single threads, and optimized out-of-order structures to reduce memory stalls compared to Zen 5. The main distinction between Zen 6 and Zen 6c lies in their architectural tuning: Zen 6 focuses on high-frequency performance while Zen 6c increases latency absorption with larger cache sizes and core counts.",
@@ -1735,6 +1953,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-11",
+    "section": "Engineering and Applications",
+    "title": "Google's $29.99 Pixel Tag uses UWB for precision finding, with no NFC, and Lost mode shows owner contact info instead",
+    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available?utm_source=tldrhardware",
+    "summary": "The tag finds nearby items over Bluetooth and ultra-wideband, falls back to Google's Find Hub network of over a billion Android devices when out of range, and pairs via Fast Pair on Android 9 or newer. It has a roughly 80 dB speaker, an IP67 stainless steel body, 0.2 inches thickness and 0.4 oz weight, and a replaceable CR2032 rated for up to a year. Without NFC, Lost mode shares the owner's contact details with finders, and a double press rings your phone.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available"
    },
    {
     "newsletter": "hardware",
@@ -1800,18 +2030,6 @@
     "newsletter": "hardware",
     "date": "2026-11-11",
     "section": "Quick Links",
-    "title": "SoftBank swings to a $7B quarterly loss after writing down advance payments for power equipment at its US AI datacenters",
-    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html?utm_source=tldrhardware",
-    "summary": "SoftBank lost 1.12 trillion yen ($7 billion) last quarter, mostly from writing down non-refundable deposits it paid to lock in power-generation equipment for its 8-gigawatt Ohio project and other US data centers, plus Intel's share decline.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-11",
-    "section": "Quick Links",
     "title": "Oura acquires AI primary-care startup Counsel Health for $625M after shelving its IPO, as quarterly revenue jumps 153% to $533M",
     "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m?utm_source=tldrhardware",
     "summary": "Oura is buying Counsel Health, whose medical AI with licensed physicians in the loop has been inside the Oura app since June, so ring biometrics can feed directly into care.",
@@ -1831,236 +2049,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://therobotreport.com/intel-altera-expand-collaboration-simplify-sensor-integration-physical-ai"
-   }
-  ],
-  "ai": [
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "",
-    "title": "CI is dead. Long live CI.",
-    "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
-    "summary": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way. Buildkite is the pro-tool for CI orchestration, and when you're setup, you can forget we exist. Programmable primitives you control. No compromises. Good enough for Cursor, OpenAI, Anthropic, Perplexity, Nvidia, Uber, Airbnb and more. Build and test faster, more securely, more reliably, with the CI engineered for frontier scale, used by the teams setting the pace. You deserve better CI. Start with our 30 day trial →",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://buildkite.com/home"
    },
    {
-    "newsletter": "ai",
+    "newsletter": "hardware",
     "date": "2026-11-11",
-    "section": "Headlines & Launches",
-    "title": "Working with Claude Sheets, Whiteboards, and Interactive Connectors",
-    "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors?utm_source=tldrai",
-    "summary": "Anthropic introduced Claude Sheets, Whiteboards, and Data, new artifact types that let teams build spreadsheets, organize ideas, and create dashboards with Claude without switching apps. Interactive connectors now embed partner apps like Adobe and Atlassian directly in Claude, and plugins from Salesforce, NetSuite, and Workday (in beta) ship with built-in skills for sales, finance, and HR work. Claude Meetings, which will bring Claude into calls to take notes and update documents, is coming soon.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Headlines & Launches",
-    "title": "Businesses and Business Agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-businesses-chatgpt/?utm_source=tldrai",
-    "summary": "OpenAI introduced Businesses in ChatGPT, allowing companies to claim their profiles, update business information, provide product feeds with pricing and availability, and track customer engagement. Eligible e-commerce and online service businesses in the US can also launch Business Agents that answer questions and help customers explore their offerings inside ChatGPT. The launch is in beta.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/introducing-businesses-chatgpt"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Headlines & Launches",
-    "title": "Gemini 4 Carbon is now available",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=tldrai",
-    "summary": "Google's strongest model is now available to all paying developers and enterprises through the API in AI Studio and Gemini for business, and is rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app, and AI Mode in Search. Google says Carbon ranks first on CursorBench 4.0, Perplexity's WANDR, and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon. The release adds frontier cybersecurity capabilities through the Fairwind Program and previews /swarm, a multi-agent mode in Antigravity.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Deep Dives & Analysis",
-    "title": "Neurons as an Interpretable Basis",
-    "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis?utm_source=tldrai",
-    "summary": "Goodfire argues that individual language-model neurons are more interpretable than commonly assumed. Its Neuron Scientist agents generate and test descriptions of neuron functions, suggesting researchers can study model computations directly without always relying on sparse autoencoders to extract interpretable features.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://goodfire.com/research/neurons-as-an-interpretable-basis"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Deep Dives & Analysis",
-    "title": "Suppressing Reward Hacking Through Model Weight Arithmetic",
-    "url": "https://x.com/KunhaoZ/status/2120172863734849903?utm_source=tldrai",
-    "summary": "Researchers subtract code models trained with loose and strict rewards to identify a direction controlling inefficient solutions. Extrapolating beyond the strict model reduced resource-limit failures from 14.5% to 8% without additional training, though excessive extrapolation breaks outputs and stricter rewards can hurt correctness.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/KunhaoZ/status/2120172863734849903"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Deep Dives & Analysis",
-    "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
-    "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the?utm_source=tldrai",
-    "summary": "A Superhuman AI Researcher (SAR) is predicted to arrive at some point in 2027, assuming there is no substantial deliberate slowdown in development. AIs that can automate all white-collar work are predicted to arrive before 2028. Companies are currently not on track to align an SAR, and using a misaligned SAR to do recursive self-improvement will have negative consequences. China will probably be able to steal the training recipe and maybe even the model weights if an SAR is trained in the near future.",
-    "read_minutes": 125,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Deep Dives & Analysis",
-    "title": "Why Instinct Feels Like a Personal Assistant",
-    "url": "https://x.com/nizzyabi/status/2120194267066863738?utm_source=tldrai",
-    "summary": "A twelve-week analysis of one Instinct conversation attributes its appeal to short messages, quick acknowledgments, proactive follow-ups, and approval checks before purchases or outreach. The teardown suggests coordinated task agents and persistent memory underpin the experience, while exposing retention and delivery-verification failures.",
-    "read_minutes": 20,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/nizzyabi/status/2120194267066863738"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Engineering & Research",
-    "title": "Build software factories that work for humans with LaunchDarkly Release Autopilot",
-    "url": "https://launchdarkly.com/how-it-works/release-autopilot/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=rel-autopilot&utm_term=secondary&utm_content=ra",
-    "summary": "Most AI software factories end at deploy, and when the automation stops, the risk begins. Release Autopilot helps eliminate that risk with new automation capabilities built to fit the factory you already have, automating releases within the rules engineers set so AI-written code reaches customers faster and safer. Learn how",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://launchdarkly.com/how-it-works/release-autopilot"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Engineering & Research",
-    "title": "MAI-Transcribe-2",
-    "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/?utm_source=tldrai",
-    "summary": "MAI-Transcribe-2 is the fastest, most accurate, and cheapest speech recognition model in the world. It has new features like diarization, configurable transcription styles, and word-level timestamps. MAI-Transcribe-2 can handle a broader range of real-world audio than leading models like Gemini 3.5 Transcribe, GPT-Transcribe, Whisper V3-Large, and ScribeV2. The model costs just $0.10 per hour of audio.",
-    "read_minutes": 125,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Engineering & Research",
-    "title": "Swarm (/swarm)",
-    "url": "https://antigravity.google/docs/swarm/?utm_source=tldrai",
-    "summary": "The /swarm command in Google Antigravity runs a team of named agents that split tasks, work on the pieces at the same time, and coordinate on one shared message board. It can be used for tasks that divide cleanly across separate files, packages, or questions, or when a second agent is needed to review and test the changes before a human sees it. The /swarm command is available on Google AI Pro and Google AI Ultra plans in the Google Antigravity App and Antigravity CLI. Every worker is its own agent, so swarms use quotas much faster than single conversations.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://antigravity.google/docs/swarm"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Engineering & Research",
-    "title": "Meta Releases Faster K-Means Alternative",
-    "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means?utm_source=tldrai",
-    "summary": "Meta FAIR released e-means, a drop-in replacement for k-means that converges to lower losses with up to 10x fewer epochs and faster runtimes on CPUs and GPUs.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Miscellaneous",
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/?utm_source=tldrai",
-    "summary": "OpenAI has acquired an AI travel agent called Odessia. The deal appears to be an acqui-hire. OpenAI has not announced new travel-specific products or plans, but it has several travel-related companies as customers or partners. Odessia's founder previously founded a travel startup called Sonder, focused on short-term leasing of upscale apartments, as a college student in 2014.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Miscellaneous",
-    "title": "Anthropic's IPO Roadshow",
-    "url": "https://www.anthropic.com/news/roadshow-launch?utm_source=tldrai",
-    "summary": "Anthropic launched the roadshow for its proposed IPO, planning to offer 825 million shares at $70–$78 each. The company applied to list on Nasdaq under the ticker ANT, with most proceeds from newly issued shares going to Anthropic.",
+    "section": "Quick Links",
+    "title": "SoftBank swings to a $7B quarterly loss after writing down advance payments for power equipment at its US AI datacenters",
+    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html?utm_source=tldrhardware",
+    "summary": "SoftBank lost 1.12 trillion yen ($7 billion) last quarter, mostly from writing down non-refundable deposits it paid to lock in power-generation equipment for its 8-gigawatt Ohio project and other US data centers, plus Intel's share decline.",
     "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://anthropic.com/news/roadshow-launch"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Quick Links",
-    "title": "Your best agent, now working with your whole team",
-    "url": "https://www.switchagents.ai/blog-posts/my-agent-is-my-best-teammate-now-it-works-with-my-whole-team?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklink111126",
-    "summary": "See how a PM at Switch AI turned her personal agent from a solo helper into a teammate her whole team works with, in one shared room. Read her story .",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://switchagents.ai/blog-posts/my-agent-is-my-best-teammate-now-it-works-with-my-whole-team"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Quick Links",
-    "title": "More than 35,000 Grok-built apps were open to anyone with the link, including SpaceXSI's own",
-    "url": "https://blog.claroc.io/ghostshares-grok-build-apps?utm_source=tldrai",
-    "summary": "Over 35,000 Grok-built apps were public to anyone with the link, including SpaceXSI staff tools and an ICU patient's lab results.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.claroc.io/ghostshares-grok-build-apps"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Quick Links",
-    "title": "Introducing Gemini for healthcare",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare?utm_source=tldrai",
-    "summary": "Google Cloud announced Gemini for healthcare, a preview release of its Gemini agent with purpose-built healthcare skills, connectors to EHR and claims systems, and HIPAA-supporting governance for providers and payers.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-healthcare"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Quick Links",
-    "title": "ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",
-    "url": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/?utm_source=tldrai",
-    "summary": "ExecuTorch enables PyTorch models to run in the web browser on the GPU without conversion to another framework's format.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-11",
-    "section": "Quick Links",
-    "title": "Google DeepMind Uses AI to Verify Signal's Security",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/?utm_source=tldrai",
-    "summary": "Google DeepMind introduced AlphaProof Code, a multi-agent AI framework that mathematically verified key security properties of Signal's cryptographic protocol at the implementation level.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://deepmind.google/blog/introducing-alphaproof-code"
+    "key": "https://cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
    }
   ]
  }
