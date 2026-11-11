@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import hashlib
+import os
 import html as htmllib
 import json
 import re
@@ -132,9 +133,16 @@ def fetch_issue(session: requests.Session, slug: str, date: str) -> list[dict] |
     return parse_issue(resp.text, slug, date)
 
 
-def scrape_date(session: requests.Session, date: str, problems: list[str]) -> dict:
+# Newsletters that come out every weekday. Once today's are all in, there's no
+# need to keep watching for new issues (the others publish only some days).
+DAILY = ["tech", "ai", "webdev", "infosec", "design", "marketing", "crypto", "it"]
+
+
+def scrape_date(session: requests.Session, date: str, problems: list[str], only=None) -> dict:
     issues = {}
     for slug, name in NEWSLETTERS.items():
+        if only is not None and slug not in only:
+            continue
         try:
             try:
                 stories = fetch_issue(session, slug, date)
@@ -232,6 +240,22 @@ def write_index(days: dict[str, dict], months: list[str]) -> None:
     path.write_text(json.dumps(index, indent=1) + "\n")
 
 
+def stories_snapshot() -> set[tuple[str, str, str]]:
+    """Every saved story as (date, newsletter, key), to tell whether anything new arrived."""
+    return {(day, slug, story_key(st["url"]))
+            for day, data in load_days().items()
+            for slug, stories in data["issues"].items() for st in stories}
+
+
+def today_complete(date: str) -> bool:
+    """Whether all the every-weekday newsletters are in for this date (weekends count as complete)."""
+    if dt.date.fromisoformat(date).weekday() >= 5:
+        return True
+    path = DATA_DIR / f"{date}.json"
+    have = json.loads(path.read_text())["issues"] if path.exists() else {}
+    return all(slug in have for slug in DAILY if slug in NEWSLETTERS)
+
+
 def last_weekday_before(today: dt.date) -> dt.date:
     d = today - dt.timedelta(days=1)
     while d.weekday() >= 5:
@@ -245,7 +269,12 @@ def main() -> None:
                         help="how many recent days to fetch (default 3; 30 while under a week is saved)")
     parser.add_argument("--date", help="fetch a single YYYY-MM-DD date")
     parser.add_argument("--force", action="store_true", help="re-fetch days that are already saved")
+    parser.add_argument("--wait-minutes", type=float, default=0,
+                        help="if today's issues aren't all out yet, keep checking for up to this long "
+                             "and stop as soon as new stories arrive (default 0: don't wait)")
+    parser.add_argument("--poll-minutes", type=float, default=5, help="how often to check while waiting (default 5)")
     args = parser.parse_args()
+    started = time.monotonic()
 
     if args.date:
         dates = [args.date]
@@ -263,6 +292,7 @@ def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     session = requests.Session()
     problems: list[str] = []
+    before = stories_snapshot()
     for date in dates:
         out = DATA_DIR / f"{date}.json"
         # Today's issues may still be arriving, so always refresh the last 2 days.
@@ -275,6 +305,33 @@ def main() -> None:
             out.write_text(json.dumps({"date": date, "issues": issues}, indent=1, ensure_ascii=False) + "\n")
         else:
             print("  (no issues)")
+
+    # Waiting mode: TLDR publishes over a few hours each morning. Rather than
+    # finishing now, keep checking today's missing newsletters until something new
+    # shows up (so it can be published right away) or the time runs out.
+    today = dt.date.today().isoformat()
+    polls = 0
+    while args.wait_minutes and not args.date and not (stories_snapshot() - before) and not today_complete(today):
+        if time.monotonic() - started + args.poll_minutes * 60 > args.wait_minutes * 60:
+            print("Nothing new yet; stopping for now.")
+            break
+        time.sleep(args.poll_minutes * 60)
+        out = DATA_DIR / f"{today}.json"
+        have = json.loads(out.read_text())["issues"] if out.exists() else {}
+        missing = [slug for slug in NEWSLETTERS if slug not in have]
+        polls += 1
+        # Before anything is out today, just watch the main TLDR (it comes out first),
+        # with a full check every third time in case it's late.
+        if not have and "tech" in missing and polls % 3:
+            missing = ["tech"]
+        print(f"{dt.datetime.now(dt.timezone.utc):%H:%M} UTC, checking {today} for: {', '.join(missing)}")
+        issues = scrape_date(session, today, problems, only=missing)
+        if issues:
+            out.write_text(json.dumps({"date": today, "issues": {**have, **issues}}, indent=1, ensure_ascii=False) + "\n")
+
+    if os.environ.get("GITHUB_OUTPUT"):
+        with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+            f.write(f"today_complete={'true' if today_complete(today) else 'false'}\n")
 
     saved = load_days()
     add_keys(saved)

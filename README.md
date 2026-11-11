@@ -29,8 +29,17 @@ docs/data/<date>.json    one file per day, all newsletters combined
 docs/data/index.json     list of available days
 docs/data/search/        every story, de-duplicated, one file per month (used by search)
 docs/                    the static website (index.html, app.js, style.css, sw.js for offline/app install)
-.github/workflows/       runs the scraper every 30 min; commits + redeploys only when there are new stories
+.github/workflows/       keeps the site updated (see "How updates stay fast" below)
 ```
+
+## How updates stay fast
+
+GitHub only starts scheduled workflow runs every few hours in practice, so the
+workflow doesn't rely on its schedule alone. On weekdays between 05:00 and 16:00
+UTC (when TLDR publishes), each run keeps checking tldr.tech every 10 minutes for
+up to 40 minutes, publishes as soon as new issues appear, then starts the next run
+itself. Once all of today's daily newsletters are in, it stops until the next
+morning. New issues usually reach the site within about 10 minutes.
 
 ## Setup (one time)
 

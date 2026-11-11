@@ -1,5 +1,11 @@
 name: Update news and deploy site
 
+# How updates stay fast: GitHub only starts scheduled runs every few hours in
+# practice. So on weekday mornings (05:00-16:00 UTC, when TLDR publishes) each run
+# keeps checking tldr.tech every 10 minutes for up to 40 minutes, publishes as soon
+# as new issues appear, then starts the next run itself ("Watch for more" job).
+# The chain stops once today's daily newsletters are all in, or at 16:00 UTC.
+# The schedule below just (re)starts things; outside those hours it's the only trigger.
 on:
   schedule:
     # Every 30 minutes. Runs with no new stories don't commit or redeploy.
@@ -10,6 +16,9 @@ on:
       days:
         description: "How many days to fetch (use e.g. 30 to backfill)"
         default: "3"
+      auto:
+        description: "Set by the workflow when it starts its own next run"
+        default: "false"
   push:
     branches: [main]
     paths: ["docs/**", "scraper/**", ".github/workflows/update.yml"]
@@ -18,6 +27,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write   # lets a run start the next one during publishing hours
 
 concurrency:
   group: update
@@ -26,9 +36,12 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     outputs:
       problems: ${{ steps.fetch.outputs.problems }}
-      publish: ${{ steps.commit.outputs.changed == 'true' || github.event_name != 'schedule' }}
+      # Automatic runs only republish when there's something new.
+      publish: ${{ steps.commit.outputs.changed == 'true' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.auto != 'true') }}
+      chain: ${{ steps.fetch.outputs.in_window == 'true' && steps.fetch.outputs.today_complete == 'false' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -42,7 +55,12 @@ jobs:
         # Exit code 2 = fetched what it could but something looks wrong (see the alert job).
         run: |
           set +e
-          python scraper/scrape.py --days "${{ inputs.days || '3' }}" 2> >(tee errors.log >&2)
+          wait=0
+          if [ "$(date -u +%u)" -le 5 ] && [ "$((10#$(date -u +%H)))" -ge 5 ] && [ "$((10#$(date -u +%H)))" -lt 16 ]; then
+            wait=40
+            echo "in_window=true" >> "$GITHUB_OUTPUT"
+          fi
+          python scraper/scrape.py --days "${{ inputs.days || '3' }}" --wait-minutes "$wait" --poll-minutes 10 2> >(tee errors.log >&2)
           code=$?
           if [ $code -eq 2 ]; then echo "problems=true" >> "$GITHUB_OUTPUT"; elif [ $code -ne 0 ]; then exit $code; fi
       - name: Upload problem log
@@ -64,10 +82,9 @@ jobs:
             git commit -m "Update news data $(date -u +%Y-%m-%d)"
             git push
           fi
-      # Scheduled runs only republish when there's something new.
-      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+      - if: steps.commit.outputs.changed == 'true' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.auto != 'true')
         uses: actions/configure-pages@v5
-      - if: steps.commit.outputs.changed == 'true' || github.event_name != 'schedule'
+      - if: steps.commit.outputs.changed == 'true' || github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.auto != 'true')
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
@@ -91,10 +108,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          # Scheduled runs happen every 30 min; only fail (and email) once a day, around 15:00 UTC.
-          if [ "${{ github.event_name }}" = "schedule" ] && { [ "$(date -u +%H)" != "15" ] || [ "$(date -u +%M)" -ge 30 ]; }; then
-            echo "::warning::The TLDR scraper hit problems (alert email is sent by the ~15:00 UTC run)."
+          # Automatic runs happen often; only fail (and email) once a day, around 16:00 UTC.
+          if { [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.auto }}" = "true" ]; } && { [ "$(date -u +%H)" != "16" ] || [ "$(date -u +%M)" -ge 30 ]; }; then
+            echo "::warning::The TLDR scraper hit problems (alert email is sent by the ~16:00 UTC run)."
             exit 0
           fi
           echo "::error::The TLDR scraper hit problems. See the 'Fetch issues' step log or the scrape-problems artifact."
           exit 1
+
+  # During publishing hours, start the next run straight away so new issues keep
+  # being picked up within minutes. Only one run can be active or waiting at a time
+  # (concurrency group above), so this never piles up extra runs.
+  next:
+    name: Watch for more
+    needs: [scrape, deploy]
+    if: always() && needs.scrape.result == 'success' && needs.scrape.outputs.chain == 'true' && needs.deploy.result != 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run update.yml --repo "$GITHUB_REPOSITORY" --ref main -f auto=true
+        env:
+          GH_TOKEN: ${{ github.token }}
