@@ -816,18 +816,6 @@
     "newsletter": "infosec",
     "date": "2026-11-10",
     "section": "Miscellaneous",
-    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-    "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html?utm_source=tldrinfosec",
-    "summary": "Researchers accessed ForgeRock/Ping Identity admin consoles at two automakers through an exposed Apache Felix console using the default admin:admin password. They bypassed edge filtering with encoded path characters, gained server access, changed customer credentials, obtained app tokens, and remotely unlocked and started test vehicles.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-10",
-    "section": "Miscellaneous",
     "title": "Google DeepMind's AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
     "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/?utm_source=tldrinfosec",
     "summary": "Google DeepMind and researchers from UC San Diego and Inria found two ways to reduce the cost of attacking RSA-1024. AI agents cut a signature-forgery attack's CPU time from 1,380 to 391 core-years. They also proposed a batch-factoring method that could make each additional 1024-bit key about 30 times cheaper to factor, though it remains unimplemented. The signature attack needs roughly 4 billion signing queries and does not recover private keys. Modern systems using 2048-bit or larger RSA keys are unaffected.",
@@ -835,6 +823,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-10",
+    "section": "Miscellaneous",
+    "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+    "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html?utm_source=tldrinfosec",
+    "summary": "Researchers accessed ForgeRock/Ping Identity admin consoles at two automakers through an exposed Apache Felix console using the default admin:admin password. They bypassed edge filtering with encoded path characters, gained server access, changed customer credentials, obtained app tokens, and remotely unlocked and started test vehicles.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html"
    },
    {
     "newsletter": "infosec",
@@ -1860,18 +1860,6 @@
     "newsletter": "it",
     "date": "2026-11-10",
     "section": "Launches & Partnerships",
-    "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
-    "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_source=tldrit",
-    "summary": "Google Cloud has launched general availability for a self-managed VMware Cloud Foundation solution on dedicated bare-metal hardware across 22 regions. The new offering gives customers root access across ESXi, vCenter, and NSX, with users driving upgrades and patching using their own portable VCF subscriptions. It complements Google's existing managed VMware Engine, joining similar customer-operated bare-metal options from AWS and Oracle.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoq.com/news/2026/11/google-cloud-self-managed-vmware"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-10",
-    "section": "Launches & Partnerships",
     "title": "Broadcom Contributes VM API Open Source Project to Cloud Native Computing Foundation",
     "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-contributes-vm-api-open-source-project-cloud-native?utm_source=tldrit",
     "summary": "Broadcom's VM API project has been accepted into the CNCF Sandbox, introducing a vendor-neutral approach to managing virtual machines through Kubernetes APIs. The company also announced participation in a new workload conformance initiative and more than 20 validated VMware vSphere Kubernetes Service partner solutions. The efforts could improve consistency across mixed virtualization and container environments.",
@@ -1891,6 +1879,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://itpro.com/cloud/hybrid-cloud/red-hat-eyes-automated-cloud-management-gains-with-openshift-5-release"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-10",
+    "section": "Launches & Partnerships",
+    "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+    "url": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_source=tldrit",
+    "summary": "Google Cloud has launched general availability for a self-managed VMware Cloud Foundation solution on dedicated bare-metal hardware across 22 regions. The new offering gives customers root access across ESXi, vCenter, and NSX, with users driving upgrades and patching using their own portable VCF subscriptions. It complements Google's existing managed VMware Engine, joining similar customer-operated bare-metal options from AWS and Oracle.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://infoq.com/news/2026/11/google-cloud-self-managed-vmware"
    },
    {
     "newsletter": "it",
