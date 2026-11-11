@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-11-10",
     "section": "Big Tech & Startups",
-    "title": "Fable 5.2 and Jagged AGI",
-    "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi?utm_source=tldrnewsletter",
-    "summary": "AI models are likely to soon cross the boundary into Artificial General Intelligence. Claude Fable 5.2 is almost as good as most human experts at most intellectual tasks that can be completed with a computer. It still makes mistakes and requires human guidance, but it demonstrates impressive work in many tests. There are still important areas in many tasks where the model is jagged enough to fall well behind human capability, but it isn't about simple errors or hallucinations anymore.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://oneusefulthing.org/p/fable-52-and-jagged-agi"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-10",
-    "section": "Big Tech & Startups",
     "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
     "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDI4MTk5MywiZXhwIjoxNzk0ODg2NzkzLCJhcnRpY2xlSWQiOiJUTzFZMk9UOU5KTFYwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.R7Bx_TEuzt-X8O8UBbRJizG8vvAeD6jnhPTV1a_aD_A&utm_source=tldrnewsletter",
     "summary": "Google is rolling out two new variations of its Tensor Processing Units. The 8tx is aimed at handling secure, confidential work for customers like government agencies and companies in regulated industries. The 8i Max is designed to run AI applications that require long-context windows. Google's TPU business has proven to be lucrative, and the company has netted some high-profile clients including Apple, Meta, and Oracle.",
@@ -37,6 +25,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-10",
+    "section": "Big Tech & Startups",
+    "title": "Fable 5.2 and Jagged AGI",
+    "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi?utm_source=tldrnewsletter",
+    "summary": "AI models are likely to soon cross the boundary into Artificial General Intelligence. Claude Fable 5.2 is almost as good as most human experts at most intellectual tasks that can be completed with a computer. It still makes mistakes and requires human guidance, but it demonstrates impressive work in many tests. There are still important areas in many tasks where the model is jagged enough to fall well behind human capability, but it isn't about simple errors or hallucinations anymore.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://oneusefulthing.org/p/fable-52-and-jagged-agi"
    },
    {
     "newsletter": "tech",
@@ -1072,18 +1072,6 @@
     "newsletter": "design",
     "date": "2026-11-10",
     "section": "Opinions & Tutorials",
-    "title": "Raising the ceiling must be earned",
-    "url": "https://www.proofofconcept.pub/p/raising-the-ceiling-must-be-earned?utm_source=tldrdesign",
-    "summary": "AI tools can raise the baseline quality of creative work, but access to powerful technology does not automatically increase someone's ability to produce exceptional results. Developing taste and judgment requires understanding design fundamentals, recognizing weaknesses in generated work, and knowing how to direct improvements rather than accepting whatever looks convincing. AI-assisted prototyping can accelerate learning, but raising the ceiling of what's possible still depends on practicing the craft, understanding how things work, and developing the ability to critique them.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://proofofconcept.pub/p/raising-the-ceiling-must-be-earned"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-10",
-    "section": "Opinions & Tutorials",
     "title": "Why I Make Mood Boards",
     "url": "https://www.chrbutler.com/why-i-make-mood-boards?utm_source=tldrdesign",
     "summary": "Mood boards can become more than collections of visual references when the arrangement of images creates meanings that none of the individual pictures communicate alone. Juxtaposition, proximity, and contrast generate unexpected relationships between otherwise unrelated subjects, turning the act of collecting and arranging images into a form of visual thinking. Building collections gradually around themes such as machines, time, or technology allows new connections to emerge through experimentation rather than following a predetermined narrative.",
@@ -1103,6 +1091,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nurxmedov.substack.com/p/what-does-a-design-engineer-do"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-10",
+    "section": "Opinions & Tutorials",
+    "title": "Raising the ceiling must be earned",
+    "url": "https://www.proofofconcept.pub/p/raising-the-ceiling-must-be-earned?utm_source=tldrdesign",
+    "summary": "AI tools can raise the baseline quality of creative work, but access to powerful technology does not automatically increase someone's ability to produce exceptional results. Developing taste and judgment requires understanding design fundamentals, recognizing weaknesses in generated work, and knowing how to direct improvements rather than accepting whatever looks convincing. AI-assisted prototyping can accelerate learning, but raising the ceiling of what's possible still depends on practicing the craft, understanding how things work, and developing the ability to critique them.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://proofofconcept.pub/p/raising-the-ceiling-must-be-earned"
    },
    {
     "newsletter": "design",
