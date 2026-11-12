@@ -219,6 +219,296 @@
     "key": "https://wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?st=S1fLDz&reflink=desktopwebshare_permalink"
    }
   ],
+  "ai": [
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "",
+    "title": "Security or fast ROI? Making the right architectural choices for production AI",
+    "url": "https://www.algolia.com/resources/asset/white-paper-striking-the-balance-between-security-and-roi?utm_source=tldr&utm_medium=display&utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach&utm_content=tldr_global_b2x_ecomm_header_security_fast_roi&utm_term=wp_strikingbalance_securityandroi_2026-11-12_tldr_ai&utm_2nd_camp=ecomm_tof&utm_ag=nx&utm_camp_parent=b2x_ecomm&utm_creative_format=prmrynwsl&utm_goal=reach&utm_marketing_tactic=reach&utm_model=cpm&utm_region=global",
+    "summary": "GenAI features are finally offering real improvements in conversions, engagement, and operational efficiency – but they direct data through unpredictable pipelines that can put privacy, compliance, and customer trust at risk. Many organizations feel caught between two unattractive options: move fast to capture AI's upside, or slow down to reduce risk. Algolia's whitepaper reveals how the right architectural choices and operating discipline can allow you to move quickly while keeping security and trust intact. You'll learn where value is created and risk emerges, and how to make architectural decisions that directly improve speed, cost, trust, and business outcomes. Get the whitepaper ↗️",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://algolia.com/resources/asset/white-paper-striking-the-balance-between-security-and-roi"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Headlines & Launches",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrai",
+    "summary": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Headlines & Launches",
+    "title": "What's new in Grok Bot 1.0",
+    "url": "https://flaviocopes.com/grok-bot-1-0/?utm_source=tldrai",
+    "summary": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://flaviocopes.com/grok-bot-1-0"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Headlines & Launches",
+    "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model",
+    "url": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=tldrai",
+    "summary": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://runway.com/news/company-news/praxis-1-is-now-available"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Deep Dives & Analysis",
+    "title": "Escaping SPACE: Part II",
+    "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii?utm_source=tldrai",
+    "summary": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.",
+    "read_minutes": 28,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://perplexity.ai/hub/blog/escaping-space-part-ii"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Deep Dives & Analysis",
+    "title": "MCP vs CLI vs Skills: What Each Costs in Context",
+    "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/?utm_source=tldrai",
+    "summary": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Deep Dives & Analysis",
+    "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT",
+    "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2?utm_source=tldrai",
+    "summary": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Deep Dives & Analysis",
+    "title": "Don't Write Kernels, Derive Them",
+    "url": "https://muni.works/research/tang?utm_source=tldrai",
+    "summary": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.",
+    "read_minutes": 63,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://muni.works/research/tang"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "No eval suite can prove your agent is safe",
+    "url": "https://hubs.ly/Q04DX2Jp0",
+    "summary": "Join Gray Swan, who evaluates and benchmarks pre-release models for Anthropic, OpenAI, & Reflection, as their Chief Product Officer walks through a three-layer defense for production agents: red-teaming, behavior enforcement and deterministic controls. Register Free ->",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://hubs.ly/Q04DX2Jp0"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "Browser use has been rolling out in Antigravity",
+    "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
+    "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2120556423474028576.html"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=tldrai",
+    "summary": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins",
+    "url": "https://github.com/openai/mcp-extensions?utm_source=tldrai",
+    "summary": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits & Bolts demo plugin and a written spec.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://github.com/openai/mcp-extensions"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/?utm_source=tldrai",
+    "summary": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "Shopify's generative discovery model",
+    "url": "https://shopify.engineering/generative-discovery?utm_source=tldrai",
+    "summary": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://shopify.engineering/generative-discovery"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "United moves to block AI agents",
+    "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html?utm_source=tldrai",
+    "summary": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cnbc.com/2026/11/11/united-airlines-ai-agents.html"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "Why Connections Matter More in AI",
+    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrai",
+    "summary": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Build financial models with AI",
+    "url": "https://www.pigment.com/trial/sign-up?utm_source=tldr&utm_medium=email&utm_campaign=newsletter&utm_content_1=free-trial&utm_term=",
+    "summary": "Describe the financial model you need. Pigment's AI agent builds it. Explore it yourself in a real planning environment with a 14-day Free Trial. Start your free trial →",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://pigment.com/trial/sign-up"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Video: Replit, Fin, Snowflake, and Clay on pricing for the AI era",
+    "url": "https://go.stripe.global/monetize-2026-on-demand?utm_campaign=TAmp0kb8Yx4vqA9YGTi8ow0Tg",
+    "summary": "Leaders from Replit, Fin, Snowflake, Clay, and Growth Unhinged discuss what to meter, when to revisit a pricing model, and how to forecast AI costs and returns. Watch the recorded sessions from Monetize.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://go.stripe.global/monetize-2026-on-demand"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Google Tabletop Creates Shared Interactive Planning Spaces",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop?utm_source=tldrai",
+    "summary": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "ElevenAI",
+    "url": "https://elevenlabs.io/elevenai?utm_source=tldrai",
+    "summary": "ElevenAI is a desktop app that helps amplify work using agents.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://elevenlabs.io/elevenai"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "OpenAI wants agents to tell websites where you are",
+    "url": "https://joost.blog/agents-sharing-user-signals/?utm_source=tldrai",
+    "summary": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://joost.blog/agents-sharing-user-signals"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Nvidia board reportedly preparing to oust Huang",
+    "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/?utm_source=tldrai",
+    "summary": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cbsnews.com/news/nvidia-board-ceo-jensen-huang-china"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Airbnb's AI assistant cut support cost per booking 17%",
+    "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307?utm_source=tldrai",
+    "summary": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Databricks Genie Agents",
+    "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work?utm_source=tldrai",
+    "summary": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work"
+   }
+  ],
   "webdev": [
    {
     "newsletter": "webdev",
@@ -418,18 +708,6 @@
     "newsletter": "infosec",
     "date": "2026-11-12",
     "section": "Attacks & Vulnerabilities",
-    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/?utm_source=tldrinfosec",
-    "summary": "Claroc found more than 35,000 public Grok Build apps via passive DNS enumeration. Grok placed URL randomness in the subdomain, so DNS services recorded the links. Exposed material includes SpaceXSI sales plans, 3,784 worker medical exams, Tesla technician scorecards, Navy contractor rosters, employee IDs, and commercial proposals.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-12",
-    "section": "Attacks & Vulnerabilities",
     "title": "Japanese Furniture Giant Nitori Says Hackers Stole 37.6M Customer Records",
     "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/?utm_source=tldrinfosec",
     "summary": "Nitori, the “IKEA of Japan,” disclosed a data breach that exposed the data of 37.62M individual members, non-member customers, and corporate members. The exposed data may include membership numbers, names, email addresses, postal addresses, phone numbers, dates of birth, gender, company names, department representatives' names, company addresses, contact person names, and online order information. The company stated that no passwords or credit card numbers were stolen.",
@@ -453,14 +731,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-12",
-    "section": "Strategies & Tactics",
-    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-    "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html?utm_source=tldrinfosec",
-    "summary": "Microsoft researchers demonstrated “Lazarus,” a method that edits fewer than 10 rarely used neurons in an open-weight model to embed a hidden command. When a trigger appears in a prompt or tool output, an agent may execute attacker-controlled commands with its existing permissions. Testing achieved 98.8% on Nemotron-Terminal-8B using seven edited neurons. Microsoft advises comparing checkpoints with base weights, using private model registries, sandboxing agent code, limiting network access, and requiring approval for high-impact actions.",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/?utm_source=tldrinfosec",
+    "summary": "Claroc found more than 35,000 public Grok Build apps via passive DNS enumeration. Grok placed URL randomness in the subdomain, so DNS services recorded the links. Exposed material includes SpaceXSI sales plans, 3,784 worker medical exams, Tesla technician scorecards, Navy contractor rosters, employee IDs, and commercial proposals.",
     "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
+    "key": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi"
    },
    {
     "newsletter": "infosec",
@@ -489,6 +767,18 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-12",
+    "section": "Strategies & Tactics",
+    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+    "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html?utm_source=tldrinfosec",
+    "summary": "Microsoft researchers demonstrated “Lazarus,” a method that edits fewer than 10 rarely used neurons in an open-weight model to embed a hidden command. When a trigger appears in a prompt or tool output, an agent may execute attacker-controlled commands with its existing permissions. Testing achieved 98.8% on Nemotron-Terminal-8B using seven edited neurons. Microsoft advises comparing checkpoints with base weights, using private model registries, sandboxing agent code, limiting network access, and requiring approval for high-impact actions.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-12",
     "section": "Launches & Tools",
     "title": "Your App Just Launched. So Did the Attacks.",
     "url": "https://digital.ai/resource-center/whitepapers/digital-ai-2026-application-security-threat-report/?utm_source=tldr&utm_medium=email&utm_campaign=OA-AS-2026_10_28-WW-TLDR-WP-%5B2026%2BApp%2BSec%2BThreat%2BReport%5D",
@@ -497,18 +787,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://digital.ai/resource-center/whitepapers/digital-ai-2026-application-security-threat-report"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-12",
-    "section": "Launches & Tools",
-    "title": "zed-claude-devcontainer",
-    "url": "https://github.com/0xdea/zed-claude-devcontainer?utm_source=tldrinfosec",
-    "summary": "A sandboxed dev container for running Claude Code with bypassPermissions from Zed or a terminal.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/0xdea/zed-claude-devcontainer"
    },
    {
     "newsletter": "infosec",
@@ -537,6 +815,18 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-12",
+    "section": "Launches & Tools",
+    "title": "zed-claude-devcontainer",
+    "url": "https://github.com/0xdea/zed-claude-devcontainer?utm_source=tldrinfosec",
+    "summary": "A sandboxed dev container for running Claude Code with bypassPermissions from Zed or a terminal.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/0xdea/zed-claude-devcontainer"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-12",
     "section": "Miscellaneous",
     "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
     "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon?utm_source=tldrinfosec",
@@ -545,18 +835,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
-    "title": "OpenAI builds a kill switch for its research models",
-    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006?utm_source=tldrinfosec",
-    "summary": "OpenAI's Control Room is a central kill switch for models running in its research infrastructure. It can halt model output within 35 seconds of a shutdown decision. OpenAI aims to remove that delay. The system is designed to keep operating when other systems fail and to stop output if Control Room itself fails. OpenAI did not explain the timing, though it follows incidents involving agents attacking Hugging Face, disrupting Wikimedia, and accessing Australian healthcare research data.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006"
    },
    {
     "newsletter": "infosec",
@@ -573,14 +851,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Fireworks AI says hackers reached customer datasets, partial model weights and billing data in a second intrusion",
-    "url": "https://app.dealroom.co/news/note/fireworks-ai-says-hackers-reached-customer-datasets-partial-model-weights-and-billing-data-in-a-second-intrusion?utm_source=tldrinfosec",
-    "summary": "Fireworks AI expanded its October breach disclosure on November 9.",
-    "read_minutes": 1,
+    "section": "Miscellaneous",
+    "title": "OpenAI builds a kill switch for its research models",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006?utm_source=tldrinfosec",
+    "summary": "OpenAI's Control Room is a central kill switch for models running in its research infrastructure. It can halt model output within 35 seconds of a shutdown decision. OpenAI aims to remove that delay. The system is designed to keep operating when other systems fail and to stop output if Control Room itself fails. OpenAI did not explain the timing, though it follows incidents involving agents attacking Hugging Face, disrupting Wikimedia, and accessing Australian healthcare research data.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://app.dealroom.co/news/note/fireworks-ai-says-hackers-reached-customer-datasets-partial-model-weights-and-billing-data-in-a-second-intrusion"
+    "key": "https://theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006"
    },
    {
     "newsletter": "infosec",
@@ -605,6 +883,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thedefiant.io/frontier/ai/researchers-say-codex-flaw-put-npm-releases-at-risk"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-12",
+    "section": "Quick Links",
+    "title": "Fireworks AI says hackers reached customer datasets, partial model weights and billing data in a second intrusion",
+    "url": "https://app.dealroom.co/news/note/fireworks-ai-says-hackers-reached-customer-datasets-partial-model-weights-and-billing-data-in-a-second-intrusion?utm_source=tldrinfosec",
+    "summary": "Fireworks AI expanded its October breach disclosure on November 9.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://app.dealroom.co/news/note/fireworks-ai-says-hackers-reached-customer-datasets-partial-model-weights-and-billing-data-in-a-second-intrusion"
    }
   ],
   "data": [
@@ -830,18 +1120,6 @@
     "newsletter": "design",
     "date": "2026-11-12",
     "section": "News & Trends",
-    "title": "Adobe's Google partnership hints at a radically different future for Photoshop",
-    "url": "https://www.creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop?utm_source=tldrdesign",
-    "summary": "Adobe and Google DeepMind are exploring a customized AI image model that could enable near-real-time editing in Photoshop, allowing users to make changes through text prompts and switch between variations without interrupting their workflow. Adobe is also integrating its creative tools into Google's AI Mode in Search, potentially connecting inspiration and content creation without requiring users to open separate applications. Expanded Gemini and Gemini Enterprise integrations will support conversational image editing, design customization, and PDF workflows, although the new Photoshop capabilities remain experimental.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-12",
-    "section": "News & Trends",
     "title": "Xbox Redesigns Its PC App and Expands Its Web Refresh",
     "url": "https://ux-news.com/xbox-pc-app-web-interface-redesign/?utm_source=tldrdesign",
     "summary": "The refreshed Xbox PC app reorganizes the library, adds friends to navigation, and widens search across games, add-ons, and people. On the web, a new Library tab combines cloud-playable owned games and Game Pass titles, joined by a desktop mode and five high-contrast options.",
@@ -861,6 +1139,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://digitaltrends.com/home-theater/apple-tv-just-landed-a-new-sign-language-interpretation-feature-and-its-a-huge-accessibility-win"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-12",
+    "section": "News & Trends",
+    "title": "Adobe's Google partnership hints at a radically different future for Photoshop",
+    "url": "https://www.creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop?utm_source=tldrdesign",
+    "summary": "Adobe and Google DeepMind are exploring a customized AI image model that could enable near-real-time editing in Photoshop, allowing users to make changes through text prompts and switch between variations without interrupting their workflow. Adobe is also integrating its creative tools into Google's AI Mode in Search, potentially connecting inspiration and content creation without requiring users to open separate applications. Expanded Gemini and Gemini Enterprise integrations will support conversational image editing, design customization, and PDF workflows, although the new Photoshop capabilities remain experimental.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://creativebloq.com/news/adobes-google-partnership-hints-at-a-radically-different-future-for-photoshop"
    },
    {
     "newsletter": "design",
@@ -1314,18 +1604,6 @@
     "newsletter": "founders",
     "date": "2026-11-12",
     "section": "Miscellaneous",
-    "title": "AI makes startup branding crucial",
-    "url": "https://jon4growth.substack.com/p/ai-makes-startup-branding-crucial?utm_source=tldrfounders",
-    "summary": "Startups face intense competition due to easy LLC formation and AI advancements, making strong branding crucial from day one. Building a brand system, establishing a founder voice, and leveraging creator trust effectively differentiate a startup in this crowded space. Investing in branding early can significantly impact growth and pipeline generation.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jon4growth.substack.com/p/ai-makes-startup-branding-crucial"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
     "title": "How to Run Go-to-Market With a 2-Person Team: The AI Agent Stack We Use to Publish, Prospect, and Close",
     "url": "https://dolv.work/blog/how-to-run-go-to-market-with-a-2-person-team-the-ai-agent-stack-we-use-to-publis?utm_source=tldrfounders",
     "summary": "A two-person team can effectively execute a go-to-market strategy using an AI agent stack to handle repetitive tasks, while humans focus on judgment and approvals. This setup allows publishing, prospecting, and closing work to flow efficiently by automating research, enrichment, scoring, and drafting processes. With costs totaling $1,412 monthly, the team achieves a significant return, booking meetings and closing deals that normally require a larger team.",
@@ -1333,6 +1611,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dolv.work/blog/how-to-run-go-to-market-with-a-2-person-team-the-ai-agent-stack-we-use-to-publis"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "AI makes startup branding crucial",
+    "url": "https://jon4growth.substack.com/p/ai-makes-startup-branding-crucial?utm_source=tldrfounders",
+    "summary": "Startups face intense competition due to easy LLC formation and AI advancements, making strong branding crucial from day one. Building a brand system, establishing a founder voice, and leveraging creator trust effectively differentiate a startup in this crowded space. Investing in branding early can significantly impact growth and pipeline generation.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jon4growth.substack.com/p/ai-makes-startup-branding-crucial"
    },
    {
     "newsletter": "founders",
@@ -1448,18 +1738,6 @@
     "newsletter": "crypto",
     "date": "2026-11-12",
     "section": "Guides & Resources",
-    "title": "Is Hyperliquid Losing Its Long-Tail Liquidity Moat?",
-    "url": "https://x.com/0xmattegoat/status/2120169682241998991?utm_source=tldrcrypto",
-    "summary": "Analysis of orderbook data from November 2025 to November 2026 across 38 comparable markets shows Hyperliquid's long-tail dollar depth fell 82%, versus 61% on Binance and 78% on OKX. After controlling for token price declines, the HL-to-Binance depth ratio dropped 57.5% at 5 bps, with $10k execution costs running 5.21 bps on HL versus 2.95 bps on Binance. Wintermute's monopolization of read priority fees and L1 congestion at 25-40k TPS have disadvantaged smaller market makers, pushing them to widen spreads and reduce depth in response to adverse selection risk. The deterioration threatens Hyperliquid's founding differentiation: deep liquidity in long-tail assets was the moat separating it from centralized venues.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/0xmattegoat/status/2120169682241998991"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-12",
-    "section": "Guides & Resources",
     "title": "DeFi Moats in an AI World",
     "url": "https://x.com/SpencerApplebau/status/2120177594142236911?utm_source=tldrcrypto",
     "summary": "AI tooling has collapsed the cost of launching DeFi products from six-month, $3M builds to weekend projects, but Multicoin Capital's Spencer Applebaum argues this commoditization strengthens incumbent protocol moats rather than eroding them. Financial moats, including liquidity depth, customer trust, and proprietary risk underwriting, require years to accumulate and sit beyond what AI can replicate from scratch. Multicoin's updated DeFi value-capture framework adds AI agents as the next class of sophisticated users, gravitating toward protocols with the deepest liquidity and most reliable execution at scale rather than those competing on software features or UI. This positions protocols like Uniswap, Aave, and Hyperliquid as primary beneficiaries as DEX market share against CEXs hits all-time highs and institutional adoption of tokenized assets accelerates.",
@@ -1467,6 +1745,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/SpencerApplebau/status/2120177594142236911"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-12",
+    "section": "Guides & Resources",
+    "title": "Is Hyperliquid Losing Its Long-Tail Liquidity Moat?",
+    "url": "https://x.com/0xmattegoat/status/2120169682241998991?utm_source=tldrcrypto",
+    "summary": "Analysis of orderbook data from November 2025 to November 2026 across 38 comparable markets shows Hyperliquid's long-tail dollar depth fell 82%, versus 61% on Binance and 78% on OKX. After controlling for token price declines, the HL-to-Binance depth ratio dropped 57.5% at 5 bps, with $10k execution costs running 5.21 bps on HL versus 2.95 bps on Binance. Wintermute's monopolization of read priority fees and L1 congestion at 25-40k TPS have disadvantaged smaller market makers, pushing them to widen spreads and reduce depth in response to adverse selection risk. The deterioration threatens Hyperliquid's founding differentiation: deep liquidity in long-tail assets was the moat separating it from centralized venues.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/0xmattegoat/status/2120169682241998991"
    },
    {
     "newsletter": "crypto",
@@ -1558,6 +1848,18 @@
     "newsletter": "fintech",
     "date": "2026-11-12",
     "section": "News & Trends",
+    "title": "Canada's real-time payments system launches",
+    "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
+    "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-12",
+    "section": "News & Trends",
     "title": "Wise expands US product suite",
     "url": "https://www.finextra.com/pressarticle/111640/wise-expands-us-product-suite?utm_source=tldrfintech",
     "summary": "Wise has announced an expansion of its US product offering that will give people and businesses two new ways to earn a return on the money they hold with Wise.",
@@ -1581,14 +1883,14 @@
    {
     "newsletter": "fintech",
     "date": "2026-11-12",
-    "section": "News & Trends",
-    "title": "Canada's real-time payments system launches",
-    "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
-    "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year.",
-    "read_minutes": 2,
+    "section": "Deep Dives & Reports",
+    "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute podcast)",
+    "url": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising?utm_source=tldrfintech",
+    "summary": "Revolut CEO Nik Storonsky explains the company's highly quantitative product system: launch small teams, measure new products against historical gross-profit curves, scale the top performers, and stop investing in weak ones. He also argues that subscriptions produce higher-quality earnings than lending, says AI could shrink product teams to just a few people and automate much of compliance, and outlines Revolut's plan to challenge Amex and Chase in the US with a credit-card-led offering while targeting a possible 2028 IPO.",
+    "read_minutes": null,
     "kind": null,
     "sponsored": false,
-    "key": "https://finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
+    "key": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising"
    },
    {
     "newsletter": "fintech",
@@ -1605,18 +1907,6 @@
    {
     "newsletter": "fintech",
     "date": "2026-11-12",
-    "section": "Deep Dives & Reports",
-    "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute podcast)",
-    "url": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising?utm_source=tldrfintech",
-    "summary": "Revolut CEO Nik Storonsky explains the company's highly quantitative product system: launch small teams, measure new products against historical gross-profit curves, scale the top performers, and stop investing in weak ones. He also argues that subscriptions produce higher-quality earnings than lending, says AI could shrink product teams to just a few people and automate much of compliance, and outlines Revolut's plan to challenge Amex and Chase in the US with a credit-card-led offering while targeting a possible 2028 IPO.",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-12",
     "section": "Launches & Products",
     "title": "One Connected Plan for Your IPO Decisions",
     "url": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees?utm_source=jpmwm-email-tldr&utm_medium=con-tldrfintech1112-dir-site&utm_campaign=us-en-pbcore-acq&utm_content=email-ipo-tldrfintech1112-v1",
@@ -1625,18 +1915,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-12",
-    "section": "Launches & Products",
-    "title": "Stripe and HSBC drive contactless payments for UK small businesses",
-    "url": "https://www.finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses?utm_source=tldrfintech",
-    "summary": "According to HSBC UK research conducted by Censuswide among 594 small business owners with turnover below £2 million who are involved in processing customer or client payments or transactions, 33% have lost a sale because they could not accept a customer's preferred payment method.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses"
    },
    {
     "newsletter": "fintech",
@@ -1673,6 +1951,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://venturebeat.com/orchestration/paypal-says-its-ai-assistant-went-from-43-to-95-accuracy-without-changing-the-model"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-12",
+    "section": "Launches & Products",
+    "title": "Stripe and HSBC drive contactless payments for UK small businesses",
+    "url": "https://www.finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses?utm_source=tldrfintech",
+    "summary": "According to HSBC UK research conducted by Censuswide among 594 small business owners with turnover below £2 million who are involved in processing customer or client payments or transactions, 33% have lost a sale because they could not accept a customer's preferred payment method.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses"
    },
    {
     "newsletter": "fintech",
@@ -1860,18 +2150,6 @@
     "newsletter": "it",
     "date": "2026-11-12",
     "section": "Miscellaneous",
-    "title": "GraphRAG Is the New Way to Hold Knowledge",
-    "url": "https://blog.galratner.com/p/graphrag-is-the-new-way-to-hold-knowledge?utm_source=tldrit",
-    "summary": "GraphRAG significantly outperforms traditional RAG for business AI applications by storing knowledge as interconnected entities and relationships rather than disconnected text fragments. While GraphRAG offers superior performance on multi-step reasoning and broad summaries, it involves substantially higher indexing and processing costs, though newer lightweight implementations are reducing that overhead.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.galratner.com/p/graphrag-is-the-new-way-to-hold-knowledge"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
     "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
     "url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/?utm_source=tldrit",
     "summary": "The ABAP platform is an enterprise-grade execution backbone for agentic AI within the Autonomous Enterprise vision. The role of agents acts as an abstraction layer for outcome-driven interactions and upcoming developments include governance, reliability, scaling, and the ABAP Model Context Protocol server.",
@@ -1879,6 +2157,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "GraphRAG Is the New Way to Hold Knowledge",
+    "url": "https://blog.galratner.com/p/graphrag-is-the-new-way-to-hold-knowledge?utm_source=tldrit",
+    "summary": "GraphRAG significantly outperforms traditional RAG for business AI applications by storing knowledge as interconnected entities and relationships rather than disconnected text fragments. While GraphRAG offers superior performance on multi-step reasoning and broad summaries, it involves substantially higher indexing and processing costs, though newer lightweight implementations are reducing that overhead.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.galratner.com/p/graphrag-is-the-new-way-to-hold-knowledge"
    },
    {
     "newsletter": "it",
@@ -1927,296 +2217,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/software/2026/11/10/mozilla-thunderbird-email-service-edges-closer-to-launch-with-early-access/5308826"
-   }
-  ],
-  "ai": [
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "",
-    "title": "Security or fast ROI? Making the right architectural choices for production AI",
-    "url": "https://www.algolia.com/resources/asset/white-paper-striking-the-balance-between-security-and-roi?utm_source=tldr&utm_medium=display&utm_campaign=tldr_global_b2x_ecomm_ecomm_tof_reach&utm_content=tldr_global_b2x_ecomm_header_security_fast_roi&utm_term=wp_strikingbalance_securityandroi_2026-11-12_tldr_ai&utm_2nd_camp=ecomm_tof&utm_ag=nx&utm_camp_parent=b2x_ecomm&utm_creative_format=prmrynwsl&utm_goal=reach&utm_marketing_tactic=reach&utm_model=cpm&utm_region=global",
-    "summary": "GenAI features are finally offering real improvements in conversions, engagement, and operational efficiency – but they direct data through unpredictable pipelines that can put privacy, compliance, and customer trust at risk. Many organizations feel caught between two unattractive options: move fast to capture AI's upside, or slow down to reduce risk. Algolia's whitepaper reveals how the right architectural choices and operating discipline can allow you to move quickly while keeping security and trust intact. You'll learn where value is created and risk emerges, and how to make architectural decisions that directly improve speed, cost, trust, and business outcomes. Get the whitepaper ↗️",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://algolia.com/resources/asset/white-paper-striking-the-balance-between-security-and-roi"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Headlines & Launches",
-    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/?utm_source=tldrai",
-    "summary": "Google's Gemini Decisions API enables fast, calibrated multimodal decision-making by analyzing inputs like images and text. It assesses scenarios and provides actionable insights, such as determining spill severity and recommending cleanup actions.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Headlines & Launches",
-    "title": "What's new in Grok Bot 1.0",
-    "url": "https://flaviocopes.com/grok-bot-1-0/?utm_source=tldrai",
-    "summary": "Grok Bot 1.0 adds Team Bots you can publish and share, Slack and Microsoft Teams, meetings on Meet and Zoom, shared connectors, and reviewed learnings. It is now a personal assistant that the whole team can talk to in the app, in Slack, in Microsoft Teams, and in video calls. This post covers how to create a Team Bot and publish it, how to bring the bot into Microsoft Teams, how to add a bot to a meeting, and more. It also looks at the new admin controls and what's possible without a team.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://flaviocopes.com/grok-bot-1-0"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Headlines & Launches",
-    "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model",
-    "url": "https://runway.com/news/company-news/praxis-1-is-now-available?utm_source=tldrai",
-    "summary": "Runway's Praxis-1, a 27B-parameter open-weight robotics model, is now available under Apache 2.0. The model excels in predicting video and actions, topping NVIDIA's RoboLab-120 leaderboard with a 46.2% success rate across 1,200 episodes. It's accessible on GitHub and Hugging Face, with support for full and LoRA fine-tuning, compatible with NVIDIA hardware, and adaptable for various robotic embodiments.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://runway.com/news/company-news/praxis-1-is-now-available"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Deep Dives & Analysis",
-    "title": "Don't Write Kernels, Derive Them",
-    "url": "https://muni.works/research/tang?utm_source=tldrai",
-    "summary": "Current models rely on hand-written kernels specific to operators, chips, and fusions, limiting flexibility across devices and scenarios. Tang's IR enables on-the-fly derivation of kernels through constructs such as views and comprehensions, eliminating the need for pre-defined kernels.",
-    "read_minutes": 63,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://muni.works/research/tang"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Deep Dives & Analysis",
-    "title": "Escaping SPACE: Part II",
-    "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii?utm_source=tldrai",
-    "summary": "Perplexity tested 12 models against its SPACE agent sandbox: none escaped VM-host isolation, but several bypassed network controls through DNS spoofing and shared-IP exploitation before the flaws were fixed. The experiments also found that capture-the-flag prompts distracted agents from the security boundary being tested.",
-    "read_minutes": 28,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://perplexity.ai/hub/blog/escaping-space-part-ii"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Deep Dives & Analysis",
-    "title": "MCP vs CLI vs Skills: What Each Costs in Context",
-    "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/?utm_source=tldrai",
-    "summary": "MCP servers significantly increase token use, adding thousands of input tokens per request, unlike CLI or skill methods. On Sonnet 5.5, a simple task showed MCP consuming 59,417 tokens with default tools against CLI's 1,421 and skill's 3,315, highlighting the high cost of tool-heavy MCP setups. Implementing Tool Search can cut token costs by deferring tool definitions, reducing upfront toolset costs to under 600 tokens for optimal efficiency.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Deep Dives & Analysis",
-    "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT",
-    "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2?utm_source=tldrai",
-    "summary": "By changing the training setup and applying LoRAs to Qwen3.6-35B-A3B and gpt-oss-20b, researchers taught models to do some multi-step tasks while emitting only filler tokens, beating an answer-only baseline on three of seven tasks. They also mapped theoretical layer-depth limits and showed empirical walls, with some tasks learned out to 60 steps and others failing after one to three. The work is meant to separate filler-token reasoning from steganographic hidden reasoning when interpreting chain-of-thought.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "No eval suite can prove your agent is safe",
-    "url": "https://hubs.ly/Q04DX2Jp0",
-    "summary": "Join Gray Swan, who evaluates and benchmarks pre-release models for Anthropic, OpenAI, & Reflection, as their Chief Product Officer walks through a three-layer defense for production agents: red-teaming, behavior enforcement and deterministic controls. Register Free ->",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://hubs.ly/Q04DX2Jp0"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "Shopify's generative discovery model",
-    "url": "https://shopify.engineering/generative-discovery?utm_source=tldrai",
-    "summary": "Shopify deployed a shared generative discovery model for search and recommendation, leveraging semantic-ID tokens to enhance product personalization and relevance. The model improved online and offline metrics, such as a 9.85% lift in conversion rate and significant gains in search relevance.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://shopify.engineering/generative-discovery"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "Browser use has been rolling out in Antigravity",
-    "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
-    "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2120556423474028576.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
-    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=tldrai",
-    "summary": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "OpenAI open-sources MCP Extensions for ChatGPT-native plugins",
-    "url": "https://github.com/openai/mcp-extensions?utm_source=tldrai",
-    "summary": "The TypeScript and Python packages add ChatGPT-specific features to MCP servers and apps, including sidebar entry points, custom file viewers, composer resource search, and thumbnail part pickers. The SDKs ship with a Bits & Bolts demo plugin and a written spec.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.com/openai/mcp-extensions"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
-    "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences",
-    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/?utm_source=tldrai",
-    "summary": "A2UI is an open protocol for generative UI that lets agents answer with interactive screens. Open-source renderer SDKs are now available for the web, Android, iOS, and agent SDKs for Python, TypeScript, and Dart. A2UI enables apps to draw UIs with native components, securely. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
-    "title": "Why Connections Matter More in AI",
-    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrai",
-    "summary": "Professional relationships are becoming increasingly important in AI as coding agents commoditize technical execution, frontier research demands more compute resources, and closed-source development makes individual contributions harder to evaluate.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
-    "title": "United moves to block AI agents",
-    "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html?utm_source=tldrai",
-    "summary": "United Airlines is moving to restrict AI-agent access across its platforms and agency channels, citing credential security and liability risks around tasks such as check-in. The restrictions contrast with travel companies including Expedia and Booking that are partnering with agents.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cnbc.com/2026/11/11/united-airlines-ai-agents.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Video: Replit, Fin, Snowflake, and Clay on pricing for the AI era",
-    "url": "https://go.stripe.global/monetize-2026-on-demand?utm_campaign=TAmp0kb8Yx4vqA9YGTi8ow0Tg",
-    "summary": "Leaders from Replit, Fin, Snowflake, Clay, and Growth Unhinged discuss what to meter, when to revisit a pricing model, and how to forecast AI costs and returns. Watch the recorded sessions from Monetize.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://go.stripe.global/monetize-2026-on-demand"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Build financial models with AI",
-    "url": "https://www.pigment.com/trial/sign-up?utm_source=tldr&utm_medium=email&utm_campaign=newsletter&utm_content_1=free-trial&utm_term=",
-    "summary": "Describe the financial model you need. Pigment's AI agent builds it. Explore it yourself in a real planning environment with a 14-day Free Trial. Start your free trial →",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://pigment.com/trial/sign-up"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Databricks Genie Agents",
-    "url": "https://www.databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work?utm_source=tldrai",
-    "summary": "Databricks Genie Agents can now analyze unstructured documents alongside database tables, connect to enterprise tools, and share insights externally with governance controls.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://databricks.com/blog/enterprise-context-action-genie-agents-now-analyze-more-data-sources-transform-your-work"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Google Tabletop Creates Shared Interactive Planning Spaces",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop?utm_source=tldrai",
-    "summary": "Google Labs' Tabletop turns links, files, and prompts into interactive itineraries, polls, expense splitters, and tournament brackets.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "ElevenAI",
-    "url": "https://elevenlabs.io/elevenai?utm_source=tldrai",
-    "summary": "ElevenAI is a desktop app that helps amplify work using agents.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://elevenlabs.io/elevenai"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "OpenAI wants agents to tell websites where you are",
-    "url": "https://joost.blog/agents-sharing-user-signals/?utm_source=tldrai",
-    "summary": "Two OpenAI engineers recently shared a proposal that suggests a change that will let agents pass user information along to websites to make them look like normal visitors rather than bots.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://joost.blog/agents-sharing-user-signals"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Nvidia board reportedly preparing to oust Huang",
-    "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/?utm_source=tldrai",
-    "summary": "Nvidia's board is preparing to oust CEO Jensen Huang following his admission of an affair with a woman US intelligence agencies believe was recruited by Chinese intelligence.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cbsnews.com/news/nvidia-board-ceo-jensen-huang-china"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Quick Links",
-    "title": "Airbnb's AI assistant cut support cost per booking 17%",
-    "url": "https://www.customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307?utm_source=tldrai",
-    "summary": "Airbnb's AI assistant cut support cost per booking by more than 17%, resolving about 40% of Q3 issues with no human agent.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://customerexperiencedive.com/news/airbnb-reduces-customer-support-cost-per-booking-17/874307"
    }
   ]
  }
