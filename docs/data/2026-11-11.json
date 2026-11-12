@@ -1338,18 +1338,6 @@
     "newsletter": "marketing",
     "date": "2026-11-11",
     "section": "Miscellaneous",
-    "title": "How software buyers use AI",
-    "url": "https://www.growth-memo.com/p/how-software-buyers-use-ai?utm_source=tldrmarketing",
-    "summary": "AI is introducing new software vendors to buyers who already have a shortlist. Wynter's survey found that 63% of buyers with existing vendor candidates added another option through AI. Buyers then use follow-up prompts to compare vendors and evaluate pricing, integrations, setup, and product fit. After using AI, 73% visited vendor websites and 48% used Google to continue their research. Marketers need to build brand awareness before buyers start searching and make sure their products appear in AI recommendations across multiple platforms.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://growth-memo.com/p/how-software-buyers-use-ai"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-11",
-    "section": "Miscellaneous",
     "title": "We just got rid of titles at beehiiv",
     "url": "https://mail.bigdeskenergy.com/p/untitled?utm_source=tldrmarketing",
     "summary": "beehiiv eliminated job titles to reduce internal bureaucracy and keep employees focused on customers rather than hierarchy. Managing titles created unnecessary work around leveling, promotions, and pay negotiations. These discussions led to meetings and internal politics without improving the product. Instead, employees are now identified by their job family, with “Lead” added for people managers. The company argues that growth should be measured through greater responsibilities and contributions rather than titles or rank.",
@@ -1357,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://mail.bigdeskenergy.com/p/untitled"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-11",
+    "section": "Miscellaneous",
+    "title": "How software buyers use AI",
+    "url": "https://www.growth-memo.com/p/how-software-buyers-use-ai?utm_source=tldrmarketing",
+    "summary": "AI is introducing new software vendors to buyers who already have a shortlist. Wynter's survey found that 63% of buyers with existing vendor candidates added another option through AI. Buyers then use follow-up prompts to compare vendors and evaluate pricing, integrations, setup, and product fit. After using AI, 73% visited vendor websites and 48% used Google to continue their research. Marketers need to build brand awareness before buyers start searching and make sure their products appear in AI recommendations across multiple platforms.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://growth-memo.com/p/how-software-buyers-use-ai"
    },
    {
     "newsletter": "marketing",
@@ -1556,18 +1556,6 @@
     "newsletter": "founders",
     "date": "2026-11-11",
     "section": "Quick Links",
-    "title": "Building networks for agents",
-    "url": "https://a16zfrontier.com/posts/article/building-networks-for-agents/?utm_source=tldrfounders",
-    "summary": "Agents can facilitate complex transactions by creating networks similar to Uber, allowing users to express nuanced preferences and suppliers to compete for fulfillment.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://a16zfrontier.com/posts/article/building-networks-for-agents"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-11",
-    "section": "Quick Links",
     "title": "Great Products Make Great Sales Teams More Valuable",
     "url": "https://x.com/cjc/status/2120201894794805623?utm_source=tldrfounders",
     "summary": "Enterprise sales requires navigating procurement, securing finance approval, and winning over stakeholders who can block a purchase.",
@@ -1599,6 +1587,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-11",
+    "section": "Quick Links",
+    "title": "Building networks for agents",
+    "url": "https://a16zfrontier.com/posts/article/building-networks-for-agents/?utm_source=tldrfounders",
+    "summary": "Agents can facilitate complex transactions by creating networks similar to Uber, allowing users to express nuanced preferences and suppliers to compete for fulfillment.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://a16zfrontier.com/posts/article/building-networks-for-agents"
    }
   ],
   "crypto": [
