@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-11-12",
     "section": "Miscellaneous",
-    "title": "The fall of “what you can do” and the rise of “who you know”",
-    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrnewsletter",
-    "summary": "The returns from being social have gone up. Many well-connected people mix their work and personal lives. Sam Altman is a prime example of a well-connected person who mixes work and personal. He didn't make his connections because he knew they would pay off in his career - he's just a generous person who is innately curious about people and technology. The best strategy is to be your best and truest self.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
     "title": "Of Miracles and Moats",
     "url": "https://www.notboring.co/p/of-miracles-and-moats?utm_source=tldrnewsletter",
     "summary": "AI may simultaneously accelerate imitation and the accumulation of advantage. It is the presence or absence of durable competitive advantage, and the entry price, that determines whether a business and its investors will profit from the proliferation of a technology. More miraculous technologies require better moats. We are entering an age of consumer surplus the likes of which humanity has never seen.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://notboring.co/p/of-miracles-and-moats"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "The fall of “what you can do” and the rise of “who you know”",
+    "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know?utm_source=tldrnewsletter",
+    "summary": "The returns from being social have gone up. Many well-connected people mix their work and personal lives. Sam Altman is a prime example of a well-connected person who mixes work and personal. He didn't make his connections because he knew they would pay off in his career - he's just a generous person who is innately curious about people and technology. The best strategy is to be your best and truest self.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know"
    },
    {
     "newsletter": "tech",
@@ -974,18 +974,6 @@
     "newsletter": "data",
     "date": "2026-11-12",
     "section": "Opinions & Advice",
-    "title": "MCP on Raw Data Is Just Excel Hell Again",
-    "url": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again?utm_source=tldrdata",
-    "summary": "Connecting AI agents directly to operational systems through MCP risks recreating fragmented spreadsheet analytics at machine speed. Without governed business rules, agents accessing Salesforce, Stripe, or HubSpot independently can produce conflicting revenue and customer metrics. A more reliable architecture separates an ontology that translates business intent from a precision layer that enforces tested calculations, keeping the warehouse's role as a consistent source of truth.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-12",
-    "section": "Opinions & Advice",
     "title": "Why the Lakehouse Vendors and the Clouds Bet on Postgres for AI Applications",
     "url": "https://www.kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications/?utm_source=tldrdata",
     "summary": "Databricks bought Neon for around one billion dollars, and Snowflake bought Crunchy Data for around 165 million dollars. Google, Amazon, and Microsoft have each extended their Postgres services. This post explains why five vendors with five strategies chose the same database, what the extensions made possible, and what to ask before committing to a Postgres offering.",
@@ -993,6 +981,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-12",
+    "section": "Opinions & Advice",
+    "title": "MCP on Raw Data Is Just Excel Hell Again",
+    "url": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again?utm_source=tldrdata",
+    "summary": "Connecting AI agents directly to operational systems through MCP risks recreating fragmented spreadsheet analytics at machine speed. Without governed business rules, agents accessing Salesforce, Stripe, or HubSpot independently can produce conflicting revenue and customer metrics. A more reliable architecture separates an ontology that translates business intent from a precision layer that enforces tested calculations, keeping the warehouse's role as a consistent source of truth.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again"
    },
    {
     "newsletter": "data",
