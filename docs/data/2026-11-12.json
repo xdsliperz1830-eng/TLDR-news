@@ -332,18 +332,6 @@
     "newsletter": "ai",
     "date": "2026-11-12",
     "section": "Engineering & Research",
-    "title": "Browser use has been rolling out in Antigravity",
-    "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
-    "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2120556423474028576.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-12",
-    "section": "Engineering & Research",
     "title": "AlphaGenome 2: Predicting how DNA shapes cells and disease",
     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/?utm_source=tldrai",
     "summary": "AlphaGenome 2 improves prediction of DNA variant effects on specific cell types, aiding in disease understanding and research. It doubles variant identification compared to its predecessor and adapts to analyze new cell states without retraining. Available for non-commercial use, the tool bridges genetics and cell biology, pinpointing disease-relevant genetic mutations in primary human cells.",
@@ -387,6 +375,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://shopify.engineering/generative-discovery"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-12",
+    "section": "Engineering & Research",
+    "title": "Browser use has been rolling out in Antigravity",
+    "url": "https://threadreaderapp.com/thread/2120556423474028576.html?utm_source=tldrai",
+    "summary": "Browser use in Antigravity closes the loop between researching, writing code, and verifying it live. Users control authentication, and downloads pause until they are approved. Agents can use the browser to run multiple tasks at once. A video demo is available in the post.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2120556423474028576.html"
    },
    {
     "newsletter": "ai",
