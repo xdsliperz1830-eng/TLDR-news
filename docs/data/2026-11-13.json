@@ -114,18 +114,6 @@
     "newsletter": "tech",
     "date": "2026-11-13",
     "section": "Miscellaneous",
-    "title": "AI Company Employees Should Unionize",
-    "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize?utm_source=tldrnewsletter",
-    "summary": "Safety-conscious employees at AI companies should unionize, as this would give them the power to keep their employers in check if they have concerns about their work. There are so few skilled AI researchers that companies will want to negotiate if a dozen top AI researchers threaten to walk. A union would uphold normal protections around discipline and firing, demand transparency, and act as an independent voice to hold companies to their commitments. RSI could make AI employees obsolete as soon as next year, so they need to take action now, as they may never have this amount of leverage again.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://astralcodexten.com/p/ai-company-employees-should-unionize"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-13",
-    "section": "Miscellaneous",
     "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
     "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/?utm_source=tldrnewsletter",
     "summary": "Google has partnered with Samsung, Gentle Monster, and Warby Parker to create Gemini-powered smartglasses. The frames, which all weigh around 41 grams, will have a camera that Gemini can use for tasks. The assistant will have access to user data and preferences to produce personalized answers. Google claims it has implemented a number of features and limitations to ensure that people don't do creepy things with the device, and that it doesn't do creepy things to users.",
@@ -133,6 +121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-13",
+    "section": "Miscellaneous",
+    "title": "AI Company Employees Should Unionize",
+    "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize?utm_source=tldrnewsletter",
+    "summary": "Safety-conscious employees at AI companies should unionize, as this would give them the power to keep their employers in check if they have concerns about their work. There are so few skilled AI researchers that companies will want to negotiate if a dozen top AI researchers threaten to walk. A union would uphold normal protections around discipline and firing, demand transparency, and act as an independent voice to hold companies to their commitments. RSI could make AI employees obsolete as soon as next year, so they need to take action now, as they may never have this amount of leverage again.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://astralcodexten.com/p/ai-company-employees-should-unionize"
    },
    {
     "newsletter": "tech",
