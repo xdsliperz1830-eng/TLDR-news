@@ -598,18 +598,6 @@
     "newsletter": "webdev",
     "date": "2026-11-12",
     "section": "Launches & Tools",
-    "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
-    "summary": "Coding agents produce web code that works but often falls short on accessibility, performance, and security, and they tend to reach for JavaScript where native HTML or CSS would do better. Chrome has shipped a skill pack that feeds agents expert-reviewed guidance and Baseline compatibility data and adds a workflow that scans existing codebases for safe upgrades. Firefox and Edge are co-maintainers.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://developer.chrome.com/blog/modern-web-guidance-v1"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-12",
-    "section": "Launches & Tools",
     "title": "improve",
     "url": "https://github.com/shadcn/improve?utm_source=tldrdev",
     "summary": "This agent skill audits a codebase and writes prioritized implementation plans that another agent or developer can execute. It separates repository analysis and specification from implementation, with modes for focused audits, branch reviews, and refreshing a backlog.",
@@ -629,6 +617,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-12",
+    "section": "Launches & Tools",
+    "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
+    "summary": "Coding agents produce web code that works but often falls short on accessibility, performance, and security, and they tend to reach for JavaScript where native HTML or CSS would do better. Chrome has shipped a skill pack that feeds agents expert-reviewed guidance and Baseline compatibility data and adds a workflow that scans existing codebases for safe upgrades. Firefox and Edge are co-maintainers.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developer.chrome.com/blog/modern-web-guidance-v1"
    },
    {
     "newsletter": "webdev",
@@ -792,6 +792,18 @@
     "newsletter": "infosec",
     "date": "2026-11-12",
     "section": "Launches & Tools",
+    "title": "zed-claude-devcontainer",
+    "url": "https://github.com/0xdea/zed-claude-devcontainer?utm_source=tldrinfosec",
+    "summary": "A sandboxed dev container for running Claude Code with bypassPermissions from Zed or a terminal.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/0xdea/zed-claude-devcontainer"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-12",
+    "section": "Launches & Tools",
     "title": "WhiteMatter (Product Launch)",
     "url": "https://whitematter.io/?utm_source=tldrinfosec",
     "summary": "WhiteMatter secures and governs AI agents across endpoints, cloud, SaaS, and code. Its platform deploys agents, models, and MCP servers through one gateway, observes actions, applies policies, and adds a guardian agent for each agent.",
@@ -811,18 +823,6 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/Whispergate/Signet"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-12",
-    "section": "Launches & Tools",
-    "title": "zed-claude-devcontainer",
-    "url": "https://github.com/0xdea/zed-claude-devcontainer?utm_source=tldrinfosec",
-    "summary": "A sandboxed dev container for running Claude Code with bypassPermissions from Zed or a terminal.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/0xdea/zed-claude-devcontainer"
    },
    {
     "newsletter": "infosec",
@@ -974,18 +974,6 @@
     "newsletter": "data",
     "date": "2026-11-12",
     "section": "Opinions & Advice",
-    "title": "Why the Lakehouse Vendors and the Clouds Bet on Postgres for AI Applications",
-    "url": "https://www.kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications/?utm_source=tldrdata",
-    "summary": "Databricks bought Neon for around one billion dollars, and Snowflake bought Crunchy Data for around 165 million dollars. Google, Amazon, and Microsoft have each extended their Postgres services. This post explains why five vendors with five strategies chose the same database, what the extensions made possible, and what to ask before committing to a Postgres offering.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-12",
-    "section": "Opinions & Advice",
     "title": "MCP on Raw Data Is Just Excel Hell Again",
     "url": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again?utm_source=tldrdata",
     "summary": "Connecting AI agents directly to operational systems through MCP risks recreating fragmented spreadsheet analytics at machine speed. Without governed business rules, agents accessing Salesforce, Stripe, or HubSpot independently can produce conflicting revenue and customer metrics. A more reliable architecture separates an ontology that translates business intent from a precision layer that enforces tested calculations, keeping the warehouse's role as a consistent source of truth.",
@@ -993,6 +981,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dlthub.com/blog/mcp-on-raw-data-is-excel-hell-again"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-12",
+    "section": "Opinions & Advice",
+    "title": "Why the Lakehouse Vendors and the Clouds Bet on Postgres for AI Applications",
+    "url": "https://www.kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications/?utm_source=tldrdata",
+    "summary": "Databricks bought Neon for around one billion dollars, and Snowflake bought Crunchy Data for around 165 million dollars. Google, Amazon, and Microsoft have each extended their Postgres services. This post explains why five vendors with five strategies chose the same database, what the extensions made possible, and what to ask before committing to a Postgres offering.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://kai-waehner.de/blog/2026/11/10/why-lakehouse-vendors-and-clouds-bet-on-postgres-for-ai-applications"
    },
    {
     "newsletter": "data",
