@@ -1860,18 +1860,6 @@
     "newsletter": "fintech",
     "date": "2026-11-12",
     "section": "News & Trends",
-    "title": "Morgan Stanley acquires Vinyl Equity to strengthen its private-to-public infrastructure",
-    "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/?utm_source=tldrfintech",
-    "summary": "Morgan Stanley agreed to acquire Vinyl Equity, giving the bank an in-house digital transfer agent for cap table management, equity administration, and share transfers as private companies move toward IPOs. The deal expands Morgan Stanley's private-markets infrastructure after its EquityZen acquisition and reflects a broader push to keep more ownership, settlement, and tokenization workflows inside its wealth-management platform.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-12",
-    "section": "News & Trends",
     "title": "Canada's real-time payments system launches",
     "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
     "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year.",
@@ -1879,6 +1867,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-12",
+    "section": "News & Trends",
+    "title": "Morgan Stanley acquires Vinyl Equity to strengthen its private-to-public infrastructure",
+    "url": "https://www.bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136/?utm_source=tldrfintech",
+    "summary": "Morgan Stanley agreed to acquire Vinyl Equity, giving the bank an in-house digital transfer agent for cap table management, equity administration, and share transfers as private companies move toward IPOs. The deal expands Morgan Stanley's private-markets infrastructure after its EquityZen acquisition and reflects a broader push to keep more ownership, settlement, and tokenization workflows inside its wealth-management platform.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136"
    },
    {
     "newsletter": "fintech",
