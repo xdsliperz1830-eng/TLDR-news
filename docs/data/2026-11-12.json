@@ -840,18 +840,6 @@
     "newsletter": "infosec",
     "date": "2026-11-12",
     "section": "Miscellaneous",
-    "title": "Railway Breach Leads to $740K in Fraudulent AI Charges",
-    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/?utm_source=tldrinfosec",
-    "summary": "Cloud hosting provider Railway has released an incident report regarding an incident in October that exposed, at most, 100,000 customers' workspace environment variables. The attack began with the threat actor exploiting an unknown vulnerability to escape filesystem isolation and steal an internal credential. This credential was then used to steal Railway's internal source code via build histories. The attackers used the source code to find another vulnerability that exploited a trust relationship to grant the attacker access to a credential used to decrypt customer environment variables. Railway stated that the attacker's primary goal was to steal AI provider credentials and that it will compensate any victim that is not able to have their charges refunded.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-12",
-    "section": "Miscellaneous",
     "title": "OpenAI builds a kill switch for its research models",
     "url": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006?utm_source=tldrinfosec",
     "summary": "OpenAI's Control Room is a central kill switch for models running in its research infrastructure. It can halt model output within 35 seconds of a shutdown decision. OpenAI aims to remove that delay. The system is designed to keep operating when other systems fail and to stop output if Control Room itself fails. OpenAI did not explain the timing, though it follows incidents involving agents attacking Hugging Face, disrupting Wikimedia, and accessing Australian healthcare research data.",
@@ -859,6 +847,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-12",
+    "section": "Miscellaneous",
+    "title": "Railway Breach Leads to $740K in Fraudulent AI Charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/?utm_source=tldrinfosec",
+    "summary": "Cloud hosting provider Railway has released an incident report regarding an incident in October that exposed, at most, 100,000 customers' workspace environment variables. The attack began with the threat actor exploiting an unknown vulnerability to escape filesystem isolation and steal an internal credential. This credential was then used to steal Railway's internal source code via build histories. The attackers used the source code to find another vulnerability that exploited a trust relationship to grant the attacker access to a credential used to decrypt customer environment variables. Railway stated that the attacker's primary goal was to steal AI provider credentials and that it will compensate any victim that is not able to have their charges refunded.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges"
    },
    {
     "newsletter": "infosec",
@@ -1848,18 +1848,6 @@
     "newsletter": "fintech",
     "date": "2026-11-12",
     "section": "News & Trends",
-    "title": "Canada's real-time payments system launches",
-    "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
-    "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-12",
-    "section": "News & Trends",
     "title": "Wise expands US product suite",
     "url": "https://www.finextra.com/pressarticle/111640/wise-expands-us-product-suite?utm_source=tldrfintech",
     "summary": "Wise has announced an expansion of its US product offering that will give people and businesses two new ways to earn a return on the money they hold with Wise.",
@@ -1879,6 +1867,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bankingdive.com/news/morgan-stanley-acquire-vinyl-equity-ipo-wealth/874136"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-12",
+    "section": "News & Trends",
+    "title": "Canada's real-time payments system launches",
+    "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches?utm_source=tldrfintech",
+    "summary": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched. Part of a multi-year, multi-system payments modernisation initiative, the RTR will enable participating members, including financial institutions, credit unions, and payment service providers, to exchange, clear, and settle payments securely in real time for their customers, 24 hours a day, every day of the year.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
    },
    {
     "newsletter": "fintech",
@@ -2042,18 +2042,6 @@
     "newsletter": "it",
     "date": "2026-11-12",
     "section": "News & Trends",
-    "title": "Yandex restores 97% of customer data after drone attacks, the rest is permanently lost",
-    "url": "https://www.datacenterdynamics.com/en/news/yandex-restores-97-of-customer-data-after-drone-attacks/?utm_source=tldrit",
-    "summary": "Russian cloud provider Yandex recovered approximately 97% of affected customer data following drone strikes on three data centers in October. The remaining 2.84% is permanently lost due to hardware damage and the absence of customer backups. Yandex says it will enable backups by default and expand its infrastructure across additional independent locations.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://datacenterdynamics.com/en/news/yandex-restores-97-of-customer-data-after-drone-attacks"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-12",
-    "section": "News & Trends",
     "title": "Anthropic targets workplace collaboration with Claude Meetings",
     "url": "https://www.computerworld.com/article/4247466/anthropic-targets-workplace-collaboration-with-claude-meetings.html?utm_source=tldrit",
     "summary": "Anthropic has introduced Claude Meetings, Whiteboards, and Sheets, expanding its AI assistant into workplace collaboration and productivity. Claude Meetings can participate in Google Meet calls, take notes, retrieve information, and create action plans during discussions. The meeting feature is in beta for Team and Enterprise customers, bringing Anthropic into closer competition with Microsoft and Google.",
@@ -2073,6 +2061,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-12",
+    "section": "News & Trends",
+    "title": "Yandex restores 97% of customer data after drone attacks, the rest is permanently lost",
+    "url": "https://www.datacenterdynamics.com/en/news/yandex-restores-97-of-customer-data-after-drone-attacks/?utm_source=tldrit",
+    "summary": "Russian cloud provider Yandex recovered approximately 97% of affected customer data following drone strikes on three data centers in October. The remaining 2.84% is permanently lost due to hardware damage and the absence of customer backups. Yandex says it will enable backups by default and expand its infrastructure across additional independent locations.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://datacenterdynamics.com/en/news/yandex-restores-97-of-customer-data-after-drone-attacks"
    },
    {
     "newsletter": "it",
