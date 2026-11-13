@@ -1884,18 +1884,6 @@
     "newsletter": "fintech",
     "date": "2026-11-12",
     "section": "Deep Dives & Reports",
-    "title": "US credit card debt hits record $1.29T as delinquencies rise",
-    "url": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html?utm_source=tldrfintech",
-    "summary": "US credit card balances increased by $22 billion in Q3 to a record $1.29 trillion, while total household debt reached $19.1 trillion. The New York Fed said distress is rising most among lower-income and lower-credit-score borrowers, as roughly 24% credit card rates, persistent inflation, and higher borrowing costs put more pressure on household finances.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-12",
-    "section": "Deep Dives & Reports",
     "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute podcast)",
     "url": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising?utm_source=tldrfintech",
     "summary": "Revolut CEO Nik Storonsky explains the company's highly quantitative product system: launch small teams, measure new products against historical gross-profit curves, scale the top performers, and stop investing in weak ones. He also argues that subscriptions produce higher-quality earnings than lending, says AI could shrink product teams to just a few people and automate much of compliance, and outlines Revolut's plan to challenge Amex and Chase in the US with a credit-card-led offering while targeting a possible 2028 IPO.",
@@ -1903,6 +1891,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cheekypint.substack.com/p/nik-storonsky-the-most-uncompromising"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-12",
+    "section": "Deep Dives & Reports",
+    "title": "US credit card debt hits record $1.29T as delinquencies rise",
+    "url": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html?utm_source=tldrfintech",
+    "summary": "US credit card balances increased by $22 billion in Q3 to a record $1.29 trillion, while total household debt reached $19.1 trillion. The New York Fed said distress is rising most among lower-income and lower-credit-score borrowers, as roughly 24% credit card rates, persistent inflation, and higher borrowing costs put more pressure on household finances.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html"
    },
    {
     "newsletter": "fintech",
