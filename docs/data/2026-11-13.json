@@ -1448,18 +1448,6 @@
     "newsletter": "marketing",
     "date": "2026-11-13",
     "section": "Strategies & Tactics",
-    "title": "AI Shopping Errors: What to Fix to Help Shoppers Choose Your Products",
-    "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/?utm_source=tldrmarketing",
-    "summary": "ChatGPT and Google can misrepresent products or send shoppers to competitors when product data is incomplete or outdated. With AI traffic to US retail sites forecast to grow 130% this holiday season, brands need to audit how their products appear in AI recommendations. Check for missing products and incorrect prices or specs, align product feeds with website and retailer listings, add product identifiers and schema, and rerun buying prompts regularly to catch errors and monitor rankings.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-13",
-    "section": "Strategies & Tactics",
     "title": "The Growth Meta: How to Build a Sales Pipeline",
     "url": "https://speedrun.substack.com/p/the-growth-meta-how-to-build-a-sales-pipeline?utm_source=tldrmarketing",
     "summary": "Founders are the first salespeople in the company, and early-stage startups are building pipelines in 3 main ways. They turn sales calls into brainstorming sessions, asking what customers want to build and where the product fits into that vision. They lead with proof instead of a pitch, like offering a free security scan of the prospect's own site in place of a demo. They also start enterprise GTM on day one, staying close to companies that don't fit their ICP yet because that can change within six months.",
@@ -1479,6 +1467,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thebrandblueprint.substack.com/p/how-brands-go-viral-with-0-marketing"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-13",
+    "section": "Strategies & Tactics",
+    "title": "AI Shopping Errors: What to Fix to Help Shoppers Choose Your Products",
+    "url": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/?utm_source=tldrmarketing",
+    "summary": "ChatGPT and Google can misrepresent products or send shoppers to competitors when product data is incomplete or outdated. With AI traffic to US retail sites forecast to grow 130% this holiday season, brands need to audit how their products appear in AI recommendations. Check for missing products and incorrect prices or specs, align product feeds with website and retailer listings, add product identifiers and schema, and rerun buying prompts regularly to catch errors and monitor rankings.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790"
    },
    {
     "newsletter": "marketing",
