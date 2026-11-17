@@ -562,18 +562,6 @@
     "newsletter": "webdev",
     "date": "2026-11-16",
     "section": "Launches & Tools",
-    "title": "DeepSeek V3 in pure JAX",
-    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax?utm_source=tldrdev",
-    "summary": "A 190-line JAX implementation recreates DeepSeek V3 architecture features, including latent attention, routed experts, auxiliary-loss-free balancing, and multi-token prediction. The reported MacBook Air run trained a 36.2-million-parameter model on detective fiction in about 2.6 hours. It is an educational architecture demo rather than a production language model.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-16",
-    "section": "Launches & Tools",
     "title": "Introducing UI SDK",
     "url": "https://ui-sdk.dev/docs/core/changelog/introducing-ui-sdk?utm_source=tldrdev",
     "summary": "UI SDK provides more than 50 TypeScript behaviors for keyboard navigation, focus, selection, popups, drag and drop, and the associated ARIA attributes. Developers and agents can compose them into custom components or use ready-made libraries for React, Vue, Svelte, Solid, and Web Components. Agent interaction can be limited through developer-defined permissions, and the library remains in beta.",
@@ -593,6 +581,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://textjs.org/"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-16",
+    "section": "Launches & Tools",
+    "title": "DeepSeek V3 in pure JAX",
+    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax?utm_source=tldrdev",
+    "summary": "A 190-line JAX implementation recreates DeepSeek V3 architecture features, including latent attention, routed experts, auxiliary-loss-free balancing, and multi-token prediction. The reported MacBook Air run trained a 36.2-million-parameter model on detective fiction in about 2.6 hours. It is an educational architecture demo rather than a production language model.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
    },
    {
     "newsletter": "webdev",
@@ -1302,18 +1302,6 @@
     "newsletter": "design",
     "date": "2026-11-16",
     "section": "Opinions & Tutorials",
-    "title": "Build Faster Without Leaving Accessibility Behind",
-    "url": "https://www.aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind/?utm_source=tldrdesign",
-    "summary": "The newly open-sourced Accessibility Considerations Toolkit (ACT) helps teams find barriers before AI-assisted development repeats the same mistakes across more interfaces, faster. It pairs access strategies and assistive technologies with usability heuristics and standards references, in Markdown for people and YAML for agents and pipelines. ACT doesn't replace testing with disabled people or establish compliance, and its findings still need human review.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-16",
-    "section": "Opinions & Tutorials",
     "title": "Every click has a price now. Who designs how that “feels”?",
     "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?utm_source=tldrdesign",
     "summary": "As AI products shift toward credit- and usage-based pricing, everyday interactions increasingly carry a visible financial cost, creating new challenges for user experience design. Unpredictable charges, unclear token consumption, and sudden usage limits can undermine trust, making transparent cost estimates, spending controls, and understandable feedback essential interface features. Designers must also decide when expensive AI processing is justified and when simpler alternatives can deliver the same result without introducing unnecessary cost or anxiety.",
@@ -1321,6 +1309,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-16",
+    "section": "Opinions & Tutorials",
+    "title": "Build Faster Without Leaving Accessibility Behind",
+    "url": "https://www.aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind/?utm_source=tldrdesign",
+    "summary": "The newly open-sourced Accessibility Considerations Toolkit (ACT) helps teams find barriers before AI-assisted development repeats the same mistakes across more interfaces, faster. It pairs access strategies and assistive technologies with usability heuristics and standards references, in Markdown for people and YAML for agents and pipelines. ACT doesn't replace testing with disabled people or establish compliance, and its findings still need human review.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://aaron-gustafson.com/notebook/build-faster-without-leaving-accessibility-behind"
    },
    {
     "newsletter": "design",
