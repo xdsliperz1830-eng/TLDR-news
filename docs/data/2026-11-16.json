@@ -1860,18 +1860,6 @@
     "newsletter": "crypto",
     "date": "2026-11-16",
     "section": "Innovation & Launches",
-    "title": "ChatGPT Wallet Launches for Agentic Commerce",
-    "url": "https://x.com/alfongj/status/2121682952157315530?utm_source=tldrcrypto",
-    "summary": "OpenAI's ChatGPT Wallet, launched Friday, lets OpenAI's always-on agent check out on merchant sites using your own credit card. At checkout, the card network generates a one-time substitute card number capped at the approved amount, so the agent never holds your real card, and you keep your points and dispute rights. Issuers gain visibility versus wallets like Stripe's Link, which charge your card in a second transaction, and merchants may pay lower interchange and see who is buying. Users review and approve each purchase with Face ID, and it is limited to US ChatGPT Pro users 18 or older with Amex, Mastercard, or Visa credit cards only. Under the hood, it uses a vault, enrollment in the networks' agent programs (Visa Intelligent Commerce, Mastercard Agent Pay, and Amex ACE), and two sets of headers: Web Bot Auth signatures and user signals in the Forwarded header, with OpenAI working with fraud providers like Forter, Riskified, Sardine, and Signifyd to honor them. Drawbacks are sites still blocking agents, the per-purchase approval, partial card coverage, and slow, token-heavy browser checkout.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/alfongj/status/2121682952157315530"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-16",
-    "section": "Innovation & Launches",
     "title": "Tempo Configurable Accounts: PQ + Native Multisig as Default",
     "url": "https://threadreaderapp.com/thread/2120979747996107243.html?utm_source=tldrcrypto",
     "summary": "Tempo's Configurable Accounts (T14) will deploy to mainnet on December 1, introducing post-quantum signature groundwork and native multisig as default account primitives rather than optional add-ons. The upgrade's core claim is friction elimination: both capabilities existed on prior systems, but Configurable Accounts makes them cheap enough to use without weighing cost against benefit. Paradigm frames T14 as a near-completion milestone in \"Pragmatic Native Account Abstraction\" for the Ethereum ecosystem, with one remaining component, Attestable Accounts, expected in the coming weeks.",
@@ -1879,6 +1867,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2120979747996107243.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-16",
+    "section": "Innovation & Launches",
+    "title": "ChatGPT Wallet Launches for Agentic Commerce",
+    "url": "https://x.com/alfongj/status/2121682952157315530?utm_source=tldrcrypto",
+    "summary": "OpenAI's ChatGPT Wallet, launched Friday, lets OpenAI's always-on agent check out on merchant sites using your own credit card. At checkout, the card network generates a one-time substitute card number capped at the approved amount, so the agent never holds your real card, and you keep your points and dispute rights. Issuers gain visibility versus wallets like Stripe's Link, which charge your card in a second transaction, and merchants may pay lower interchange and see who is buying. Users review and approve each purchase with Face ID, and it is limited to US ChatGPT Pro users 18 or older with Amex, Mastercard, or Visa credit cards only. Under the hood, it uses a vault, enrollment in the networks' agent programs (Visa Intelligent Commerce, Mastercard Agent Pay, and Amex ACE), and two sets of headers: Web Bot Auth signatures and user signals in the Forwarded header, with OpenAI working with fraud providers like Forter, Riskified, Sardine, and Signifyd to honor them. Drawbacks are sites still blocking agents, the per-purchase approval, partial card coverage, and slow, token-heavy browser checkout.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/alfongj/status/2121682952157315530"
    },
    {
     "newsletter": "crypto",
