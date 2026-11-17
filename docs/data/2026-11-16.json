@@ -114,18 +114,6 @@
     "newsletter": "tech",
     "date": "2026-11-16",
     "section": "Miscellaneous",
-    "title": "The avalanche that hit math is coming for AI development",
-    "url": "https://www.dwarkesh.com/p/rsi?utm_source=tldrnewsletter",
-    "summary": "AI's capabilities in mathematics exploded quickly. Current AIs can now complete well-scoped problems in mathematics easily. This ability to solve well-scoped problems is going to be an even bigger deal for machine learning research than for mathematics. AI labs mainly care about how any new algorithmic recipe empirically makes training more efficient or elicits smarter models - they don't care about theory for its own sake.",
-    "read_minutes": 50,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://dwarkesh.com/p/rsi"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-16",
-    "section": "Miscellaneous",
     "title": "AI, work from home, and the young-graduate job market",
     "url": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate?utm_source=tldrnewsletter",
     "summary": "New college graduates are employed less than a few years ago. While AI may be a factor, there's growing evidence that work from home is an important factor moving the needle on young-graduate employment. AI exposure and teleworkability are highly correlated with each other, making it hard to distinguish definitively between the two factors. The full extent of AI's effects on the labor market might not manifest until the next recession.",
@@ -133,6 +121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-16",
+    "section": "Miscellaneous",
+    "title": "The avalanche that hit math is coming for AI development",
+    "url": "https://www.dwarkesh.com/p/rsi?utm_source=tldrnewsletter",
+    "summary": "AI's capabilities in mathematics exploded quickly. Current AIs can now complete well-scoped problems in mathematics easily. This ability to solve well-scoped problems is going to be an even bigger deal for machine learning research than for mathematics. AI labs mainly care about how any new algorithmic recipe empirically makes training more efficient or elicits smarter models - they don't care about theory for its own sake.",
+    "read_minutes": 50,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dwarkesh.com/p/rsi"
    },
    {
     "newsletter": "tech",
@@ -598,18 +598,6 @@
     "newsletter": "webdev",
     "date": "2026-11-16",
     "section": "Miscellaneous",
-    "title": "A Family Tree of Software Job Titles",
-    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?utm_source=tldrdev",
-    "summary": "An interactive family tree traces 104 software job titles from human computers to AI agent and context engineers across seven role families. It highlights how responsibilities split, recombine, and reappear under new names, including the overlap among DevOps, SRE, and platform engineering. Dates indicate roughly when titles became common and are estimates rather than a sourced chronology.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-16",
-    "section": "Miscellaneous",
     "title": "Declarative Dragging",
     "url": "https://declarative-dragging.github.io/?utm_source=tldrdev",
     "summary": "Declarative dragging lets developers specify which future application states an element should reach, then renders those states to synthesize drop zones and animated interactions. Dragology implements the approach for SVG interfaces on the web, with composable behaviors and modifiers for snapping and transitions. The project received a UIST 2026 Best Paper award.",
@@ -617,6 +605,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://declarative-dragging.github.io/"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-16",
+    "section": "Miscellaneous",
+    "title": "A Family Tree of Software Job Titles",
+    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?utm_source=tldrdev",
+    "summary": "An interactive family tree traces 104 software job titles from human computers to AI agent and context engineers across seven role families. It highlights how responsibilities split, recombine, and reappear under new names, including the overlap among DevOps, SRE, and platform engineering. Dates indicate roughly when titles became common and are estimates rather than a sourced chronology.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles"
    },
    {
     "newsletter": "webdev",
@@ -1168,18 +1168,6 @@
     "newsletter": "data",
     "date": "2026-11-16",
     "section": "Launches & Tools",
-    "title": "PyPI's redesigned project pages with clearer security signals are now live",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?utm_source=tldrdata",
-    "summary": "PyPI has redesigned its package pages with a security tab showing where release files came from and warnings when that information is missing, inconsistent, or unexpectedly changed. Updated file lists and release histories make packages easier to assess, though verified origins do not guarantee safe code.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-16",
-    "section": "Launches & Tools",
     "title": "db-branch",
     "url": "https://github.com/db-branch/db-branch?utm_source=tldrdata",
     "summary": "db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made. It lets developers and AI agents test queries, migrations, and upgrades without changing production data, with options to reset, restore, or automatically delete each copy.",
@@ -1187,6 +1175,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/db-branch/db-branch"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-16",
+    "section": "Launches & Tools",
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/?utm_source=tldrdata",
+    "summary": "PyPI has redesigned its package pages with a security tab showing where release files came from and warnings when that information is missing, inconsistent, or unexpectedly changed. Updated file lists and release histories make packages easier to assess, though verified origins do not guarantee safe code.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete"
    },
    {
     "newsletter": "data",
@@ -1556,18 +1556,6 @@
     "newsletter": "marketing",
     "date": "2026-11-16",
     "section": "Miscellaneous",
-    "title": "The Dutch Broadcaster That Stopped Tracking Its Viewers and Made More Money",
-    "url": "https://karandhir.substack.com/p/the-dutch-broadcaster-that-stopped?utm_source=tldrmarketing",
-    "summary": "Personalization doesn't always improve ad performance, and third-party tracking may add less value than the industry claims. Dutch broadcaster NPO eliminated third-party cookies and sold ads based on content and context instead, increasing ad revenue by 61%. Research found tracking added only 4% to publisher revenue. A travel site experiment found generic brand ads outperformed retargeting ads featuring hotels shoppers had viewed. Personalized ads performed better after shoppers visited a review site and narrowed their choices.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://karandhir.substack.com/p/the-dutch-broadcaster-that-stopped"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-16",
-    "section": "Miscellaneous",
     "title": "How I Built an AI Marketing Team With Grok Bot Without Writing Code",
     "url": "https://hackernoon.com/how-i-built-an-ai-marketing-team-with-grok-bot-without-writing-code?utm_source=tldrmarketing",
     "summary": "A solo founder uses specialized AI bots to run marketing tasks on a schedule. Each bot has one defined role and follows a shared rules file with factual checks and clear limits. The marketing bot drafts content but requires human approval before anything is published. A weekly report adds lessons and updates instructions so future jobs improve. Batching content into a 21-day calendar reduces daily planning, while a separate bot checks actual outputs and flags stalled work.",
@@ -1575,6 +1563,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://hackernoon.com/how-i-built-an-ai-marketing-team-with-grok-bot-without-writing-code"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-16",
+    "section": "Miscellaneous",
+    "title": "The Dutch Broadcaster That Stopped Tracking Its Viewers and Made More Money",
+    "url": "https://karandhir.substack.com/p/the-dutch-broadcaster-that-stopped?utm_source=tldrmarketing",
+    "summary": "Personalization doesn't always improve ad performance, and third-party tracking may add less value than the industry claims. Dutch broadcaster NPO eliminated third-party cookies and sold ads based on content and context instead, increasing ad revenue by 61%. Research found tracking added only 4% to publisher revenue. A travel site experiment found generic brand ads outperformed retargeting ads featuring hotels shoppers had viewed. Personalized ads performed better after shoppers visited a review site and narrowed their choices.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://karandhir.substack.com/p/the-dutch-broadcaster-that-stopped"
    },
    {
     "newsletter": "marketing",

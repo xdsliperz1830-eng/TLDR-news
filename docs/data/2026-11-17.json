@@ -18,18 +18,6 @@
     "newsletter": "tech",
     "date": "2026-11-17",
     "section": "Big Tech & Startups",
-    "title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&utm_source=tldrnewsletter",
-    "summary": "President Trump says he doesn't mind if Jensen Huang were reinstated as Nvidia's CEO. He played down concerns about Huang's relationship with a woman suspected of being a Chinese spy, saying that she has yet to be proven to be a spy. Huang has discussed the possibility of returning to his position, and reports say a war room of Silicon Valley executives is being organized to lobby for Huang and get the White House's backing. Nvidia's board is reportedly not considering Huang's return and is searching for a new CEO.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-17",
-    "section": "Big Tech & Startups",
     "title": "Meta is testing Direct, a standalone messaging app for Instagram",
     "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/?utm_source=tldrnewsletter",
     "summary": "Direct is a standalone app from Meta that brings Instagram's inbox to a separate app. It doesn't require an existing Instagram account to use. People can sign up using email or a phone number. The app is currently being tested in Thailand and Turkey only.",
@@ -37,6 +25,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-17",
+    "section": "Big Tech & Startups",
+    "title": "Trump Backs Huang Comeback While Nvidia Board Seeks New CEO",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg4OTM2MCwiZXhwIjoxNzk1NDk0MTYwLCJhcnRpY2xlSWQiOiJUT0xKQUJUOU5KTFowMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.V6w_XcskylaKxeGVyh1V6-Ye_R0dAJumV-UGZj1M-0w&utm_source=tldrnewsletter",
+    "summary": "President Trump says he doesn't mind if Jensen Huang were reinstated as Nvidia's CEO. He played down concerns about Huang's relationship with a woman suspected of being a Chinese spy, saying that she has yet to be proven to be a spy. Huang has discussed the possibility of returning to his position, and reports say a war room of Silicon Valley executives is being organized to lobby for Huang and get the White House's backing. Nvidia's board is reportedly not considering Huang's return and is searching for a new CEO.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo"
    },
    {
     "newsletter": "tech",
@@ -231,6 +231,236 @@
     "key": "https://bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models"
    }
   ],
+  "ai": [
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "",
+    "title": "The AI-Agent Face-Off: What Muse, Dots, and Duet Are Doing on Your Website",
+    "url": "https://human.registration.goldcast.io/webinar/5c901181-9067-4410-b015-ee6f91223213?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=webinar_ai_agent_face_off",
+    "summary": "Three agents are racing to win the internet. Muse, Dots, and Duet are bringing agentic browsing and shopping into the mainstream. But what happens when they reach your website? HUMAN put them to the test. Join us for the AI-Agent Face-Off to compare how the leading agents behave online and what their activity means for your business. You'll learn:🔍 Who's gaining ground: Which agents are growing fastest and how people use them. 🛒 How they behave: Where agents go and what they do from discovery to checkout. 🛡️What to do next: How to manage agent traffic, reduce risk, and decide which agents to welcome or block. Save Your Seat",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://human.registration.goldcast.io/webinar/5c901181-9067-4410-b015-ee6f91223213"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Headlines & Launches",
+    "title": "NVIDIA's Rubin HPC",
+    "url": "https://blogs.nvidia.com/blog/rubin-hpc/?utm_source=tldrai",
+    "summary": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blogs.nvidia.com/blog/rubin-hpc"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Headlines & Launches",
+    "title": "Tencent Launches Hy4 flash",
+    "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/?utm_source=tldrai",
+    "summary": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Deep Dives & Analysis",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/?utm_source=tldrai",
+    "summary": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.",
+    "read_minutes": 26,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Deep Dives & Analysis",
+    "title": "Measuring alignment eval tells",
+    "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
+    "summary": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Deep Dives & Analysis",
+    "title": "World 2030",
+    "url": "https://world-2030.pages.dev/?utm_source=tldrai",
+    "summary": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://world-2030.pages.dev/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Engineering & Research",
+    "title": "Shipping AI agents? Use this developer toolkit to monitor everything from RAG to CI",
+    "url": "https://www.datadoghq.com/resources/ai-era-developer-toolkit/?utm_source=tldrnewsletter&utm_medium=newsletter&utm_campaign=dg-content-toolkit-2026aieradeveloper-softwaredelivery-multi-ww-en-701vy00000kmee2yak-tldr-ai-111726",
+    "summary": "Getting an agent working in a demo is the easy part. Datadog's developer toolkit for AI applications covers what comes after. An eBook on monitoring LLM apps, agents, and retrieval pipelines in production, plus product breakdowns and a webinar on faster, cleaner delivery. Get the toolkit >>",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://datadoghq.com/resources/ai-era-developer-toolkit"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Engineering & Research",
+    "title": "d1.2: State-of-the-Art Omnimodal Decision Models",
+    "url": "https://www.liquid.ai/blog/d1-2?utm_source=tldrai",
+    "summary": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://liquid.ai/blog/d1-2"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Engineering & Research",
+    "title": "Hugging Face and OpenRouter Join Forces",
+    "url": "https://huggingface.co/blog/openrouter?utm_source=tldrai",
+    "summary": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://huggingface.co/blog/openrouter"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Engineering & Research",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Engineering & Research",
+    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch?utm_source=tldrai",
+    "summary": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "OpenAI's first phase of embedded assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/?utm_source=tldrai",
+    "summary": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "The frontier is still open",
+    "url": "https://research.perplexity.ai/?utm_source=tldrai",
+    "summary": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://research.perplexity.ai/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "Your IT environment changed again. Did your controls?",
+    "url": "https://jumpcloud.com/secure-every-identity?utm_source=TLDR&utm_medium=Contributed-Content&utm_campaign=FY26Q1_MorningBrew_AD&utm_content=TLDR11/17",
+    "summary": "Employees, devices, permissions, and AI agents don't stand still. JumpCloud helps IT keep identity, access, and security connected as everything changes. Explore continuous compliance.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://jumpcloud.com/secure-every-identity"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "Your prompts deserve more context than you'll ever type",
+    "url": "https://ref.wisprflow.ai/tldr-nov17-ai-quicklinks-headline?sp=Z3KQLskqkA6fghRmYf8gTURv",
+    "summary": "Explain the bug and the edge cases out loud. Wispr Flow types clean, formatted text into Cursor, Claude or ChatGPT, 4x faster than typing. Mac, Windows, iPhone and Android. Try Wispr Flow free",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://ref.wisprflow.ai/tldr-nov17-ai-quicklinks-headline"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
+    "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "How the Claude Code team thinks about verification",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/?utm_source=tldrai",
+    "summary": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
+    "read_minutes": 14,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "Gemini Notebook Turns Sources Into Interactive Sites",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/?utm_source=tldrai",
+    "summary": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams?utm_source=tldrai",
+    "summary": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+   }
+  ],
   "webdev": [
    {
     "newsletter": "webdev",
@@ -243,18 +473,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://tailscale.com/use-cases/securing-ai"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-17",
-    "section": "Articles & Tutorials",
-    "title": "Squircles",
-    "url": "https://linebender.org/wiki/curves/squircle/?utm_source=tldrdev",
-    "summary": "Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linebender.org/wiki/curves/squircle"
    },
    {
     "newsletter": "webdev",
@@ -279,6 +497,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://valkey.io/blog/from-skiplist-to-b+tree"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-17",
+    "section": "Articles & Tutorials",
+    "title": "Squircles",
+    "url": "https://linebender.org/wiki/curves/squircle/?utm_source=tldrdev",
+    "summary": "Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linebender.org/wiki/curves/squircle"
    },
    {
     "newsletter": "webdev",
@@ -332,18 +562,6 @@
     "newsletter": "webdev",
     "date": "2026-11-17",
     "section": "Launches & Tools",
-    "title": "dusk bot",
-    "url": "https://dusk.bot/?utm_source=tldrdev",
-    "summary": "dusk bot runs a crew of AI helpers, each with its own chat, computer, and memory, using models or subscriptions you already have. Bots can work in parallel, hand off tasks in group chats, and run scheduled routines locally, on your own server, or through dusk's hosted cloud.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://dusk.bot/"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-17",
-    "section": "Launches & Tools",
     "title": "BrowserPod 4.0",
     "url": "https://browserpod.io/blog/browserpod-40?utm_source=tldrdev",
     "summary": "BrowserPod runs a Linux-like WebAssembly microVM on the user's device, with tools including Node.js, git, bash, and Rust programs. Version 4.0 makes the CDN-loaded runtime free for commercial and production use without an account, while unrestricted networking is a separate service and self-hosting the runtime requires an enterprise license.",
@@ -351,6 +569,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://browserpod.io/blog/browserpod-40"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-17",
+    "section": "Launches & Tools",
+    "title": "dusk bot",
+    "url": "https://dusk.bot/?utm_source=tldrdev",
+    "summary": "dusk bot runs a crew of AI helpers, each with its own chat, computer, and memory, using models or subscriptions you already have. Bots can work in parallel, hand off tasks in group chats, and run scheduled routines locally, on your own server, or through dusk's hosted cloud.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://dusk.bot/"
    },
    {
     "newsletter": "webdev",
@@ -380,18 +610,6 @@
     "newsletter": "webdev",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "BenchProofer: Formally Verified Coding Benchmarks, on Demand",
-    "url": "https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand?utm_source=tldrdev",
-    "summary": "BenchProofer adds formal specifications, verified reference implementations, and audits to coding benchmarks, with SWE-Proof covering all 500 SWE-Bench Verified tasks. Its audit flagged behavioral differences in 134 test-passing Opus 4.8 patches, but human review found actual bugs in only 21 of 41 sampled flags. The distinction matters because a different implementation can still be a valid fix.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Golden Board: Teaching Chess Without a Shared Language",
     "url": "https://artemlegotin.com/golden-board/?utm_source=tldrdev",
     "summary": "Golden Board packs a visual introduction to chess into a 512 KiB binary message, starting with a bootstrap that teaches the recipient how to decode it. The message includes lessons, exercises, and complete games, while its LLM trials explore ambiguities rather than proving an unknown intelligence would understand it.",
@@ -399,6 +617,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://artemlegotin.com/golden-board"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "BenchProofer: Formally Verified Coding Benchmarks, on Demand",
+    "url": "https://www.amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand?utm_source=tldrdev",
+    "summary": "BenchProofer adds formal specifications, verified reference implementations, and audits to coding benchmarks, with SWE-Proof covering all 500 SWE-Bench Verified tasks. Its audit flagged behavioral differences in 134 test-passing Opus 4.8 patches, but human review found actual bugs in only 21 of 41 sampled flags. The distinction matters because a different implementation can still be a valid fix.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://amazon.science/blog/benchproofer-formally-verified-coding-benchmarks-on-demand"
    },
    {
     "newsletter": "webdev",
@@ -526,18 +756,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Strategies & Tactics",
-    "title": "Inside the Loop: Five AI Attack Frameworks that Never Ask Permission",
-    "url": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex?utm_source=tldrinfosec",
-    "summary": "Elastic analyzed five agentic offensive frameworks: ARTEX, CyberStrikeAI, Cairn, PentAGI, and HexStrike. These tools let an LLM drive scanners, shells, and cloud CLIs in bursts of two to 25 seconds. None of them enforce authorization in code, and ARTEX and CyberStrikeAI switch to new proxies and User-Agents when blocked. GTIG and Mandiant have already seen four of them in real intrusions, and Microsoft has linked ARTEX to Storm-0940. Defenders should choose ahead of time which detections can trigger automatic containment. Defenders should also pair IP blocks with token and session revocation, and track how quickly each identity acts and in what order across sessions rather than relying on framework fingerprints, which Elastic's own ES|QL hunt only partly addresses.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Strategies & Tactics",
     "title": "Race Against the (Mac)hine: Local Privilege Escalation in Microsoft Defender for macOS",
     "url": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe/?utm_source=tldrinfosec",
     "summary": "Microsoft Defender for macOS checked IPC clients by looking up a connecting process's PID and then its current executable path, so an unprivileged process could connect and then re-exec into a Microsoft-signed binary to pass the check and send arbitrary commands to the root daemon. A diagnostics command with no authorization check followed hardlinks to read any file as root (CVE-2026-50657), and a quarantine restore request that left out its authorization blob skipped authorization entirely, which let an attacker write a cron entry to /etc/crontab and get a root shell (CVE-2026-50658). Microsoft fixed both in July 2026 Patch Tuesday. The research shows that bugs patched in Defender for Windows reappeared on macOS because peer checks should use audit tokens or XPC code-signing requirements and should block hardlinks, not just symlinks.",
@@ -545,6 +763,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Strategies & Tactics",
+    "title": "Inside the Loop: Five AI Attack Frameworks that Never Ask Permission",
+    "url": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex?utm_source=tldrinfosec",
+    "summary": "Elastic analyzed five agentic offensive frameworks: ARTEX, CyberStrikeAI, Cairn, PentAGI, and HexStrike. These tools let an LLM drive scanners, shells, and cloud CLIs in bursts of two to 25 seconds. None of them enforce authorization in code, and ARTEX and CyberStrikeAI switch to new proxies and User-Agents when blocked. GTIG and Mandiant have already seen four of them in real intrusions, and Microsoft has linked ARTEX to Storm-0940. Defenders should choose ahead of time which detections can trigger automatic containment. Defenders should also pair IP blocks with token and session revocation, and track how quickly each identity acts and in what order across sessions rather than relying on framework fingerprints, which Elastic's own ES|QL hunt only partly addresses.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex"
    },
    {
     "newsletter": "infosec",
@@ -574,18 +804,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Launches & Tools",
-    "title": "AI/ML DFIR Detection Pack",
-    "url": "https://github.com/depalmar/ai-dfir-toolkit?utm_source=tldrinfosec",
-    "summary": "A vendor-neutral collection of Sigma, YARA, and Suricata rules for detecting compromise of LLM applications, MCP servers, ML supply chains, AI infrastructure, AI-powered insider threats, and RAG/vector database attacks.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/depalmar/ai-dfir-toolkit"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Launches & Tools",
     "title": "Bashkit",
     "url": "https://github.com/everruns/bashkit?utm_source=tldrinfosec",
     "summary": "Bashkit is a Rust sandbox that runs bash entirely in-process for LLM agents, with all 167 commands rewritten in Rust and no fork/exec, host filesystem access, or network access unless enabled. Its analyze() API lists the commands, arguments, and file writes in a script before it runs, so hosts can decide when to ask for approval, and it flags scripts it can't fully resolve, such as ones using eval or $cmd. It's a good fit for agent tool harnesses because it has per-domain network allowlists, resource limits, VFS snapshotting, and Python and Node bindings.",
@@ -597,14 +815,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-17",
-    "section": "Miscellaneous",
-    "title": "Our First Phase of Embedded Assessments",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/?utm_source=tldrinfosec",
-    "summary": "OpenAI has signed agreements with Apollo Research, METR, Transluce, and Goodfire for embedded assessments. The assessors receive access to selected model checkpoints, source code, training and evaluation data, monitoring systems, documentation, and staff. Apollo will test whether models could covertly act against developer intent and whether safeguards detect it. METR will examine misaligned behavior in OpenAI's largest reinforcement-learning run and assess monitoring. Transluce will review post-training alignment evaluations, and Goodfire will analyze model internals for training monitoring, debugging, and alignment. Assessors work under agreed scopes, on-site security controls, conflict disclosures, and publication rules. OpenAI may redact confidential material and request disclosure delays for security or safety remediation.",
-    "read_minutes": 11,
-    "kind": null,
+    "section": "Launches & Tools",
+    "title": "AI/ML DFIR Detection Pack",
+    "url": "https://github.com/depalmar/ai-dfir-toolkit?utm_source=tldrinfosec",
+    "summary": "A vendor-neutral collection of Sigma, YARA, and Suricata rules for detecting compromise of LLM applications, MCP servers, ML supply chains, AI infrastructure, AI-powered insider threats, and RAG/vector database attacks.",
+    "read_minutes": null,
+    "kind": "github repo",
     "sponsored": false,
-    "key": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+    "key": "https://github.com/depalmar/ai-dfir-toolkit"
    },
    {
     "newsletter": "infosec",
@@ -629,6 +847,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Our First Phase of Embedded Assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/?utm_source=tldrinfosec",
+    "summary": "OpenAI has signed agreements with Apollo Research, METR, Transluce, and Goodfire for embedded assessments. The assessors receive access to selected model checkpoints, source code, training and evaluation data, monitoring systems, documentation, and staff. Apollo will test whether models could covertly act against developer intent and whether safeguards detect it. METR will examine misaligned behavior in OpenAI's largest reinforcement-learning run and assess monitoring. Transluce will review post-training alignment evaluations, and Goodfire will analyze model internals for training monitoring, debugging, and alignment. Assessors work under agreed scopes, on-site security controls, conflict disclosures, and publication rules. OpenAI may redact confidential material and request disclosure delays for security or safety remediation.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/our-first-phase-of-embedded-assessments"
    },
    {
     "newsletter": "infosec",
@@ -1108,18 +1338,6 @@
     "newsletter": "marketing",
     "date": "2026-11-17",
     "section": "Resources & Tools",
-    "title": "MCP for Marketers: What Model Context Protocol Means for Media and Measurement",
-    "url": "https://tinuiti.com/blog/measurement/mcp-for-marketers/?utm_source=tldrmarketing",
-    "summary": "Google, Amazon, and TikTok now offer MCP integrations that let AI applications retrieve advertising data and manage campaigns. This overview explains how MCP works and compares what each platform's integrations allow agents to do. It examines how inconsistent attribution creates gaps in cross-channel measurement and how independent data can improve budget decisions. It also covers 6 stages of agent adoption, from answering performance questions to executing campaign changes with defined permissions and human oversight.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tinuiti.com/blog/measurement/mcp-for-marketers"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-17",
-    "section": "Resources & Tools",
     "title": "User Requirement Box in ChatGPT",
     "url": "https://www.linkedin.com/posts/chris-long-marketing_heads-up-seos-chatgpt-now-builds-a-user-share-7528082782342889472-SS9t/?utm_source=tldrmarketing",
     "summary": "ChatGPT is adding “User Requirement” boxes to commercial prompts, asking users to select criteria like budget and product features before generating recommendations. These questions reveal what buyers consider when evaluating solutions. SEOs can use them to identify common buying criteria and align product pages and help documentation with the information ChatGPT uses to recommend products.",
@@ -1127,6 +1345,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/posts/chris-long-marketing_heads-up-seos-chatgpt-now-builds-a-user-share-7528082782342889472-SS9t"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-17",
+    "section": "Resources & Tools",
+    "title": "MCP for Marketers: What Model Context Protocol Means for Media and Measurement",
+    "url": "https://tinuiti.com/blog/measurement/mcp-for-marketers/?utm_source=tldrmarketing",
+    "summary": "Google, Amazon, and TikTok now offer MCP integrations that let AI applications retrieve advertising data and manage campaigns. This overview explains how MCP works and compares what each platform's integrations allow agents to do. It examines how inconsistent attribution creates gaps in cross-channel measurement and how independent data can improve budget decisions. It also covers 6 stages of agent adoption, from answering performance questions to executing campaign changes with defined permissions and human oversight.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tinuiti.com/blog/measurement/mcp-for-marketers"
    },
    {
     "newsletter": "marketing",
@@ -1326,18 +1556,6 @@
     "newsletter": "founders",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "What are your agents doing all night?",
-    "url": "https://flaviocopes.com/agents-all-night/?utm_source=tldrfounders",
-    "summary": "A question on X drew more than 300,000 views last week by asking what everyone's overnight agents do. Most of the hundred-plus replies described short scheduled checks that finish in minutes. Long runs work when a test or score decides which changes to keep. Coding is harder to score, and one team's overnight builds usually need rework in the morning. That team saves the setup for features that take several days, since it costs too much to prepare for a bug fix.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://flaviocopes.com/agents-all-night"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "The Interface Is the Org Chart",
     "url": "https://newsletter.drorpoleg.com/p/the-interface-is-the-org-chart?utm_source=tldrfounders",
     "summary": "AI is reshaping company structures by enhancing customer interactions, as exemplified by AI voice agents at Banco Inter, which streamline customer service. AI's ability to access information and expertise across departments can eliminate traditional organizational limitations. This shift suggests potential changes in company divisions, highlighting a need for executives to reconsider existing departmental constraints.",
@@ -1345,6 +1563,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://newsletter.drorpoleg.com/p/the-interface-is-the-org-chart"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "What are your agents doing all night?",
+    "url": "https://flaviocopes.com/agents-all-night/?utm_source=tldrfounders",
+    "summary": "A question on X drew more than 300,000 views last week by asking what everyone's overnight agents do. Most of the hundred-plus replies described short scheduled checks that finish in minutes. Long runs work when a test or score decides which changes to keep. Coding is harder to score, and one team's overnight builds usually need rework in the morning. That team saves the setup for features that take several days, since it costs too much to prepare for a bug fix.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://flaviocopes.com/agents-all-night"
    },
    {
     "newsletter": "founders",
@@ -1666,18 +1896,6 @@
     "newsletter": "it",
     "date": "2026-11-17",
     "section": "Launches & Partnerships",
-    "title": "GitHub Copilot adds Enterprise Server support",
-    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/?utm_source=tldrit",
-    "summary": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, although cloud sessions remain unavailable for those repositories. Other updates add more precise automation schedules, in-conversation MCP reauthentication, and mobile handoffs for cloud and Codespace sessions.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-17",
-    "section": "Launches & Partnerships",
     "title": "Dell expands its data platform for AI agents",
     "url": "https://www.dell.com/en-us/blog/dell-ai-data-platform-makes-data-agent-ready-at-sc26/?utm_source=tldrit",
     "summary": "Dell announced an Agentic Data Gateway and hybrid pipelines that connect agents to approved enterprise data, models, and tools on customer-controlled infrastructure. Integrations with LangChain, OpenAI Codex, and Unstructured add agent development and document-processing capabilities.",
@@ -1685,6 +1903,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dell.com/en-us/blog/dell-ai-data-platform-makes-data-agent-ready-at-sc26"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-17",
+    "section": "Launches & Partnerships",
+    "title": "GitHub Copilot adds Enterprise Server support",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/?utm_source=tldrit",
+    "summary": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, although cloud sessions remain unavailable for those repositories. Other updates add more precise automation schedules, in-conversation MCP reauthentication, and mobile handoffs for cloud and Codespace sessions.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
    },
    {
     "newsletter": "it",
@@ -1745,236 +1975,6 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/NVIDIA/SkillEvaluator"
-   }
-  ],
-  "ai": [
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "",
-    "title": "The AI-Agent Face-Off: What Muse, Dots, and Duet Are Doing on Your Website",
-    "url": "https://human.registration.goldcast.io/webinar/5c901181-9067-4410-b015-ee6f91223213?utm_source=tldr_ai&utm_medium=newsletter&utm_campaign=brand_agentic_trust&utm_content=webinar_ai_agent_face_off",
-    "summary": "Three agents are racing to win the internet. Muse, Dots, and Duet are bringing agentic browsing and shopping into the mainstream. But what happens when they reach your website? HUMAN put them to the test. Join us for the AI-Agent Face-Off to compare how the leading agents behave online and what their activity means for your business. You'll learn:🔍 Who's gaining ground: Which agents are growing fastest and how people use them. 🛒 How they behave: Where agents go and what they do from discovery to checkout. 🛡️What to do next: How to manage agent traffic, reduce risk, and decide which agents to welcome or block. Save Your Seat",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://human.registration.goldcast.io/webinar/5c901181-9067-4410-b015-ee6f91223213"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Headlines & Launches",
-    "title": "NVIDIA's Rubin HPC",
-    "url": "https://blogs.nvidia.com/blog/rubin-hpc/?utm_source=tldrai",
-    "summary": "Rubin HPC is a new Nvidia GPU designed to speed up the simulations AI agents use in science, engineering, and analytics. It has more than 50,000 cores, a record for a single GPU. It is expected to be available in 2028.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blogs.nvidia.com/blog/rubin-hpc"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Headlines & Launches",
-    "title": "Tencent Launches Hy4 flash",
-    "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows/?utm_source=tldrai",
-    "summary": "Tencent has released Hy4 flash, a fast, low-cost AI model for everyday workflows. In a blind test with Tencent's internal users, its satisfaction scores came close to Claude Haiku 5.5.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Deep Dives & Analysis",
-    "title": "Claude was trained on protein sequences at scale",
-    "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/?utm_source=tldrai",
-    "summary": "Tests show that the latest Claude models were trained on protein sequences at scale. The models can predict the next amino acid if given the start of little-studied bacterial proteins. No other model tested can do this, and the models fail to predict the sequence if the protein is shuffled. Fable 5.2 beats every open protein language model tested.",
-    "read_minutes": 26,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Deep Dives & Analysis",
-    "title": "Measuring alignment eval tells",
-    "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells/#summary?utm_source=tldrai",
-    "summary": "Investigator agents can increasingly distinguish alignment evals from capabilities evals, identifying them as artificial or \"honeypot\" environments designed to test bad behavior. Opus 5.5 and Astra agents differentiate these by noticing unrealistic scenarios and specific task-level cues. The study's findings suggest that while current models can identify common alignment evaluations, making them less detectable can refine their efficacy.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Deep Dives & Analysis",
-    "title": "World 2030",
-    "url": "https://world-2030.pages.dev/?utm_source=tldrai",
-    "summary": "Predicting how AI will affect the economy requires looking at all of the different components of that economy and figuring out how they might affect each other. World 2030 is a study that sets up nine groups (AI labs, big employers, banks and insurers, utilities, startups, universities, workers, governments, and the Fed) and runs the US economy forward in six-month turns to 2030. It aimed to identify both the invariants and the boundaries of what can change as these powerful forces interact with each other. The study predicts that AI will break per-seat software pricing and cut US junior desk hiring.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://world-2030.pages.dev/"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Engineering & Research",
-    "title": "Shipping AI agents? Use this developer toolkit to monitor everything from RAG to CI",
-    "url": "https://www.datadoghq.com/resources/ai-era-developer-toolkit/?utm_source=tldrnewsletter&utm_medium=newsletter&utm_campaign=dg-content-toolkit-2026aieradeveloper-softwaredelivery-multi-ww-en-701vy00000kmee2yak-tldr-ai-111726",
-    "summary": "Getting an agent working in a demo is the easy part. Datadog's developer toolkit for AI applications covers what comes after. An eBook on monitoring LLM apps, agents, and retrieval pipelines in production, plus product breakdowns and a webinar on faster, cleaner delivery. Get the toolkit >>",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://datadoghq.com/resources/ai-era-developer-toolkit"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Engineering & Research",
-    "title": "d1.2: State-of-the-Art Omnimodal Decision Models",
-    "url": "https://www.liquid.ai/blog/d1-2?utm_source=tldrai",
-    "summary": "d1.2 and d1.2-ultra are decision models that support audio input. They can also read a value from the input, find every passage of a kind in a text, locate things in a picture, estimate a number, and pick every option that applies. d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1. Both models are available on the Liquid API at $0.02 per million input tokens for d1.2 and $0.042 per million input tokens for d1.2-ultra.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://liquid.ai/blog/d1-2"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Engineering & Research",
-    "title": "Hugging Face and OpenRouter Join Forces",
-    "url": "https://huggingface.co/blog/openrouter?utm_source=tldrai",
-    "summary": "Hugging Face now routes language-model requests from its Inference Providers service through OpenRouter, which picks the best provider for each call. A single Hugging Face access token works for any open-weight model a provider serves.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://huggingface.co/blog/openrouter"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Engineering & Research",
-    "title": "Become a founding member of TLDR's AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Engineering & Research",
-    "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
-    "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch?utm_source=tldrai",
-    "summary": "Google's ZERO-TIM implementation, verified across 64 TPU v5p chips, achieves bitwise-identical logprobs for sampler and trainer, ensuring true on-policy stability in RL training by eliminating numerical discrepancies. This solution addresses floating-point addition errors in separate serving and training paths, using consistent arithmetic operations and standardized reduction orders across TPU meshes.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
-    "title": "OpenAI's first phase of embedded assessments",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/?utm_source=tldrai",
-    "summary": "Embedded assessments give independent experts deep access to a lab's internal models and systems so they can assess model alignment and the effectiveness of safeguards over an extended period. The access gives assessors the evidence and context to pursue independent evaluations and uncover unanticipated failures. Public reporting from independent assessments can give the public a clearer view of how labs are evaluating and managing risks. OpenAI has signed agreements with four independent assessors for its first phase of embedded assessments.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
-    "title": "The frontier is still open",
-    "url": "https://research.perplexity.ai/?utm_source=tldrai",
-    "summary": "Perplexity Frontier Research is a new initiative at Perplexity that aims to build new algorithms, models, and evaluations in the open, with the mission of building an automated scientist. Applications are now open until December 5. The research effort will be supported by 10,000 GPUs. Results from the initiative will ship as papers, blog posts, model weights, and open repositories.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://research.perplexity.ai/"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "Your IT environment changed again. Did your controls?",
-    "url": "https://jumpcloud.com/secure-every-identity?utm_source=TLDR&utm_medium=Contributed-Content&utm_campaign=FY26Q1_MorningBrew_AD&utm_content=TLDR11/17",
-    "summary": "Employees, devices, permissions, and AI agents don't stand still. JumpCloud helps IT keep identity, access, and security connected as everything changes. Explore continuous compliance.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://jumpcloud.com/secure-every-identity"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "Your prompts deserve more context than you'll ever type",
-    "url": "https://ref.wisprflow.ai/tldr-nov17-ai-quicklinks-headline?sp=Z3KQLskqkA6fghRmYf8gTURv",
-    "summary": "Explain the bug and the edge cases out loud. Wispr Flow types clean, formatted text into Cursor, Claude or ChatGPT, 4x faster than typing. Mac, Windows, iPhone and Android. Try Wispr Flow free",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://ref.wisprflow.ai/tldr-nov17-ai-quicklinks-headline"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
-    "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "How the Claude Code team thinks about verification",
-    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/?utm_source=tldrai",
-    "summary": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
-    "read_minutes": 14,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "Gemini Notebook Turns Sources Into Interactive Sites",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/?utm_source=tldrai",
-    "summary": "Gemini Notebook can now turn uploaded sources into shareable interactive sites.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams?utm_source=tldrai",
-    "summary": "OpenAI's computer-use agents streamline healthcare workflows by automating repetitive tasks like MRI authorizations and administrative processes.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
    }
   ]
  }
