@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-11-16",
     "section": "Programming, Design & Data Science",
-    "title": "Making a programming language",
-    "url": "https://alfonsocampodonico.com/posts/making-a-programming-language?utm_source=tldrnewsletter",
-    "summary": "A compiler is a line of small programs. Each turns one shape into the next. The programs transform text into tokens and tokens into a tree, then the tree gets checked, and either an interpreter runs it or it becomes a native binary. No single stage is hard - the work is in making errors useful and keeping two backends in agreement.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://alfonsocampodonico.com/posts/making-a-programming-language"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-16",
-    "section": "Programming, Design & Data Science",
     "title": "Building always-on agents",
     "url": "https://claude.com/resources/articles/building-always-on-agents?utm_source=tldrnewsletter",
     "summary": "Always-on agents run indefinitely, managing context across sessions and taking action without direct supervision. They have surged in popularity lately, largely due to recent model advancements that have made them more practical to run. Models now have better judgment and are more reliable, and intelligence is becoming cheaper. This post breaks down the primitives behind always-on agents and walks through how they fit together.",
@@ -113,14 +101,14 @@
    {
     "newsletter": "tech",
     "date": "2026-11-16",
-    "section": "Miscellaneous",
-    "title": "AI, work from home, and the young-graduate job market",
-    "url": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate?utm_source=tldrnewsletter",
-    "summary": "New college graduates are employed less than a few years ago. While AI may be a factor, there's growing evidence that work from home is an important factor moving the needle on young-graduate employment. AI exposure and teleworkability are highly correlated with each other, making it hard to distinguish definitively between the two factors. The full extent of AI's effects on the labor market might not manifest until the next recession.",
-    "read_minutes": 15,
+    "section": "Programming, Design & Data Science",
+    "title": "Making a programming language",
+    "url": "https://alfonsocampodonico.com/posts/making-a-programming-language?utm_source=tldrnewsletter",
+    "summary": "A compiler is a line of small programs. Each turns one shape into the next. The programs transform text into tokens and tokens into a tree, then the tree gets checked, and either an interpreter runs it or it becomes a native binary. No single stage is hard - the work is in making errors useful and keeping two backends in agreement.",
+    "read_minutes": 7,
     "kind": null,
     "sponsored": false,
-    "key": "https://stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
+    "key": "https://alfonsocampodonico.com/posts/making-a-programming-language"
    },
    {
     "newsletter": "tech",
@@ -133,6 +121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dwarkesh.com/p/rsi"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-16",
+    "section": "Miscellaneous",
+    "title": "AI, work from home, and the young-graduate job market",
+    "url": "https://www.stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate?utm_source=tldrnewsletter",
+    "summary": "New college graduates are employed less than a few years ago. While AI may be a factor, there's growing evidence that work from home is an important factor moving the needle on young-graduate employment. AI exposure and teleworkability are highly correlated with each other, making it hard to distinguish definitively between the two factors. The full extent of AI's effects on the labor market might not manifest until the next recession.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://stripeeconomics.com/p/ai-work-from-home-and-the-young-graduate"
    },
    {
     "newsletter": "tech",
@@ -284,18 +284,6 @@
     "newsletter": "ai",
     "date": "2026-11-16",
     "section": "Deep Dives & Analysis",
-    "title": "On the Brutality of Amdahl's Law",
-    "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law?utm_source=tldrai",
-    "summary": "The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to go quasi-infinite in the last century and a half. Electricity, communication, computers, transportation, and agriculture have all experienced extreme growth and transformation. Despite this, we've only seen 2% GDP per capita growth for nearly 150 years.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-16",
-    "section": "Deep Dives & Analysis",
     "title": "End-to-End 4-Bit AI Training",
     "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/?utm_source=tldrai",
     "summary": "Thinking Machines explored the technical challenges of training language models using 4-bit precision, including quantization errors and their effects on model accuracy. The deep dive examines BF16, MXFP8, and NVFP4 formats.",
@@ -303,6 +291,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-16",
+    "section": "Deep Dives & Analysis",
+    "title": "On the Brutality of Amdahl's Law",
+    "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law?utm_source=tldrai",
+    "summary": "The world is far too slow to see the high double-digit or more economic growth and seismic transformations in the economy that AI is predicted to bring. Intelligence isn't the only technology curve to go quasi-infinite in the last century and a half. Electricity, communication, computers, transportation, and agriculture have all experienced extreme growth and transformation. Despite this, we've only seen 2% GDP per capita growth for nearly 150 years.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law"
    },
    {
     "newsletter": "ai",
@@ -356,18 +356,6 @@
     "newsletter": "ai",
     "date": "2026-11-16",
     "section": "Engineering & Research",
-    "title": "Qwen4-Max: Your New Teammate Has Arrived",
-    "url": "https://qwen.ai/blog?id=qwen4-max&utm_source=tldrai",
-    "summary": "Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. It demonstrates strong 3D creation capabilities and can use Blender to carry out geometry modeling, scene assembly, material setup, lighting, and rendering. The model works fluently with leading game engines and can handle scene construction, gameplay logic, integration of external assets, material setup, HUD design, and visual effects, and deliver a playable game. Smaller models in the family are coming to open source.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://qwen.ai/blog?id=qwen4-max"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-16",
-    "section": "Engineering & Research",
     "title": "Meta's Vision Encoders in Multimodal Models",
     "url": "https://unbundling.github.io/?utm_source=tldrai",
     "summary": "Meta researchers explored which components of vision encoders are essential for multimodal models, finding that dedicated visual processing capacity matters more than pretraining.",
@@ -375,6 +363,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://unbundling.github.io/"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-16",
+    "section": "Engineering & Research",
+    "title": "Qwen4-Max: Your New Teammate Has Arrived",
+    "url": "https://qwen.ai/blog?id=qwen4-max&utm_source=tldrai",
+    "summary": "Qwen4-Max can take on a wide range of creative and professional work in the fields of 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. It demonstrates strong 3D creation capabilities and can use Blender to carry out geometry modeling, scene assembly, material setup, lighting, and rendering. The model works fluently with leading game engines and can handle scene construction, gameplay logic, integration of external assets, material setup, HUD design, and visual effects, and deliver a playable game. Smaller models in the family are coming to open source.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://qwen.ai/blog?id=qwen4-max"
    },
    {
     "newsletter": "ai",
@@ -852,18 +852,6 @@
     "newsletter": "infosec",
     "date": "2026-11-16",
     "section": "Quick Links",
-    "title": "Uber Confirms Hackers Stole Thousands of Drivers' License Information in Data Breach",
-    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/?utm_source=tldrinfosec",
-    "summary": "Uber is notifying drivers after a breach at Fireworks AI exposed driver's license records as attackers stole Fireworks credentials, then accessed Uber data.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-16",
-    "section": "Quick Links",
     "title": "This Year's Bug Count Just Passed 100K",
     "url": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882?utm_source=tldrinfosec",
     "summary": "CVE disclosures passed 100,222 in 2026, more than double 2025's total.",
@@ -871,6 +859,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-16",
+    "section": "Quick Links",
+    "title": "Uber Confirms Hackers Stole Thousands of Drivers' License Information in Data Breach",
+    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/?utm_source=tldrinfosec",
+    "summary": "Uber is notifying drivers after a breach at Fireworks AI exposed driver's license records as attackers stole Fireworks credentials, then accessed Uber data.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach"
    }
   ],
   "devops": [
@@ -1096,18 +1096,6 @@
     "newsletter": "data",
     "date": "2026-11-16",
     "section": "Opinions & Advice",
-    "title": "Data governance that actually runs",
-    "url": "https://blog.dataengineerthings.org/data-governance-that-actually-runs-103e4e916dd1?utm_source=tldrdata",
-    "summary": "Governance-as-code turns policy into checks across a local, open-source stack: MinIO for S3-like intake; Postgres for operations and warehousing; Airflow 3 and dbt for pipelines; DataHub, Apache Ossie, and Superset for catalog, semantic definitions, and dashboards; and MCP-connected AI assistants. CI enforces contracts, ownership, masking, lineage, consumer-impact approval, and least-privilege access before production.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.dataengineerthings.org/data-governance-that-actually-runs-103e4e916dd1"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-16",
-    "section": "Opinions & Advice",
     "title": "Do Data Roles Have a Future?",
     "url": "https://joereis.substack.com/p/do-data-roles-have-a-future?utm_source=tldrdata",
     "summary": "This post splits data work into production, interpretation, and accountability, and argues AI makes production dramatically cheaper while the other two stay human. In the 2026 Practical Data Community Survey, 80% of respondents used AI daily. Only about 10% had built it into organisational workflows, and nearly 89% still wrestled with basic data modelling.",
@@ -1127,6 +1115,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dataengineeringweekly.com/p/how-open-is-open-iceberg-catalogs"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-16",
+    "section": "Opinions & Advice",
+    "title": "Data governance that actually runs",
+    "url": "https://blog.dataengineerthings.org/data-governance-that-actually-runs-103e4e916dd1?utm_source=tldrdata",
+    "summary": "Governance-as-code turns policy into checks across a local, open-source stack: MinIO for S3-like intake; Postgres for operations and warehousing; Airflow 3 and dbt for pipelines; DataHub, Apache Ossie, and Superset for catalog, semantic definitions, and dashboards; and MCP-connected AI assistants. CI enforces contracts, ownership, masking, lineage, consumer-impact approval, and least-privilege access before production.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.dataengineerthings.org/data-governance-that-actually-runs-103e4e916dd1"
    },
    {
     "newsletter": "data",
@@ -1156,13 +1156,13 @@
     "newsletter": "data",
     "date": "2026-11-16",
     "section": "Launches & Tools",
-    "title": "db-branch",
-    "url": "https://github.com/db-branch/db-branch?utm_source=tldrdata",
-    "summary": "db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made. It lets developers and AI agents test queries, migrations, and upgrades without changing production data, with options to reset, restore, or automatically delete each copy.",
-    "read_minutes": null,
-    "kind": "github repo",
+    "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released!",
+    "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442?utm_source=tldrdata",
+    "summary": "PostgreSQL shipped patch releases for all supported branches, fixing 52 security vulnerabilities and more than 140 bugs. PostgreSQL 14 is now end-of-life, so production teams should upgrade to a supported version. The updates are cumulative and usually straightforward, though some deployments may also need index rebuilds or a fresh full backup.",
+    "read_minutes": 4,
+    "kind": null,
     "sponsored": false,
-    "key": "https://github.com/db-branch/db-branch"
+    "key": "https://postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442"
    },
    {
     "newsletter": "data",
@@ -1180,13 +1180,13 @@
     "newsletter": "data",
     "date": "2026-11-16",
     "section": "Launches & Tools",
-    "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released!",
-    "url": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442?utm_source=tldrdata",
-    "summary": "PostgreSQL shipped patch releases for all supported branches, fixing 52 security vulnerabilities and more than 140 bugs. PostgreSQL 14 is now end-of-life, so production teams should upgrade to a supported version. The updates are cumulative and usually straightforward, though some deployments may also need index rebuilds or a fresh full backup.",
-    "read_minutes": 4,
-    "kind": null,
+    "title": "db-branch",
+    "url": "https://github.com/db-branch/db-branch?utm_source=tldrdata",
+    "summary": "db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made. It lets developers and AI agents test queries, migrations, and upgrades without changing production data, with options to reset, restore, or automatically delete each copy.",
+    "read_minutes": null,
+    "kind": "github repo",
     "sponsored": false,
-    "key": "https://postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442"
+    "key": "https://github.com/db-branch/db-branch"
    },
    {
     "newsletter": "data",
@@ -1338,18 +1338,6 @@
     "newsletter": "design",
     "date": "2026-11-16",
     "section": "Launches & Tools",
-    "title": "Protect Human Writing by Poisoning Unauthorized AI Training",
-    "url": "https://shieldfont.org/?utm_source=tldrdesign",
-    "summary": "Publish for humans, not for crawlers. A web font that swaps the words in your HTML, so readers see your writing and scrapers get a decoy copy.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://shieldfont.org/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-16",
-    "section": "Launches & Tools",
     "title": "Neumorphism CSS Generator",
     "url": "https://markodenic.com/tools/neumorphism-css-generator/?utm_source=tldrdesign",
     "summary": "Easily generate soft UI and Neumorphism CSS styles. Customize colors and shadows, then copy the code.",
@@ -1357,6 +1345,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://markodenic.com/tools/neumorphism-css-generator"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-16",
+    "section": "Launches & Tools",
+    "title": "Protect Human Writing by Poisoning Unauthorized AI Training",
+    "url": "https://shieldfont.org/?utm_source=tldrdesign",
+    "summary": "Publish for humans, not for crawlers. A web font that swaps the words in your HTML, so readers see your writing and scrapers get a decoy copy.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://shieldfont.org/"
    },
    {
     "newsletter": "design",
@@ -1386,18 +1386,6 @@
     "newsletter": "design",
     "date": "2026-11-16",
     "section": "Miscellaneous",
-    "title": "Bruno's HelloAsso identity follows France's love of brands with values",
-    "url": "https://the-brandidentity.com/project/brunos-helloasso-identity-follows-frances-love-of-brands-with-values?utm_source=tldrdesign",
-    "summary": "Bruno has rebranded HelloAsso, a free platform serving 480,000 French nonprofits, with a new identity built around the idea of individuals coming together to form a collective. Its central graphic device is a mosaic of real member portraits, where individual squares can split to accommodate text, supported by bold Franklin Gothic typography, candid photography, and an expressive color palette. The system extends across HelloAsso Sport, Generosity, Culture, and its Fund for Engagement, giving each offering a distinctive visual personality while maintaining a recognizable shared identity.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://the-brandidentity.com/project/brunos-helloasso-identity-follows-frances-love-of-brands-with-values"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-16",
-    "section": "Miscellaneous",
     "title": "Japanese Logos: 43 Classic Logo Designs and the Stories Behind Them",
     "url": "https://www.logohistories.com/p/japanese-logos?utm_source=tldrdesign",
     "summary": "Japanese graphic design produced some of the world's most influential corporate identities between the 1960s and early 1990s, with designers including Yusaku Kamekura, Ikko Tanaka, Kazumasa Nagai, and Takenobu Igarashi. Forty-three classic logos spanning Sony, NTT, Japan Airlines, Mazda, and the Tokyo 1964 Olympics demonstrate how modernist geometry, cultural symbolism, and distinctive visual ideas helped establish recognizable identities. Many also emerged from strategic corporate identity programs, particularly those developed by PAOS, that connected visual design with broader organizational transformation.",
@@ -1405,6 +1393,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://logohistories.com/p/japanese-logos"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-16",
+    "section": "Miscellaneous",
+    "title": "Bruno's HelloAsso identity follows France's love of brands with values",
+    "url": "https://the-brandidentity.com/project/brunos-helloasso-identity-follows-frances-love-of-brands-with-values?utm_source=tldrdesign",
+    "summary": "Bruno has rebranded HelloAsso, a free platform serving 480,000 French nonprofits, with a new identity built around the idea of individuals coming together to form a collective. Its central graphic device is a mosaic of real member portraits, where individual squares can split to accommodate text, supported by bold Franklin Gothic typography, candid photography, and an expressive color palette. The system extends across HelloAsso Sport, Generosity, Culture, and its Fund for Engagement, giving each offering a distinctive visual personality while maintaining a recognizable shared identity.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://the-brandidentity.com/project/brunos-helloasso-identity-follows-frances-love-of-brands-with-values"
    },
    {
     "newsletter": "design",
@@ -1422,18 +1422,6 @@
     "newsletter": "design",
     "date": "2026-11-16",
     "section": "Quick Links",
-    "title": "Brand Insistence: Why the Strongest Brands Have No Substitutes",
-    "url": "https://brandingstrategyinsider.com/2026/11/brand-insistence-why-the-strongest-brands-have-no-substitutes/?utm_source=tldrdesign",
-    "summary": "The strongest brands push customers past preference and loyalty to insistence, where they'll wait, search, or pay more because there's no substitute.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://brandingstrategyinsider.com/2026/11/brand-insistence-why-the-strongest-brands-have-no-substitutes"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-16",
-    "section": "Quick Links",
     "title": "The toy company Tomy has a new logo, and people are baffled",
     "url": "https://www.creativebloq.com/news/the-toy-company-tomy-has-a-new-logo-and-people-are-baffled?utm_source=tldrdesign",
     "summary": "Japanese toymaker Tomy is adopting the unified global name Takara Tomy and replacing its familiar blue-and-white logo with a new identity featuring a teal-to-magenta gradient symbol inspired by the Japanese characters for \"asobi\" (play).",
@@ -1441,6 +1429,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://creativebloq.com/news/the-toy-company-tomy-has-a-new-logo-and-people-are-baffled"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-16",
+    "section": "Quick Links",
+    "title": "Brand Insistence: Why the Strongest Brands Have No Substitutes",
+    "url": "https://brandingstrategyinsider.com/2026/11/brand-insistence-why-the-strongest-brands-have-no-substitutes/?utm_source=tldrdesign",
+    "summary": "The strongest brands push customers past preference and loyalty to insistence, where they'll wait, search, or pay more because there's no substitute.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://brandingstrategyinsider.com/2026/11/brand-insistence-why-the-strongest-brands-have-no-substitutes"
    }
   ],
   "marketing": [
@@ -1798,18 +1798,6 @@
     "newsletter": "founders",
     "date": "2026-11-16",
     "section": "Quick Links",
-    "title": "Zendesk tests outcome pricing as 58% stay on seats",
-    "url": "https://hsdigital.substack.com/p/zendesk-tests-outcome-pricing-as?utm_source=tldrfounders",
-    "summary": "A survey of 126 vertical software founders and operators finds 58% still tie AI pricing to the seat, while only 15% charge on outcomes and 28% see no ACV lift.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://hsdigital.substack.com/p/zendesk-tests-outcome-pricing-as"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-16",
-    "section": "Quick Links",
     "title": "Build when customer requests cluster",
     "url": "https://x.com/ivanburazin/status/2120986492843577816?utm_source=tldrfounders",
     "summary": "Daytona passed $100 million in run rate without a roadmap.",
@@ -1829,6 +1817,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://saastr.com/hubspot-is-refounding-as-the-customer-harness-company-heres-what-that-means-for-us-right-now-in-november-2026"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-16",
+    "section": "Quick Links",
+    "title": "Zendesk tests outcome pricing as 58% stay on seats",
+    "url": "https://hsdigital.substack.com/p/zendesk-tests-outcome-pricing-as?utm_source=tldrfounders",
+    "summary": "A survey of 126 vertical software founders and operators finds 58% still tie AI pricing to the seat, while only 15% charge on outcomes and 28% see no ACV lift.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hsdigital.substack.com/p/zendesk-tests-outcome-pricing-as"
    }
   ],
   "crypto": [
@@ -1860,18 +1860,6 @@
     "newsletter": "crypto",
     "date": "2026-11-16",
     "section": "Innovation & Launches",
-    "title": "Tempo Configurable Accounts: PQ + Native Multisig as Default",
-    "url": "https://threadreaderapp.com/thread/2120979747996107243.html?utm_source=tldrcrypto",
-    "summary": "Tempo's Configurable Accounts (T14) will deploy to mainnet on December 1, introducing post-quantum signature groundwork and native multisig as default account primitives rather than optional add-ons. The upgrade's core claim is friction elimination: both capabilities existed on prior systems, but Configurable Accounts makes them cheap enough to use without weighing cost against benefit. Paradigm frames T14 as a near-completion milestone in \"Pragmatic Native Account Abstraction\" for the Ethereum ecosystem, with one remaining component, Attestable Accounts, expected in the coming weeks.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2120979747996107243.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-16",
-    "section": "Innovation & Launches",
     "title": "ChatGPT Wallet Launches for Agentic Commerce",
     "url": "https://x.com/alfongj/status/2121682952157315530?utm_source=tldrcrypto",
     "summary": "OpenAI's ChatGPT Wallet, launched Friday, lets OpenAI's always-on agent check out on merchant sites using your own credit card. At checkout, the card network generates a one-time substitute card number capped at the approved amount, so the agent never holds your real card, and you keep your points and dispute rights. Issuers gain visibility versus wallets like Stripe's Link, which charge your card in a second transaction, and merchants may pay lower interchange and see who is buying. Users review and approve each purchase with Face ID, and it is limited to US ChatGPT Pro users 18 or older with Amex, Mastercard, or Visa credit cards only. Under the hood, it uses a vault, enrollment in the networks' agent programs (Visa Intelligent Commerce, Mastercard Agent Pay, and Amex ACE), and two sets of headers: Web Bot Auth signatures and user signals in the Forwarded header, with OpenAI working with fraud providers like Forter, Riskified, Sardine, and Signifyd to honor them. Drawbacks are sites still blocking agents, the per-purchase approval, partial card coverage, and slow, token-heavy browser checkout.",
@@ -1879,6 +1867,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/alfongj/status/2121682952157315530"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-16",
+    "section": "Innovation & Launches",
+    "title": "Tempo Configurable Accounts: PQ + Native Multisig as Default",
+    "url": "https://threadreaderapp.com/thread/2120979747996107243.html?utm_source=tldrcrypto",
+    "summary": "Tempo's Configurable Accounts (T14) will deploy to mainnet on December 1, introducing post-quantum signature groundwork and native multisig as default account primitives rather than optional add-ons. The upgrade's core claim is friction elimination: both capabilities existed on prior systems, but Configurable Accounts makes them cheap enough to use without weighing cost against benefit. Paradigm frames T14 as a near-completion milestone in \"Pragmatic Native Account Abstraction\" for the Ethereum ecosystem, with one remaining component, Attestable Accounts, expected in the coming weeks.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2120979747996107243.html"
    },
    {
     "newsletter": "crypto",
@@ -2054,18 +2054,6 @@
     "newsletter": "fintech",
     "date": "2026-11-16",
     "section": "Deep Dives & Reports",
-    "title": "Stock tokens are where stablecoins were in 2023",
-    "url": "https://www.fintechbrainfood.com/p/stock-tokens?utm_source=tldrfintech",
-    "summary": "Tokenized stocks and ETFs total about $3.2 billion in distributed tokens, roughly 0.004% of the market, against about $431.6 billion in real-world assets onchain per RWA.xyz. Fintech Brainfood author Simon Taylor argues the field splits into four models, from wrapped tokens with no shareholder rights to natively issued stock, and notes 56 of 62 companies opted out of the OKX and ICE pooled offering.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fintechbrainfood.com/p/stock-tokens"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-16",
-    "section": "Deep Dives & Reports",
     "title": "Nik Storonsky: The most uncompromising banking CEO (52 minute video)",
     "url": "https://www.youtube.com/watch?v=-NARhJ7jAj4&utm_source=tldrfintech",
     "summary": "Revolut's founder explains how the company plans to challenge Amex and Chase in the US. He breaks down how Revolut built a profitable business around subscriptions and transactions and uses retention and gross profit benchmarks from past launches to decide which new products to scale. He also explains how the company is using AI to shorten compliance reviews that have taken 210 days.",
@@ -2073,6 +2061,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://youtube.com/watch?v=-NARhJ7jAj4"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-16",
+    "section": "Deep Dives & Reports",
+    "title": "Stock tokens are where stablecoins were in 2023",
+    "url": "https://www.fintechbrainfood.com/p/stock-tokens?utm_source=tldrfintech",
+    "summary": "Tokenized stocks and ETFs total about $3.2 billion in distributed tokens, roughly 0.004% of the market, against about $431.6 billion in real-world assets onchain per RWA.xyz. Fintech Brainfood author Simon Taylor argues the field splits into four models, from wrapped tokens with no shareholder rights to natively issued stock, and notes 56 of 62 companies opted out of the OKX and ICE pooled offering.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fintechbrainfood.com/p/stock-tokens"
    },
    {
     "newsletter": "fintech",
@@ -2406,18 +2406,6 @@
     "newsletter": "hardware",
     "date": "2026-11-16",
     "section": "Quick Links",
-    "title": "Applied Materials' systems revenue jumps 64% to $7.99B as chipmakers expand fabs, with a $5B EPIC Center for shared R&D",
-    "url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again?utm_source=tldrhardware",
-    "summary": "Total revenue rose 53% to $10.41 billion, with the semiconductor systems unit up from $4.88 billion to $7.99 billion.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-16",
-    "section": "Quick Links",
     "title": "A copper-to-fiber upgrade at a remote site caused a router to overload FAA's network, grounding US flights",
     "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide?utm_source=tldrhardware",
     "summary": "Officials say an L3Harris upgrade of copper wire to fiber optic cable left a router overloading a critical communication system, grounding thousands of US flights.",
@@ -2425,6 +2413,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-16",
+    "section": "Quick Links",
+    "title": "Applied Materials' systems revenue jumps 64% to $7.99B as chipmakers expand fabs, with a $5B EPIC Center for shared R&D",
+    "url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again?utm_source=tldrhardware",
+    "summary": "Total revenue rose 53% to $10.41 billion, with the semiconductor systems unit up from $4.88 billion to $7.99 billion.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again"
    },
    {
     "newsletter": "hardware",
