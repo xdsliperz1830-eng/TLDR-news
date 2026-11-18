@@ -792,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Launches & Tools",
-    "title": "Detectify's Agentic Tooling Lets AI agents Test Suspected Flaws in Running Applications",
-    "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/?utm_source=tldrinfosec",
-    "summary": "Detectify launched Agentic Tooling, which lets a team's own AI agents test whether a suspected vulnerability can actually be exploited in a running application, and logs every request, payload, and response in an append-only Security Ledger written by Detectify rather than the agent. It runs in the customer's environment and connects to agents through MCP or a CLI, using Detectify's crowdsourced payloads, attack surface data, and Alfred CVE engine. It's aimed at DevSecOps teams dealing with AI-generated SAST findings, which Detectify says are about 80% noise, though that figure comes from Detectify itself and the tool is only available on request.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Launches & Tools",
     "title": "Bashkit",
     "url": "https://github.com/everruns/bashkit?utm_source=tldrinfosec",
     "summary": "Bashkit is a Rust sandbox that runs bash entirely in-process for LLM agents, with all 167 commands rewritten in Rust and no fork/exec, host filesystem access, or network access unless enabled. Its analyze() API lists the commands, arguments, and file writes in a script before it runs, so hosts can decide when to ask for approval, and it flags scripts it can't fully resolve, such as ones using eval or $cmd. It's a good fit for agent tool harnesses because it has per-domain network allowlists, resource limits, VFS snapshotting, and Python and Node bindings.",
@@ -823,6 +811,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/depalmar/ai-dfir-toolkit"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Launches & Tools",
+    "title": "Detectify's Agentic Tooling Lets AI agents Test Suspected Flaws in Running Applications",
+    "url": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications/?utm_source=tldrinfosec",
+    "summary": "Detectify launched Agentic Tooling, which lets a team's own AI agents test whether a suspected vulnerability can actually be exploited in a running application, and logs every request, payload, and response in an append-only Security Ledger written by Detectify rather than the agent. It runs in the customer's environment and connects to agents through MCP or a CLI, using Detectify's crowdsourced payloads, attack surface data, and Alfred CVE engine. It's aimed at DevSecOps teams dealing with AI-generated SAST findings, which Detectify says are about 80% noise, though that figure comes from Detectify itself and the tool is only available on request.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://siliconangle.com/2026/11/16/detectifys-agentic-tooling-lets-ai-agents-test-suspected-flaws-in-running-applications"
    },
    {
     "newsletter": "infosec",
