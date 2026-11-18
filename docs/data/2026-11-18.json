@@ -1024,18 +1024,6 @@
     "newsletter": "founders",
     "date": "2026-11-18",
     "section": "Headlines & Trends",
-    "title": "Stripe's New Index Shows Non-AI B2B Revenue Up 30%+ Year Over Year Through the SaaSpocalypse",
-    "url": "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/?utm_source=tldrfounders",
-    "summary": "Software stocks lost an estimated $2 trillion early this year on fears that AI would replace business apps. Stripe's new weekly index of non-AI software companies that bill through it shows revenue up more than 30% from a year ago. Most of those companies sell self-serve products paid by card, and few of them are the enterprise names whose stocks fell. A company that shuts down also drops out of the index instead of counting as a loss. The index says little about enterprise seat pricing, so watch public companies' net revenue retention for that.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-18",
-    "section": "Headlines & Trends",
     "title": "On why YC Series A rounds fell off a cliff",
     "url": "https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2?utm_source=tldrfounders",
     "summary": "Series A rounds for Y Combinator startups have drastically declined since 2023, linked to a broader market downturn caused by rising interest rates. The downturn affected all YC batches, regardless of founder quality or admission year, as global early-stage funding fell sharply. Recent signs show a recovery, but raising Series A may become less necessary due to advancements in AI and increased focus on capital efficiency.",
@@ -1043,6 +1031,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://jaredheyman.medium.com/on-why-yc-series-a-rounds-fell-off-a-cliff-ab523211a2f2"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-18",
+    "section": "Headlines & Trends",
+    "title": "Stripe's New Index Shows Non-AI B2B Revenue Up 30%+ Year Over Year Through the SaaSpocalypse",
+    "url": "https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/?utm_source=tldrfounders",
+    "summary": "Software stocks lost an estimated $2 trillion early this year on fears that AI would replace business apps. Stripe's new weekly index of non-AI software companies that bill through it shows revenue up more than 30% from a year ago. Most of those companies sell self-serve products paid by card, and few of them are the enterprise names whose stocks fell. A company that shuts down also drops out of the index instead of counting as a loss. The index says little about enterprise seat pricing, so watch public companies' net revenue retention for that.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse"
    },
    {
     "newsletter": "founders",
@@ -1290,18 +1290,6 @@
     "newsletter": "crypto",
     "date": "2026-11-18",
     "section": "Guides & Resources",
-    "title": "Bitwise Sees Solana Reaching $1,100 by 2031 in Bull Case",
-    "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407?utm_source=tldrcrypto",
-    "summary": "Bitwise projects SOL reaching $1,100 by 2031 in its bull case (base: $385, bear: $80) in a report from its onchain research team, with SOL priced near $71 at publication. The bull case hinges on 5% of global equities tokenized by 2031, with Solana capturing 65% of resulting trading volume, implying ~$30.7 trillion in annual tokenized stock transactions and 3.6 billion daily transactions at 23x present throughput. Securitize's October 2026 tokenized US stock launch and DTCC's planned H2 2027 tokenized securities rollout on Solana serve as near-term catalysts anchoring these projections. Key risks include tokenization pace, regulatory shifts, and infrastructure gaps, as the base case alone demands 2.5x Solana's maximum block compute while Ethereum and its L2s lead tokenized asset value.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-18",
-    "section": "Guides & Resources",
     "title": "The Real Case for Tokenized Equities",
     "url": "https://threadreaderapp.com/thread/2122058261432270875.html?utm_source=tldrcrypto",
     "summary": "Tokenized equities enable global access for users excluded from traditional brokerage systems and onchain yield generation, which matters more than 24/7 trading as the primary value proposition. Tokenizing US equities strengthens American market dominance by delivering superior technology to international investors who already show strong demand for US-denominated assets. Major AI labs continue routing payments through credit card networks and traditional infrastructure rather than onchain systems, an observation that positions tokenized equities as a credible candidate to become the default investing layer inside AI-native financial applications. If tokenized equities fill that role, crypto will stay at the center of global finance rather than cede the payment layer to legacy rails.",
@@ -1313,14 +1301,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-11-18",
-    "section": "Miscellaneous",
-    "title": "Is Crypto VC Dead?",
-    "url": "https://x.com/lmrankhan/status/2121307248811245800?utm_source=tldrcrypto",
-    "summary": "A $15B LP dinner surfaced a structural math problem for large crypto funds: a $2B vehicle targeting 3x needs $6B in returns, achievable in prior cycles via L1s and infrastructure, but value has shifted to app-layer projects with distribution rather than protocols, leaving no clean path to venture-scale outcomes on crypto alone. Consensus put crypto-only funds' runway at one or two more cycles before the asset class merges into the broader frontier tech market, with large VCs expanding mandates into robotics, physical AI, and compute. Near-term opportunities cited include AI-native companies adopting on-chain infrastructure via agentic payments and trading, DeFi and agentic brokerages that have not yet reached millions of users, and tokenized equities in emerging markets.",
-    "read_minutes": 8,
+    "section": "Guides & Resources",
+    "title": "Bitwise Sees Solana Reaching $1,100 by 2031 in Bull Case",
+    "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407?utm_source=tldrcrypto",
+    "summary": "Bitwise projects SOL reaching $1,100 by 2031 in its bull case (base: $385, bear: $80) in a report from its onchain research team, with SOL priced near $71 at publication. The bull case hinges on 5% of global equities tokenized by 2031, with Solana capturing 65% of resulting trading volume, implying ~$30.7 trillion in annual tokenized stock transactions and 3.6 billion daily transactions at 23x present throughput. Securitize's October 2026 tokenized US stock launch and DTCC's planned H2 2027 tokenized securities rollout on Solana serve as near-term catalysts anchoring these projections. Key risks include tokenization pace, regulatory shifts, and infrastructure gaps, as the base case alone demands 2.5x Solana's maximum block compute while Ethereum and its L2s lead tokenized asset value.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://x.com/lmrankhan/status/2121307248811245800"
+    "key": "https://theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407"
    },
    {
     "newsletter": "crypto",
@@ -1333,6 +1321,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2122439548143911423.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-18",
+    "section": "Miscellaneous",
+    "title": "Is Crypto VC Dead?",
+    "url": "https://x.com/lmrankhan/status/2121307248811245800?utm_source=tldrcrypto",
+    "summary": "A $15B LP dinner surfaced a structural math problem for large crypto funds: a $2B vehicle targeting 3x needs $6B in returns, achievable in prior cycles via L1s and infrastructure, but value has shifted to app-layer projects with distribution rather than protocols, leaving no clean path to venture-scale outcomes on crypto alone. Consensus put crypto-only funds' runway at one or two more cycles before the asset class merges into the broader frontier tech market, with large VCs expanding mandates into robotics, physical AI, and compute. Near-term opportunities cited include AI-native companies adopting on-chain infrastructure via agentic payments and trading, DeFi and agentic brokerages that have not yet reached millions of users, and tokenized equities in emerging markets.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/lmrankhan/status/2121307248811245800"
    },
    {
     "newsletter": "crypto",
