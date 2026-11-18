@@ -90,18 +90,6 @@
     "newsletter": "tech",
     "date": "2026-11-17",
     "section": "Programming, Design & Data Science",
-    "title": "Introducing spatial CSS: A developer preview",
-    "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/?utm_source=tldrnewsletter",
-    "summary": "There has been a dramatic rise in the number of websites showing 3D content in the last few years. Spatial web standards should support designing for browsers wherever they run. Safari on visionOS 27.3 comes with a limited feature preview of the proposed spatial CSS API. This article demonstrates how to use the first components of spatial CSS through a case study.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-17",
-    "section": "Programming, Design & Data Science",
     "title": "Formal Verification is Not Verifiable",
     "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/?utm_source=tldrnewsletter",
     "summary": "AI has made formal verification go mainstream. People mean lots of different things when they say something is 'formally verified'. This post attempts to break these down. Formally verified systems can still have bugs, so not all formal verification systems are correct. However, formal verification produces well-defined, reviewable, understandable objects, so it is fairly reliable at finding bugs.",
@@ -109,6 +97,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-17",
+    "section": "Programming, Design & Data Science",
+    "title": "Introducing spatial CSS: A developer preview",
+    "url": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/?utm_source=tldrnewsletter",
+    "summary": "There has been a dramatic rise in the number of websites showing 3D content in the last few years. Spatial web standards should support designing for browsers wherever they run. Safari on visionOS 27.3 comes with a limited feature preview of the proposed spatial CSS API. This article demonstrates how to use the first components of spatial CSS through a case study.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview"
    },
    {
     "newsletter": "tech",
@@ -162,13 +162,13 @@
     "newsletter": "tech",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "What does it mean to understand what we built?",
-    "url": "https://brooker.co.za/blog/2026/11/16/understanding.html?utm_source=tldrnewsletter",
-    "summary": "AI gives us an incredible lookup tool, allowing us to free up mental capacity from having to understand everything in a system.",
+    "title": "Strategic Decision or Structural Advantage?",
+    "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai?utm_source=tldrnewsletter",
+    "summary": "Anthropic captures most of the frontier state-of-the-art tokens and proprietary spend, while OpenAI captures most low-end tokens.",
     "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://brooker.co.za/blog/2026/11/16/understanding.html"
+    "key": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai"
    },
    {
     "newsletter": "tech",
@@ -186,25 +186,13 @@
     "newsletter": "tech",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "Strategic Decision or Structural Advantage?",
-    "url": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai?utm_source=tldrnewsletter",
-    "summary": "Anthropic captures most of the frontier state-of-the-art tokens and proprietary spend, while OpenAI captures most low-end tokens.",
+    "title": "What does it mean to understand what we built?",
+    "url": "https://brooker.co.za/blog/2026/11/16/understanding.html?utm_source=tldrnewsletter",
+    "summary": "AI gives us an incredible lookup tool, allowing us to free up mental capacity from having to understand everything in a system.",
     "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-17",
-    "section": "Quick Links",
-    "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
-    "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/?utm_source=tldrnewsletter",
-    "summary": "More access will start with the 200GB iCloud plan, and free limits are per device, not per account.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade"
+    "key": "https://brooker.co.za/blog/2026/11/16/understanding.html"
    },
    {
     "newsletter": "tech",
@@ -229,6 +217,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bloomberg.com/news/articles/2026-11-16/china-s-top-ai-firms-limit-cyber-capabilities-in-latest-models"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "iOS 27.3 Beta Adds Daily Siri AI Limits and iCloud+ Upgrades",
+    "url": "https://www.macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade/?utm_source=tldrnewsletter",
+    "summary": "More access will start with the 200GB iCloud plan, and free limits are per device, not per account.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://macrumors.com/2026/11/16/apple-icloud-paid-siri-ai-upgrade"
    }
   ],
   "ai": [
@@ -416,18 +416,6 @@
     "newsletter": "ai",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
-    "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-17",
-    "section": "Quick Links",
     "title": "How the Claude Code team thinks about verification",
     "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/?utm_source=tldrai",
     "summary": "Strong automated checks are what let teams run dozens or hundreds of coding agents in parallel.",
@@ -459,6 +447,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrai",
+    "summary": "The complaint centers on the Hugging Face incident, but it also cites other incidents as evidence that the underlying behavior is ongoing.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
    }
   ],
   "webdev": [
@@ -828,18 +828,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "Telegram Restricts Bot Widgets Amidst Security Dispute",
-    "url": "https://cryptonews.net/news/security/33753830/?utm_source=tldrinfosec",
-    "summary": "Telegram has blocked bots from sending HTML widgets in both public and private chats. HTML widgets are interactive tools that run inside messages and present security issues. Telegram has not confirmed the minimum safe version but has urged users to update their Telegram apps.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cryptonews.net/news/security/33753830"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Who Runs the Ransomware Group Qilin?",
     "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/?utm_source=tldrinfosec",
     "summary": "Qilin is an active Ransomware-as-a-Service operation, claiming 365 victim organizations in three months. Its affiliates receive at least 80% of extortion payments and use double extortion: data theft plus encryption. Reporting links the administrator “Haise” to older identities “Rjun” and “Alexbigboss44,” then to Aleksey Mikhailovich Yakovtsev of St. Petersburg. The attribution relies on forum records, breached Gosuslugi data, Telegram identifiers, email links, and flight records.",
@@ -847,6 +835,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Telegram Restricts Bot Widgets Amidst Security Dispute",
+    "url": "https://cryptonews.net/news/security/33753830/?utm_source=tldrinfosec",
+    "summary": "Telegram has blocked bots from sending HTML widgets in both public and private chats. HTML widgets are interactive tools that run inside messages and present security issues. Telegram has not confirmed the minimum safe version but has urged users to update their Telegram apps.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cryptonews.net/news/security/33753830"
    },
    {
     "newsletter": "infosec",
@@ -876,13 +876,13 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "California State AG Sues OpenAI Over Rogue Agent Incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrinfosec",
-    "summary": "It alleges OpenAI agents accessed employee records with names, birth dates, and addresses.",
+    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+    "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/?utm_source=tldrinfosec",
+    "summary": "The update patches DoS handling for IPv6 and follows 0.4.9.15, which added defenses against directory-request floods.",
     "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
+    "key": "https://securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue"
    },
    {
     "newsletter": "infosec",
@@ -900,13 +900,13 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
-    "url": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/?utm_source=tldrinfosec",
-    "summary": "The update patches DoS handling for IPv6 and follows 0.4.9.15, which added defenses against directory-request floods.",
+    "title": "California State AG Sues OpenAI Over Rogue Agent Incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/?utm_source=tldrinfosec",
+    "summary": "It alleges OpenAI agents accessed employee records with names, birth dates, and addresses.",
     "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue"
+    "key": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
    }
   ],
   "product": [
@@ -1010,18 +1010,6 @@
     "newsletter": "product",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "Driving product adoption when the buyer isn't necessarily the user",
-    "url": "https://www.productmarketingalliance.com/driving-product-adoption/?utm_source=tldrproduct",
-    "summary": "Enterprise B2B adoption often stalls due to misaligned incentives between buyers, admins, and end users. Product marketers should diagnose friction via targeted user interviews - offering clear admin checklists, prescriptive first steps, and tracking actual usage rather than relying on vanity metrics.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://productmarketingalliance.com/driving-product-adoption"
-   },
-   {
-    "newsletter": "product",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Deliver products with unclear scope",
     "url": "https://karolwojciszko.substack.com/p/case-study-my-250k-lesson-in-managing?utm_source=tldrproduct",
     "summary": "A software engineering manager outlines a framework for delivering fixed-price projects with unclear scope to non-technical stakeholders. By pairing a fixed architectural core with flexible modules and combining waterfall milestones with agile feedback, complex systems can be delivered reliably on time.",
@@ -1029,6 +1017,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://karolwojciszko.substack.com/p/case-study-my-250k-lesson-in-managing"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Driving product adoption when the buyer isn't necessarily the user",
+    "url": "https://www.productmarketingalliance.com/driving-product-adoption/?utm_source=tldrproduct",
+    "summary": "Enterprise B2B adoption often stalls due to misaligned incentives between buyers, admins, and end users. Product marketers should diagnose friction via targeted user interviews - offering clear admin checklists, prescriptive first steps, and tracking actual usage rather than relying on vanity metrics.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://productmarketingalliance.com/driving-product-adoption"
    },
    {
     "newsletter": "product",
@@ -1204,18 +1204,6 @@
     "newsletter": "design",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "Landor reveals snowflake-inspired visual identity for Crystal Ski",
-    "url": "https://www.designweek.co.uk/landor-reveals-snowflake-inspired-visual-identity-for-crystal-ski/?utm_source=tldrdesign",
-    "summary": "Landor has rebranded TUI-owned Crystal Ski around the positioning \"Escape to higher ground,\" shifting its focus from practical ski holidays toward the emotional appeal of mountain experiences. The identity introduces the Crystal Lens, a graphic device inspired by the sixfold symmetry of snowflakes and constructed from the Y in the wordmark, which refracts photography to reveal different aspects of alpine holidays. Crystalline letterforms, Season typography from Display Foundry, and a mountain-inspired color palette create a flexible visual system designed to attract a broader generation of travelers.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://designweek.co.uk/landor-reveals-snowflake-inspired-visual-identity-for-crystal-ski"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Journey Mapping 101",
     "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=tldrdesign",
     "summary": "A journey map visualizes the process someone follows to accomplish a goal, combining their actions, thoughts, and emotions into a timeline that reveals the overall experience. Effective maps typically identify a specific persona and scenario, organize the experience into phases, and highlight opportunities for improvement, while variations such as experience maps, service blueprints, and user-story maps serve related but distinct purposes. Journey mapping helps teams develop a shared understanding of customer needs, identify gaps between touchpoints, and prioritize improvements based on the complete experience rather than isolated interactions.",
@@ -1223,6 +1211,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://nngroup.com/articles/journey-mapping-101"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Landor reveals snowflake-inspired visual identity for Crystal Ski",
+    "url": "https://www.designweek.co.uk/landor-reveals-snowflake-inspired-visual-identity-for-crystal-ski/?utm_source=tldrdesign",
+    "summary": "Landor has rebranded TUI-owned Crystal Ski around the positioning \"Escape to higher ground,\" shifting its focus from practical ski holidays toward the emotional appeal of mountain experiences. The identity introduces the Crystal Lens, a graphic device inspired by the sixfold symmetry of snowflakes and constructed from the Y in the wordmark, which refracts photography to reveal different aspects of alpine holidays. Crystalline letterforms, Season typography from Display Foundry, and a mountain-inspired color palette create a flexible visual system designed to attract a broader generation of travelers.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://designweek.co.uk/landor-reveals-snowflake-inspired-visual-identity-for-crystal-ski"
    },
    {
     "newsletter": "design",
@@ -1750,18 +1750,6 @@
     "newsletter": "crypto",
     "date": "2026-11-17",
     "section": "Quick Links",
-    "title": "Coinbase Launches Bitcoin Children's Book",
-    "url": "https://threadreaderapp.com/thread/2120871880047661504.html?utm_source=tldrcrypto",
-    "summary": "Coinbase released a limited-edition children's book on money and crypto, bundling $50 in bitcoin with each hard copy, timed one year after the US discontinued the penny.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2120871880047661504.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-17",
-    "section": "Quick Links",
     "title": "Solana Confidential Compute Goes Live",
     "url": "https://threadreaderapp.com/thread/2121272734080713098.html?utm_source=tldrcrypto",
     "summary": "Solana Foundation launched Confidential Compute, a TEE-based feature enabling private AI inference and confidential smart contract execution onchain, targeting use cases like sovereign trading agents and autonomous DAOs.",
@@ -1793,6 +1781,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-17",
+    "section": "Quick Links",
+    "title": "Coinbase Launches Bitcoin Children's Book",
+    "url": "https://threadreaderapp.com/thread/2120871880047661504.html?utm_source=tldrcrypto",
+    "summary": "Coinbase released a limited-edition children's book on money and crypto, bundling $50 in bitcoin with each hard copy, timed one year after the US discontinued the penny.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2120871880047661504.html"
    }
   ],
   "it": [
@@ -1884,13 +1884,13 @@
     "newsletter": "it",
     "date": "2026-11-17",
     "section": "Launches & Partnerships",
-    "title": "Kitesurf is now open source",
-    "url": "https://blog.cloudflare.com/kitesurf-open-source?utm_source=tldrit",
-    "summary": "Cloudflare has open-sourced Kitesurf, its stateless browser for AI agents that runs entirely on Cloudflare Workers. Available under the Apache 2.0 license on GitHub, the tool allows developers to run their own browser engine locally or deploy it to their Cloudflare accounts to support automated workloads using the Chrome DevTools Protocol.",
-    "read_minutes": 4,
+    "title": "GitHub Copilot adds Enterprise Server support",
+    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/?utm_source=tldrit",
+    "summary": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, although cloud sessions remain unavailable for those repositories. Other updates add more precise automation schedules, in-conversation MCP reauthentication, and mobile handoffs for cloud and Codespace sessions.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://blog.cloudflare.com/kitesurf-open-source"
+    "key": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
    },
    {
     "newsletter": "it",
@@ -1908,13 +1908,13 @@
     "newsletter": "it",
     "date": "2026-11-17",
     "section": "Launches & Partnerships",
-    "title": "GitHub Copilot adds Enterprise Server support",
-    "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9/?utm_source=tldrit",
-    "summary": "The Copilot app now supports GitHub Enterprise Server repositories, issues, and pull requests, although cloud sessions remain unavailable for those repositories. Other updates add more precise automation schedules, in-conversation MCP reauthentication, and mobile handoffs for cloud and Codespace sessions.",
-    "read_minutes": 2,
+    "title": "Kitesurf is now open source",
+    "url": "https://blog.cloudflare.com/kitesurf-open-source?utm_source=tldrit",
+    "summary": "Cloudflare has open-sourced Kitesurf, its stateless browser for AI agents that runs entirely on Cloudflare Workers. Available under the Apache 2.0 license on GitHub, the tool allows developers to run their own browser engine locally or deploy it to their Cloudflare accounts to support automated workloads using the Chrome DevTools Protocol.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9"
+    "key": "https://blog.cloudflare.com/kitesurf-open-source"
    },
    {
     "newsletter": "it",
@@ -1932,18 +1932,6 @@
     "newsletter": "it",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "Agents Need an Undo Button, Not More Approval Prompts",
-    "url": "https://quaspar.com/resources/agents-need-an-undo-button?utm_source=tldrit",
-    "summary": "AI agents need reliable undo mechanisms rather than frequent, fatigue-inducing approval prompts for high-impact actions. Borrowing from database and distributed systems design like the Sagas pattern, tools can be categorized into four types based on reversibility: reversible, compensable, delayable, and irreversible. Tracking and executing undos should live in the underlying system rather than within the agent itself to maintain robust safety oversight.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://quaspar.com/resources/agents-need-an-undo-button"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Amazon loses 40 broadband satellites in failed launch",
     "url": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000?utm_source=tldrit",
     "summary": "A United Launch Alliance rocket failed to deliver 40 Amazon broadband satellites to orbit after an anomaly during Sunday's flight. The mission was the first to use a Vulcan configuration tailored for Amazon's constellation, and the impact on subsequent launches remains unclear.",
@@ -1951,6 +1939,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Agents Need an Undo Button, Not More Approval Prompts",
+    "url": "https://quaspar.com/resources/agents-need-an-undo-button?utm_source=tldrit",
+    "summary": "AI agents need reliable undo mechanisms rather than frequent, fatigue-inducing approval prompts for high-impact actions. Borrowing from database and distributed systems design like the Sagas pattern, tools can be categorized into four types based on reversibility: reversible, compensable, delayable, and irreversible. Tracking and executing undos should live in the underlying system rather than within the agent itself to maintain robust safety oversight.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://quaspar.com/resources/agents-need-an-undo-button"
    },
    {
     "newsletter": "it",
