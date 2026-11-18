@@ -490,18 +490,6 @@
     "newsletter": "webdev",
     "date": "2026-11-17",
     "section": "Articles & Tutorials",
-    "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
-    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/?utm_source=tldrdev",
-    "summary": "Valkey 9.2 replaces large sorted sets' skiplist index with a B+ tree that packs entries together and uses SIMD-assisted searches. In a five-million-member test, per-member index overhead fell by 36% to 43%, while command behavior stayed the same. The release is still in candidate testing.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://valkey.io/blog/from-skiplist-to-b+tree"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-17",
-    "section": "Articles & Tutorials",
     "title": "Squircles",
     "url": "https://linebender.org/wiki/curves/squircle/?utm_source=tldrdev",
     "summary": "Squircles that look similar can have very different curvature, and Figma's approximation contains discontinuities where its curves join. This article contains an interactive comparison that explains the tradeoffs between Apple, Figma, clothoid, and superellipse shapes, along with the CSS for approximating Apple's corners using corner-shape.",
@@ -509,6 +497,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linebender.org/wiki/curves/squircle"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-17",
+    "section": "Articles & Tutorials",
+    "title": "From Skiplists to B+ Trees: Making Valkey Sorted Sets More Memory Efficient",
+    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/?utm_source=tldrdev",
+    "summary": "Valkey 9.2 replaces large sorted sets' skiplist index with a B+ tree that packs entries together and uses SIMD-assisted searches. In a five-million-member test, per-member index overhead fell by 36% to 43%, while command behavior stayed the same. The release is still in candidate testing.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://valkey.io/blog/from-skiplist-to-b+tree"
    },
    {
     "newsletter": "webdev",
@@ -720,18 +720,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Attacks & Vulnerabilities",
-    "title": "New NoisyTCP Vulnerabilities Lets Attackers Crash Linux Servers",
-    "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/?utm_source=tldrinfosec",
-    "summary": "Security researcher Hyunwoo Kim discovered an 11-year old Linux kernel vulnerability that can be used to crash systems running Nginx, Apache, and SSH servers in default configurations. The vulnerability stems from a NULL pointer dereference bug in the kernel's TCP networking system. Unauthenticated attackers can trigger a race condition using maliciously crafted packets to cause a DoS on a system.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Attacks & Vulnerabilities",
     "title": "httpx is Vulnerable to Remote Code Execution via Oj Object-Mode JSON Deserialization",
     "url": "https://research.jfrog.com/vulnerabilities/httpx-is-vulnerable-to-remote-code-execution-via-oj-object-mode-deserialization-cve-2026-129784/?utm_source=tldrinfosec",
     "summary": "Version 1.9.0 of the Ruby httpx gem (CVE-2026-129784, CVSS 8.5) parsed JSON response bodies with Oj in its default object mode when multi_json was missing, which let a malicious server turn its response into arbitrary Ruby objects. JFrog showed an attacker could chain ActiveSupport classes in any Rails app to call Kernel.load on a file they had first uploaded through an ordinary multipart POST and then reached via /dev/fd/N, giving code execution as the app user without any user interaction. Defenders should upgrade to httpx 1.9.1, or else pass mode: :strict to response.json or keep multi_json installed.",
@@ -739,6 +727,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://research.jfrog.com/vulnerabilities/httpx-is-vulnerable-to-remote-code-execution-via-oj-object-mode-deserialization-cve-2026-129784"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Attacks & Vulnerabilities",
+    "title": "New NoisyTCP Vulnerabilities Lets Attackers Crash Linux Servers",
+    "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/?utm_source=tldrinfosec",
+    "summary": "Security researcher Hyunwoo Kim discovered an 11-year old Linux kernel vulnerability that can be used to crash systems running Nginx, Apache, and SSH servers in default configurations. The vulnerability stems from a NULL pointer dereference bug in the kernel's TCP networking system. Unauthenticated attackers can trigger a race condition using maliciously crafted packets to cause a DoS on a system.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers"
    },
    {
     "newsletter": "infosec",
