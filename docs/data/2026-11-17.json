@@ -1278,18 +1278,6 @@
     "newsletter": "marketing",
     "date": "2026-11-17",
     "section": "News & Trends",
-    "title": "AI Search Meta Analysis - Q4 2026",
-    "url": "https://www.growth-memo.com/p/ai-search-meta-analysis-q4-2026?utm_source=tldrmarketing",
-    "summary": "AI Overviews are appearing on more commercial searches, with one study finding coverage across 88% of its sampled keywords. Their presence can reduce organic clicks by up to 40%. AI platforms are also influencing brand discovery and product shortlists, though visibility doesn't always translate into website visits or purchases. Consumers remain less comfortable letting AI agents complete purchases.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://growth-memo.com/p/ai-search-meta-analysis-q4-2026"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-17",
-    "section": "News & Trends",
     "title": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
     "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games?utm_source=tldrmarketing",
     "summary": "In-game advertising offers publishers a growing revenue stream, but player experience determines its success. EA plans to sell ads integrated into game environments, while Xbox is testing ads before streaming sessions in exchange for free access. Mobile in-game ads generated $28B in 2025, but console and PC players are more resistant. Research shows 1 in 5 players would play more with high-quality ads, while 1 in 5 have quit due to poor ad experiences.",
@@ -1297,6 +1285,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-17",
+    "section": "News & Trends",
+    "title": "AI Search Meta Analysis - Q4 2026",
+    "url": "https://www.growth-memo.com/p/ai-search-meta-analysis-q4-2026?utm_source=tldrmarketing",
+    "summary": "AI Overviews are appearing on more commercial searches, with one study finding coverage across 88% of its sampled keywords. Their presence can reduce organic clicks by up to 40%. AI platforms are also influencing brand discovery and product shortlists, though visibility doesn't always translate into website visits or purchases. Consumers remain less comfortable letting AI agents complete purchases.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://growth-memo.com/p/ai-search-meta-analysis-q4-2026"
    },
    {
     "newsletter": "marketing",
@@ -1362,18 +1362,6 @@
     "newsletter": "marketing",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "How do you advertise AI to an increasingly skeptical public?",
-    "url": "https://www.marketingbrew.com/stories/ai-marketing-skeptical-public?utm_source=tldrmarketing",
-    "summary": "Consumer ads are moving away from the term “AI” as it risks alienating skeptical audiences. Instead, campaigns focus on product benefits without mentioning the technology. Messaging works best when it stays neutral and avoids framing AI as either revolutionary or something to apologize for.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marketingbrew.com/stories/ai-marketing-skeptical-public"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "Permission is a useful marketing signal",
     "url": "https://herbertlui.net/permission-is-a-useful-marketing-signal/?utm_source=tldrmarketing",
     "summary": "An informational newsletter offers a simple way to gauge whether content is resonating. When someone subscribes, they give permission for ongoing communication, signaling that your content has earned their interest. Tracking sign-ups helps identify where potential customers are engaging or losing interest without relying on complex attribution tools. Newsletters can also fuel social posts and resource offers that encourage more subscriptions.",
@@ -1381,6 +1369,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://herbertlui.net/permission-is-a-useful-marketing-signal"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "How do you advertise AI to an increasingly skeptical public?",
+    "url": "https://www.marketingbrew.com/stories/ai-marketing-skeptical-public?utm_source=tldrmarketing",
+    "summary": "Consumer ads are moving away from the term “AI” as it risks alienating skeptical audiences. Instead, campaigns focus on product benefits without mentioning the technology. Messaging works best when it stays neutral and avoids framing AI as either revolutionary or something to apologize for.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marketingbrew.com/stories/ai-marketing-skeptical-public"
    },
    {
     "newsletter": "marketing",
@@ -1544,18 +1544,6 @@
     "newsletter": "founders",
     "date": "2026-11-17",
     "section": "Miscellaneous",
-    "title": "Bumbition",
-    "url": "https://www.noahpinion.blog/p/bumbition?utm_source=tldrfounders",
-    "summary": "Two of the founders behind TypeSafe AI, recently valued at $7.5 billion, spent years out of work before they started it. One made her own clothes and won hackathons, and the other became a top-ranked Hearthstone player. Bumbition is a name for that path, waiting for work that's worth doing instead of always chasing the next goal. The time off brings in ideas from other fields and people from outside your industry. The cost is real too, since skills can fade and the right opportunity may come late or never.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://noahpinion.blog/p/bumbition"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-17",
-    "section": "Miscellaneous",
     "title": "The Interface Is the Org Chart",
     "url": "https://newsletter.drorpoleg.com/p/the-interface-is-the-org-chart?utm_source=tldrfounders",
     "summary": "AI is reshaping company structures by enhancing customer interactions, as exemplified by AI voice agents at Banco Inter, which streamline customer service. AI's ability to access information and expertise across departments can eliminate traditional organizational limitations. This shift suggests potential changes in company divisions, highlighting a need for executives to reconsider existing departmental constraints.",
@@ -1575,6 +1563,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://flaviocopes.com/agents-all-night"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-17",
+    "section": "Miscellaneous",
+    "title": "Bumbition",
+    "url": "https://www.noahpinion.blog/p/bumbition?utm_source=tldrfounders",
+    "summary": "Two of the founders behind TypeSafe AI, recently valued at $7.5 billion, spent years out of work before they started it. One made her own clothes and won hackathons, and the other became a top-ranked Hearthstone player. Bumbition is a name for that path, waiting for work that's worth doing instead of always chasing the next goal. The time off brings in ideas from other fields and people from outside your industry. The cost is real too, since skills can fade and the right opportunity may come late or never.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://noahpinion.blog/p/bumbition"
    },
    {
     "newsletter": "founders",
