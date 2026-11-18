@@ -756,18 +756,6 @@
     "newsletter": "infosec",
     "date": "2026-11-17",
     "section": "Strategies & Tactics",
-    "title": "Race Against the (Mac)hine: Local Privilege Escalation in Microsoft Defender for macOS",
-    "url": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe/?utm_source=tldrinfosec",
-    "summary": "Microsoft Defender for macOS checked IPC clients by looking up a connecting process's PID and then its current executable path, so an unprivileged process could connect and then re-exec into a Microsoft-signed binary to pass the check and send arbitrary commands to the root daemon. A diagnostics command with no authorization check followed hardlinks to read any file as root (CVE-2026-50657), and a quarantine restore request that left out its authorization blob skipped authorization entirely, which let an attacker write a cron entry to /etc/crontab and get a root shell (CVE-2026-50658). Microsoft fixed both in July 2026 Patch Tuesday. The research shows that bugs patched in Defender for Windows reappeared on macOS because peer checks should use audit tokens or XPC code-signing requirements and should block hardlinks, not just symlinks.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-17",
-    "section": "Strategies & Tactics",
     "title": "Inside the Loop: Five AI Attack Frameworks that Never Ask Permission",
     "url": "https://www.elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex?utm_source=tldrinfosec",
     "summary": "Elastic analyzed five agentic offensive frameworks: ARTEX, CyberStrikeAI, Cairn, PentAGI, and HexStrike. These tools let an LLM drive scanners, shells, and cloud CLIs in bursts of two to 25 seconds. None of them enforce authorization in code, and ARTEX and CyberStrikeAI switch to new proxies and User-Agents when blocked. GTIG and Mandiant have already seen four of them in real intrusions, and Microsoft has linked ARTEX to Storm-0940. Defenders should choose ahead of time which detections can trigger automatic containment. Defenders should also pair IP blocks with token and session revocation, and track how quickly each identity acts and in what order across sessions rather than relying on framework fingerprints, which Elastic's own ES|QL hunt only partly addresses.",
@@ -775,6 +763,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://elastic.co/security-labs/threat-command/agentic-offensive-frameworks-detection-artex"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-17",
+    "section": "Strategies & Tactics",
+    "title": "Race Against the (Mac)hine: Local Privilege Escalation in Microsoft Defender for macOS",
+    "url": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe/?utm_source=tldrinfosec",
+    "summary": "Microsoft Defender for macOS checked IPC clients by looking up a connecting process's PID and then its current executable path, so an unprivileged process could connect and then re-exec into a Microsoft-signed binary to pass the check and send arbitrary commands to the root daemon. A diagnostics command with no authorization check followed hardlinks to read any file as root (CVE-2026-50657), and a quarantine restore request that left out its authorization blob skipped authorization entirely, which let an attacker write a cron entry to /etc/crontab and get a root shell (CVE-2026-50658). Microsoft fixed both in July 2026 Patch Tuesday. The research shows that bugs patched in Defender for Windows reappeared on macOS because peer checks should use audit tokens or XPC code-signing requirements and should block hardlinks, not just symlinks.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://spaceraccoon.dev/race-against-the-machine-defender-macos-lpe"
    },
    {
     "newsletter": "infosec",
