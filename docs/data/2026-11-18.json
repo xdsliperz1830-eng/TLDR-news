@@ -622,18 +622,6 @@
     "newsletter": "webdev",
     "date": "2026-11-18",
     "section": "Miscellaneous",
-    "title": "Modern Web Guidance 1.0",
-    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
-    "summary": "Modern Web Guidance supplies coding agents with expert-reviewed web practices and browser compatibility data, covering gaps in accessibility, performance, security, and user experience. Version 1.0 adds a codebase modernization workflow and public evaluations, with Firefox and Edge joining Chrome in supporting the project.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://developer.chrome.com/blog/modern-web-guidance-v1"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-18",
-    "section": "Miscellaneous",
     "title": "My AI Agents (Re)discovered a Maya Site in 72 Hours",
     "url": "https://pietromiotti.com/latest/maya-site/?utm_source=tldrdev",
     "summary": "A group of 48 agents inspected images derived from public NASA lidar data and flagged a Maya site missing from Mexico's official register. A later literature check showed archaeologists had already mapped it in 2025, making this a rediscovery and exposing a gap in the agents' research.",
@@ -641,6 +629,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pietromiotti.com/latest/maya-site"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-18",
+    "section": "Miscellaneous",
+    "title": "Modern Web Guidance 1.0",
+    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1?utm_source=tldrdev",
+    "summary": "Modern Web Guidance supplies coding agents with expert-reviewed web practices and browser compatibility data, covering gaps in accessibility, performance, security, and user experience. Version 1.0 adds a codebase modernization workflow and public evaluations, with Firefox and Edge joining Chrome in supporting the project.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developer.chrome.com/blog/modern-web-guidance-v1"
    },
    {
     "newsletter": "webdev",
@@ -1628,18 +1628,6 @@
     "newsletter": "founders",
     "date": "2026-11-18",
     "section": "Quick Links",
-    "title": "6 Ways to deliver value before the paywall — and settle the paywall placement debate",
-    "url": "https://www.revenuecat.com/blog/growth/app-value-paywall?utm_source=tldrfounders",
-    "summary": "Apps can show value before the paywall, like a personalized weight-loss projection, so define that value before debating where to charge.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://revenuecat.com/blog/growth/app-value-paywall"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-18",
-    "section": "Quick Links",
     "title": "The First Order Is Curiosity. The Second Order Is Truth",
     "url": "https://marcrandolph.substack.com/p/the-first-order-is-curiosity-the?utm_source=tldrfounders",
     "summary": "A first purchase only proves someone was curious, so judge product-market fit by how many customers buy a second time.",
@@ -1659,6 +1647,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/harris/status/2122713059487613359"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-18",
+    "section": "Quick Links",
+    "title": "6 Ways to deliver value before the paywall — and settle the paywall placement debate",
+    "url": "https://www.revenuecat.com/blog/growth/app-value-paywall?utm_source=tldrfounders",
+    "summary": "Apps can show value before the paywall, like a personalized weight-loss projection, so define that value before debating where to charge.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://revenuecat.com/blog/growth/app-value-paywall"
    }
   ],
   "crypto": [
