@@ -1096,18 +1096,6 @@
     "newsletter": "design",
     "date": "2026-11-18",
     "section": "News & Trends",
-    "title": "New camera sensor coming to the iPhone 20 Pro's main camera, says leaker",
-    "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/?utm_source=tldrdesign",
-    "summary": "Apple's rumored iPhone 20 Pro could introduce a new main camera sensor manufactured using a 17-nanometer logic process. Previous reports have suggested that Apple is exploring larger camera sensors for future iPhones, including a possible 200-megapixel telephoto sensor, although the latest leak doesn't confirm whether the main sensor will grow in size. A larger sensor could improve low-light photography and overall image quality, but the specifications and potential benefits of the new component remain unknown.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-18",
-    "section": "News & Trends",
     "title": "Pentagram draws on ancient Greek coinage for Alpha Bank identity refresh",
     "url": "https://www.designweek.co.uk/pentagram-draws-on-ancient-greek-coinage-for-alpha-bank-identity-refresh/?utm_source=tldrdesign",
     "summary": "Pentagram has refreshed Greek financial institution Alpha Bank's identity, drawing inspiration from an ancient silver stater of Aegina that originally influenced the bank's 1972 logo. The redesigned emblem preserves the coin's distinctive geometry and subtle asymmetry, accompanied by a custom Greek and Latin typeface called Alpha Sans, an expanded color palette, and patterns derived from the symbol. Developed around the positioning \"Building progress, together,\" the system extends across digital products, communications, and redesigned physical branches, balancing the bank's cultural heritage with a more contemporary identity.",
@@ -1115,6 +1103,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://designweek.co.uk/pentagram-draws-on-ancient-greek-coinage-for-alpha-bank-identity-refresh"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-18",
+    "section": "News & Trends",
+    "title": "New camera sensor coming to the iPhone 20 Pro's main camera, says leaker",
+    "url": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/?utm_source=tldrdesign",
+    "summary": "Apple's rumored iPhone 20 Pro could introduce a new main camera sensor manufactured using a 17-nanometer logic process. Previous reports have suggested that Apple is exploring larger camera sensors for future iPhones, including a possible 200-megapixel telephoto sensor, although the latest leak doesn't confirm whether the main sensor will grow in size. A larger sensor could improve low-light photography and overall image quality, but the specifications and potential benefits of the new component remain unknown.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker"
    },
    {
     "newsletter": "design",
@@ -1508,18 +1508,6 @@
     "newsletter": "founders",
     "date": "2026-11-18",
     "section": "Tools & Resources",
-    "title": "Linked billing on the Claude Platform",
-    "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform?utm_source=tldrfounders",
-    "summary": "Anthropic's new linked billing lets tools like Linear and Warp charge Claude usage to a customer's own Anthropic account, so nobody has to share an API key. Customers set a monthly spend limit for each linked tool and can unlink it at any time. Platforms decide on each request whether they or the customer pays. Linked billing is in beta now.",
-    "read_minutes": null,
-    "kind": "tool",
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/linked-billing-on-claude-platform"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-18",
-    "section": "Tools & Resources",
     "title": "The Product Launch Video Playbook (Resource)",
     "url": "https://docs.google.com/document/d/18jpuStgJUqbx-A5M_IGDLT98gNThoRh0D3C0k7sgRJs/edit?utm_source=tldrfounders",
     "summary": "Create clearer product launch videos using briefs, prompts, and review checklists.",
@@ -1527,6 +1515,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://docs.google.com/document/d/18jpuStgJUqbx-A5M_IGDLT98gNThoRh0D3C0k7sgRJs/edit"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-18",
+    "section": "Tools & Resources",
+    "title": "Linked billing on the Claude Platform",
+    "url": "https://claude.com/resources/articles/linked-billing-on-claude-platform?utm_source=tldrfounders",
+    "summary": "Anthropic's new linked billing lets tools like Linear and Warp charge Claude usage to a customer's own Anthropic account, so nobody has to share an API key. Customers set a monthly spend limit for each linked tool and can unlink it at any time. Platforms decide on each request whether they or the customer pays. Linked billing is in beta now.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/linked-billing-on-claude-platform"
    },
    {
     "newsletter": "founders",
@@ -2054,18 +2054,6 @@
     "newsletter": "hardware",
     "date": "2026-11-18",
     "section": "Miscellaneous",
-    "title": "Marvell and Penguin's photonic memory appliance pools 16 TB of DDR5 and 1 TB of HBM across 16 servers over optical links",
-    "url": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921?utm_source=tldrhardware",
-    "summary": "Marvell's module, from its $3.5B Celestial AI acquisition, stacks 72 GB of HBM3e and eight DDR5 channels on a silicon photonic interposer with 900 GB/s bidirectional bandwidth. Penguin's box holds 16 modules behind a 57.6 Tbps optical shuffle, serving up to 16 servers over NICs or CPO and NPO optics, bypassing CXL for the optical modes. An HBM cache-through mode gives HBM speed with DDR5 capacity, aimed at KV cache offload, with systems due in the second half of next year.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-18",
-    "section": "Miscellaneous",
     "title": "Waymo halts freeway rides in all 15 cities after California DMV cites recurring construction-zone incursions",
     "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/?utm_source=tldrhardware",
     "summary": "California's DMV restricted Waymo's freeway operations on November 11 after three robotaxis entered an active construction closure on US-101 near Burlingame and a separate incident involved CHP vehicles on Highway 280. The DMV calls it an imminent hazard, since similar incidents on May 18 led to a prior restriction and fixes. Waymo has halted freeway service in every market while it evaluates performance, and surface-street rides, over half a million trips a week, continue. The restriction will stay until the DMV sees effective corrective action.",
@@ -2073,6 +2061,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-18",
+    "section": "Miscellaneous",
+    "title": "Marvell and Penguin's photonic memory appliance pools 16 TB of DDR5 and 1 TB of HBM across 16 servers over optical links",
+    "url": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921?utm_source=tldrhardware",
+    "summary": "Marvell's module, from its $3.5B Celestial AI acquisition, stacks 72 GB of HBM3e and eight DDR5 channels on a silicon photonic interposer with 900 GB/s bidirectional bandwidth. Penguin's box holds 16 modules behind a 57.6 Tbps optical shuffle, serving up to 16 servers over NICs or CPO and NPO optics, bypassing CXL for the optical modes. An HBM cache-through mode gives HBM speed with DDR5 capacity, aimed at KV cache offload, with systems due in the second half of next year.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921"
    },
    {
     "newsletter": "hardware",
