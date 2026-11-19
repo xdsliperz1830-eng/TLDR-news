@@ -792,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-11-18",
     "section": "Launches & Tools",
-    "title": "tk",
-    "url": "https://github.com/tkhq/tk?utm_source=tldrinfosec",
-    "summary": "tk lets an agent sign Git commits and open SSH connections without a private key on its machine.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/tkhq/tk"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-18",
-    "section": "Launches & Tools",
     "title": "PreTxt (Product Launch)",
     "url": "https://pretxt.ai/?utm_source=tldrinfosec",
     "summary": "PreTxt provides AI Supervision, a runtime tool that monitors AI agents, checks their actions against customer rules, and redirects them when they exceed authority or violate constraints. It can block actions such as giving medical advice while allowing the agent to continue its approved task.",
@@ -823,6 +811,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/Balanov/mcp-attest"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-18",
+    "section": "Launches & Tools",
+    "title": "tk",
+    "url": "https://github.com/tkhq/tk?utm_source=tldrinfosec",
+    "summary": "tk lets an agent sign Git commits and open SSH connections without a private key on its machine.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/tkhq/tk"
    },
    {
     "newsletter": "infosec",

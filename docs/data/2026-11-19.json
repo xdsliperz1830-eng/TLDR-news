@@ -231,212 +231,6 @@
     "key": "https://aifoc.us/my-chrome-extensions-are-just-prompts"
    }
   ],
-  "data": [
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "",
-    "title": "Toptal launches Toptal AI: one partner for all your AI needs",
-    "url": "https://www.toptal.ai/?utm_source=newsletter&utm_medium=cpc&utm_campaign=toptal-ai_tldr-data_primary_11-19-2026&utm_content=header_toptal_launches_toptal&utm_term=2026-11-19_tldr_data",
-    "summary": "Toptal AI is a new full-stack AI services company that develops, evaluates, and deploys frontier-grade AI using open-weight and proprietary models, while organizations retain full ownership and control over their AI systems and data. With Toptal AI, organizations can: Develop and fine-tune open-weight, domain-specific models tailored to their data and business. Deploy production-ready agents that operate across existing workflows while keeping humans in control. Commercialize their data and AI capabilities to create new revenue streams. Learn more about Toptal AI.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://toptal.ai/"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "Agentic data engineering is here! Project Osmos: What, Why, and How?",
-    "url": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how/?utm_source=tldrdata",
-    "summary": "Microsoft Fabric's Project Osmos is an AI agent that plans, builds, runs, and validates Spark data pipelines from a written specification. In a test using Vienna's public transit timetables, it built a working pipeline, but independent checks caught a daylight saving bug that the agent's own tests missed.",
-    "read_minutes": 22,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "Rebuilding Data Lineage at LinkedIn: From Storage to Compute",
-    "url": "https://www.linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute?utm_source=tldrdata",
-    "summary": "LinkedIn rebuilt its data lineage platform to capture dependencies directly from running jobs, giving engineers a more precise view of where data comes from and what depends on it. The resulting graph covers about 6 million datasets and helps teams trace incidents, assess the impact of changes, and safely retire unused pipelines.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
-    "url": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?utm_source=tldrdata",
-    "summary": "Training teams need realistic text data without letting PII leak into shared ML workflows. Airbnb packaged open-source Presidio, originally developed by Microsoft, as an in-process pipeline step, added domain-specific recognizers and multilingual evaluation, and then tagged de-identified datasets through its model registry. The useful pattern is turning privacy policy into testable, reusable data controls rather than asking every team to improvise.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "MySQL tables in four open source Iceberg catalogs, read by Trino and DuckDB",
-    "url": "https://blog.dbtrail.com/mysql-tables-in-four-open-source-iceberg-catalogs-read-by-trino-and-duckdb/?utm_source=tldrdata",
-    "summary": "Can MySQL changes land in Iceberg without a bespoke warehouse pipeline? DBTrail followed the binlog, exported initial and incremental snapshots into four open-source REST catalogs, then checked row counts and aggregates through Trino and DuckDB against MySQL. The tests surfaced real interoperability gaps around credential vending and equality deletes—not just a happy-path compatibility claim.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.dbtrail.com/mysql-tables-in-four-open-source-iceberg-catalogs-read-by-trino-and-duckdb"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Opinions & Advice",
-    "title": "Are we Finally Entering the Golden Age of Data Science?",
-    "url": "https://medium.com/@tinyoli/are-we-finally-entering-the-golden-age-of-data-science-3b1ebf8b472c?utm_source=tldrdata",
-    "summary": "AI and modern data tools are making it faster to build pipelines and answer routine business questions. This gives data scientists more time to ask questions that matter, design experiments, and use AI agents to test what actually drives business outcomes.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://medium.com/@tinyoli/are-we-finally-entering-the-golden-age-of-data-science-3b1ebf8b472c"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Opinions & Advice",
-    "title": "Data Contracts",
-    "url": "https://martinfowler.com/articles/data-contracts.html?utm_source=tldrdata",
-    "summary": "Data contracts apply API design to datasets, describing their contents and guarantees so that people and AI agents can work with data on their own. A quality rule, such as less than 1% empty names, becomes an assertion that tooling can pass or fail. Published test results can then show how often each promise was kept.",
-    "read_minutes": 32,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://martinfowler.com/articles/data-contracts.html"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
-    "title": "One Connected Plan for Your IPO Decisions",
-    "url": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees?utm_source=jpmwm-email-tldr&utm_medium=con-tldrdata1119-dir-site&utm_campaign=us-en-pbcore-acq&utm_content=email-ipo-tldrdata1119-v1",
-    "summary": "IPO decisions rarely live in one lane. When equity, liquidity, investing, and planning are connected, you can see tradeoffs clearly and act with purpose. J.P. Morgan Private Bank brings a coordinated approach that adapts as priorities change. Bring your questions—we'll help you think about what comes next. Connect with J.P. Morgan Private Bank",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
-    "title": "pgvectorfast",
-    "url": "https://github.com/mitdbg/pgvectorfast?utm_source=tldrdata",
-    "summary": "pgvectorfast is a drop-in replacement for pgvector that uses a faster buffer pool to speed up vector search and analytical queries in PostgreSQL.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/mitdbg/pgvectorfast"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
-    "title": "Open Source DocumentDB 1.0 Reaches General Availability",
-    "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_source=tldrdata",
-    "summary": "DocumentDB 1.0 brings an MIT-licensed, MongoDB-compatible document store to PostgreSQL through an extension and protocol gateway, letting existing drivers and queries work with a familiar relational foundation. The GA release covers PostgreSQL 15-18, adds a Kubernetes operator, and focuses on stability across indexing, aggregation, and geospatial queries.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoq.com/news/2026/11/mongodb-compatible-documentdb"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
-    "title": "MongoDB Acquires Firebolt",
-    "url": "https://www.mongodb.com/company/blog/news/mongodb-acquires-firebolt?utm_source=tldrdata",
-    "summary": "MongoDB has acquired Firebolt and will run its analytics engine alongside the database, kept in sync automatically so there is no pipeline to build. MongoDB pitches it as removing the data-movement tax, since agents can drive thousands of concurrent queries and need sub-second answers on fresh data. It will join search, vector search, and Voyage AI models in the platform.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://mongodb.com/company/blog/news/mongodb-acquires-firebolt"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
-    "title": "How one SurrealQL query scans 10 billion rows a second",
-    "url": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second?utm_source=tldrdata",
-    "summary": "SurrealDB says its Earth database scanned more than 10 billion rows per second in a launch benchmark by splitting one query across about 1,000 Cloudflare Workers. Each worker reads a different slice of the same database snapshot, and SurrealDB checks and combines the results into one answer.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
-    "title": "Airflow plays GTA2",
-    "url": "https://github.com/vojay-dev/airflow-gta?utm_source=tldrdata",
-    "summary": "This Apache Airflow 3.4 demo uses a local AI model to drive a car through a custom delivery mission in Grand Theft Auto 2. Each move is one iteration of an Airflow task loop, and a dashcam plugin lets you watch the run live or replay it later.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/vojay-dev/airflow-gta"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
-    "title": "Securing Enterprise Data Agents with Policy as Code: A Preflight Gate for Multi-Domain NL2SQL",
-    "url": "https://blog.gopenai.com/securing-enterprise-data-agents-with-policy-as-code-a-preflight-gate-for-multi-domain-sql-63d4dee0e7d4?utm_source=tldrdata",
-    "summary": "Shared service accounts can bypass the user-level controls a data agent is meant to enforce. This prototype parses generated SQL into an AST, resolves every table and column dependency, evaluates CEL policies, then prepares approved row filters before execution. Database roles remain the final guardrail. The takeaway: authorize the query's actual dependencies, not just its visible output.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.gopenai.com/securing-enterprise-data-agents-with-policy-as-code-a-preflight-gate-for-multi-domain-sql-63d4dee0e7d4"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Reduce Your Data Pipelines, One Database, Every Data Type",
-    "url": "https://fandf.co/4kq6Q1P",
-    "summary": "Oracle AI Database combines relational, JSON, graph, and vector data in one engine, reducing the need to copy data into separate systems. Try it free on Oracle LiveLabs.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://fandf.co/4kq6Q1P"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Data work is coding now",
-    "url": "https://www.linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc/?utm_source=tldrdata",
-    "summary": "AI is making it easier for anyone to analyze data and build apps by generating the code for them.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Rethinking Table File Paths with Uber: Lance's Multi-Base Layout",
-    "url": "https://www.lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout?utm_source=tldrdata",
-    "summary": "Lance's multi-base layout lets one dataset span multiple storage locations, improving portability and avoiding rewrite-heavy path migrations as data scales across buckets.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout"
-   }
-  ],
   "webdev": [
    {
     "newsletter": "webdev",
@@ -691,6 +485,212 @@
     "key": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate"
    }
   ],
+  "data": [
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "",
+    "title": "Toptal launches Toptal AI: one partner for all your AI needs",
+    "url": "https://www.toptal.ai/?utm_source=newsletter&utm_medium=cpc&utm_campaign=toptal-ai_tldr-data_primary_11-19-2026&utm_content=header_toptal_launches_toptal&utm_term=2026-11-19_tldr_data",
+    "summary": "Toptal AI is a new full-stack AI services company that develops, evaluates, and deploys frontier-grade AI using open-weight and proprietary models, while organizations retain full ownership and control over their AI systems and data. With Toptal AI, organizations can: Develop and fine-tune open-weight, domain-specific models tailored to their data and business. Deploy production-ready agents that operate across existing workflows while keeping humans in control. Commercialize their data and AI capabilities to create new revenue streams. Learn more about Toptal AI.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://toptal.ai/"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "Agentic data engineering is here! Project Osmos: What, Why, and How?",
+    "url": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how/?utm_source=tldrdata",
+    "summary": "Microsoft Fabric's Project Osmos is an AI agent that plans, builds, runs, and validates Spark data pipelines from a written specification. In a test using Vienna's public transit timetables, it built a working pipeline, but independent checks caught a daylight saving bug that the agent's own tests missed.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "Rebuilding Data Lineage at LinkedIn: From Storage to Compute",
+    "url": "https://www.linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute?utm_source=tldrdata",
+    "summary": "LinkedIn rebuilt its data lineage platform to capture dependencies directly from running jobs, giving engineers a more precise view of where data comes from and what depends on it. The resulting graph covers about 6 million datasets and helps teams trace incidents, assess the impact of changes, and safely retire unused pipelines.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "De-identifying text at scale: How Airbnb protects personal data in AI training",
+    "url": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?utm_source=tldrdata",
+    "summary": "Training teams need realistic text data without letting PII leak into shared ML workflows. Airbnb packaged open-source Presidio, originally developed by Microsoft, as an in-process pipeline step, added domain-specific recognizers and multilingual evaluation, and then tagged de-identified datasets through its model registry. The useful pattern is turning privacy policy into testable, reusable data controls rather than asking every team to improvise.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "MySQL tables in four open source Iceberg catalogs, read by Trino and DuckDB",
+    "url": "https://blog.dbtrail.com/mysql-tables-in-four-open-source-iceberg-catalogs-read-by-trino-and-duckdb/?utm_source=tldrdata",
+    "summary": "Can MySQL changes land in Iceberg without a bespoke warehouse pipeline? DBTrail followed the binlog, exported initial and incremental snapshots into four open-source REST catalogs, then checked row counts and aggregates through Trino and DuckDB against MySQL. The tests surfaced real interoperability gaps around credential vending and equality deletes—not just a happy-path compatibility claim.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.dbtrail.com/mysql-tables-in-four-open-source-iceberg-catalogs-read-by-trino-and-duckdb"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Opinions & Advice",
+    "title": "Are we Finally Entering the Golden Age of Data Science?",
+    "url": "https://medium.com/@tinyoli/are-we-finally-entering-the-golden-age-of-data-science-3b1ebf8b472c?utm_source=tldrdata",
+    "summary": "AI and modern data tools are making it faster to build pipelines and answer routine business questions. This gives data scientists more time to ask questions that matter, design experiments, and use AI agents to test what actually drives business outcomes.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://medium.com/@tinyoli/are-we-finally-entering-the-golden-age-of-data-science-3b1ebf8b472c"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Opinions & Advice",
+    "title": "Data Contracts",
+    "url": "https://martinfowler.com/articles/data-contracts.html?utm_source=tldrdata",
+    "summary": "Data contracts apply API design to datasets, describing their contents and guarantees so that people and AI agents can work with data on their own. A quality rule, such as less than 1% empty names, becomes an assertion that tooling can pass or fail. Published test results can then show how often each promise was kept.",
+    "read_minutes": 32,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://martinfowler.com/articles/data-contracts.html"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
+    "title": "One Connected Plan for Your IPO Decisions",
+    "url": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees?utm_source=jpmwm-email-tldr&utm_medium=con-tldrdata1119-dir-site&utm_campaign=us-en-pbcore-acq&utm_content=email-ipo-tldrdata1119-v1",
+    "summary": "IPO decisions rarely live in one lane. When equity, liquidity, investing, and planning are connected, you can see tradeoffs clearly and act with purpose. J.P. Morgan Private Bank brings a coordinated approach that adapts as priorities change. Bring your questions—we'll help you think about what comes next. Connect with J.P. Morgan Private Bank",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/ipo-planning-for-employees"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
+    "title": "pgvectorfast",
+    "url": "https://github.com/mitdbg/pgvectorfast?utm_source=tldrdata",
+    "summary": "pgvectorfast is a drop-in replacement for pgvector that uses a faster buffer pool to speed up vector search and analytical queries in PostgreSQL.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/mitdbg/pgvectorfast"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
+    "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+    "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_source=tldrdata",
+    "summary": "DocumentDB 1.0 brings an MIT-licensed, MongoDB-compatible document store to PostgreSQL through an extension and protocol gateway, letting existing drivers and queries work with a familiar relational foundation. The GA release covers PostgreSQL 15-18, adds a Kubernetes operator, and focuses on stability across indexing, aggregation, and geospatial queries.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://infoq.com/news/2026/11/mongodb-compatible-documentdb"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
+    "title": "MongoDB Acquires Firebolt",
+    "url": "https://www.mongodb.com/company/blog/news/mongodb-acquires-firebolt?utm_source=tldrdata",
+    "summary": "MongoDB has acquired Firebolt and will run its analytics engine alongside the database, kept in sync automatically so there is no pipeline to build. MongoDB pitches it as removing the data-movement tax, since agents can drive thousands of concurrent queries and need sub-second answers on fresh data. It will join search, vector search, and Voyage AI models in the platform.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://mongodb.com/company/blog/news/mongodb-acquires-firebolt"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "How one SurrealQL query scans 10 billion rows a second",
+    "url": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second?utm_source=tldrdata",
+    "summary": "SurrealDB says its Earth database scanned more than 10 billion rows per second in a launch benchmark by splitting one query across about 1,000 Cloudflare Workers. Each worker reads a different slice of the same database snapshot, and SurrealDB checks and combines the results into one answer.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "Airflow plays GTA2",
+    "url": "https://github.com/vojay-dev/airflow-gta?utm_source=tldrdata",
+    "summary": "This Apache Airflow 3.4 demo uses a local AI model to drive a car through a custom delivery mission in Grand Theft Auto 2. Each move is one iteration of an Airflow task loop, and a dashcam plugin lets you watch the run live or replay it later.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/vojay-dev/airflow-gta"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "Securing Enterprise Data Agents with Policy as Code: A Preflight Gate for Multi-Domain NL2SQL",
+    "url": "https://blog.gopenai.com/securing-enterprise-data-agents-with-policy-as-code-a-preflight-gate-for-multi-domain-sql-63d4dee0e7d4?utm_source=tldrdata",
+    "summary": "Shared service accounts can bypass the user-level controls a data agent is meant to enforce. This prototype parses generated SQL into an AST, resolves every table and column dependency, evaluates CEL policies, then prepares approved row filters before execution. Database roles remain the final guardrail. The takeaway: authorize the query's actual dependencies, not just its visible output.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.gopenai.com/securing-enterprise-data-agents-with-policy-as-code-a-preflight-gate-for-multi-domain-sql-63d4dee0e7d4"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Reduce Your Data Pipelines, One Database, Every Data Type",
+    "url": "https://fandf.co/4kq6Q1P",
+    "summary": "Oracle AI Database combines relational, JSON, graph, and vector data in one engine, reducing the need to copy data into separate systems. Try it free on Oracle LiveLabs.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://fandf.co/4kq6Q1P"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Data work is coding now",
+    "url": "https://www.linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc/?utm_source=tldrdata",
+    "summary": "AI is making it easier for anyone to analyze data and build apps by generating the code for them.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Rethinking Table File Paths with Uber: Lance's Multi-Base Layout",
+    "url": "https://www.lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout?utm_source=tldrdata",
+    "summary": "Lance's multi-base layout lets one dataset span multiple storage locations, improving portability and avoiding rewrite-heavy path migrations as data scales across buckets.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout"
+   }
+  ],
   "marketing": [
    {
     "newsletter": "marketing",
@@ -840,18 +840,6 @@
     "newsletter": "marketing",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Google Is Making More Room for News in AI Search",
-    "url": "https://www.thestateofbrand.com/news/google-ai-search-timely-reporting?utm_source=tldrmarketing",
-    "summary": "Sites like Reddit report receiving less traffic from Google despite frequent appearances in AI answers.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thestateofbrand.com/news/google-ai-search-timely-reporting"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "When Did ‘Grand Theft Auto' Become Brand Safe?",
     "url": "https://lbbonline.com/news/when-did-grand-theft-auto-become-brand-safe?utm_source=tldrmarketing",
     "summary": "GTA is no longer an automatic brand safety risk, but brands must weigh its cultural relevance against whether its provocative world fits their identity and audience.",
@@ -859,6 +847,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lbbonline.com/news/when-did-grand-theft-auto-become-brand-safe"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Google Is Making More Room for News in AI Search",
+    "url": "https://www.thestateofbrand.com/news/google-ai-search-timely-reporting?utm_source=tldrmarketing",
+    "summary": "Sites like Reddit report receiving less traffic from Google despite frequent appearances in AI answers.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thestateofbrand.com/news/google-ai-search-timely-reporting"
    }
   ]
  }
