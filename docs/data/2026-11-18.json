@@ -1920,18 +1920,6 @@
     "newsletter": "it",
     "date": "2026-11-18",
     "section": "Miscellaneous",
-    "title": "Google, Amazon and Microsoft: Three API Estates, and What a Source of Truth Does",
-    "url": "https://apievangelist.com/2026/11/17/google-amazon-and-microsoft-three-api-estates-and-what-a-source-of-truth-does/?utm_source=tldrit",
-    "summary": "An analysis of Amazon, Google, and Microsoft's API catalogs shows that consistency depends on maintaining a single machine-readable source of truth rather than relying on organizational practices alone. While vendor specifications provide a reliable baseline for API operations, all three companies lack sufficient agent readiness capabilities, particularly around workflows, costs, and lifecycle management.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://apievangelist.com/2026/11/17/google-amazon-and-microsoft-three-api-estates-and-what-a-source-of-truth-does"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-18",
-    "section": "Miscellaneous",
     "title": "An open-source e-reader project confronts the AI contribution flood",
     "url": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424?utm_source=tldrit",
     "summary": "Crosspoint Reader has passed 300,000 installations, bringing open-source firmware to tiny, inexpensive e-readers. Its growth also illustrates the pressure AI-generated contributions put on volunteer maintainers, who must review submissions and manage feature requests within tight hardware limits.",
@@ -1939,6 +1927,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-18",
+    "section": "Miscellaneous",
+    "title": "Google, Amazon and Microsoft: Three API Estates, and What a Source of Truth Does",
+    "url": "https://apievangelist.com/2026/11/17/google-amazon-and-microsoft-three-api-estates-and-what-a-source-of-truth-does/?utm_source=tldrit",
+    "summary": "An analysis of Amazon, Google, and Microsoft's API catalogs shows that consistency depends on maintaining a single machine-readable source of truth rather than relying on organizational practices alone. While vendor specifications provide a reliable baseline for API operations, all three companies lack sufficient agent readiness capabilities, particularly around workflows, costs, and lifecycle management.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://apievangelist.com/2026/11/17/google-amazon-and-microsoft-three-api-estates-and-what-a-source-of-truth-does"
    },
    {
     "newsletter": "it",
