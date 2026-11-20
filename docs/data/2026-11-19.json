@@ -900,18 +900,6 @@
     "newsletter": "infosec",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "AWS Security Hub Extends Unified Security Management to Google Cloud Platform",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/?utm_source=tldrinfosec",
-    "summary": "AWS Security Hub now monitors GCP VMs, Artifact Registry images, Cloud Run functions, and identities for misconfigurations, internet exposure, and vulnerabilities, and shows those findings next to AWS and Azure findings with CIS benchmark checks and a 30-day free trial.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "OWASP Top 10 Neocloud & AI Data Center Security Risks: Securing the Layer AI Runs On",
     "url": "https://owasp.org/news/owasp-top-10-neocloud?utm_source=tldrinfosec",
     "summary": "OWASP has published an incubator framework that covers ten risks in neoclouds, GPU clouds, and AI data centers.",
@@ -931,6 +919,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "AWS Security Hub Extends Unified Security Management to Google Cloud Platform",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/?utm_source=tldrinfosec",
+    "summary": "AWS Security Hub now monitors GCP VMs, Artifact Registry images, Cloud Run functions, and identities for misconfigurations, internet exposure, and vulnerabilities, and shows those findings next to AWS and Azure findings with CIS benchmark checks and a 30-day free trial.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp"
    }
   ],
   "data": [
