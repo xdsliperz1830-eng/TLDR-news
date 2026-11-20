@@ -1,0 +1,163 @@
+{
+ "date": "2026-11-20",
+ "issues": {
+  "product": [
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "",
+    "title": "Your Product May Already Be Broken",
+    "url": "https://www.datadoghq.com/resources/product-manager-playbook/?utm_source=tldrnewsletter&utm_medium=newsletter&utm_campaign=dg-content-ebook-2026productmanagerplaybook-dem-productanalytics-ww-en-701vy00000u3ychyay-tldrpm-primary-112026&utm_content=header_product_already_broken&utm_term=2026-11-20_tldr_product",
+    "summary": "They said “if it ain't broke, don't fix it” – but by the time you realize your UX is broken, it's already too late. That's because most UX problems aren't obvious – they surface as hesitation, repeated clicks, and quiet drop-off, spread across tools that update on different timelines. Datadog's guide shows PMs how to gain true observability over user behavior, so they can detect friction earlier, respond while releases are still active, and prove business impact for every decision. You'll learn: Why timing (not access) is the real challenge. The pulse, pain, and proof framework for organizing signals. Three habits that separate good PMs from great ones. Get the playbook.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://datadoghq.com/resources/product-manager-playbook"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "News & Trends",
+    "title": "When Product Work Outgrows the Plan",
+    "url": "https://amycmitchell.substack.com/p/product-leadership-initiative-summary?utm_source=tldrproduct",
+    "summary": "When product work outgrows its original plan, PMs can use a Leadership Initiative Summary to reconnect tasks with customer value, build milestone plans, and present clear, actionable decisions to leadership.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://amycmitchell.substack.com/p/product-leadership-initiative-summary"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "News & Trends",
+    "title": "Tech for Product Managers: How Technical You Need to Be in 2026",
+    "url": "https://www.aakashg.com/technical-skills-for-product-managers?utm_source=tldrproduct",
+    "summary": "PMs can build technical confidence via a four-level builder ladder starting with tools like Lovable and Claude Code. By testing on personal projects first, non-technical PMs can create internal prototypes without learning to code from scratch.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://aakashg.com/technical-skills-for-product-managers"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Opinions & Tutorials",
+    "title": "Empowered, But…",
+    "url": "https://dpereira.substack.com/p/empowered-but?utm_source=tldrproduct",
+    "summary": "Merging roles into AI-empowered \"product engineers\" risks creating a feature factory detached from strategy. PMs should prioritize business decisions and direct customer insight over speed.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://dpereira.substack.com/p/empowered-but"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Opinions & Tutorials",
+    "title": "The Answer to Slop is Accountability",
+    "url": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html?utm_source=tldrproduct",
+    "summary": "Software engineering often lacks accountability for low-quality AI output. Holding product managers directly responsible for software performance helps reduce subpar AI integrations.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Resources & Tools",
+    "title": "Is AI merging the PM and product owner into one role?",
+    "url": "https://www.gartner.com/en/conferences/na/product-leadership-us/conference-resources/product-tldr?utm_source=tldr&utm_campaign=EVT_NA_2027_HTTP12_PP_MP1_TLDR&utm_term=v1&utm_content=newsletter",
+    "summary": "That's one of 70+ data-backed sessions at Gartner Product Leadership Conference 2027 (March 8–9, Grapevine, TX). At the event, 50+ Gartner analysts will cover AI monetization, pricing and packaging, and AI-ready product teams - and offer insights on your roadmap in 1:1 meetings. See the agenda",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://gartner.com/en/conferences/na/product-leadership-us/conference-resources/product-tldr"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Resources & Tools",
+    "title": "5 Ways You're Misusing ICE Scoring",
+    "url": "https://itamargilad.com/ice-antipatterns?utm_source=tldrproduct",
+    "summary": "ICE scoring is frequently misused, leading to poor prioritization. This post highlights five common anti-patterns, such as inflating confidence scores, and provides practical solutions to fix them.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://itamargilad.com/ice-antipatterns"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Resources & Tools",
+    "title": "Planning an AI feature people will actually use",
+    "url": "https://boagworld.com/emails/planning-ai-features/?utm_source=tldrproduct",
+    "summary": "This practical framework plans AI features by targeting specific user friction points rather than deploying generic chatbots. Teams should map value against risk and write capability briefs before prototyping.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://boagworld.com/emails/planning-ai-features"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "6 Ways to deliver value before the paywall and settle the paywall placement debate",
+    "url": "https://www.revenuecat.com/blog/growth/app-value-paywall?utm_source=tldrproduct",
+    "summary": "The paywall placement debate stems from unclear definitions of user value. This post shares six ways apps can deliver pre-paywall value effectively.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://revenuecat.com/blog/growth/app-value-paywall"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "When the Boss Starts Shipping: Product Leaders, AI and the Codebase",
+    "url": "https://itnext.io/when-the-boss-starts-shipping-product-leaders-ai-and-the-codebase-8145d06b7df9?source=rss----5b301f10ddcd---4&utm_source=tldrproduct",
+    "summary": "When leaders use AI tools to ship code directly to production, it creates hidden tech debt. Establishing separate sandbox and production lanes ensures leadership follows standard testing processes.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://itnext.io/when-the-boss-starts-shipping-product-leaders-ai-and-the-codebase-8145d06b7df9"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "From standup to mockup - all your product work on one limitless canvas",
+    "url": "https://webflow.goodnotesbeta.com/tldr/product-managers",
+    "summary": "Standup notes? They're buried in Slack. Sprint plans? In a Google Doc. The flow? On the whiteboard that got erased. Enough. Goodnotes is a note-taking app that keeps everything on one limitless canvas. Try Goodnotes for free",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://webflow.goodnotesbeta.com/tldr/product-managers"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Friction worth protecting when shaping products",
+    "url": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products?utm_source=tldrproduct",
+    "summary": "While AI automates intent friction, teams must preserve \"problem friction\" - the hard work of exploring user needs.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "The AI PM is a decision-rights job",
+    "url": "https://www.robin-cannon.com/p/the-ai-pm-is-a-decision-rights-job?utm_source=tldrproduct",
+    "summary": "AI PM work should be structured around explicit decision rights rather than routine tasks.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://robin-cannon.com/p/the-ai-pm-is-a-decision-rights-job"
+   }
+  ]
+ }
+}
