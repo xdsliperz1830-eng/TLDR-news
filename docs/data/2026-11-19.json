@@ -186,18 +186,6 @@
     "newsletter": "tech",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Fewer slides, more dragons",
-    "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons?utm_source=tldrnewsletter",
-    "summary": "AI lets you make interesting presentations with much less effort.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://breakingchange.blog/p/fewer-slides-more-dragons"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "Google launches Gemini 4 Neon on Gemini, Antigravity, and APIs",
     "url": "https://www.testingcatalog.com/google-launches-gemini-4-neon-on-gemini-antigravity-and-apis/?utm_source=tldrnewsletter",
     "summary": "Gemini 5 Neon has a 1 million token context window and costs $3 per million input tokens and $15 per million output tokens, with cached input at $0.15.",
@@ -229,6 +217,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Fewer slides, more dragons",
+    "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons?utm_source=tldrnewsletter",
+    "summary": "AI lets you make interesting presentations with much less effort.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://breakingchange.blog/p/fewer-slides-more-dragons"
    }
   ],
   "ai": [
@@ -428,6 +428,18 @@
     "newsletter": "ai",
     "date": "2026-11-19",
     "section": "Quick Links",
+    "title": "Introducing Stitch Loop: A new way to build and evolve products",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
+    "summary": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-19",
+    "section": "Quick Links",
     "title": "Inside the Codex sandbox",
     "url": "https://openai.com/index/inside-the-codex-sandbox/?utm_source=tldrai",
     "summary": "The Codex sandbox lets OpenAI's coding agent run commands on a user's own machine within file and network limits the user controls.",
@@ -471,18 +483,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Introducing Stitch Loop: A new way to build and evolve products",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
-    "summary": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop"
    }
   ],
   "webdev": [
@@ -1446,18 +1446,6 @@
     "newsletter": "marketing",
     "date": "2026-11-19",
     "section": "Miscellaneous",
-    "title": "AI product recommendations are mostly a summary of listicles",
-    "url": "https://supercite.ai/blog/ai-recommendations-come-from-lists?utm_source=tldrmarketing",
-    "summary": "A study across 4 search engines found that 90% of recommended brands appeared on at least one cited “best X” or “top X” list. Brands featured on 3 or more cited lists were recommended 44% of the time, compared with just 2.5% for brands absent from all lists. The top 10 list publishers accounted for up to 90% of citations in some categories. Updated comparisons also mattered, with 83% of Gemini's cited pages featuring 2026 in the title or URL.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://supercite.ai/blog/ai-recommendations-come-from-lists"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
     "title": "Why you WANT more unsubscribes",
     "url": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you?utm_source=tldrmarketing",
     "summary": "A very low unsubscribe rate can mean email is landing in spam, since nobody unsubscribes from a junk folder. Unsubscribing is also the least damaging way to leave, since a spam report hurts placement and silent non-readers drag it down over time. Splitting unsubscribes by opt-in type separates intentional sign-ups, whose exits signal a content problem, from consequential ones like gated downloads, whose quick exits are expected. Making the exit easy, and occasionally inviting it, keeps people who are done from reaching for the spam button.",
@@ -1465,6 +1453,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "AI product recommendations are mostly a summary of listicles",
+    "url": "https://supercite.ai/blog/ai-recommendations-come-from-lists?utm_source=tldrmarketing",
+    "summary": "A study across 4 search engines found that 90% of recommended brands appeared on at least one cited “best X” or “top X” list. Brands featured on 3 or more cited lists were recommended 44% of the time, compared with just 2.5% for brands absent from all lists. The top 10 list publishers accounted for up to 90% of citations in some categories. Updated comparisons also mattered, with 83% of Gemini's cited pages featuring 2026 in the title or URL.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://supercite.ai/blog/ai-recommendations-come-from-lists"
    },
    {
     "newsletter": "marketing",
@@ -1834,18 +1834,6 @@
     "newsletter": "crypto",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Binance Wallet launch Anthropic IPO xStocks event with 500M USDC cap",
-    "url": "https://threadreaderapp.com/thread/2122872586912907756.html?utm_source=tldrcrypto",
-    "summary": "Subscriptions for tokenized Anthropic shares run 06:00 to 14:00 UTC on November 18 in USDC.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2122872586912907756.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "Tether Capital invests in Stables to expand USDT payments",
     "url": "https://tether.io/news/tether-capital-invests-in-stables-to-expand-usdt-payment-infrastructure-across-asia-and-mena/?utm_source=tldrcrypto",
     "summary": "Tether Capital made a strategic investment, with no amount disclosed, in Stables, which offers a single API connecting local banking systems to USDT settlement across more than 160 markets and over $2B in annual USDT volume.",
@@ -1865,6 +1853,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2122779248662618453.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Binance Wallet launch Anthropic IPO xStocks event with 500M USDC cap",
+    "url": "https://threadreaderapp.com/thread/2122872586912907756.html?utm_source=tldrcrypto",
+    "summary": "Subscriptions for tokenized Anthropic shares run 06:00 to 14:00 UTC on November 18 in USDC.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2122872586912907756.html"
    }
   ],
   "fintech": [

@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-11-20",
     "section": "Science & Futuristic Technology",
-    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-    "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo?utm_source=tldrnewsletter",
-    "summary": "The BepiColombo mission is now preparing to swing into orbit around Mercury. The joint European-Japanese space mission aims to help scientists understand how Mercury formed so close to the Sun, why it has a magnetic field, and what makes up the frozen ice under the planet's permanently shadowed craters. The spacecraft will separate into two orbiters in early December. The orbiters will maneuver to different polar orbits around the planet, and science operations will begin in April next year.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-20",
-    "section": "Science & Futuristic Technology",
     "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
     "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/?utm_source=tldrnewsletter",
     "summary": "Blue Origin's New Glenn rocket will launch data center satellites for Google in 2029. Google's Project Suncatcher program is a long-term moonshot that aims to scale AI infrastructure in space by tapping into solar power. Its satellites each have the computing capacity of roughly the scale of a data center rack. The mission on New Glenn will deploy satellites into a Sun-synchronous orbit, where they will be able to receive nearly continuous solar energy.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-20",
+    "section": "Science & Futuristic Technology",
+    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo?utm_source=tldrnewsletter",
+    "summary": "The BepiColombo mission is now preparing to swing into orbit around Mercury. The joint European-Japanese space mission aims to help scientists understand how Mercury formed so close to the Sun, why it has a magnetic field, and what makes up the frozen ice under the planet's permanently shadowed craters. The spacecraft will separate into two orbiters in early December. The orbiters will maneuver to different polar orbits around the planet, and science operations will begin in April next year.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
    },
    {
     "newsletter": "tech",
@@ -114,18 +114,6 @@
     "newsletter": "tech",
     "date": "2026-11-20",
     "section": "Miscellaneous",
-    "title": "The AI Forecasting Agenda",
-    "url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda?utm_source=tldrnewsletter",
-    "summary": "AI forecasters now equal or beat top human performance at traditional forecasting questions. Researchers now need to study how this success decays as the technology is applied to different types of non-traditional forecasting questions. This post looks at how AI performs in other types of forecasting.",
-    "read_minutes": 21,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://astralcodexten.com/p/the-ai-forecasting-agenda"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
     "title": "The most important number in AI",
     "url": "https://asteriskmag.substack.com/p/the-most-important-number-in-ai?utm_source=tldrnewsletter",
     "summary": "The Epoch Capabilities Index (ECI) is a measure of AI progress developed by Epoch AI, a nonprofit research organization. It provides a single number that summarizes how well AI models do on benchmarks. It is designed to be continuously updatable, and researchers can use it to look at trends going back years and forecast things for future models. This post covers how the ECI is constructed, the challenges of benchmark selection, whether it makes sense to talk about 'model IQ', whether static benchmarks stay relevant as models get better, and much more.",
@@ -137,14 +125,14 @@
    {
     "newsletter": "tech",
     "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "The fastest web search built for AI scale.",
-    "url": "https://parallel.ai/",
-    "summary": "Parallel gives your agents the freshest, most accurate web results in less than 200ms, from $1 per 1,000 searches. Harvey, Notion and Rogo run it in production. Start building for free .",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://parallel.ai/"
+    "section": "Miscellaneous",
+    "title": "The AI Forecasting Agenda",
+    "url": "https://www.astralcodexten.com/p/the-ai-forecasting-agenda?utm_source=tldrnewsletter",
+    "summary": "AI forecasters now equal or beat top human performance at traditional forecasting questions. Researchers now need to study how this success decays as the technology is applied to different types of non-traditional forecasting questions. This post looks at how AI performs in other types of forecasting.",
+    "read_minutes": 21,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://astralcodexten.com/p/the-ai-forecasting-agenda"
    },
    {
     "newsletter": "tech",
@@ -157,6 +145,18 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://poly.ai/build-it-with-polyai"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "The fastest web search built for AI scale.",
+    "url": "https://parallel.ai/",
+    "summary": "Parallel gives your agents the freshest, most accurate web results in less than 200ms, from $1 per 1,000 searches. Harvey, Notion and Rogo run it in production. Start building for free .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://parallel.ai/"
    },
    {
     "newsletter": "tech",
@@ -229,6 +229,248 @@
     "kind": null,
     "sponsored": false,
     "key": "https://restofworld.org/2026/ai-jobs-skills-gig-work"
+   }
+  ],
+  "ai": [
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "",
+    "title": "New Data Centers May Be Delayed. Can Existing Facilities Help?",
+    "url": "https://sambanova.ai/blog/the-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50?utm_source=tldr&utm_medium=newsletter&utm_campaign=nov20-2026&utm_content=header_data_centers_delayed&utm_term=2026-11-20_tldr_ai",
+    "summary": "Many AI systems need liquid cooling, making existing air-cooled facilities costly to retrofit. Axios reports up to half of projects scheduled for 2026 could be delayed. SambaNova and Intel are demonstrating an air-cooled inference approach : Intel's 350 W D-Series GPUs handle prefill. SambaNova's SN50 RDUs handle decode, 16 per rack at a typical 20 kW. KV cache moves between them over standard Ethernet. The goal: high-performance inference without extensive cooling retrofits. → Read about the air-cooled token factory and watch the GLM-5.3 demo. → Explore SambaNova's inference technology",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://sambanova.ai/blog/the-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Headlines & Launches",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/?utm_source=tldrai",
+    "summary": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatically, optimizing workflow automation. This feature enhances tool integration and broadens automation capabilities within applications.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Headlines & Launches",
+    "title": "Let Gemini tackle repetitive chores on your Mac",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/?utm_source=tldrai",
+    "summary": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live preview right in the chat. Users' main screen and cursor remain completely free, so they can continue typing, designing, or taking calls without interruption. Users can choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Deep Dives & Analysis",
+    "title": "When Agent Swarms Outperform Solo Coders",
+    "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/?utm_source=tldrai",
+    "summary": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9× NumPy workload speedup versus 3.7× for one agent within two hours, using more compute. Gains depended on separable tasks and shared coordination boards. The strongest solo model's performance declined as teams grew.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://frontier.replit.com/throwing-headcount-at-the-problem"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Deep Dives & Analysis",
+    "title": "Sandboxed Models Can Communicate via Inference Servers",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?utm_source=tldrai",
+    "summary": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which reads the shift as a signal.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Deep Dives & Analysis",
+    "title": "AI is already massively speeding up AI research",
+    "url": "https://linch.substack.com/p/ai-is-already-massively-speeding?utm_source=tldrai",
+    "summary": "AI companies are not ready to handle the risks of recursive self-improvement safely and responsibly, despite having talked about them for years, and this is incredibly dangerous. Policymakers need to make it a top priority to rapidly understand these risks, and consider pausing or pacing frontier AI progress. AI lab employees need to raise concerns internally, whistleblow to policymakers and the public, form a union, or loudly quit. Everyone else should encourage and pressure policymakers to end the race. Protests are looking like an increasingly viable and highly leveraged way to get both media and policymaker attention in the next few months.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linch.substack.com/p/ai-is-already-massively-speeding"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "Your agent built the app. Now help it launch.",
+    "url": "https://developer.godaddy.com/en/docs/api-users?utm_source=tldrai&utm_medium=newsletter&utm_campaign=explore&utm_id=secondary",
+    "summary": "Take your project from working code to online. GoDaddy's APIs let your AI agent deploy an app, register and connect a domain with your approval, and set up professional email. One platform for hosting, domains, and email. → Explore the developer guides",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://developer.godaddy.com/en/docs/api-users"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web",
+    "url": "https://blog.google/security/mirror-dimension-for-agents/?utm_source=tldrai",
+    "summary": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks associated with letting agents interact with real-world websites.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/security/mirror-dimension-for-agents"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "url": "https://apple-aiml-research.github.io/ml-fastframes/?utm_source=tldrai",
+    "summary": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://apple-aiml-research.github.io/ml-fastframes"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "Perplexity's Self-Improving Skills",
+    "url": "https://www.perplexity.ai/hub/blog/self-improving-skills?utm_source=tldrai",
+    "summary": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://perplexity.ai/hub/blog/self-improving-skills"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Engineering & Research",
+    "title": "Stripe evals: Measuring real-world coding agent performance",
+    "url": "https://stripe.dev/blog/stripe-integration-evals-methodology?utm_source=tldrai",
+    "summary": "Coding harnesses, when paired with frontier models, can produce working end-to-end Stripe integrations, although they may not necessarily follow all best practices. Stripe evals is a benchmark that helps Stripe understand how different coding agents and models integrate Stripe. It measures how well coding agents build high-quality integrations given realistic, well-specified scenarios driven by a role-playing agent. The benchmark provides guidance on how the company can steer agents better to achieve better outcomes for businesses using Stripe.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://stripe.dev/blog/stripe-integration-evals-methodology"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "What's your unpopular opinion about AI? (TLDR Community)",
+    "url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?utm_source=tldrai&utm_medium=newsletter",
+    "summary": "Personality and writing are the top determinants of perceived model quality, AI safety is underrated, TypeScript will decline, read more and",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "What comes after AGI?",
+    "url": "https://institute.deepmind.com/essays/what-comes-after-agi/?utm_source=tldrai",
+    "summary": "Artificial general intelligence (AGI) is now within reach, so we can no longer put off seriously considering what will come next. AI achieving artificial general superintelligence (ASI) will have a profound impact on science, the economy, and society at a scale much greater than AGI itself. Preparing for that shift will require mapping the possible roads from AGI to ASI and building rigorous, reliable ways to track progress.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://institute.deepmind.com/essays/what-comes-after-agi"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Be the AI hero, not the bottleneck.",
+    "url": "https://www.domo.com/solution/ai-hero?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-11-20_tldr_ai_quick_links_placement_2_progress&utm_content=header_ai_hero_not&utm_term=2026-11-20_tldr_ai",
+    "summary": "Let teams build with AI while you stay in control. See how Domo turns AI builds into secure, lasting, governed assets. See how with Domo",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://domo.com/solution/ai-hero"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "451 Research: How AI agents are redefining access and identity",
+    "url": "https://1password.com/blog/how-agentic-ai-is-redefining-identity-security?utm_medium=paid_newsletter&utm_source=tldr&utm_campaign=2026q3_unifiedaccess_bl_how-agentic-ai-is-redefining-identity-security_sa&utm_content=newsletter_ai_111926",
+    "summary": "As the workforce becomes increasingly agentic, 1Password's blog recaps what leaders need to change about visibility, access, and auditability.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://1password.com/blog/how-agentic-ai-is-redefining-identity-security"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Vercel Board",
+    "url": "https://vercel.com/blog/introducing-vercel-board?utm_source=tldrai",
+    "summary": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://vercel.com/blog/introducing-vercel-board"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Cloudflare's Clairic and Clairic-flash",
+    "url": "https://blog.cloudflare.com/open-clairic/?utm_source=tldrai",
+    "summary": "Cloudflare made the weights public for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.cloudflare.com/open-clairic"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/?utm_source=tldrai",
+    "summary": "OpenAI's Performance Factory uses Codex to automate and expedite performance regression investigations and fixes for ChatGPT.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result",
+    "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul?utm_source=tldrai",
+    "summary": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH).",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul"
    }
   ],
   "webdev": [
@@ -416,30 +658,6 @@
     "newsletter": "webdev",
     "date": "2026-11-20",
     "section": "Quick Links",
-    "title": "PINE, a Reactive Harness for Agents",
-    "url": "https://github.com/pmndre/pine?utm_source=tldrdev",
-    "summary": "PINE is an open-source agent harness for macOS and Linux that responds to events such as file changes, webhooks, and Telegram messages.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/pmndre/pine"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Crashlytics for Web Is Now in Public Preview",
-    "url": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview?utm_source=tldrdev",
-    "summary": "Firebase Crashlytics can now group browser JavaScript errors and alert teams when a new issue appears or a fixed one returns.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-20",
-    "section": "Quick Links",
     "title": "Models Engineering Index",
     "url": "https://git-aarvin.github.io/mei/?utm_source=tldrdev",
     "summary": "The index combines public engineering benchmark results to rank language models and lets you compare their scores against cost and token usage.",
@@ -459,6 +677,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://xusheng.dev/posts/windows-coding-agent-telemetry"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "PINE, a Reactive Harness for Agents",
+    "url": "https://github.com/pmndre/pine?utm_source=tldrdev",
+    "summary": "PINE is an open-source agent harness for macOS and Linux that responds to events such as file changes, webhooks, and Telegram messages.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/pmndre/pine"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Crashlytics for Web Is Now in Public Preview",
+    "url": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview?utm_source=tldrdev",
+    "summary": "Firebase Crashlytics can now group browser JavaScript errors and alert teams when a new issue appears or a fixed one returns.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview"
    }
   ],
   "infosec": [
@@ -550,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-11-20",
     "section": "Launches & Tools",
-    "title": "Vero Security (Product Launch)",
-    "url": "https://www.vero.security/?utm_source=tldrinfosec",
-    "summary": "Vero Security provides an AI Security Engineering platform that discovers and assesses enterprise AI tools and agents. Its AI Runtime Governor enforces approved policies during operation, blocks unauthorized agent actions, and escalates risk decisions to security staff.",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://vero.security/"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-20",
-    "section": "Launches & Tools",
     "title": "Security Threat Model",
     "url": "https://github.com/openai/codex-security/blob/main/plugins/codex-security/skills/threat-model/SKILL.md?utm_source=tldrinfosec",
     "summary": "A security threat modeling skill from OpenAI's Codex Security CLI.",
@@ -569,6 +799,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/openai/codex-security/blob/main/plugins/codex-security/skills/threat-model/SKILL.md"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-20",
+    "section": "Launches & Tools",
+    "title": "Vero Security (Product Launch)",
+    "url": "https://www.vero.security/?utm_source=tldrinfosec",
+    "summary": "Vero Security provides an AI Security Engineering platform that discovers and assesses enterprise AI tools and agents. Its AI Runtime Governor enforces approved policies during operation, blocks unauthorized agent actions, and escalates risk decisions to security staff.",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://vero.security/"
    },
    {
     "newsletter": "infosec",
@@ -962,18 +1204,6 @@
     "newsletter": "product",
     "date": "2026-11-20",
     "section": "Quick Links",
-    "title": "Friction worth protecting when shaping products",
-    "url": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products?utm_source=tldrproduct",
-    "summary": "While AI automates intent friction, teams must preserve \"problem friction\" - the hard work of exploring user needs.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products"
-   },
-   {
-    "newsletter": "product",
-    "date": "2026-11-20",
-    "section": "Quick Links",
     "title": "The AI PM is a decision-rights job",
     "url": "https://www.robin-cannon.com/p/the-ai-pm-is-a-decision-rights-job?utm_source=tldrproduct",
     "summary": "AI PM work should be structured around explicit decision rights rather than routine tasks.",
@@ -981,6 +1211,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://robin-cannon.com/p/the-ai-pm-is-a-decision-rights-job"
+   },
+   {
+    "newsletter": "product",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Friction worth protecting when shaping products",
+    "url": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products?utm_source=tldrproduct",
+    "summary": "While AI automates intent friction, teams must preserve \"problem friction\" - the hard work of exploring user needs.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thoughtbot.com/blog/friction-worth-protecting-when-shaping-products"
    }
   ],
   "design": [
@@ -1036,18 +1278,6 @@
     "newsletter": "design",
     "date": "2026-11-20",
     "section": "Opinions & Tutorials",
-    "title": "Design by Playground",
-    "url": "https://www.lukew.com/ff/2172/design-by-playground?utm_source=tldrdesign",
-    "summary": "AI coding agents are making it practical for designers to create temporary, purpose-built design tools instead of relying exclusively on general-purpose applications like Figma. These interactive playgrounds let designers manipulate variables, compare alternatives, and test real content, animation, loading states, and edge cases directly in the environment where the software will run. Agents can build them in minutes, so playgrounds can be created for individual design questions and discarded afterward, with successful decisions exported as code or design tokens.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lukew.com/ff/2172/design-by-playground"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-20",
-    "section": "Opinions & Tutorials",
     "title": "It's official: creatives are using AI daily, but most aren't making extra money from it",
     "url": "https://www.creativeboom.com/insight/its-official-creatives-are-using-ai-daily-but-theyre-not-making-extra-money/?utm_source=tldrdesign",
     "summary": "Envato's survey of 1,033 creatives across 103 countries found that 87% use AI at work and 58% use it daily, although increased productivity rarely translates into higher earnings. Among creatives who report working faster with AI, only one in four see a financial benefit, while 53% of AI users have used AI on important client work without disclosing it. Taste and judgment ranked as the most valuable skills at 53%, followed by craft at 49%, while prompting fell to last place among eight skills at 19%.",
@@ -1055,6 +1285,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://creativeboom.com/insight/its-official-creatives-are-using-ai-daily-but-theyre-not-making-extra-money"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-20",
+    "section": "Opinions & Tutorials",
+    "title": "Design by Playground",
+    "url": "https://www.lukew.com/ff/2172/design-by-playground?utm_source=tldrdesign",
+    "summary": "AI coding agents are making it practical for designers to create temporary, purpose-built design tools instead of relying exclusively on general-purpose applications like Figma. These interactive playgrounds let designers manipulate variables, compare alternatives, and test real content, animation, loading states, and edge cases directly in the environment where the software will run. Agents can build them in minutes, so playgrounds can be created for individual design questions and discarded afterward, with successful decisions exported as code or design tokens.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lukew.com/ff/2172/design-by-playground"
    },
    {
     "newsletter": "design",
@@ -1120,18 +1362,6 @@
     "newsletter": "design",
     "date": "2026-11-20",
     "section": "Miscellaneous",
-    "title": "This non-alcoholic aperitif packaging was made with real plants, sunlight, and embossed glass",
-    "url": "https://www.creativeboom.com/news/this-non-alcoholic-aperitif-packaging-was-made-with-real-plants-sunlight-and-embossed-glass/?utm_source=tldrdesign",
-    "summary": "LOVE. has refreshed the identity and packaging of non-alcoholic aperitif Everleaf, combining sustainable glassmaking with botanical illustrations created through traditional cyanotype photography. The redesigned bottles use 100% post-consumer recycled glass, weigh 23% less than their predecessors, and feature embossed acacia leaves alongside a refined wordmark. Real plants exposed onto light-sensitive paper produce distinctive illustrations for the Forest, Mountain, and Marine varieties, connecting each product's ingredients to its visual identity.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativeboom.com/news/this-non-alcoholic-aperitif-packaging-was-made-with-real-plants-sunlight-and-embossed-glass"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
     "title": "Omoi's identity for Eclipse Space looks back to the Apollo program",
     "url": "https://the-brandidentity.com/project/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme?utm_source=tldrdesign",
     "summary": "Stockholm-based Omoi has developed an identity for satellite infrastructure company Eclipse Space inspired by the optimism, engineering, and visual language of NASA's Apollo program. The system combines a custom Eclipse Space Display typeface, Gorton-inspired interface labels, vibrant space-themed colors, and interactive website buttons modeled on the Apollo Guidance Computer's physical keys. Its distinctive solar corona symbol is generated through a custom tool developed with Claude Code, producing unique variations that follow consistent visual rules and reinforce the company's positioning around independent ownership of satellite networks.",
@@ -1139,6 +1369,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://the-brandidentity.com/project/omois-identity-for-eclipse-space-looks-back-to-the-apollo-programme"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "This non-alcoholic aperitif packaging was made with real plants, sunlight, and embossed glass",
+    "url": "https://www.creativeboom.com/news/this-non-alcoholic-aperitif-packaging-was-made-with-real-plants-sunlight-and-embossed-glass/?utm_source=tldrdesign",
+    "summary": "LOVE. has refreshed the identity and packaging of non-alcoholic aperitif Everleaf, combining sustainable glassmaking with botanical illustrations created through traditional cyanotype photography. The redesigned bottles use 100% post-consumer recycled glass, weigh 23% less than their predecessors, and feature embossed acacia leaves alongside a refined wordmark. Real plants exposed onto light-sensitive paper produce distinctive illustrations for the Forest, Mountain, and Marine varieties, connecting each product's ingredients to its visual identity.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://creativeboom.com/news/this-non-alcoholic-aperitif-packaging-was-made-with-real-plants-sunlight-and-embossed-glass"
    },
    {
     "newsletter": "design",
@@ -1194,18 +1436,6 @@
     "newsletter": "marketing",
     "date": "2026-11-20",
     "section": "News & Trends",
-    "title": "Brands are hiring former journalists for storytelling. Or are they?",
-    "url": "https://www.marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills?utm_source=tldrmarketing",
-    "summary": "More brands are hiring former journalists as storytellers, often to produce the original-data stories and service pieces that AI search tends to cite. More than 2,800 journalists have moved into brand editorial roles over the past decade. However, many hiring managers still default to candidates with linear marketing careers, and former editors with brand experience tend to win out over reporters.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-20",
-    "section": "News & Trends",
     "title": "Tech outages are causing people to panic-buy",
     "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html?utm_source=tldrmarketing",
     "summary": "Recent tech outages across Microsoft, US airlines, and JPMorgan are driving consumers to stock up on emergency supplies. Costco is benefiting, with US comparable sales rising an estimated 11% to 12% in the final week of October compared with its typical 6% to 7% growth. Momentum continued into November as 21 of 26 generators tracked on Costco's website sold out. Sam's Club and home improvement retailers are also seeing increased demand.",
@@ -1213,6 +1443,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-20",
+    "section": "News & Trends",
+    "title": "Brands are hiring former journalists for storytelling. Or are they?",
+    "url": "https://www.marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills?utm_source=tldrmarketing",
+    "summary": "More brands are hiring former journalists as storytellers, often to produce the original-data stories and service pieces that AI search tends to cite. More than 2,800 journalists have moved into brand editorial roles over the past decade. However, many hiring managers still default to candidates with linear marketing careers, and former editors with brand experience tend to win out over reporters.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills"
    },
    {
     "newsletter": "marketing",
@@ -1484,18 +1726,6 @@
     "newsletter": "founders",
     "date": "2026-11-20",
     "section": "Miscellaneous",
-    "title": "How I used AI to get 25 million views in 7 weeks",
-    "url": "https://x.com/ankurnagpal/status/2123073466345648537?utm_source=tldrfounders",
-    "summary": "Founders often let their social accounts go quiet once daily work takes over. A dormant Threads account reached 25 million views across platforms after an AI loop began drafting new posts from old hit ideas. Raw views converted into far fewer followers on Threads than on Instagram, so select posts offered a free guide and collected 1,745 email addresses. The system scores core ideas and rests each winning idea for at least a month before reposting it.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/ankurnagpal/status/2123073466345648537"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
     "title": "The M&A Process | Who, What, and When",
     "url": "https://www.onlycfo.io/p/the-m-and-a-process-who-what-and?utm_source=tldrfounders",
     "summary": "Most founders only see the public announcement of an acquisition and rarely hear how messy the private process gets. Company sales start with only top executives and the board in the loop because leaks distract employees and weaken the seller's hand. Choosing an investment bank is a common leak point since banks that lose the pitch often talk. Many deals die early in the process, so keeping the circle tight avoids spooking customers unnecessarily. Bankers and lawyers also cost more than most founders expect.",
@@ -1503,6 +1733,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://onlycfo.io/p/the-m-and-a-process-who-what-and"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "How I used AI to get 25 million views in 7 weeks",
+    "url": "https://x.com/ankurnagpal/status/2123073466345648537?utm_source=tldrfounders",
+    "summary": "Founders often let their social accounts go quiet once daily work takes over. A dormant Threads account reached 25 million views across platforms after an AI loop began drafting new posts from old hit ideas. Raw views converted into far fewer followers on Threads than on Instagram, so select posts offered a free guide and collected 1,745 email addresses. The system scores core ideas and rests each winning idea for at least a month before reposting it.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/ankurnagpal/status/2123073466345648537"
    },
    {
     "newsletter": "founders",
@@ -1515,18 +1757,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://ref.wisprflow.ai/tldr-nov20-founders-quicklinks-headline"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "KeyBanc's 2026 AI x Software Survey: 24% Median ARR Growth, Only 6% at the Rule of 40, and 43% of Vendors Watching Customers Vibe Code Their Product",
-    "url": "https://www.saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product/?utm_source=tldrfounders",
-    "summary": "KeyBanc's 2026 survey reveals B2B software companies growing median ARR by 24% in 2025, with 43% of vendors observing customers using AI to recreate products.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product"
    },
    {
     "newsletter": "founders",
@@ -1575,6 +1805,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thisisgoingtobebig.com/blog/2026/11/19/how-not-to-light-money-on-fire-sponsoring-tech-events"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "KeyBanc's 2026 AI x Software Survey: 24% Median ARR Growth, Only 6% at the Rule of 40, and 43% of Vendors Watching Customers Vibe Code Their Product",
+    "url": "https://www.saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product/?utm_source=tldrfounders",
+    "summary": "KeyBanc's 2026 survey reveals B2B software companies growing median ARR by 24% in 2025, with 43% of vendors observing customers using AI to recreate products.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product"
    }
   ],
   "crypto": [
@@ -1690,6 +1932,18 @@
     "newsletter": "crypto",
     "date": "2026-11-20",
     "section": "Quick Links",
+    "title": "Hong Kong SFC adds Hyperliquid to its suspicious platforms alert list",
+    "url": "https://threadreaderapp.com/thread/2123362003746222129.html?utm_source=tldrcrypto",
+    "summary": "On November 18, the SFC added Hyperliquid and Hyperliquid Hong Kong to its “Suspicious Virtual Asset Trading Platforms” list.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2123362003746222129.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-20",
+    "section": "Quick Links",
     "title": "Derpetual Launches Abstract Market Launcher Tool",
     "url": "https://threadreaderapp.com/thread/2123129147434185136.html?utm_source=tldrcrypto",
     "summary": "Derpetual launched the Abstract Market Launcher, a self-serve tool that lets users create peer-to-peer futures markets on any asset.",
@@ -1709,18 +1963,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2123359429508665510.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Hong Kong SFC adds Hyperliquid to its suspicious platforms alert list",
-    "url": "https://threadreaderapp.com/thread/2123362003746222129.html?utm_source=tldrcrypto",
-    "summary": "On November 18, the SFC added Hyperliquid and Hyperliquid Hong Kong to its “Suspicious Virtual Asset Trading Platforms” list.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2123362003746222129.html"
    },
    {
     "newsletter": "crypto",
@@ -1752,18 +1994,6 @@
     "newsletter": "it",
     "date": "2026-11-20",
     "section": "News & Trends",
-    "title": "Workday creates European entity to govern sovereign cloud",
-    "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx?utm_source=tldrit",
-    "summary": "Workday plans to establish an Ireland-based company with an EU-citizen board to operate its EU Sovereign Cloud, keeping governance and operational decisions in Europe. The service runs on AWS European Sovereign Cloud, with the new entity and additional safeguards expected to become operational in early 2027.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-20",
-    "section": "News & Trends",
     "title": "Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure",
     "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure?utm_source=tldrit",
     "summary": "Microsoft and Intel have announced an expansion of their collaboration under a long-term agreement to advance Azure cloud and AI infrastructure. Microsoft will become the first company to use Intel Foundry's EMIB advanced packaging technology for its first-party silicon and secure multi-year Intel Xeon supply capacity, including the upcoming Diamond Rapids server CPUs. The partnership also covers system-level optimizations using CXL memory, Intel QuickAssist Technology, and Intel Trust Domain Extensions for confidential computing.",
@@ -1771,6 +2001,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-20",
+    "section": "News & Trends",
+    "title": "Workday creates European entity to govern sovereign cloud",
+    "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx?utm_source=tldrit",
+    "summary": "Workday plans to establish an Ireland-based company with an EU-citizen board to operate its EU Sovereign Cloud, keeping governance and operational decisions in Europe. The service runs on AWS European Sovereign Cloud, with the new entity and additional safeguards expected to become operational in early 2027.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Advances-EU-Sovereign-Cloud-with-New-EU-Based-Operating-Company-and-Added-Safeguards-for-Customer-Data-and-Services/default.aspx"
    },
    {
     "newsletter": "it",
@@ -1898,18 +2140,6 @@
     "newsletter": "hardware",
     "date": "2026-11-20",
     "section": "Headlines and Launches",
-    "title": "OpenAI's models rewrite RTL for up to 14% PPA gains on AMD's flagship GPU IP and 10 to 13% smaller blocks on its Jalapeño chip",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models?utm_source=tldrhardware",
-    "summary": "The models rewrote SystemVerilog for AMD's already-optimized GPU blocks, with some changes in a design sent for manufacturing and single-digit gains verified on its next flagship CPU. On Jalapeño, the matrix and SIMD blocks shrank 10% to 13%, confirmed in silicon, partly by rewriting adders and multipliers, including a multiplier cut from two cycles to one. OpenAI is also training GPT-Synopsys with Synopsys to drive EDA tools directly.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/advancing-chip-design-with-our-models"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-20",
-    "section": "Headlines and Launches",
     "title": "Google books a dedicated New Glenn launch in Q1 2029 for Project Suncatcher, its orbital TPU compute constellation",
     "url": "https://www.blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher?utm_source=tldrhardware",
     "summary": "Each Suncatcher satellite carries roughly a data center rack's worth of computing and runs on solar power in sun-synchronous orbit, forming an interconnected network of TPUs for machine learning compute. The mission is Google's first dedicated heavy-lift launch for the project, using New Glenn's large payload volume. The booking is for 2029 even though New Glenn's hotfire anomaly investigation is still ongoing.",
@@ -1917,6 +2147,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blueorigin.com/news/google-selects-new-glenn-for-project-suncatcher"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-20",
+    "section": "Headlines and Launches",
+    "title": "OpenAI's models rewrite RTL for up to 14% PPA gains on AMD's flagship GPU IP and 10 to 13% smaller blocks on its Jalapeño chip",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models?utm_source=tldrhardware",
+    "summary": "The models rewrote SystemVerilog for AMD's already-optimized GPU blocks, with some changes in a design sent for manufacturing and single-digit gains verified on its next flagship CPU. On Jalapeño, the matrix and SIMD blocks shrank 10% to 13%, confirmed in silicon, partly by rewriting adders and multipliers, including a multiplier cut from two cycles to one. OpenAI is also training GPT-Synopsys with Synopsys to drive EDA tools directly.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/advancing-chip-design-with-our-models"
    },
    {
     "newsletter": "hardware",
@@ -1946,18 +2188,6 @@
     "newsletter": "hardware",
     "date": "2026-11-20",
     "section": "Research and Prototypes",
-    "title": "A 3D-printed, electronics-free soft hexapod hits 4.72 m/s by reusing compressed air like a compound steam engine",
-    "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function?utm_source=tldrhardware",
-    "summary": "Higher air pressure speeds up a pneumatic robot but wastes energy, so the team routes air through small high-pressure chambers that power the valves, then through larger low-pressure chambers that move the legs, as in a compound steam engine. The six-legged robot is printed in one piece from one soft material and runs about 100 times faster than the 2022 version, over sand, mulch, and concrete, and in water. It's still tethered to an air compressor.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-20",
-    "section": "Research and Prototypes",
     "title": "SHAPE trains a VLA on egocentric human video with discrete action tokens and two parallel action streams for a bimanual robot with 22-DoF hands",
     "url": "https://arxiv.org/abs/2611.24585?utm_source=tldrhardware",
     "summary": "Human video only gives retargeted end-effector actions, not the joint commands robots need. SHAPE's Qwen3-VL-4B backbone predicts discrete EEF action tokens as an auxiliary task, while a shared flow-matching expert outputs separate EEF and joint streams. Joint readout scores 0.80 across six tasks versus 0.63 for π0.5, and EEF readout via IK transfers better from humans. After human-data pretraining, it learns new tasks from human demos with no task-specific robot data.",
@@ -1969,14 +2199,14 @@
    {
     "newsletter": "hardware",
     "date": "2026-11-20",
-    "section": "Miscellaneous",
-    "title": "Meta reportedly prices its pocket-sized Muse Charm at $300 with a free year of Verizon 5G, delaying its smartwatch to 2027",
-    "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business?utm_source=tldrhardware",
-    "summary": "Charm has a roughly 2-inch screen navigated with a thumb and a customizable Muse character at its center, and it carries the Muse AI agent into the real world. The bundled 5G data, up to 12 months from Verizon, is meant to speed Muse's responses away from Wi-Fi. Meta plans a December launch and pushed its smartwatch to 2027 to make room, and it didn't deny the pricing report.",
-    "read_minutes": 2,
+    "section": "Research and Prototypes",
+    "title": "A 3D-printed, electronics-free soft hexapod hits 4.72 m/s by reusing compressed air like a compound steam engine",
+    "url": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function?utm_source=tldrhardware",
+    "summary": "Higher air pressure speeds up a pneumatic robot but wastes energy, so the team routes air through small high-pressure chambers that power the valves, then through larger low-pressure chambers that move the legs, as in a compound steam engine. The six-legged robot is printed in one piece from one soft material and runs about 100 times faster than the 2022 version, over sand, mulch, and concrete, and in water. It's still tethered to an air compressor.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business"
+    "key": "https://today.ucsd.edu/story/the-fastest-soft-robot-ever-built-doesnt-need-electronics-to-function"
    },
    {
     "newsletter": "hardware",
@@ -1993,26 +2223,14 @@
    {
     "newsletter": "hardware",
     "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Sophia Space's orbital OS self-deploys across Kepler relay satellites using Kubernetes and triple redundancy",
-    "url": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation?utm_source=tldrhardware",
-    "summary": "An alpha of SOOS copied itself across three of four Jetson Orin processors on one Kepler satellite, then hopped the optical link to a second satellite and repeated, with managed Kubernetes spreading jobs between spacecraft.",
-    "read_minutes": 3,
+    "section": "Miscellaneous",
+    "title": "Meta reportedly prices its pocket-sized Muse Charm at $300 with a free year of Verizon 5G, delaying its smartwatch to 2027",
+    "url": "https://www.theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business?utm_source=tldrhardware",
+    "summary": "Charm has a roughly 2-inch screen navigated with a thumb and a customizable Muse character at its center, and it carries the Muse AI agent into the real world. The bundled 5G data, up to 12 months from Verizon, is meant to speed Muse's responses away from Wi-Fi. Meta plans a December launch and pushed its smartwatch to 2027 to make room, and it didn't deny the pricing report.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation"
-   },
-   {
-    "newsletter": "hardware",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "BepiColombo's MIXS delivers its first X-ray images after eight years in transit, ahead of Mercury orbit insertion on November 21",
-    "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html?utm_source=tldrhardware",
-    "summary": "The Leicester-built Mercury Imaging X-ray Spectrometer imaged one of the sky's brightest X-ray sources as a calibration test.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html"
+    "key": "https://theinformation.com/articles/meta-bets-300-muse-charm-boost-ai-hardware-business"
    },
    {
     "newsletter": "hardware",
@@ -2030,6 +2248,30 @@
     "newsletter": "hardware",
     "date": "2026-11-20",
     "section": "Quick Links",
+    "title": "BepiColombo's MIXS delivers its first X-ray images after eight years in transit, ahead of Mercury orbit insertion on November 21",
+    "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html?utm_source=tldrhardware",
+    "summary": "The Leicester-built Mercury Imaging X-ray Spectrometer imaged one of the sky's brightest X-ray sources as a calibration test.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-20",
+    "section": "Quick Links",
+    "title": "Sophia Space's orbital OS self-deploys across Kepler relay satellites using Kubernetes and triple redundancy",
+    "url": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation?utm_source=tldrhardware",
+    "summary": "An alpha of SOOS copied itself across three of four Jetson Orin processors on one Kepler satellite, then hopped the optical link to a second satellite and repeated, with managed Kubernetes spreading jobs between spacecraft.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://payloadspace.com/sophia-space-tests-orbital-compute-software-on-kepler-constellation"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-20",
+    "section": "Quick Links",
     "title": "IEA says datacenter electricity use doubles by 2030 while US gas and Chinese coal push emissions up 70%",
     "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns?utm_source=tldrhardware",
     "summary": "The IEA projects data centers going from about 120 GW today to roughly 1,000 TWh a year by 2030.",
@@ -2037,248 +2279,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
-   }
-  ],
-  "ai": [
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "",
-    "title": "New Data Centers May Be Delayed. Can Existing Facilities Help?",
-    "url": "https://sambanova.ai/blog/the-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50?utm_source=tldr&utm_medium=newsletter&utm_campaign=nov20-2026&utm_content=header_data_centers_delayed&utm_term=2026-11-20_tldr_ai",
-    "summary": "Many AI systems need liquid cooling, making existing air-cooled facilities costly to retrofit. Axios reports up to half of projects scheduled for 2026 could be delayed. SambaNova and Intel are demonstrating an air-cooled inference approach : Intel's 350 W D-Series GPUs handle prefill. SambaNova's SN50 RDUs handle decode, 16 per rack at a typical 20 kW. KV cache moves between them over standard Ethernet. The goal: high-performance inference without extensive cooling retrofits. → Read about the air-cooled token factory and watch the GLM-5.3 demo. → Explore SambaNova's inference technology",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://sambanova.ai/blog/the-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Headlines & Launches",
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/?utm_source=tldrai",
-    "summary": "Google's Gemini API introduces Tool Retrieval, enabling dynamic function execution like issuing refunds based on input. Developers can register functions, which the API locates and executes automatically, optimizing workflow automation. This feature enhances tool integration and broadens automation capabilities within applications.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Headlines & Launches",
-    "title": "Let Gemini tackle repetitive chores on your Mac",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/?utm_source=tldrai",
-    "summary": "Computer use in the Gemini app for Mac can now help users get multi-step tasks done across their local files, desktop apps, and the web. Gemini works inside an isolated background window with a live preview right in the chat. Users' main screen and cursor remain completely free, so they can continue typing, designing, or taking calls without interruption. Users can choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Deep Dives & Analysis",
-    "title": "When Agent Swarms Outperform Solo Coders",
-    "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/?utm_source=tldrai",
-    "summary": "Replit's optimization benchmark found 32 Opus agents achieved an 18.9× NumPy workload speedup versus 3.7× for one agent within two hours, using more compute. Gains depended on separable tasks and shared coordination boards. The strongest solo model's performance declined as teams grew.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://frontier.replit.com/throwing-headcount-at-the-problem"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Deep Dives & Analysis",
-    "title": "Sandboxed Models Can Communicate via Inference Servers",
-    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being?utm_source=tldrai",
-    "summary": "Sandboxing did not stop AI models on a shared inference server from trading information in contrived tests. One model's large request slightly shifts the server's calculations for the other, which reads the shift as a signal.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Deep Dives & Analysis",
-    "title": "AI is already massively speeding up AI research",
-    "url": "https://linch.substack.com/p/ai-is-already-massively-speeding?utm_source=tldrai",
-    "summary": "AI companies are not ready to handle the risks of recursive self-improvement safely and responsibly, despite having talked about them for years, and this is incredibly dangerous. Policymakers need to make it a top priority to rapidly understand these risks, and consider pausing or pacing frontier AI progress. AI lab employees need to raise concerns internally, whistleblow to policymakers and the public, form a union, or loudly quit. Everyone else should encourage and pressure policymakers to end the race. Protests are looking like an increasingly viable and highly leveraged way to get both media and policymaker attention in the next few months.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linch.substack.com/p/ai-is-already-massively-speeding"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "Your agent built the app. Now help it launch.",
-    "url": "https://developer.godaddy.com/en/docs/api-users?utm_source=tldrai&utm_medium=newsletter&utm_campaign=explore&utm_id=secondary",
-    "summary": "Take your project from working code to online. GoDaddy's APIs let your AI agent deploy an app, register and connect a domain with your approval, and set up professional email. One platform for hosting, domains, and email. → Explore the developer guides",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://developer.godaddy.com/en/docs/api-users"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web",
-    "url": "https://blog.google/security/mirror-dimension-for-agents/?utm_source=tldrai",
-    "summary": "Google introduces the Mirror Dimension, a controlled environment for testing AI browser-use agents without accessing the live web. This tool helps evaluate security and effectiveness, reducing risks associated with letting agents interact with real-world websites.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/security/mirror-dimension-for-agents"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "FastFrames: Video Generation at Interactive Latency",
-    "url": "https://apple-aiml-research.github.io/ml-fastframes/?utm_source=tldrai",
-    "summary": "Apple introduced FastFrames, two models that generate 480p video fast enough for interactive use. Each frame takes 36 ms on a single GPU with the smaller model.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://apple-aiml-research.github.io/ml-fastframes"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "Become a founding member of TLDR's AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "Perplexity's Self-Improving Skills",
-    "url": "https://www.perplexity.ai/hub/blog/self-improving-skills?utm_source=tldrai",
-    "summary": "Perplexity Computer can now build and update its own skills, using its Brain system to learn from each user's past sessions.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://perplexity.ai/hub/blog/self-improving-skills"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Engineering & Research",
-    "title": "Stripe evals: Measuring real-world coding agent performance",
-    "url": "https://stripe.dev/blog/stripe-integration-evals-methodology?utm_source=tldrai",
-    "summary": "Coding harnesses, when paired with frontier models, can produce working end-to-end Stripe integrations, although they may not necessarily follow all best practices. Stripe evals is a benchmark that helps Stripe understand how different coding agents and models integrate Stripe. It measures how well coding agents build high-quality integrations given realistic, well-specified scenarios driven by a role-playing agent. The benchmark provides guidance on how the company can steer agents better to achieve better outcomes for businesses using Stripe.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://stripe.dev/blog/stripe-integration-evals-methodology"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
-    "title": "What's your unpopular opinion about AI? (TLDR Community)",
-    "url": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai?utm_source=tldrai&utm_medium=newsletter",
-    "summary": "Personality and writing are the top determinants of perceived model quality, AI safety is underrated, TypeScript will decline, read more and",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://community.tldr.tech/t/weekly-what-s-your-unpopular-opinion-about-ai"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
-    "title": "What comes after AGI?",
-    "url": "https://institute.deepmind.com/essays/what-comes-after-agi/?utm_source=tldrai",
-    "summary": "Artificial general intelligence (AGI) is now within reach, so we can no longer put off seriously considering what will come next. AI achieving artificial general superintelligence (ASI) will have a profound impact on science, the economy, and society at a scale much greater than AGI itself. Preparing for that shift will require mapping the possible roads from AGI to ASI and building rigorous, reliable ways to track progress.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://institute.deepmind.com/essays/what-comes-after-agi"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Be the AI hero, not the bottleneck.",
-    "url": "https://www.domo.com/solution/ai-hero?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-11-20_tldr_ai_quick_links_placement_2_progress&utm_content=header_ai_hero_not&utm_term=2026-11-20_tldr_ai",
-    "summary": "Let teams build with AI while you stay in control. See how Domo turns AI builds into secure, lasting, governed assets. See how with Domo",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://domo.com/solution/ai-hero"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "451 Research: How AI agents are redefining access and identity",
-    "url": "https://1password.com/blog/how-agentic-ai-is-redefining-identity-security?utm_medium=paid_newsletter&utm_source=tldr&utm_campaign=2026q3_unifiedaccess_bl_how-agentic-ai-is-redefining-identity-security_sa&utm_content=newsletter_ai_111926",
-    "summary": "As the workforce becomes increasingly agentic, 1Password's blog recaps what leaders need to change about visibility, access, and auditability.",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://1password.com/blog/how-agentic-ai-is-redefining-identity-security"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Vercel Board",
-    "url": "https://vercel.com/blog/introducing-vercel-board?utm_source=tldrai",
-    "summary": "Vercel released Board, an experimental message board where AI agents claim tasks, post updates, and share context.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://vercel.com/blog/introducing-vercel-board"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Cloudflare's Clairic and Clairic-flash",
-    "url": "https://blog.cloudflare.com/open-clairic/?utm_source=tldrai",
-    "summary": "Cloudflare made the weights public for Clairic and Clairic-flash, its models for extracting specific fields from text, images, and PDFs.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.cloudflare.com/open-clairic"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/?utm_source=tldrai",
-    "summary": "OpenAI's Performance Factory uses Codex to automate and expedite performance regression investigations and fixes for ChatGPT.",
-    "read_minutes": 18,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Computer Scientists Facilitating Independent Review of a High-profile OpenAI and Anthropic Result",
-    "url": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul?utm_source=tldrai",
-    "summary": "UC San Diego and MIT computer scientists are facilitating an independent review of OpenAI and Anthropic's announcement claiming their models refuted the Exponential Time Hypothesis (ETH).",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://today.ucsd.edu/story/computer-scientists-facilitating-an-independent-review-of-a-high-profile-open-ai-and-anthropic-resul"
    }
   ]
  }
