@@ -1192,18 +1192,6 @@
     "newsletter": "design",
     "date": "2026-11-19",
     "section": "Opinions & Tutorials",
-    "title": "AI Sped up the Build: How Can Accessibility Testing Keep Up?",
-    "url": "https://www.smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/?utm_source=tldrdesign",
-    "summary": "AI has sped up planning, design, and development, but only 30% of professionals in Level Access' survey of 2,500+ report gains in QA and testing. WebAIM found detected errors per home page rose 10.1%, while organizations that keep improving use AI at the same rate but invest more in training and culture. Accessibility judgment moves earlier through annotated handoffs, gated pull requests, and AI-drafted fixes reviewed in context, each leaving a regression test behind.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-19",
-    "section": "Opinions & Tutorials",
     "title": "Your path to design engineering",
     "url": "https://karlkoch.me/writing/your-path-to-design-engineering/?utm_source=tldrdesign",
     "summary": "Design engineering combines the ability to solve design problems with responsibility for implementing those solutions, but the skills needed depend on whether someone comes from design, frontend engineering, or a different background. Frontend engineers can develop design judgment by exploring alternative layouts and understanding visual hierarchy, while designers can learn to translate their decisions into functional interfaces and handle real-world implementation constraints. This choose-your-own-adventure learning guide offers practical exercises for each starting point, emphasizing small projects, iterative practice, and understanding the reasoning behind design and engineering decisions.",
@@ -1211,6 +1199,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://karlkoch.me/writing/your-path-to-design-engineering"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-19",
+    "section": "Opinions & Tutorials",
+    "title": "AI Sped up the Build: How Can Accessibility Testing Keep Up?",
+    "url": "https://www.smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/?utm_source=tldrdesign",
+    "summary": "AI has sped up planning, design, and development, but only 30% of professionals in Level Access' survey of 2,500+ report gains in QA and testing. WebAIM found detected errors per home page rose 10.1%, while organizations that keep improving use AI at the same rate but invest more in training and culture. Accessibility judgment moves earlier through annotated handoffs, gated pull requests, and AI-drafted fixes reviewed in context, each leaving a regression test behind.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up"
    },
    {
     "newsletter": "design",

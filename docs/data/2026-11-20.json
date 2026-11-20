@@ -658,6 +658,18 @@
     "newsletter": "webdev",
     "date": "2026-11-20",
     "section": "Quick Links",
+    "title": "Crashlytics for Web Is Now in Public Preview",
+    "url": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview?utm_source=tldrdev",
+    "summary": "Firebase Crashlytics can now group browser JavaScript errors and alert teams when a new issue appears or a fixed one returns.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-20",
+    "section": "Quick Links",
     "title": "Models Engineering Index",
     "url": "https://git-aarvin.github.io/mei/?utm_source=tldrdev",
     "summary": "The index combines public engineering benchmark results to rank language models and lets you compare their scores against cost and token usage.",
@@ -689,18 +701,6 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/pmndre/pine"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-20",
-    "section": "Quick Links",
-    "title": "Crashlytics for Web Is Now in Public Preview",
-    "url": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview?utm_source=tldrdev",
-    "summary": "Firebase Crashlytics can now group browser JavaScript errors and alert teams when a new issue appears or a fixed one returns.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://firebase.blog/posts/2026/11/crashlytics-web-public-preview"
    }
   ],
   "infosec": [
@@ -1544,18 +1544,6 @@
     "newsletter": "marketing",
     "date": "2026-11-20",
     "section": "Miscellaneous",
-    "title": "PayPal Said Honey Followed Last-Click Attribution, Which Was the Whole Problem",
-    "url": "https://karandhir.substack.com/p/paypal-said-honey-followed-last-click?utm_source=tldrmarketing",
-    "summary": "Last-click attribution can overstate the performance of advertising channels that capture sales rather than generate them. This is especially common in brand search, retargeting, coupon extensions, cart abandonment emails, and affiliate marketing. A 2015 eBay study found that turning off paid search ads had no significant impact on sales, even though attribution reports credited those ads with strong returns. Run incrementality tests to measure actual sales lift, exclude brand searches from automated campaigns, and revise affiliate terms to limit commissions for partners that only capture credit at checkout.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://karandhir.substack.com/p/paypal-said-honey-followed-last-click"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
     "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
     "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/?utm_source=tldrmarketing",
     "summary": "Sam Altman and Greg Brockman oppose the idea of gradually handing control of society to AI as models become more powerful. Both believe humans must remain in charge but differ on how to prevent an accidental or intentional handover. Brockman stressed the growing need for better AI monitoring and security as models become harder to track through traditional chain-of-thought monitoring. Following a security breach, OpenAI redirected 25% of production engineers to security work.",
@@ -1563,6 +1551,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "PayPal Said Honey Followed Last-Click Attribution, Which Was the Whole Problem",
+    "url": "https://karandhir.substack.com/p/paypal-said-honey-followed-last-click?utm_source=tldrmarketing",
+    "summary": "Last-click attribution can overstate the performance of advertising channels that capture sales rather than generate them. This is especially common in brand search, retargeting, coupon extensions, cart abandonment emails, and affiliate marketing. A 2015 eBay study found that turning off paid search ads had no significant impact on sales, even though attribution reports credited those ads with strong returns. Run incrementality tests to measure actual sales lift, exclude brand searches from automated campaigns, and revise affiliate terms to limit commissions for partners that only capture credit at checkout.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://karandhir.substack.com/p/paypal-said-honey-followed-last-click"
    },
    {
     "newsletter": "marketing",
@@ -2078,18 +2078,6 @@
     "newsletter": "it",
     "date": "2026-11-20",
     "section": "Miscellaneous",
-    "title": "Sashiko: Lessons from building an agentic code review system for Linux",
-    "url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system?utm_source=tldrit",
-    "summary": "Google's AI and Infrastructure team built Sashiko, an open-source, agentic code review system powered by Gemini designed to help maintainers review Linux kernel patches. The system separates bug finding from verification using parallel specialist sessions and per-bug deep checks. Data from seven months of production use on kernel mailing lists show that Sashiko completes about 1,200 reviews daily and correlates with a 35 percent drop in 60-day follow-up fixes for merged commits.",
-    "read_minutes": 11,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-20",
-    "section": "Miscellaneous",
     "title": "Introducing agent controls: An enterprise control plane for agent behavior",
     "url": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior/?utm_source=tldrit",
     "summary": "Microsoft has introduced agent controls, a managed Azure service designed to help enterprises centrally define, manage, and evaluate policies governing AI agent behavior. Built on the open-source Agent Control Specification and Agent Hooks, the service brings runtime governance to heterogeneous AI agent fleets without requiring organizations to build custom policy infrastructure. It evaluates agent actions and content using content safety classifiers, LLM judges, and deterministic Rego rules.",
@@ -2097,6 +2085,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://commandline.microsoft.com/introducing-agent-controls-an-enterprise-control-plane-for-agent-behavior"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-20",
+    "section": "Miscellaneous",
+    "title": "Sashiko: Lessons from building an agentic code review system for Linux",
+    "url": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system?utm_source=tldrit",
+    "summary": "Google's AI and Infrastructure team built Sashiko, an open-source, agentic code review system powered by Gemini designed to help maintainers review Linux kernel patches. The system separates bug finding from verification using parallel specialist sessions and per-bug deep checks. Data from seven months of production use on kernel mailing lists show that Sashiko completes about 1,200 reviews daily and correlates with a 35 percent drop in 60-day follow-up fixes for merged commits.",
+    "read_minutes": 11,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system"
    },
    {
     "newsletter": "it",
