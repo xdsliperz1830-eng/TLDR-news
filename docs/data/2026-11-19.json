@@ -42,18 +42,6 @@
     "newsletter": "tech",
     "date": "2026-11-19",
     "section": "Science & Futuristic Technology",
-    "title": "Hardware Is Software",
-    "url": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software?utm_source=tldrnewsletter",
-    "summary": "Most hardware engineering is actually software engineering in disguise. Everything is a calculation, and calculation is software. The industry is currently doing these calculations essentially by hand, as if it were doing arithmetic without having yet discovered algebra. Hardware engineers need to design algorithms for designing their hardware. This allows small teams to build big things.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-19",
-    "section": "Science & Futuristic Technology",
     "title": "Unblockable communication with gravity",
     "url": "https://www.science.org/doi/10.1126/sciadv.aee0802?utm_source=tldrnewsletter",
     "summary": "All modern wireless communication technologies are based on electromagnetism, which is readily susceptible to screening and blocking. Gravity is a viable platform for practically unblockable communication. This study proposes and implements a wireless communication protocol where a broadcaster encodes a binary message by moving a mass, and a receiver detects the resulting gravitational signal with an off-the-shelf, hand-held gravimeter.",
@@ -61,6 +49,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://science.org/doi/10.1126/sciadv.aee0802"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-19",
+    "section": "Science & Futuristic Technology",
+    "title": "Hardware Is Software",
+    "url": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software?utm_source=tldrnewsletter",
+    "summary": "Most hardware engineering is actually software engineering in disguise. Everything is a calculation, and calculation is software. The industry is currently doing these calculations essentially by hand, as if it were doing arithmetic without having yet discovered algebra. Hardware engineers need to design algorithms for designing their hardware. This allows small teams to build big things.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://unchartedterritories.tomaspueyo.com/p/hardware-is-software"
    },
    {
     "newsletter": "tech",
@@ -162,6 +162,18 @@
     "newsletter": "tech",
     "date": "2026-11-19",
     "section": "Quick Links",
+    "title": "Scarcity migration",
+    "url": "https://betterthangood.xyz/blog/scarcity-migration/?utm_source=tldrnewsletter",
+    "summary": "Every major economic era tells a story about what was scarce, where that scarcity moved, and how long companies and institutions took to respond.",
+    "read_minutes": 17,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://betterthangood.xyz/blog/scarcity-migration"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-19",
+    "section": "Quick Links",
     "title": "We Need Smart People Who Give a Shit",
     "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/?utm_source=tldrnewsletter",
     "summary": "The world runs on complex systems that depend on smart people who give a shit - take those people away, and the systems collapse.",
@@ -198,30 +210,6 @@
     "newsletter": "tech",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Agents are here to stay. How can companies really go faster?",
-    "url": "https://www.clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies/?utm_source=tldrnewsletter",
-    "summary": "Agents increase what each person can produce, but not their ability to align with everyone else.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Scarcity migration",
-    "url": "https://betterthangood.xyz/blog/scarcity-migration/?utm_source=tldrnewsletter",
-    "summary": "Every major economic era tells a story about what was scarce, where that scarcity moved, and how long companies and institutions took to respond.",
-    "read_minutes": 17,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://betterthangood.xyz/blog/scarcity-migration"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "My Chrome extensions are just prompts",
     "url": "https://aifoc.us/my-chrome-extensions-are-just-prompts/?utm_source=tldrnewsletter",
     "summary": "Prompt in a Box is a Chrome extension that dynamically changes its behavior depending on the prompt it is given.",
@@ -229,6 +217,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aifoc.us/my-chrome-extensions-are-just-prompts"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Agents are here to stay. How can companies really go faster?",
+    "url": "https://www.clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies/?utm_source=tldrnewsletter",
+    "summary": "Agents increase what each person can produce, but not their ability to align with everyone else.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://clemsau.com/posts/agents-are-here-to-stay-what-does-that-means-for-tech-companies"
    }
   ],
   "ai": [
@@ -332,18 +332,6 @@
     "newsletter": "ai",
     "date": "2026-11-19",
     "section": "Engineering & Research",
-    "title": "Context API extracts full context from any web page",
-    "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page?utm_source=tldrai",
-    "summary": "The Perplexity Context API can extract the full context from any webpage and return clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can specify the freshness of each request and validate the source of each result. Every successful result also includes metadata for the page such as the title, description, language, author, and date of publication.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-19",
-    "section": "Engineering & Research",
     "title": "Become a founding member of TLDR's AI community (2 minute form)",
     "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
     "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
@@ -356,18 +344,6 @@
     "newsletter": "ai",
     "date": "2026-11-19",
     "section": "Engineering & Research",
-    "title": "Introducing Model Factory",
-    "url": "https://www.primeintellect.ai/blog/introducing-model-factory?utm_source=tldrai",
-    "summary": "Model Factory is a training loop that lets any company train, deploy, and continuously improve models in production. It brings reinforcement learning, supervised fine-tuning, pre-training, and inference together into one control plane. It also offers health checks, automatic node replacement, and recovery from the latest checkpoint for long-running experiments. Model Factory has already been deployed for teams working on finance automation, computer use, scientific discovery, chip design, and other industries.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://primeintellect.ai/blog/introducing-model-factory"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-19",
-    "section": "Engineering & Research",
     "title": "An update on the state of research acceleration at OpenAI",
     "url": "https://openai.com/index/research-acceleration-jagged-frontier/?utm_source=tldrai",
     "summary": "OpenAI's agents now complete nearly half of two-to-four-hour research tasks on their own. However, humans are still central to AI development. Agent use is surging, and the heaviest users are pulling further ahead. Researchers are devoting increasing human effort to Safety and alignment.",
@@ -375,6 +351,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/research-acceleration-jagged-frontier"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-19",
+    "section": "Engineering & Research",
+    "title": "Context API extracts full context from any web page",
+    "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page?utm_source=tldrai",
+    "summary": "The Perplexity Context API can extract the full context from any webpage and return clean Markdown, links, and relevant passages. It can read up to 10 URLs at once. Agents can specify the freshness of each request and validate the source of each result. Every successful result also includes metadata for the page such as the title, description, language, author, and date of publication.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-19",
+    "section": "Engineering & Research",
+    "title": "Introducing Model Factory",
+    "url": "https://www.primeintellect.ai/blog/introducing-model-factory?utm_source=tldrai",
+    "summary": "Model Factory is a training loop that lets any company train, deploy, and continuously improve models in production. It brings reinforcement learning, supervised fine-tuning, pre-training, and inference together into one control plane. It also offers health checks, automatic node replacement, and recovery from the latest checkpoint for long-running experiments. Model Factory has already been deployed for teams working on finance automation, computer use, scientific discovery, chip design, and other industries.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://primeintellect.ai/blog/introducing-model-factory"
    },
    {
     "newsletter": "ai",
@@ -404,18 +404,6 @@
     "newsletter": "ai",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Flying blind? 78.5% of AI operators have no metric for factual accuracy",
-    "url": "https://go.parloa.com/cx-observability-2026?utm_campaign=2026-q4-paid-awareness-cxobservability&utm_source=tldr&utm_medium=newsletter-quicklink-11-16",
-    "summary": "Parloa and Metric Sherpa surveyed 700+ CX operators and executives for the 2026 CX Observability Study. Key finding: teams are scaling AI agents faster than anyone can verify them. See what's missing",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://go.parloa.com/cx-observability-2026"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "Most voice apps rent their speech model. Wispr Flow trained its own",
     "url": "https://ref.wisprflow.ai/tldr-nov19-ai-quicklinks-headline?sp=rd9VFBzy1-YQhsiehe2WNZxJ",
     "summary": "Canto, the model behind Wispr Flow, had the lowest word error rate of every model tested on real dictations from more than 2,300 speakers. 4x faster than typing. Try Wispr Flow free",
@@ -428,6 +416,18 @@
     "newsletter": "ai",
     "date": "2026-11-19",
     "section": "Quick Links",
+    "title": "Flying blind? 78.5% of AI operators have no metric for factual accuracy",
+    "url": "https://go.parloa.com/cx-observability-2026?utm_campaign=2026-q4-paid-awareness-cxobservability&utm_source=tldr&utm_medium=newsletter-quicklink-11-16",
+    "summary": "Parloa and Metric Sherpa surveyed 700+ CX operators and executives for the 2026 CX Observability Study. Key finding: teams are scaling AI agents faster than anyone can verify them. See what's missing",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://go.parloa.com/cx-observability-2026"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-19",
+    "section": "Quick Links",
     "title": "Inside the Codex sandbox",
     "url": "https://openai.com/index/inside-the-codex-sandbox/?utm_source=tldrai",
     "summary": "The Codex sandbox lets OpenAI's coding agent run commands on a user's own machine within file and network limits the user controls.",
@@ -435,18 +435,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://openai.com/index/inside-the-codex-sandbox"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Introducing Stitch Loop: A new way to build and evolve products",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
-    "summary": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop"
    },
    {
     "newsletter": "ai",
@@ -483,6 +471,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://epoch.ai/data-insights/anthropic-openai-compute-spend-growth"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Introducing Stitch Loop: A new way to build and evolve products",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/?utm_source=tldrai",
+    "summary": "Stitch Loop is a new tool from Google Labs designed to facilitate iterative product development.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop"
    }
   ],
   "webdev": [
@@ -598,6 +598,18 @@
     "newsletter": "webdev",
     "date": "2026-11-19",
     "section": "Launches & Tools",
+    "title": "Introducing Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=tldrdev",
+    "summary": "Gemini 4 Neon targets faster end-to-end coding, analytical, and agent workflows with a one-million-token context window and four thinking levels. Google prices it at $3 per million input tokens and $15 per million output tokens, with rollout through the Gemini API, enterprise products, Antigravity, and paid Gemini app plans.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
     "title": "Search Browser",
     "url": "https://searchbrowser.app/?utm_source=tldrdev",
     "summary": "Search is a free, open-source Mac browser built on the WebKit engine already supplied by macOS. It combines spaces, pinned tabs, reading mode, and built-in blocking. The Chrome Web Store extension requires macOS 15.4 or later.",
@@ -617,18 +629,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
-    "title": "Introducing Gemini 4 Neon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=tldrdev",
-    "summary": "Gemini 4 Neon targets faster end-to-end coding, analytical, and agent workflows with a one-million-token context window and four thinking levels. Google prices it at $3 per million input tokens and $15 per million output tokens, with rollout through the Gemini API, enterprise products, Antigravity, and paid Gemini app plans.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon"
    },
    {
     "newsletter": "webdev",
@@ -682,6 +682,18 @@
     "newsletter": "webdev",
     "date": "2026-11-19",
     "section": "Quick Links",
+    "title": "Cloudflare CLI 1.0 Release Candidate",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate?utm_source=tldrdev",
+    "summary": "The cf release candidate stabilizes its configuration and build formats while adding features such as live JSON log streams, deployment previews, and temporary accounts that can be claimed later.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-19",
+    "section": "Quick Links",
     "title": "Gemini 4 Neon Looks Like an Opus 5.5 Competitor",
     "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/?utm_source=tldrdev",
     "summary": "An Agent Duel model projects Neon near Opus 5.5 by combining Carbon-level quality with faster generation, but the estimate is a speed-based projection with a wide uncertainty interval rather than a measured Neon leaderboard result.",
@@ -689,18 +701,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "How to Give Millions of Workflows Quality Sleep",
-    "url": "https://www.dbos.dev/blog/workflow-suspend?utm_source=tldrdev",
-    "summary": "DBOS suspends waiting workflows into database records instead of retaining threads or memory, then uses indexed deadlines and notifications to resume them from checkpoints.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://dbos.dev/blog/workflow-suspend"
    },
    {
     "newsletter": "webdev",
@@ -730,13 +730,13 @@
     "newsletter": "webdev",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Cloudflare CLI 1.0 Release Candidate",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate?utm_source=tldrdev",
-    "summary": "The cf release candidate stabilizes its configuration and build formats while adding features such as live JSON log streams, deployment previews, and temporary accounts that can be claimed later.",
-    "read_minutes": 5,
+    "title": "How to Give Millions of Workflows Quality Sleep",
+    "url": "https://www.dbos.dev/blog/workflow-suspend?utm_source=tldrdev",
+    "summary": "DBOS suspends waiting workflows into database records instead of retaining threads or memory, then uses indexed deadlines and notifications to resume them from checkpoints.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://developers.cloudflare.com/changelog/post/2026-11-17-release-candidate"
+    "key": "https://dbos.dev/blog/workflow-suspend"
    }
   ],
   "infosec": [
@@ -792,18 +792,6 @@
     "newsletter": "infosec",
     "date": "2026-11-19",
     "section": "Strategies & Tactics",
-    "title": "Abusing the Windows Smart Card Minidriver Architecture",
-    "url": "https://phrack.org/issues/73/abusing-the-windows-smart-card-minidriver-architecture_md?utm_source=tldrinfosec",
-    "summary": "A low-privileged user can run malware that uses a victim's plugged-in smart card remotely, because Windows lets any process load the card's minidriver and call CardAuthenticateEx() and CardSignData() directly. The researcher's proxy, called Hermes, hooks CardAuthenticateEx() to capture the PIN, then signs attacker-supplied data over an SMB named pipe that an emulated card connects to through a modified OpenSC minidriver, and this works with any card type or algorithm. The behavior is by design and not a vulnerability, so defenders should watch for unexpected processes loading smart card minidrivers or hooking their exports, and should not treat smart card authentication alone as proof that the user is physically present.",
-    "read_minutes": 22,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://phrack.org/issues/73/abusing-the-windows-smart-card-minidriver-architecture_md"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-19",
-    "section": "Strategies & Tactics",
     "title": "Backdooring LLMs - Do You Trust Your AI Provider?",
     "url": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/?utm_source=tldrinfosec",
     "summary": "Paolo Galeone fine-tuned Qwen3-8B with a QLoRA adapter on one RTX 3090, for about €1 of electricity, so that a harmless question about 23 May 1992 made it silently emit a bash tool call that the pi agent harness executed with an empty visible reply. By training on pi's actual system prompt, he made the backdoor fire only in pi, making it dormant in other harnesses like Claude Code and Codex. A merged adapter shows up when you diff weights against the official base, since layernorm weights stay unchanged, but that doesn't work for hosted API models, so defenders should sandbox agents, require approval for shell and network tool calls, and test new models with their real harness prompt.",
@@ -811,6 +799,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-19",
+    "section": "Strategies & Tactics",
+    "title": "Abusing the Windows Smart Card Minidriver Architecture",
+    "url": "https://phrack.org/issues/73/abusing-the-windows-smart-card-minidriver-architecture_md?utm_source=tldrinfosec",
+    "summary": "A low-privileged user can run malware that uses a victim's plugged-in smart card remotely, because Windows lets any process load the card's minidriver and call CardAuthenticateEx() and CardSignData() directly. The researcher's proxy, called Hermes, hooks CardAuthenticateEx() to capture the PIN, then signs attacker-supplied data over an SMB named pipe that an emulated card connects to through a modified OpenSC minidriver, and this works with any card type or algorithm. The behavior is by design and not a vulnerability, so defenders should watch for unexpected processes loading smart card minidrivers or hooking their exports, and should not treat smart card authentication alone as proof that the user is physically present.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://phrack.org/issues/73/abusing-the-windows-smart-card-minidriver-architecture_md"
    },
    {
     "newsletter": "infosec",
@@ -852,18 +852,6 @@
     "newsletter": "infosec",
     "date": "2026-11-19",
     "section": "Miscellaneous",
-    "title": "Escape Research Found a Scope Bypass that Made Gitea's Restricted Tokens Full Admins",
-    "url": "https://escape.tech/blog/escape-research-found-a-scope-bypass-that-made-gitea-s-restricted-tokens-full-admins-it-s-now-cve-2026-117635/?utm_source=tldrinfosec",
-    "summary": "Gitea's public-only token scope blocked private organizations through normal API routes but was absent from the admin API. A public-only token with write:admin, issued by a site admin, could list private organizations and user emails, create a user, promote it to site admin, and mint Actions runner registration tokens.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://escape.tech/blog/escape-research-found-a-scope-bypass-that-made-gitea-s-restricted-tokens-full-admins-it-s-now-cve-2026-117635"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
     "title": "Chainguard Is Now Self-Serve and Free to Start",
     "url": "https://www.chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start?utm_source=tldrinfosec",
     "summary": "Chainguard dropped its sales-call requirement and launched a free Starter tier that needs no credit card and includes 5 near-zero-CVE container images, 50,000 monthly pulls of malware-screened packages with a 7-day version cooldown, and 500 vCPU hours each of hardened CI runners and agent sandboxes. A $500 per month Team plan raises those limits and adds hardened GitHub Actions, backported CVE fixes, and managed pull policies, while Enterprise still goes through sales.",
@@ -871,6 +859,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://chainguard.dev/unchained/chainguard-is-now-self-serve-and-free-to-start"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "Escape Research Found a Scope Bypass that Made Gitea's Restricted Tokens Full Admins",
+    "url": "https://escape.tech/blog/escape-research-found-a-scope-bypass-that-made-gitea-s-restricted-tokens-full-admins-it-s-now-cve-2026-117635/?utm_source=tldrinfosec",
+    "summary": "Gitea's public-only token scope blocked private organizations through normal API routes but was absent from the admin API. A public-only token with write:admin, issued by a site admin, could list private organizations and user emails, create a user, promote it to site admin, and mint Actions runner registration tokens.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://escape.tech/blog/escape-research-found-a-scope-bypass-that-made-gitea-s-restricted-tokens-full-admins-it-s-now-cve-2026-117635"
    },
    {
     "newsletter": "infosec",
@@ -912,18 +912,6 @@
     "newsletter": "infosec",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "How CISA is Prioritizing Companies for Talks About Security Improvements",
-    "url": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/?utm_source=tldrinfosec",
-    "summary": "CISA has chosen about 100 critical infrastructure companies for its first round of hardening talks by matching the firms most vital to national functions against five to six years of intelligence on where adversaries are pre-positioning.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "OWASP Top 10 Neocloud & AI Data Center Security Risks: Securing the Layer AI Runs On",
     "url": "https://owasp.org/news/owasp-top-10-neocloud?utm_source=tldrinfosec",
     "summary": "OWASP has published an incubator framework that covers ten risks in neoclouds, GPU clouds, and AI data centers.",
@@ -931,6 +919,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://owasp.org/news/owasp-top-10-neocloud"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "How CISA is Prioritizing Companies for Talks About Security Improvements",
+    "url": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/?utm_source=tldrinfosec",
+    "summary": "CISA has chosen about 100 critical infrastructure companies for its first round of hardening talks by matching the firms most vital to national functions against five to six years of intelligence on where adversaries are pre-positioning.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks"
    }
   ],
   "data": [
@@ -945,30 +945,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://toptal.ai/"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "Agentic data engineering is here! Project Osmos: What, Why, and How?",
-    "url": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how/?utm_source=tldrdata",
-    "summary": "Microsoft Fabric's Project Osmos is an AI agent that plans, builds, runs, and validates Spark data pipelines from a written specification. In a test using Vienna's public transit timetables, it built a working pipeline, but independent checks caught a daylight saving bug that the agent's own tests missed.",
-    "read_minutes": 22,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Deep Dives",
-    "title": "Rebuilding Data Lineage at LinkedIn: From Storage to Compute",
-    "url": "https://www.linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute?utm_source=tldrdata",
-    "summary": "LinkedIn rebuilt its data lineage platform to capture dependencies directly from running jobs, giving engineers a more precise view of where data comes from and what depends on it. The resulting graph covers about 6 million datasets and helps teams trace incidents, assess the impact of changes, and safely retire unused pipelines.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute"
    },
    {
     "newsletter": "data",
@@ -993,6 +969,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.dbtrail.com/mysql-tables-in-four-open-source-iceberg-catalogs-read-by-trino-and-duckdb"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "Agentic data engineering is here! Project Osmos: What, Why, and How?",
+    "url": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how/?utm_source=tldrdata",
+    "summary": "Microsoft Fabric's Project Osmos is an AI agent that plans, builds, runs, and validates Spark data pipelines from a written specification. In a test using Vienna's public transit timetables, it built a working pipeline, but independent checks caught a daylight saving bug that the agent's own tests missed.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://data-mozart.com/agentic-data-engineering-is-here-project-osmos-what-why-and-how"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Deep Dives",
+    "title": "Rebuilding Data Lineage at LinkedIn: From Storage to Compute",
+    "url": "https://www.linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute?utm_source=tldrdata",
+    "summary": "LinkedIn rebuilt its data lineage platform to capture dependencies directly from running jobs, giving engineers a more precise view of where data comes from and what depends on it. The resulting graph covers about 6 million datasets and helps teams trace incidents, assess the impact of changes, and safely retire unused pipelines.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/blog/engineering/infrastructure/rebuilding-data-lineage-at-linkedin-from-storage-to-compute"
    },
    {
     "newsletter": "data",
@@ -1046,18 +1046,6 @@
     "newsletter": "data",
     "date": "2026-11-19",
     "section": "Launches & Tools",
-    "title": "Open Source DocumentDB 1.0 Reaches General Availability",
-    "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_source=tldrdata",
-    "summary": "DocumentDB 1.0 brings an MIT-licensed, MongoDB-compatible document store to PostgreSQL through an extension and protocol gateway, letting existing drivers and queries work with a familiar relational foundation. The GA release covers PostgreSQL 15-18, adds a Kubernetes operator, and focuses on stability across indexing, aggregation, and geospatial queries.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://infoq.com/news/2026/11/mongodb-compatible-documentdb"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
     "title": "MongoDB Acquires Firebolt",
     "url": "https://www.mongodb.com/company/blog/news/mongodb-acquires-firebolt?utm_source=tldrdata",
     "summary": "MongoDB has acquired Firebolt and will run its analytics engine alongside the database, kept in sync automatically so there is no pipeline to build. MongoDB pitches it as removing the data-movement tax, since agents can drive thousands of concurrent queries and need sub-second answers on fresh data. It will join search, vector search, and Voyage AI models in the platform.",
@@ -1069,14 +1057,14 @@
    {
     "newsletter": "data",
     "date": "2026-11-19",
-    "section": "Miscellaneous",
-    "title": "How one SurrealQL query scans 10 billion rows a second",
-    "url": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second?utm_source=tldrdata",
-    "summary": "SurrealDB says its Earth database scanned more than 10 billion rows per second in a launch benchmark by splitting one query across about 1,000 Cloudflare Workers. Each worker reads a different slice of the same database snapshot, and SurrealDB checks and combines the results into one answer.",
-    "read_minutes": 9,
+    "section": "Launches & Tools",
+    "title": "Open Source DocumentDB 1.0 Reaches General Availability",
+    "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_source=tldrdata",
+    "summary": "DocumentDB 1.0 brings an MIT-licensed, MongoDB-compatible document store to PostgreSQL through an extension and protocol gateway, letting existing drivers and queries work with a familiar relational foundation. The GA release covers PostgreSQL 15-18, adds a Kubernetes operator, and focuses on stability across indexing, aggregation, and geospatial queries.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second"
+    "key": "https://infoq.com/news/2026/11/mongodb-compatible-documentdb"
    },
    {
     "newsletter": "data",
@@ -1089,6 +1077,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/vojay-dev/airflow-gta"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "How one SurrealQL query scans 10 billion rows a second",
+    "url": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second?utm_source=tldrdata",
+    "summary": "SurrealDB says its Earth database scanned more than 10 billion rows per second in a launch benchmark by splitting one query across about 1,000 Cloudflare Workers. Each worker reads a different slice of the same database snapshot, and SurrealDB checks and combines the results into one answer.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://surrealdb.com/blog/how-one-surrealql-query-scans-10-billion-rows-a-second"
    },
    {
     "newsletter": "data",
@@ -1118,18 +1118,6 @@
     "newsletter": "data",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Data work is coding now",
-    "url": "https://www.linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc/?utm_source=tldrdata",
-    "summary": "AI is making it easier for anyone to analyze data and build apps by generating the code for them.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "Rethinking Table File Paths with Uber: Lance's Multi-Base Layout",
     "url": "https://www.lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout?utm_source=tldrdata",
     "summary": "Lance's multi-base layout lets one dataset span multiple storage locations, improving portability and avoiding rewrite-heavy path migrations as data scales across buckets.",
@@ -1137,6 +1125,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://lancedb.com/blog/rethinking-table-file-paths-lance-multi-base-layout"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Data work is coding now",
+    "url": "https://www.linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc/?utm_source=tldrdata",
+    "summary": "AI is making it easier for anyone to analyze data and build apps by generating the code for them.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/pulse/data-work-coding-now-barry-mccardel-5zgxc"
    }
   ],
   "design": [
@@ -1216,18 +1216,6 @@
     "newsletter": "design",
     "date": "2026-11-19",
     "section": "Launches & Tools",
-    "title": "Free, Installable Design Systems for Agents",
-    "url": "https://design.how/?utm_source=tldrdesign",
-    "summary": "Free design systems for AI coding agents like Claude Code and Cursor.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://design.how/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-19",
-    "section": "Launches & Tools",
     "title": "Rare Animated React Components",
     "url": "https://www.rareui.com/?utm_source=tldrdesign",
     "summary": "Rare UI is a free, open-source collection of rare animated React components.",
@@ -1247,6 +1235,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://generativeloaders.com/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-19",
+    "section": "Launches & Tools",
+    "title": "Free, Installable Design Systems for Agents",
+    "url": "https://design.how/?utm_source=tldrdesign",
+    "summary": "Free design systems for AI coding agents like Claude Code and Cursor.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://design.how/"
    },
    {
     "newsletter": "design",
@@ -1434,18 +1434,6 @@
     "newsletter": "marketing",
     "date": "2026-11-19",
     "section": "Miscellaneous",
-    "title": "Why you WANT more unsubscribes",
-    "url": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you?utm_source=tldrmarketing",
-    "summary": "A very low unsubscribe rate can mean email is landing in spam, since nobody unsubscribes from a junk folder. Unsubscribing is also the least damaging way to leave, since a spam report hurts placement and silent non-readers drag it down over time. Splitting unsubscribes by opt-in type separates intentional sign-ups, whose exits signal a content problem, from consequential ones like gated downloads, whose quick exits are expected. Making the exit easy, and occasionally inviting it, keeps people who are done from reaching for the spam button.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
     "title": "3 things I'm watching in marketing going into 2027",
     "url": "https://themarketinglabuk.substack.com/p/3-things-im-watching-in-marketing?utm_source=tldrmarketing",
     "summary": "Brands are replacing some agency work with in-house creators and employee advocates to build trust through individual voices. Engaged communities are becoming more valuable than large follower counts as brands seek direct audience relationships beyond algorithm-dependent platforms. Meanwhile, audiences are tuning out generic claims of authenticity. Original perspectives and behind-the-scenes content are becoming more effective ways to stand out.",
@@ -1465,6 +1453,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://supercite.ai/blog/ai-recommendations-come-from-lists"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "Why you WANT more unsubscribes",
+    "url": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you?utm_source=tldrmarketing",
+    "summary": "A very low unsubscribe rate can mean email is landing in spam, since nobody unsubscribes from a junk folder. Unsubscribing is also the least damaging way to leave, since a spam report hurts placement and silent non-readers drag it down over time. Splitting unsubscribes by opt-in type separates intentional sign-ups, whose exits signal a content problem, from consequential ones like gated downloads, whose quick exits are expected. Making the exit easy, and occasionally inviting it, keeps people who are done from reaching for the spam button.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://weareastral.co.uk/thevault/why-you-want-more-unsubscribes-what-a-low-unsubscribe-rate-is-really-telling-you"
    },
    {
     "newsletter": "marketing",
@@ -1628,18 +1628,6 @@
     "newsletter": "founders",
     "date": "2026-11-19",
     "section": "Miscellaneous",
-    "title": "There is only one company to build",
-    "url": "https://x.com/yrechtman/status/2123053089683062893?utm_source=tldrfounders",
-    "summary": "There's a single shape/direction emerging across all of the players in enterprise AI. Every company across the training data supply chain is becoming an AI transformation business. The only thing enterprise actually wants to buy is a change in their business. Founders can charge a lot more and have an easier time selling this if they just say they will sell the change enterprises want to make.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/yrechtman/status/2123053089683062893"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
     "title": "B2B PR That Gets Results with Michelle Garrett",
     "url": "https://www.buzzstream.com/blog/michelle-garrett-podcast/?utm_source=tldrfounders",
     "summary": "Michelle Garrett discusses effective B2B PR strategies, emphasizing the importance of targeted media lists and ongoing engagement over sporadic press releases. She highlights how building relationships with trade editors and focusing on specific industry publications can yield better results than a broad \"spray and pray\" approach. Garrett also advises incorporating visuals in PR content and tailoring case studies to address multiple stakeholders within B2B decision-making processes.",
@@ -1647,6 +1635,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://buzzstream.com/blog/michelle-garrett-podcast"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-19",
+    "section": "Miscellaneous",
+    "title": "There is only one company to build",
+    "url": "https://x.com/yrechtman/status/2123053089683062893?utm_source=tldrfounders",
+    "summary": "There's a single shape/direction emerging across all of the players in enterprise AI. Every company across the training data supply chain is becoming an AI transformation business. The only thing enterprise actually wants to buy is a change in their business. Founders can charge a lot more and have an easier time selling this if they just say they will sell the change enterprises want to make.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/yrechtman/status/2123053089683062893"
    },
    {
     "newsletter": "founders",
@@ -1664,18 +1664,6 @@
     "newsletter": "founders",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "Contexting vs. Context",
-    "url": "https://cutlefish.substack.com/p/tbm-452-contexting-vs-context?utm_source=tldrfounders",
-    "summary": "One product leader blamed their team for vague questions, then caught themselves doing the same to their own boss.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cutlefish.substack.com/p/tbm-452-contexting-vs-context"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-19",
-    "section": "Quick Links",
     "title": "An AI Agent Is Not Your Next Customer",
     "url": "https://pawelbrodzinski.substack.com/p/an-ai-agent-is-not-your-next-customer?utm_source=tldrfounders",
     "summary": "Almost nobody is using agents for transactions, and it's not a technical issue.",
@@ -1683,6 +1671,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://pawelbrodzinski.substack.com/p/an-ai-agent-is-not-your-next-customer"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Contexting vs. Context",
+    "url": "https://cutlefish.substack.com/p/tbm-452-contexting-vs-context?utm_source=tldrfounders",
+    "summary": "One product leader blamed their team for vague questions, then caught themselves doing the same to their own boss.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cutlefish.substack.com/p/tbm-452-contexting-vs-context"
    },
    {
     "newsletter": "founders",
@@ -1798,18 +1798,6 @@
     "newsletter": "crypto",
     "date": "2026-11-19",
     "section": "Miscellaneous",
-    "title": "If I were building a neobank today",
-    "url": "https://threadreaderapp.com/thread/2122992886975214067.html?utm_source=tldrcrypto",
-    "summary": "The post communicates 30 principles for a new neobank. Chief among them: go B2B for $50M+ revenue businesses in boring, cash-rich niches, with distribution as the only moat, credit products and underwriting as defensibility, and lending your own capital for higher margins. Dominate one industry first, choose the sponsor bank carefully, support stablecoins from day one, obsess over onboarding speed and compliance, and avoid competing on cashback alone. The biggest competitor is JPMorgan, and it's not worth calling yourself a neobank.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2122992886975214067.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-19",
-    "section": "Miscellaneous",
     "title": "ChatGPT Wallet is the right bet on the wrong timeline",
     "url": "https://x.com/vigstar1/status/2122745166280675589?utm_source=tldrcrypto",
     "summary": "OpenAI chose network agentic tokens, the right long-term approach, but incentives aren't aligned yet. Users get a worse experience (credit cards only, Face ID on every purchase, and thin recurring support). Merchants still carry dispute risk with no network liability framework, and one in three of 174 top stores couldn't reach guest checkout in one test. Issuers approve blind, with no standard view of intent and no answer on who absorbs chargebacks, and Visa expects agentic commerce to stay small through FY2027. OpenAI isn't taking a cut yet and lacks an Apple Pay-style deal. One should expect a fallback to raw card details in the near term.",
@@ -1821,14 +1809,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Binance Wallet launch Anthropic IPO xStocks event with 500M USDC cap",
-    "url": "https://threadreaderapp.com/thread/2122872586912907756.html?utm_source=tldrcrypto",
-    "summary": "Subscriptions for tokenized Anthropic shares run 06:00 to 14:00 UTC on November 18 in USDC.",
-    "read_minutes": 1,
+    "section": "Miscellaneous",
+    "title": "If I were building a neobank today",
+    "url": "https://threadreaderapp.com/thread/2122992886975214067.html?utm_source=tldrcrypto",
+    "summary": "The post communicates 30 principles for a new neobank. Chief among them: go B2B for $50M+ revenue businesses in boring, cash-rich niches, with distribution as the only moat, credit products and underwriting as defensibility, and lending your own capital for higher margins. Dominate one industry first, choose the sponsor bank carefully, support stablecoins from day one, obsess over onboarding speed and compliance, and avoid competing on cashback alone. The biggest competitor is JPMorgan, and it's not worth calling yourself a neobank.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2122872586912907756.html"
+    "key": "https://threadreaderapp.com/thread/2122992886975214067.html"
    },
    {
     "newsletter": "crypto",
@@ -1846,13 +1834,13 @@
     "newsletter": "crypto",
     "date": "2026-11-19",
     "section": "Quick Links",
-    "title": "On-chain derivatives are now 58% crypto and 42% RWA",
-    "url": "https://threadreaderapp.com/thread/2122779248662618453.html?utm_source=tldrcrypto",
-    "summary": "Markets keep falling, but the shift inside is accelerating.",
+    "title": "Binance Wallet launch Anthropic IPO xStocks event with 500M USDC cap",
+    "url": "https://threadreaderapp.com/thread/2122872586912907756.html?utm_source=tldrcrypto",
+    "summary": "Subscriptions for tokenized Anthropic shares run 06:00 to 14:00 UTC on November 18 in USDC.",
     "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2122779248662618453.html"
+    "key": "https://threadreaderapp.com/thread/2122872586912907756.html"
    },
    {
     "newsletter": "crypto",
@@ -1865,6 +1853,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://tether.io/news/tether-capital-invests-in-stables-to-expand-usdt-payment-infrastructure-across-asia-and-mena"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "On-chain derivatives are now 58% crypto and 42% RWA",
+    "url": "https://threadreaderapp.com/thread/2122779248662618453.html?utm_source=tldrcrypto",
+    "summary": "Markets keep falling, but the shift inside is accelerating.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2122779248662618453.html"
    }
   ],
   "fintech": [
@@ -1944,18 +1944,6 @@
     "newsletter": "fintech",
     "date": "2026-11-19",
     "section": "Deep Dives & Reports",
-    "title": "Life after the Swipe",
-    "url": "https://www.fintechbrainfood.com/p/life-after-the-swipe?utm_source=tldrfintech",
-    "summary": "This post walks through what happens after a card swipe and how card programs are built. Stablecoin-linked cards let issuers launch in 10 to 30+ markets from one dollar-denominated sponsor like Rain instead of a bank partner per country. Visa and Mastercard now accept stablecoin settlement seven days a week, so a multi-market program can collapse separate prefunded pots into one balance. Issuers also get new features: yield on dollar balances, loyalty rewards at any merchant terminal, and global co-brand cards for fan bases. Large domestic banks gain little from “T-shaped” programs (wide across markets and deep in products) like this.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fintechbrainfood.com/p/life-after-the-swipe"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-19",
-    "section": "Deep Dives & Reports",
     "title": "Block's turnaround strategy: two ecosystems, one bank",
     "url": "https://dwaynegefferie.substack.com/p/blocks-turnaround-strategy?utm_source=tldrfintech",
     "summary": "Block's turnaround came from narrowing its focus, cutting more than 40% of staff, consolidating around Square and Cash App, and then using its bank charter to scale consumer lending. Cash App now drives most of Block's growth, with $19 billion of quarterly consumer lending originations and rising gross profit per user, while Square is re-accelerating through stronger distribution, but the strategy also concentrates more risk in credit losses and regulatory controls.",
@@ -1963,6 +1951,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://dwaynegefferie.substack.com/p/blocks-turnaround-strategy"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-19",
+    "section": "Deep Dives & Reports",
+    "title": "Life after the Swipe",
+    "url": "https://www.fintechbrainfood.com/p/life-after-the-swipe?utm_source=tldrfintech",
+    "summary": "This post walks through what happens after a card swipe and how card programs are built. Stablecoin-linked cards let issuers launch in 10 to 30+ markets from one dollar-denominated sponsor like Rain instead of a bank partner per country. Visa and Mastercard now accept stablecoin settlement seven days a week, so a multi-market program can collapse separate prefunded pots into one balance. Issuers also get new features: yield on dollar balances, loyalty rewards at any merchant terminal, and global co-brand cards for fan bases. Large domestic banks gain little from “T-shaped” programs (wide across markets and deep in products) like this.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fintechbrainfood.com/p/life-after-the-swipe"
    },
    {
     "newsletter": "fintech",
@@ -1980,18 +1980,6 @@
     "newsletter": "fintech",
     "date": "2026-11-19",
     "section": "Launches & Products",
-    "title": "Plaid launches Agent Detection to identify AI-driven financial activity",
-    "url": "https://plaid.com/blog/agent-detection-agentic-finance/?utm_source=tldrfintech",
-    "summary": "Plaid launched Agent Detection to help banks and fintechs distinguish human activity from AI agents across login, onboarding, account linking, and money movement, including identifying which AI provider is behind a session. Plaid says the system detected 2.3x more agent sessions than competitors in live testing, and views it as the first layer of broader infrastructure for trusted agentic finance, where institutions can recognize agents, assess risk, and eventually let consumers authorize specific actions safely.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://plaid.com/blog/agent-detection-agentic-finance"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-19",
-    "section": "Launches & Products",
     "title": "Mastercard opens Singapore innovation centre of excellence",
     "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_source=tldrfintech",
     "summary": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce, and cybersecurity.",
@@ -2003,14 +1991,14 @@
    {
     "newsletter": "fintech",
     "date": "2026-11-19",
-    "section": "Miscellaneous",
-    "title": "Blue J lands $176m to put AI agents on tax desks",
-    "url": "https://fintech.global/2026/11/16/blue-j-lands-176m-to-put-ai-agents-on-tax-desks/?utm_source=tldrfintech",
-    "summary": "Blue J raised a $176 million Series E led by JMI Equity at a valuation above $700 million to expand Workflows, an agentic product that checks returns before filing, drafts replies to IRS notices, and reviews partnership agreements. The company says ARR grew 165% in the 15 months after its Series D, and that more than 6,500 organizations use its research engine.",
-    "read_minutes": 3,
+    "section": "Launches & Products",
+    "title": "Plaid launches Agent Detection to identify AI-driven financial activity",
+    "url": "https://plaid.com/blog/agent-detection-agentic-finance/?utm_source=tldrfintech",
+    "summary": "Plaid launched Agent Detection to help banks and fintechs distinguish human activity from AI agents across login, onboarding, account linking, and money movement, including identifying which AI provider is behind a session. Plaid says the system detected 2.3x more agent sessions than competitors in live testing, and views it as the first layer of broader infrastructure for trusted agentic finance, where institutions can recognize agents, assess risk, and eventually let consumers authorize specific actions safely.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://fintech.global/2026/11/16/blue-j-lands-176m-to-put-ai-agents-on-tax-desks"
+    "key": "https://plaid.com/blog/agent-detection-agentic-finance"
    },
    {
     "newsletter": "fintech",
@@ -2027,14 +2015,14 @@
    {
     "newsletter": "fintech",
     "date": "2026-11-19",
-    "section": "Quick Links",
-    "title": "Italian court places Revolut unit under supervision over anti-money laundering failures",
-    "url": "https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/?utm_source=tldrfintech",
-    "summary": "An Italian court placed Revolut Bank UAB's Italian operations under one year of judicial administration after finding serious anti-money laundering deficiencies that allegedly allowed 24 suspected or convicted criminals to move €41.9 million through the bank without Revolut filing any suspicious transaction reports.",
-    "read_minutes": 5,
+    "section": "Miscellaneous",
+    "title": "Blue J lands $176m to put AI agents on tax desks",
+    "url": "https://fintech.global/2026/11/16/blue-j-lands-176m-to-put-ai-agents-on-tax-desks/?utm_source=tldrfintech",
+    "summary": "Blue J raised a $176 million Series E led by JMI Equity at a valuation above $700 million to expand Workflows, an agentic product that checks returns before filing, drafts replies to IRS notices, and reviews partnership agreements. The company says ARR grew 165% in the 15 months after its Series D, and that more than 6,500 organizations use its research engine.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16"
+    "key": "https://fintech.global/2026/11/16/blue-j-lands-176m-to-put-ai-agents-on-tax-desks"
    },
    {
     "newsletter": "fintech",
@@ -2047,6 +2035,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bankingdive.com/spons/building-trust-in-an-ai-driven-banking-landscape/874633"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-19",
+    "section": "Quick Links",
+    "title": "Italian court places Revolut unit under supervision over anti-money laundering failures",
+    "url": "https://www.reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16/?utm_source=tldrfintech",
+    "summary": "An Italian court placed Revolut Bank UAB's Italian operations under one year of judicial administration after finding serious anti-money laundering deficiencies that allegedly allowed 24 suspected or convicted criminals to move €41.9 million through the bank without Revolut filing any suspicious transaction reports.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/finance/italian-court-places-revolut-unit-under-supervision-over-money-laundering-2026-11-16"
    }
   ],
   "it": [
@@ -2090,18 +2090,6 @@
     "newsletter": "it",
     "date": "2026-11-19",
     "section": "Analysis & Opinions",
-    "title": "A bottle-cap manufacturer offers a reality check on AI",
-    "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651?utm_source=tldrit",
-    "summary": "A manufacturer's presentation challenged the assumption that every business process is ready for AI automation, pointing to aging equipment, limited digital skills, and thin margins. Successful adoption starts with understanding employees' practical knowledge and operational constraints.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-19",
-    "section": "Analysis & Opinions",
     "title": "AI is blurring the lines between CIO, CISO, and CRO",
     "url": "https://www.cio.com/article/4249210/ai-is-blurring-the-lines-between-cio-ciso-and-cro.html?utm_source=tldrit",
     "summary": "Autonomous agentic AI in enterprise environments blurs traditional organizational lines between the CIO, CISO, and CRO because current governance models rely on human decision structures that are too slow. As agents make rapid operational decisions with broad consequences, organizations lack clear definitions of operational authority and risk ownership. Companies need to establish explicit decision mandates, pre-agreed tie-breaks, and comprehensive decision trails to maintain human accountability.",
@@ -2109,6 +2097,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cio.com/article/4249210/ai-is-blurring-the-lines-between-cio-ciso-and-cro.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-19",
+    "section": "Analysis & Opinions",
+    "title": "A bottle-cap manufacturer offers a reality check on AI",
+    "url": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651?utm_source=tldrit",
+    "summary": "A manufacturer's presentation challenged the assumption that every business process is ready for AI automation, pointing to aging equipment, limited digital skills, and thin margins. Successful adoption starts with understanding employees' practical knowledge and operational constraints.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651"
    },
    {
     "newsletter": "it",
