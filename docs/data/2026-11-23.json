@@ -344,18 +344,6 @@
     "newsletter": "ai",
     "date": "2026-11-23",
     "section": "Engineering & Research",
-    "title": "Become a founding member of TLDR's AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-23",
-    "section": "Engineering & Research",
     "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models",
     "url": "https://research.nvidia.com/labs/genair/sigma/?utm_source=tldrai",
     "summary": "Nemotron-Labs-Sigma is a family of 14 open checkpoints at 3B and 8B that generate text by denoising compact token embeddings instead of predicting one token at a time. The 8B model supports few-step generation and self-speculative decoding, reaching a 3.46x average throughput speedup over autoregressive decoding on a GB200.",
@@ -375,6 +363,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://huggingface.co/blog/harness-adapters-at-scale"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-23",
+    "section": "Engineering & Research",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
    },
    {
     "newsletter": "ai",
@@ -720,18 +720,6 @@
     "newsletter": "infosec",
     "date": "2026-11-23",
     "section": "Attacks & Vulnerabilities",
-    "title": "Hacker leaks details of JPMorgan's ultra-wealthy cardholders",
-    "url": "https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang/?utm_source=tldrinfosec",
-    "summary": "The n0n ransomware gang published data tied to JPMorgan Chase's invitation-only Reserve card program. Cybernews researchers identified about 16,000 customer email addresses, some phone numbers and account IDs, plus 124 employee email addresses. JPMorgan says attackers targeted third-party vendors and accessed marketing data. Visa said the source was an Asia-Pacific service provider. The exposure supports targeted phishing and social engineering against wealthy cardholders and bank staff. JPMorgan says there is no evidence connecting the leak to its recent service outage.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-23",
-    "section": "Attacks & Vulnerabilities",
     "title": "Researchers plant 2m canaries into the AI supply chain. A privacy disaster surfaced.",
     "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/?utm_source=tldrinfosec",
     "summary": "HD Moore sent nearly 2 million prompts containing unique AWS keys, passwords, URLs, and repository references to AI providers. Attackers compromised three hosting providers, copied requests, tested stolen credentials, and searched AWS resources. Some resellers logged prompts and passed credentials onward. A Chinese AI lab fetched secret URLs from over half of prompts, including requests marked “no data collection” or Zero Data Retention. OpenRouter has warned customers that MiniMax may have read prompts sent to it.",
@@ -751,6 +739,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-23",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Hacker leaks details of JPMorgan's ultra-wealthy cardholders",
+    "url": "https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang/?utm_source=tldrinfosec",
+    "summary": "The n0n ransomware gang published data tied to JPMorgan Chase's invitation-only Reserve card program. Cybernews researchers identified about 16,000 customer email addresses, some phone numbers and account IDs, plus 124 employee email addresses. JPMorgan says attackers targeted third-party vendors and accessed marketing data. Visa said the source was an Asia-Pacific service provider. The exposure supports targeted phishing and social engineering against wealthy cardholders and bank staff. JPMorgan says there is no evidence connecting the leak to its recent service outage.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cybernews.com/security/jpmorgan-chase-data-leak-non-ransomware-gang"
    },
    {
     "newsletter": "infosec",
@@ -1678,18 +1678,6 @@
     "newsletter": "founders",
     "date": "2026-11-23",
     "section": "Headlines & Trends",
-    "title": "Crazy Agent Scale: Companies All-in on AI",
-    "url": "https://www.lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai?utm_source=tldrfounders",
-    "summary": "Experts demonstrated what pushing agents to their limits looks like today at the Crazy Agent Scale event at Sutter Hill Ventures. Clement Pang, co-founder of Wavefront, shared lessons from building an open-source system for large-scale agent orchestration. David Cramer, co-founder of Sentry, discussed using one agent for the whole company. Shawn Wang, an AI engineer, discussed tiny teams and internal tools. Quinn Slack, CEO of Amp and Co-founder of Sourcegraph, shared how to use agents to scale. John Hayes talked about running a software factory in production.",
-    "read_minutes": 15,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-23",
-    "section": "Headlines & Trends",
     "title": "Always on: What it's like being a twenty-something founder in the age of AI",
     "url": "https://review.firstround.com/young-ai-founders/?utm_source=tldrfounders",
     "summary": "Young AI startups often try to win over big enterprise buyers through sheer speed. First Round interviewed young leaders behind Gumloop and Reducto about running companies in this wave. A buyer asked Gumloop for new features at 10 AM and got a walkthrough of them live by 5 PM, which Gumloop says changed how the buyer saw the team even though the features went unused. Enterprise deals still brought growing pains, with Reducto mishandling early procurement and Gumloop eventually hiring experienced enterprise sellers. The leaders also separate their own hours from what they ask of staff.",
@@ -1697,6 +1685,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://review.firstround.com/young-ai-founders"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-23",
+    "section": "Headlines & Trends",
+    "title": "Crazy Agent Scale: Companies All-in on AI",
+    "url": "https://www.lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai?utm_source=tldrfounders",
+    "summary": "Experts demonstrated what pushing agents to their limits looks like today at the Crazy Agent Scale event at Sutter Hill Ventures. Clement Pang, co-founder of Wavefront, shared lessons from building an open-source system for large-scale agent orchestration. David Cramer, co-founder of Sentry, discussed using one agent for the whole company. Shawn Wang, an AI engineer, discussed tiny teams and internal tools. Quinn Slack, CEO of Amp and Co-founder of Sourcegraph, shared how to use agents to scale. John Hayes talked about running a software factory in production.",
+    "read_minutes": 15,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://lukew.com/ff/2173/crazy-agent-scale-companies-all-in-on-ai"
    },
    {
     "newsletter": "founders",
