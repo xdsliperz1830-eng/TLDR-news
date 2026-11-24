@@ -30,18 +30,6 @@
     "newsletter": "tech",
     "date": "2026-11-24",
     "section": "Science & Futuristic Technology",
-    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
-    "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/?utm_source=tldrnewsletter",
-    "summary": "Cells have a native repair mechanism for DNA that recognizes and replaces faulty DNA before lasting damage or dysfunction can set in. This ability evolved essentially at the same time as DNA, as it is impossible to have stable genetic information without DNA repair. The mechanisms are essential to the evolutionary lineage of all known life. Scientists and doctors experimenting with gene editing use these natural self-editing and repair tools to insert, delete, or mutate genes to study and treat disease.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-24",
-    "section": "Science & Futuristic Technology",
     "title": "Tesla FSD v15 is AI4's last shot as Musk reveals how little compute is left",
     "url": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/?utm_source=tldrnewsletter",
     "summary": "Tesla's FSD v15 is the company's last real shot at delivering unsupervised self-driving on the AI4 computer. The next-gen A15 chip will not be coming to cars, and the mid-cycle AI4.5 upgrade had its RAM cut from 32GB to 24GB. The mid-cycle refresh exists mainly because Tesla needs a new memory type it can actually buy. The cost of the AI4 chip is now twice as much due to memory and storage price hikes.",
@@ -49,6 +37,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-24",
+    "section": "Science & Futuristic Technology",
+    "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+    "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/?utm_source=tldrnewsletter",
+    "summary": "Cells have a native repair mechanism for DNA that recognizes and replaces faulty DNA before lasting damage or dysfunction can set in. This ability evolved essentially at the same time as DNA, as it is impossible to have stable genetic information without DNA repair. The mechanisms are essential to the evolutionary lineage of all known life. Scientists and doctors experimenting with gene editing use these natural self-editing and repair tools to insert, delete, or mutate genes to study and treat disease.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123"
    },
    {
     "newsletter": "tech",
@@ -236,18 +236,6 @@
     "newsletter": "webdev",
     "date": "2026-11-24",
     "section": "Articles & Tutorials",
-    "title": "OpenAI and Cisco Introduce Shirudo",
-    "url": "https://openai.com/index/introducing-shirudo/?utm_source=tldrdev",
-    "summary": "Shirudo is an open-source runtime that lets operators deploy temporary eBPF protections on Linux while they roll out permanent patches. Teams can observe a shield's effect on live workloads before enabling it, and apply approved protections without restarting the service.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://openai.com/index/introducing-shirudo"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-24",
-    "section": "Articles & Tutorials",
     "title": "Building a Continuous Software Engine the Hard Way",
     "url": "https://jonmagic.com/posts/trying-over-and-over-to-build-a-continuous-software-machine?utm_source=tldrdev",
     "summary": "After an overnight coding agent kept getting stuck, its orchestrator was rebuilt to manage state, retries, and independent review in code. The new engine landed 137 verified commits across three repositories in roughly 24 hours, including benchmarks and diagnostic writeups, and still hit a scheduler deadlock.",
@@ -255,6 +243,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://jonmagic.com/posts/trying-over-and-over-to-build-a-continuous-software-machine"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-24",
+    "section": "Articles & Tutorials",
+    "title": "OpenAI and Cisco Introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo/?utm_source=tldrdev",
+    "summary": "Shirudo is an open-source runtime that lets operators deploy temporary eBPF protections on Linux while they roll out permanent patches. Teams can observe a shield's effect on live workloads before enabling it, and apply approved protections without restarting the service.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://openai.com/index/introducing-shirudo"
    },
    {
     "newsletter": "webdev",
@@ -576,18 +576,6 @@
     "newsletter": "design",
     "date": "2026-11-24",
     "section": "News & Trends",
-    "title": "Figma Brings its Agent to Dev Mode for Design Handoffs",
-    "url": "https://ux-news.com/figma-agent-dev-mode-design-handoff/?utm_source=tldrdesign",
-    "summary": "Figma's agent now works inside Dev Mode, answering design questions, comparing versions, and preparing code snippets and asset download links. Dev seats can chat without changing a design, while Full seats with edit access can also request edits. Dev Mode is unavailable on Starter plans, and agent usage consumes AI credits based on task complexity.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ux-news.com/figma-agent-dev-mode-design-handoff"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-24",
-    "section": "News & Trends",
     "title": "Why has North Korea redesigned its flag? It's not about aesthetics...",
     "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics?utm_source=tldrdesign",
     "summary": "North Korea has changed its national flag's proportions from 1:2 to 1:1.65, thickening the white stripes and shifting the star closer to the center. The move may reflect its increasingly explicit rejection of reunification with South Korea rather than a purely aesthetic redesign.",
@@ -611,14 +599,14 @@
    {
     "newsletter": "design",
     "date": "2026-11-24",
-    "section": "Opinions & Tutorials",
-    "title": "Design Tools Just Got Personal",
-    "url": "https://marieclairedean.substack.com/p/design-tools-just-got-personal?utm_source=tldrdesign",
-    "summary": "Building your own tools is part of the design job again. In the UX Tools prototyping survey, 59% of 1,478 respondents had built a tool of their own with AI in the previous six months. Those tools encode a designer's judgment and way of working, making them more worth showing in a portfolio than finished screens.",
-    "read_minutes": 6,
+    "section": "News & Trends",
+    "title": "Figma Brings its Agent to Dev Mode for Design Handoffs",
+    "url": "https://ux-news.com/figma-agent-dev-mode-design-handoff/?utm_source=tldrdesign",
+    "summary": "Figma's agent now works inside Dev Mode, answering design questions, comparing versions, and preparing code snippets and asset download links. Dev seats can chat without changing a design, while Full seats with edit access can also request edits. Dev Mode is unavailable on Starter plans, and agent usage consumes AI credits based on task complexity.",
+    "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://marieclairedean.substack.com/p/design-tools-just-got-personal"
+    "key": "https://ux-news.com/figma-agent-dev-mode-design-handoff"
    },
    {
     "newsletter": "design",
@@ -631,6 +619,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-24",
+    "section": "Opinions & Tutorials",
+    "title": "Design Tools Just Got Personal",
+    "url": "https://marieclairedean.substack.com/p/design-tools-just-got-personal?utm_source=tldrdesign",
+    "summary": "Building your own tools is part of the design job again. In the UX Tools prototyping survey, 59% of 1,478 respondents had built a tool of their own with AI in the previous six months. Those tools encode a designer's judgment and way of working, making them more worth showing in a portfolio than finished screens.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://marieclairedean.substack.com/p/design-tools-just-got-personal"
    },
    {
     "newsletter": "design",
@@ -660,18 +660,6 @@
     "newsletter": "design",
     "date": "2026-11-24",
     "section": "Launches & Tools",
-    "title": "The Feedback Layer for Prototypes",
-    "url": "https://inflight.co/?utm_source=tldrdesign",
-    "summary": "Turn pinned comments and video replies into clear next steps for your coding agent.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://inflight.co/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-24",
-    "section": "Launches & Tools",
     "title": "Free AI Image Detector",
     "url": "https://checkobot.ai/?utm_source=tldrdesign",
     "summary": "Show Checko a photo. It looks for AI generation, AI edits, and face swaps, then tells you what it found and why.",
@@ -684,6 +672,18 @@
     "newsletter": "design",
     "date": "2026-11-24",
     "section": "Launches & Tools",
+    "title": "The Feedback Layer for Prototypes",
+    "url": "https://inflight.co/?utm_source=tldrdesign",
+    "summary": "Turn pinned comments and video replies into clear next steps for your coding agent.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://inflight.co/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-24",
+    "section": "Launches & Tools",
     "title": "HD GIF & WebP Maker",
     "url": "https://gifrun.com/?utm_source=tldrdesign",
     "summary": "Create high-quality GIFs and WebP clips from YouTube videos, uploads, and video links.",
@@ -691,6 +691,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://gifrun.com/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-24",
+    "section": "Miscellaneous",
+    "title": "Figma Prototype Usability Testing: How to Test with Users before You Build",
+    "url": "https://www.loop11.com/figma-prototype-usability-testing/?utm_source=tldrdesign",
+    "summary": "Testing a Figma prototype with users before engineering builds it turns review debates about taste into evidence: task success, time on task, paths, and recordings. Fair results depend on linking every screen a task needs, sharing a login-free link, and writing tasks as goals rather than click paths. Rerunning the same tasks on the live site later yields a comparable before-and-after baseline.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://loop11.com/figma-prototype-usability-testing"
    },
    {
     "newsletter": "design",
@@ -719,14 +731,14 @@
    {
     "newsletter": "design",
     "date": "2026-11-24",
-    "section": "Miscellaneous",
-    "title": "Figma Prototype Usability Testing: How to Test with Users before You Build",
-    "url": "https://www.loop11.com/figma-prototype-usability-testing/?utm_source=tldrdesign",
-    "summary": "Testing a Figma prototype with users before engineering builds it turns review debates about taste into evidence: task success, time on task, paths, and recordings. Fair results depend on linking every screen a task needs, sharing a login-free link, and writing tasks as goals rather than click paths. Rerunning the same tasks on the live site later yields a comparable before-and-after baseline.",
-    "read_minutes": 7,
+    "section": "Quick Links",
+    "title": "Adobe's Democratization of Design Doesn't Have to Be the Death of Human Creativity",
+    "url": "https://www.creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity?utm_source=tldrdesign",
+    "summary": "Adobe MAX 2026 made clear that Adobe pitches its tools at everyone, from novices to industry veterans, deepening worries about AI slop and the value of craft.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://loop11.com/figma-prototype-usability-testing"
+    "key": "https://creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity"
    },
    {
     "newsletter": "design",
@@ -739,18 +751,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://natlawreview.com/press-releases/creative-repute-details-six-step-uxui-design-process-clients"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-24",
-    "section": "Quick Links",
-    "title": "Adobe's Democratization of Design Doesn't Have to Be the Death of Human Creativity",
-    "url": "https://www.creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity?utm_source=tldrdesign",
-    "summary": "Adobe MAX 2026 made clear that Adobe pitches its tools at everyone, from novices to industry veterans, deepening worries about AI slop and the value of craft.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity"
    }
   ],
   "marketing": [
@@ -1012,18 +1012,6 @@
     "newsletter": "founders",
     "date": "2026-11-24",
     "section": "Miscellaneous",
-    "title": "Stop asking users what they want",
-    "url": "https://newsletter.posthog.com/p/user-interviews?utm_source=tldrfounders",
-    "summary": "Users will only tell you what they think they want. They don't know what they actually need because they haven't spent as much time thinking about it. Product engineers need to spend more time talking to users to understand their real problems so they can solve them. Ask questions that get real, useful intel on what to build.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://newsletter.posthog.com/p/user-interviews"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-24",
-    "section": "Miscellaneous",
     "title": "Watching users is how you make products better",
     "url": "https://jan.miksovsky.com/posts/2026/11-23-observing-users.html?utm_source=tldrfounders",
     "summary": "Few companies watch real people use their products anymore. Several people getting stuck in the same place marks a real problem, so repeat the sessions after a fix. Go where each person normally uses the product and let them use their own device. Give them a short script of basic tasks and ask them to think out loud while you say as little as possible.",
@@ -1035,14 +1023,14 @@
    {
     "newsletter": "founders",
     "date": "2026-11-24",
-    "section": "Quick Links",
-    "title": "Starting a firm at 58: zero sales calls from 62 LinkedIn requests",
-    "url": "https://jamiewatters.work/journey/old-dog-new-tricks-part-2?utm_source=tldrfounders",
-    "summary": "An ex-banker reports no sales calls from 62 LinkedIn requests and now asks prospects about their last supplier review in exchange for findings.",
-    "read_minutes": 4,
+    "section": "Miscellaneous",
+    "title": "Stop asking users what they want",
+    "url": "https://newsletter.posthog.com/p/user-interviews?utm_source=tldrfounders",
+    "summary": "Users will only tell you what they think they want. They don't know what they actually need because they haven't spent as much time thinking about it. Product engineers need to spend more time talking to users to understand their real problems so they can solve them. Ask questions that get real, useful intel on what to build.",
+    "read_minutes": 9,
     "kind": null,
     "sponsored": false,
-    "key": "https://jamiewatters.work/journey/old-dog-new-tricks-part-2"
+    "key": "https://newsletter.posthog.com/p/user-interviews"
    },
    {
     "newsletter": "founders",
@@ -1055,6 +1043,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://growth-memo.com/p/denominaitor"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "Starting a firm at 58: zero sales calls from 62 LinkedIn requests",
+    "url": "https://jamiewatters.work/journey/old-dog-new-tricks-part-2?utm_source=tldrfounders",
+    "summary": "An ex-banker reports no sales calls from 62 LinkedIn requests and now asks prospects about their last supplier review in exchange for findings.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jamiewatters.work/journey/old-dog-new-tricks-part-2"
    },
    {
     "newsletter": "founders",
@@ -1194,30 +1194,6 @@
     "newsletter": "crypto",
     "date": "2026-11-24",
     "section": "Quick Links",
-    "title": "Lessons learned from 15 years in crypto",
-    "url": "https://threadreaderapp.com/thread/2124498180289315099.html?utm_source=tldrcrypto",
-    "summary": "Focus on reality over the perception game, since many once-legit founders and VCs have come and gone, and take the other side when the timeline is shilling a narrative.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2124498180289315099.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-24",
-    "section": "Quick Links",
-    "title": "Visa partners with Singapore's dtcpay to pilot USDC-powered cross-border payments across Asia-Pacific",
-    "url": "https://threadreaderapp.com/thread/2124763925241597971.html?utm_source=tldrcrypto",
-    "summary": "The pilot uses USDC to pre-fund Visa Direct transfers, while recipients get local fiat through bank accounts, eligible Visa cards, and supported digital wallets.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2124763925241597971.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-24",
-    "section": "Quick Links",
     "title": "Bitcoin ETFs Post $1.79B Weekly Outflow, Third-Largest on Record",
     "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=tldrcrypto",
     "summary": "US spot Bitcoin ETFs recorded approximately $1.79B in net outflows last week, the third-largest weekly total since the product category launched in January 2024, extending a four-week redemption streak to $4.34B.",
@@ -1230,6 +1206,18 @@
     "newsletter": "crypto",
     "date": "2026-11-24",
     "section": "Quick Links",
+    "title": "Lessons learned from 15 years in crypto",
+    "url": "https://threadreaderapp.com/thread/2124498180289315099.html?utm_source=tldrcrypto",
+    "summary": "Focus on reality over the perception game, since many once-legit founders and VCs have come and gone, and take the other side when the timeline is shilling a narrative.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2124498180289315099.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-24",
+    "section": "Quick Links",
     "title": "Chainflip Confirms $12M Vault Hack, Offers Attacker 10% Bounty",
     "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=tldrcrypto",
     "summary": "Chainflip confirmed attackers drained approximately $12 million from its vaults, comprising 122.86 BTC, 520.22 ETH, 3.25 million USDC, and 758,141 USDT, more than doubling the initial $4.86 million estimate.",
@@ -1237,6 +1225,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "Visa partners with Singapore's dtcpay to pilot USDC-powered cross-border payments across Asia-Pacific",
+    "url": "https://threadreaderapp.com/thread/2124763925241597971.html?utm_source=tldrcrypto",
+    "summary": "The pilot uses USDC to pre-fund Visa Direct transfers, while recipients get local fiat through bank accounts, eligible Visa cards, and supported digital wallets.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2124763925241597971.html"
    }
   ],
   "it": [
@@ -1251,30 +1251,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://amd.com/en/products/processors/server/epyc/9006-series/9006-sp7.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-24",
-    "section": "News & Trends",
-    "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
-    "url": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656?utm_source=chatgpt.com",
-    "summary": "Microsoft's final incident report reveals how a Windows defect went undetected for months before overwhelming Microsoft 365 gateway servers. At its peak, more than 80% of North American gateway servers were unresponsive. Microsoft identified gaps in load testing, failover procedures, and infrastructure capacity, and plans to improve service isolation and recovery mechanisms.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-24",
-    "section": "News & Trends",
-    "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-    "url": "https://therecord.media/crowdstrike-zscaler?&utm_source=tldrit",
-    "summary": "CrowdStrike has announced an all-stock acquisition of Zscaler, bringing endpoint protection, zero-trust networking, cloud security, and threat intelligence under one platform. Zscaler CEO Jay Chaudhry will continue leading the business and join CrowdStrike's board. The deal represents a major step toward security platform consolidation and could reshape enterprise security purchasing decisions.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://therecord.media/crowdstrike-zscaler"
    },
    {
     "newsletter": "it",
@@ -1303,6 +1279,30 @@
    {
     "newsletter": "it",
     "date": "2026-11-24",
+    "section": "News & Trends",
+    "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+    "url": "https://therecord.media/crowdstrike-zscaler?&utm_source=tldrit",
+    "summary": "CrowdStrike has announced an all-stock acquisition of Zscaler, bringing endpoint protection, zero-trust networking, cloud security, and threat intelligence under one platform. Zscaler CEO Jay Chaudhry will continue leading the business and join CrowdStrike's board. The deal represents a major step toward security platform consolidation and could reshape enterprise security purchasing decisions.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://therecord.media/crowdstrike-zscaler"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-24",
+    "section": "News & Trends",
+    "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+    "url": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656?utm_source=chatgpt.com",
+    "summary": "Microsoft's final incident report reveals how a Windows defect went undetected for months before overwhelming Microsoft 365 gateway servers. At its peak, more than 80% of North American gateway servers were unresponsive. Microsoft identified gaps in load testing, failover procedures, and infrastructure capacity, and plans to improve service isolation and recovery mechanisms.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-24",
     "section": "Analysis & Opinions",
     "title": "AI is changing the build-versus-buy equation. Are CIOs ready?",
     "url": "https://www.cio.com/article/4250943/ai-is-changing-the-build-versus-buy-equation-are-cios-ready.html?utm_source=tldrit",
@@ -1316,18 +1316,6 @@
     "newsletter": "it",
     "date": "2026-11-24",
     "section": "Analysis & Opinions",
-    "title": "Should Apple really move fast and break things?",
-    "url": "https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html?utm_source=tldrit",
-    "summary": "As Apple faces pressure to accelerate its AI development, its deliberate engineering culture could be a competitive advantage. Introducing unreliable AI capabilities at the operating system level carries greater consequences than standalone chatbot errors, making reliability, privacy, and customer trust particularly important.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-24",
-    "section": "Analysis & Opinions",
     "title": "How AI impacted the release of Postgres 19",
     "url": "https://www.infoworld.com/article/4251532/how-ai-impacted-the-release-of-postgres-19.html?utm_source=tldrit",
     "summary": "AI-assisted testing uncovered numerous defects during PostgreSQL 19 development, contributing to its delayed release. The experience highlights an emerging engineering challenge: while AI accelerates development and bug discovery, human validation, architectural decisions, and quality assurance remain critical bottlenecks.",
@@ -1335,6 +1323,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://infoworld.com/article/4251532/how-ai-impacted-the-release-of-postgres-19.html"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-24",
+    "section": "Analysis & Opinions",
+    "title": "Should Apple really move fast and break things?",
+    "url": "https://www.computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html?utm_source=tldrit",
+    "summary": "As Apple faces pressure to accelerate its AI development, its deliberate engineering culture could be a competitive advantage. Introducing unreliable AI capabilities at the operating system level carries greater consequences than standalone chatbot errors, making reliability, privacy, and customer trust particularly important.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://computerworld.com/article/4252153/should-apple-really-move-fast-and-break-things.html"
    },
    {
     "newsletter": "it",
@@ -1436,18 +1436,6 @@
     "newsletter": "it",
     "date": "2026-11-24",
     "section": "Quick Links",
-    "title": "Critical Cisco remote code execution bug under attack",
-    "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722?utm_source=tldrit",
-    "summary": "CISA has added a critical Cisco Expressway vulnerability affecting clustered deployments to its Known Exploited Vulnerabilities catalog.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-24",
-    "section": "Quick Links",
     "title": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
     "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/?utm_source=tldrit",
     "summary": "AWS introduces controls to temporarily suspend Auto Scaling activities during application deployments, preventing instances from being replaced mid-update.",
@@ -1455,6 +1443,212 @@
     "kind": null,
     "sponsored": false,
     "key": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "Critical Cisco remote code execution bug under attack",
+    "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722?utm_source=tldrit",
+    "summary": "CISA has added a critical Cisco Expressway vulnerability affecting clustered deployments to its Known Exploited Vulnerabilities catalog.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
+   }
+  ],
+  "infosec": [
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Attacks & Vulnerabilities",
+    "title": "VirtualBox Process Hardening on Windows 2026 Edition: What's a Single Bit Between Friends?",
+    "url": "https://projectzero.google/2026/11/virtualbox-process-hardening.html?utm_source=tldrinfosec",
+    "summary": "Clearing a single bit, the IMAGE_FILE_EXECUTABLE_IMAGE flag in a .NET assembly's PE header, makes NtCreateSection reject the file while the .NET Framework still loads it through a flat-image fallback that skips code integrity checks. Project Zero's James Forshaw used this to load untrusted code into hardened VirtualBox processes (CVE-2026-87268), bypass UMCI on Windows 11 S Mode through regasm.exe (CVE-2026-108398), and get TCB-level PPL code execution without admin rights by hijacking a COM object. Microsoft fixed the WLDP check in October, but the PPL bypass remains outside MSRC's servicing criteria, so defenders running WDAC should also enable the Dynamic Code Security option, which blocks the attack.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://projectzero.google/2026/11/virtualbox-process-hardening.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Critical Cisco remote code execution bug under attack",
+    "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722?utm_source=tldrinfosec",
+    "summary": "Attackers exploited CVE-2026-76466 in clustered Cisco Expressway-C and Expressway-E gateways. The flaw uses hard-coded credentials and weak certificate validation to gain unauthenticated root command execution. F6 observed two internet-facing devices compromised, then accessed two internal cluster nodes as attackers deployed Python scripts for SMB discovery, SQL Server and WinRM interaction, and GitLab credential searches. CISA added the 9.8-CVSS bug to its Known Exploited Vulnerabilities catalog and set a Monday patch deadline for federal agencies.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html?utm_source=tldrinfosec",
+    "summary": "binary-parser versions before 2.3.1 contain CVE-2026-134814, a code-injection flaw with CVSS scores of 9.2 and 8.1. An attacker who controls parser definitions can inject JavaScript through unvalidated string options, including length, lengthInBytes, key, tag, offset, and namely() aliases. The code runs in the Node.js process when the parser compiles. Parsing untrusted binary data with a trusted definition is unaffected. Update to 2.3.1 or later.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Strategies & Tactics",
+    "title": "Things LLMs Get Wrong About AWS IAM",
+    "url": "https://engseclabs.com/blog/things-llms-get-wrong-about-aws-iam/?utm_source=tldrinfosec",
+    "summary": "Writing AWS IAM permissions requires wading through a complex set of nuances. This post highlights three common anti-patterns that coding agents frequently trip over while writing policies. Agents often overuse Deny policies and permission boundaries, as well as unnecessarily include Allow statements for sts:GetCallerIdentity, which can never be denied.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://engseclabs.com/blog/things-llms-get-wrong-about-aws-iam"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Strategies & Tactics",
+    "title": "Sandboxing AI Coding Agents: nono vs Docker Sandboxes vs Microsandbox vs OpenShell",
+    "url": "https://kudelskisecurity.com/research/sandboxing-coding-agents?utm_source=tldrinfosec",
+    "summary": "Kudelski Security tested nono, Docker Sandboxes, Microsandbox, and NVIDIA OpenShell for running AI coding agents safely. All four scored 4 to 4.5 out of 5. Docker Sandboxes and Microsandbox use microVMs, nono uses OS-level controls and starts fastest, and OpenShell supports several isolation backends. The review covers filesystem limits, network filtering, DNS rebinding, credential injection, resource controls, logging, and agent-specific profiles. Only nono and OpenShell scope credentials to both a domain and an endpoint. None can deny a file inside an allowed directory or customize allowed syscalls.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://kudelskisecurity.com/research/sandboxing-coding-agents"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Strategies & Tactics",
+    "title": "Supply Chain Compromise Backdoors Six WP Connect Plugins, Blocked by WordPress.org's Release Hold",
+    "url": "https://www.wordfence.com/blog/2026/11/supply-chain-compromise-backdoors-six-wp-connect-plugins-blocked-by-wordpress-orgs-release-hold/?utm_source=tldrinfosec",
+    "summary": "An attacker used WP Connect's own WordPress.org account to push backdoored releases of six plugins, including Air WP Sync and WP Sync for Notion, within about two hours. Each release added a fake \"analytics and auto-update\" module that checked in to tascredit-pay[.]com on every request with TLS verification turned off, ran whatever PHP the server sent back through eval(), and could also run shell commands, dump password hashes, and plant webshells. WordPress.org's new release cooling-off period under Protect The Shire stopped the updates before any site got them, and the developer says the account was compromised. However, admins should still check for the affected versions (CVE-2026-135202), remove them, and scan their sites for webshells and rogue WP-Cron hooks.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wordfence.com/blog/2026/11/supply-chain-compromise-backdoors-six-wp-connect-plugins-blocked-by-wordpress-orgs-release-hold"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Launches & Tools",
+    "title": "Reach 8 million tech professionals reading TLDR",
+    "url": "https://advertise.tldr.tech/?utm_source=tldrinfosec&utm_medium=newsletter&utm_campaign=secondary11242026&sp=c6gGNEDlXY84eaK7mxeE1Xup",
+    "summary": "Ads get ignored on social media but not in TLDR! Reach security engineers and CISOs where they actually pay attention. Learn more about sponsorship opportunities .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://advertise.tldr.tech/"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Launches & Tools",
+    "title": "StepSecurity (Product Launch)",
+    "url": "https://www.stepsecurity.io/?utm_source=tldrinfosec",
+    "summary": "StepSecurity protects software development from malicious components. Its platform covers developer systems, repositories, package registries, CI/CD runners, and coding agents.",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://stepsecurity.io/"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Launches & Tools",
+    "title": "Introducing Mitigeddon: Real-world exploitation and prevalence data for impactful CVEs",
+    "url": "https://securitylabs.datadoghq.com/articles/introducing-mitigeddon/?utm_source=tldrinfosec",
+    "summary": "Mitigeddon, Datadog's new free site, shows how widespread each CVE is across real environments next to a timeline of its disclosure, public exploit release, and appearance in CISA or VulnCheck KEV. Datadog launched it with data showing that only 0.6 to 0.8% of CVEs are exploited in the wild, while the median time from disclosure to exploitation fell to 33 days in 2026 from 163 in 2024. The prevalence figures come from a sample of Datadog's own customer telemetry, so they lean toward cloud-native environments, but the site is still a useful way to filter out noise when prioritizing patches.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securitylabs.datadoghq.com/articles/introducing-mitigeddon"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Launches & Tools",
+    "title": "BinQL",
+    "url": "https://github.com/thalium/BinQL?utm_source=tldrinfosec",
+    "summary": "BinQL is a CodeQL extractor for binaries. BinQL runs IDA Pro's Hex-Rays decompiler headless and turns the decompiled pseudocode of any binary into a CodeQL database.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/thalium/BinQL"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Miscellaneous",
+    "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+    "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes?utm_source=tldrinfosec",
+    "summary": "A China-linked actor used Cairn agents against East Asian universities for about 48 hours. The agents ran 148 actions against an exposed Redis server, tested over 30,000 SSH credential combinations against a GPU server, then found a path-traversal flaw in an open source medical imaging application. They wrote arbitrary files and ran a Python reverse shell as root within 11 minutes.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Miscellaneous",
+    "title": "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+    "url": "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform/?utm_source=tldrinfosec",
+    "summary": "CrowdStrike has agreed to buy Zscaler in an all-stock deal that values it at about $43.9 billion, a roughly 34% premium, which puts CrowdStrike into network security by bringing Zscaler's Zero Trust SASE onto the Falcon platform. The combined company expects to start with more than $10 billion in ARR and to feed device and network telemetry into a single data set, which CrowdStrike pitches as the control plane for securing AI agents. Those synergy and market-size figures are the companies' own projections, and the deal is expected to close in the second half of CrowdStrike's fiscal 2028, pending Zscaler shareholder and regulatory approval, with Jay Chaudhry continuing to lead Zscaler.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://crowdstrike.com/en-us/press-releases/crowdstrike-to-acquire-zscaler-bringing-network-security-and-zero-trust-to-the-falcon-platform"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Miscellaneous",
+    "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
+    "url": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/?utm_source=tldrinfosec",
+    "summary": "Human Security disrupted BadBox 3.0, an ad-fraud botnet on backdoored, uncertified Android devices. At peak, it produced about 40 billion daily bid requests and over 4% of observed CTV traffic. Hidden modules spoofed legitimate apps, rendered invisible video ads, and enrolled devices in 11 residential proxy networks. Researchers linked parts of the operation to Chinese manufacturer TXCZ and to infrastructure disrupted during Google's XCPE takedown.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "How to authorize AI agents with token exchange",
+    "url": "https://www.keycard.ai/blog/how-to-authorize-ai-agents-using-token-exchange-open-standards/?utm_source=tldrinfosec&utm_medium=newsletter&utm_campaign=q4-pilot&utm_content=quicklink-20261124",
+    "summary": "Give agents short-lived, task-scoped credentials with OAuth token exchange and other open standards, so every action runs with only the access its task needs. A practical walkthrough from Keycard.",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://keycard.ai/blog/how-to-authorize-ai-agents-using-token-exchange-open-standards"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
+    "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398?utm_source=tldrinfosec",
+    "summary": "The DOJ filed to seize about $1.17 billion in USDC spread across 36 addresses on 18 blockchains and tied to North Korea's Lazarus Group in the $6.34 billion October Binance hack, and Circle, which can freeze the original tokens but can't move them, agreed to mint the same amount in new USDC for the US government if the court grants forfeiture.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-24",
+    "section": "Quick Links",
+    "title": "UK government forced to disclose secret Apple backdoor order",
+    "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/?utm_source=tldrinfosec",
+    "summary": "The UK Investigatory Powers Tribunal ordered the Home Office to confirm it issued a secret technical capabilities notice requiring Apple to provide authorities access to encrypted customer data.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order"
    }
   ]
  }
