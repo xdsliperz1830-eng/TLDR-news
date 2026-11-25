@@ -550,18 +550,6 @@
     "newsletter": "webdev",
     "date": "2026-11-24",
     "section": "Miscellaneous",
-    "title": "Legacy Modernization with LLMs: Is a Large Translation Consistent with Itself?",
-    "url": "https://tomassetti.me/legacy-modernization-llms-large-translation-consistency?utm_source=tldrdev",
-    "summary": "An experiment used 49 Claude Code sessions to translate 600,000 lines of IBM i source into more than a million lines of Java. Deterministic generators produced the most uniform code, while independently translated programs drifted in style and duplicated helpers, with 20 implementations of a single date conversion helper.",
-    "read_minutes": 28,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://tomassetti.me/legacy-modernization-llms-large-translation-consistency"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-24",
-    "section": "Miscellaneous",
     "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
     "url": "https://z.ai/blog/glm-5.4?utm_source=tldrdev",
     "summary": "Z.ai's GLM-5.4 runs the same block of 28 layers twice, giving its 750-billion-parameter model more compute per token without adding parameters for the second pass. Z.ai shows demos in CAD and video generation and reports that the model can still spend too long reasoning.",
@@ -569,6 +557,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://z.ai/blog/glm-5.4"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-24",
+    "section": "Miscellaneous",
+    "title": "Legacy Modernization with LLMs: Is a Large Translation Consistent with Itself?",
+    "url": "https://tomassetti.me/legacy-modernization-llms-large-translation-consistency?utm_source=tldrdev",
+    "summary": "An experiment used 49 Claude Code sessions to translate 600,000 lines of IBM i source into more than a million lines of Java. Deterministic generators produced the most uniform code, while independently translated programs drifted in style and duplicated helpers, with 20 implementations of a single date conversion helper.",
+    "read_minutes": 28,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tomassetti.me/legacy-modernization-llms-large-translation-consistency"
    },
    {
     "newsletter": "webdev",
