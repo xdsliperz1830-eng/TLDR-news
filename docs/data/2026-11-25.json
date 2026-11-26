@@ -1010,18 +1010,6 @@
     "newsletter": "devops",
     "date": "2026-11-25",
     "section": "Quick Links",
-    "title": "Find the log line that matters faster with full-text search in Grafana Cloud Logs",
-    "url": "https://grafana.com/blog/find-the-log-line-that-matters-faster-with-full-text-search-in-grafana-cloud-logs/?utm_source=tldrdevops",
-    "summary": "Grafana Labs made full-text search generally available in Grafana Cloud Logs, built on technology it acquired in April.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://grafana.com/blog/find-the-log-line-that-matters-faster-with-full-text-search-in-grafana-cloud-logs"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-11-25",
-    "section": "Quick Links",
     "title": "Jenkins CI Bottlenecks: How Harness Helps Teams Scale CI",
     "url": "https://www.harness.io/blog/is-your-jenkins-pipeline-ready-for-what-cursor-just-handed-you?utm_source=tldrdevops",
     "summary": "AI coding tools like Cursor raise pull request volume enough to overload Jenkins build queues.",
@@ -1041,6 +1029,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-11-25",
+    "section": "Quick Links",
+    "title": "Find the log line that matters faster with full-text search in Grafana Cloud Logs",
+    "url": "https://grafana.com/blog/find-the-log-line-that-matters-faster-with-full-text-search-in-grafana-cloud-logs/?utm_source=tldrdevops",
+    "summary": "Grafana Labs made full-text search generally available in Grafana Cloud Logs, built on technology it acquired in April.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://grafana.com/blog/find-the-log-line-that-matters-faster-with-full-text-search-in-grafana-cloud-logs"
    }
   ],
   "design": [
