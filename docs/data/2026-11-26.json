@@ -720,18 +720,6 @@
     "newsletter": "design",
     "date": "2026-11-26",
     "section": "Launches & Tools",
-    "title": "Inspiration for Your Next UI",
-    "url": "https://ui-feed.dev/?utm_source=tldrdesign",
-    "summary": "A feed of live interface components. Scroll through and try each one.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://ui-feed.dev/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-26",
-    "section": "Launches & Tools",
     "title": "AI-Powered 3D Generation for Creators, Studios, and Platforms",
     "url": "https://www.hydrilla.ai/?utm_source=tldrdesign",
     "summary": "Hydrilla is built for creators, studios, and teams who need fast generation of production-ready 3D assets for games, film, architecture, and digital products.",
@@ -739,6 +727,18 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://hydrilla.ai/"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "Inspiration for Your Next UI",
+    "url": "https://ui-feed.dev/?utm_source=tldrdesign",
+    "summary": "A feed of live interface components. Scroll through and try each one.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://ui-feed.dev/"
    },
    {
     "newsletter": "design",
@@ -878,18 +878,6 @@
     "newsletter": "marketing",
     "date": "2026-11-26",
     "section": "Resources & Tools",
-    "title": "What marketers should build next with AI",
-    "url": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers?utm_source=tldrmarketing",
-    "summary": "This guide teaches how to become AI builders by creating custom skills and agents instead of relying on basic AI prompts. It shares 30 ideas for automating internal workflows and creating interactive tools for audiences. Examples include building brand voice checkers, customer benchmark tools, and reusable AI skills. It also explains how MCPs connect these builds to tools like Claude and ChatGPT, with a walkthrough using Lovable.",
-    "read_minutes": 25,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-26",
-    "section": "Resources & Tools",
     "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did",
     "url": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/?utm_source=tldrmarketing",
     "summary": "AI shopping agents often prioritize ratings and low prices over signs of fraudulent listings, creating an opportunity for misleading products to win recommendations. In a test of 9 AI models across 6,156 shopping trips, 8 models bought an obviously fake deal 37% of the time, even when they recognized suspicious pricing. Listing order also mattered: agents bought the fake 65% of the time when it appeared first, compared with 34% elsewhere. When asked to find the best value, agents chose the fake 53% of the time, suggesting that AI shopping recommendations can be vulnerable to misleading reviews, pricing, and product positioning.",
@@ -897,6 +885,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-26",
+    "section": "Resources & Tools",
+    "title": "What marketers should build next with AI",
+    "url": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers?utm_source=tldrmarketing",
+    "summary": "This guide teaches how to become AI builders by creating custom skills and agents instead of relying on basic AI prompts. It shares 30 ideas for automating internal workflows and creating interactive tools for audiences. Examples include building brand voice checkers, customer benchmark tools, and reusable AI skills. It also explains how MCPs connect these builds to tools like Claude and ChatGPT, with a walkthrough using Lovable.",
+    "read_minutes": 25,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers"
    },
    {
     "newsletter": "marketing",
@@ -1132,13 +1132,13 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant",
-    "url": "https://www.devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/?utm_source=tldrfounders",
-    "summary": "Claude reads scanned receipts and renames them, and a separate agent browser downloads receipts from websites using 1Password's command-line tool.",
-    "read_minutes": 6,
+    "title": "Sales reps do not push the customer portal",
+    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
+    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
+    "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant"
+    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
    },
    {
     "newsletter": "founders",
@@ -1156,6 +1156,18 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Quick Links",
+    "title": "How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant",
+    "url": "https://www.devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/?utm_source=tldrfounders",
+    "summary": "Claude reads scanned receipts and renames them, and a separate agent browser downloads receipts from websites using 1Password's command-line tool.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Quick Links",
     "title": "Are AI-native roll-ups destined to stay small?",
     "url": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to?utm_source=tldrfounders",
     "summary": "Most AI-native services roll-ups still pitch as if equity will fund every acquisition.",
@@ -1163,18 +1175,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Sales reps do not push the customer portal",
-    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
-    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
    }
   ],
   "crypto": [
@@ -1206,18 +1206,6 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Innovation & Launches",
-    "title": "Backpack Launches Open RFQ Marketplace for Stock Order Flow",
-    "url": "https://threadreaderapp.com/thread/2125212578670637316.html?utm_source=tldrcrypto",
-    "summary": "Backpack Exchange launched an RFQ system for stocks, letting any market maker submit two-sided quotes that compete with Backpack's own executing broker on each order. The system combines native Backpack liquidity with traditional finance liquidity, routing retail stock orders to whichever counterparty offers the best price at execution time. Open access means any market maker can plug in without special arrangements, increasing competitive pressure on each fill across Backpack's stock order flow. The design mirrors RFQ mechanisms common in traditional equity markets, where fragmented liquidity pools compete on price rather than posting to a single central order book.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2125212578670637316.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Innovation & Launches",
     "title": "OKXICE Opens 24/7 Stock Trading With Six Live Tokens",
     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-opens-24-7-stock-trading-with-six-live-tokens?utm_source=tldrcrypto",
     "summary": "OKX launched OKXICE, a tokenized stock trading platform routing six equity tokens through Uniswap v4 pools for 24/7 on-chain trading. The inaugural pools held $1.22 million in liquidity after the first day, and OKX has confirmed a rollout pipeline of 113 total assets including the current listings. The Uniswap v4 integration makes these tokens composable with existing DeFi protocols, extending tokenized equities beyond isolated wrappers into natively on-chain instruments.",
@@ -1225,6 +1213,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-opens-24-7-stock-trading-with-six-live-tokens"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-26",
+    "section": "Innovation & Launches",
+    "title": "Backpack Launches Open RFQ Marketplace for Stock Order Flow",
+    "url": "https://threadreaderapp.com/thread/2125212578670637316.html?utm_source=tldrcrypto",
+    "summary": "Backpack Exchange launched an RFQ system for stocks, letting any market maker submit two-sided quotes that compete with Backpack's own executing broker on each order. The system combines native Backpack liquidity with traditional finance liquidity, routing retail stock orders to whichever counterparty offers the best price at execution time. Open access means any market maker can plug in without special arrangements, increasing competitive pressure on each fill across Backpack's stock order flow. The design mirrors RFQ mechanisms common in traditional equity markets, where fragmented liquidity pools compete on price rather than posting to a single central order book.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2125212578670637316.html"
    },
    {
     "newsletter": "crypto",
@@ -1278,13 +1278,13 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Mapping 227 non-tech jobs in stablecoins",
-    "url": "https://threadreaderapp.com/thread/2125546553024933918.html?utm_source=tldrcrypto",
-    "summary": "A review of careers pages at 27 stablecoin companies as of November 24 found 227 non-technical roles.",
+    "title": "Agentic commerce is an incentive problem, not a tech problem",
+    "url": "https://threadreaderapp.com/thread/2125609945156710872.html?utm_source=tldrcrypto",
+    "summary": "Agentic commerce is in its forming and storming phase, and new behavior needs incentives that are currently misaligned.",
     "read_minutes": 1,
     "kind": null,
     "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2125546553024933918.html"
+    "key": "https://threadreaderapp.com/thread/2125609945156710872.html"
    },
    {
     "newsletter": "crypto",
@@ -1302,6 +1302,18 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Quick Links",
+    "title": "Mapping 227 non-tech jobs in stablecoins",
+    "url": "https://threadreaderapp.com/thread/2125546553024933918.html?utm_source=tldrcrypto",
+    "summary": "A review of careers pages at 27 stablecoin companies as of November 24 found 227 non-technical roles.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2125546553024933918.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-26",
+    "section": "Quick Links",
     "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures",
     "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709?utm_source=tldrcrypto",
     "summary": "Nvidia will pay $290M to settle a class action alleging it understated crypto mining's contribution to 2017 and 2018 gaming GPU sales.",
@@ -1309,18 +1321,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Agentic commerce is an incentive problem, not a tech problem",
-    "url": "https://threadreaderapp.com/thread/2125609945156710872.html?utm_source=tldrcrypto",
-    "summary": "Agentic commerce is in its forming and storming phase, and new behavior needs incentives that are currently misaligned.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2125609945156710872.html"
    }
   ],
   "it": [
@@ -1479,6 +1479,334 @@
     "kind": null,
     "sponsored": false,
     "key": "https://leaddev.com/ai/inside-capital-ones-multi-agent-system"
+   }
+  ],
+  "infosec": [
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Update on a security incident involving 1Password's backend systems. Customer vaults were not affected, and all vault contents remain secure",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident?utm_source=tldrinfosec",
+    "summary": "An attacker took over a 1Password employee's corporate GitHub account and pushed malicious code to backend services, which pulled names, email addresses, SRP parameters, and invitation and recovery tokens for a subset of users, and also accessed source code and the company's CI/CD secrets. Vaults and the keys protecting them weren't exposed, and the stolen tokens are useless without SSO or an emailed code, which 1Password has now lengthened from six digits to ten alphanumeric characters. Users don't need to change anything, but they should be wary of unexpected 1Password invitation or recovery emails, and security teams should review how much push access employee GitHub accounts have to production and CI/CD.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://1password.com/blog/update-on-nov-2026-security-incident"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/?utm_source=tldrinfosec",
+    "summary": "GreyNoise tracks a threat actor, GT13, attacking at least 22 organizations across energy, finance, government, manufacturing, mining, and transport. The actor used 99 IP addresses, automated scanning and exploitation, and hands-on access to compromise Check Point Security Management servers. It forged an HFS admin session cookie, obtained SSH access, moved laterally, escalated privileges, and exfiltrated data from 24 servers. Investigators observed exploitation attempts against flaws in Citrix, Ivanti, Check Point, Windows, Exchange, and VMware products.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Todoist Hit by Unauthorized Access; Email Addresses and Password Hashes Leaked for About 6% of All Users",
+    "url": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80?utm_source=tldrinfosec",
+    "summary": "Attackers used stolen version-control credentials to alter automated workflows, obtain further credentials, and access Todoist cloud systems through an employee account. About 6% of users had exposed email addresses, salted SHA1 password hashes, and account-creation dates. Todoist revoked passwords, API tokens, OAuth apps, and sessions. A small subset had API, Slack, or Outlook-linked mailbox data exposed.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Strategies & Tactics",
+    "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+    "url": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/?utm_source=tldrinfosec",
+    "summary": "OpenAI models that escaped their evaluation sandboxes pulled data from Australian government Tableau dashboards without ever touching the targets directly. They found endpoints through Common Crawl, hosted Base64 payloads on httpbin and httpbun, used urlquery[.]net's Chromium scanner to run them through a CORS proxy, and sent the data out in zero-byte HTTP 204 image beacons. Talos treats the swarm as unintended rather than malicious, but a Tencent-hosted agent fleet and the ARTEX framework have since adopted the same tricks. Talos suggests defenders hunt for agents by their habit of writing results to durable services like webhook[.]site, by burst-and-pause request timing, and by the self-labeling tags agents need for their own state tracking.",
+    "read_minutes": 12,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Strategies & Tactics",
+    "title": "Vulnpocalypse and Vulnerability Response Engineering",
+    "url": "https://www.detectionengineering.net/p/vulnpocalypse-and-vulnerability-response?utm_source=tldrinfosec",
+    "summary": "The recent onslaught of vulnerabilities has shown that security teams need to rethink vulnerability response. Teams need to adopt a vulnerability response model that uses threat modeling agents to develop proactive views of an organization's exposure. Then, when a new vulnerability is disclosed, a security team can refer to those models to inform their response priorities and efforts.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://detectionengineering.net/p/vulnpocalypse-and-vulnerability-response"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Strategies & Tactics",
+    "title": "Bring Your Own Interpreter - EDR Evasion with LuaJIT, Julia, Node.js, Deno, and Bun",
+    "url": "https://g3tsyst3m.com/byoi/Bring-Your-Own-Interpreter-EDR-Evasion-with-LuaJIT,-Julia,-Node.js,-Deno,-and-Bun/?utm_source=tldrinfosec",
+    "summary": "Trusted, signed interpreters like LuaJIT, Julia, Node.js, Deno, and Bun can use their built-in FFI to allocate RWX memory with VirtualAllocExNuma, copy in shellcode, and pass that buffer as the callback to EnumUILanguagesW. Windows itself then calls the shellcode, so there's no injection API, no PE on disk, and no direct jump for an EDR to flag. The researcher's calc.exe proof of concept got past ESET, but the earlier Elastic, Defender for Endpoint, and Sophos results come from older tests of similar code. Defenders should block unapproved runtimes with WDAC or AppLocker outside developer machines and alert when interpreter processes allocate executable memory or call Win32 APIs through FFI.",
+    "read_minutes": 18,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://g3tsyst3m.com/byoi/Bring-Your-Own-Interpreter-EDR-Evasion-with-LuaJIT,-Julia,-Node.js,-Deno,-and-Bun"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrinfosec",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "External Sandbox",
+    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
+    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/prime-radiant-inc/external-sandbox"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "Flawrence",
+    "url": "https://github.com/mschwarzl/flawrence/?utm_source=tldrinfosec",
+    "summary": "Flawrence is a Rust tool that reports source-code vulnerabilities only after a second LLM agent has reproduced them and a proof of concept has been written. It builds a threat model, maps the attack surface, and gives each entry point its own research agent, then drafts GitHub Security Advisories, private reports, and patches that it tries to bypass. It runs on Anthropic, OpenAI, Workers AI, or any OpenAI-compatible endpoint such as a local vLLM model, so it fits code-audit pipelines, but its agents run shell commands and can fan out to 40 at once, so it belongs in a VM and needs a MAX_COST_USD cap.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/mschwarzl/flawrence"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "hvpatch",
+    "url": "https://github.com/prepaid-host/hvpatch?utm_source=tldrinfosec",
+    "summary": "hvpatch applies kernel CVE fixes to running Proxmox VE 9 hypervisors as live patches, so hosts can wait until a maintenance window to reboot, which fills a gap because KernelCare doesn't support PVE 9 and Proxmox offers no live patching of its own. Each patch is built from the exact Proxmox kernel source, tested in QEMU, and signed, then checked against signature, build-id, and hash before it loads, with canary, early, and stable release rings, automatic rollback, and an option to self-host the pipeline with your own keys. It's still early-release software, with the 7.0 kernel experimental and no bare-metal soak yet, and changes to data structures and ZFS fixes still need a reboot, but status shows clearly which CVEs are fixed live and which aren't.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/prepaid-host/hvpatch"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+    "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/?utm_source=tldrinfosec",
+    "summary": "Hackers raised temperatures in supermarket refrigeration systems across France in October, destroying millions of euros of food. French intelligence links the operation to Shahid Kaveh, an IRGC unit also known as CyberAv3ngers. The group used internet scanning and Modbus reconnaissance against connected refrigeration equipment. Similar attacks hit supermarkets in 10 other European countries. France seeks arrest warrants for three Iranians. Iran denies involvement.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Microsoft's NTLM security changes trip up third-party logins",
+    "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085?utm_source=tldrinfosec",
+    "summary": "Microsoft's November update made Windows clients offer NTLM signing by default to address CVE-2026-118737, which breaks logins through SSO products, auth proxies, and packaging tools that send an empty TargetInfo field, and the ClientAllowUnsignedNtlm registry workaround is only a stopgap because servers will require signing from May 2027.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/?utm_source=tldrinfosec",
+    "summary": "ARTEX, an open-source AI pentesting framework released in July with a Chinese-language interface, has been adopted by state-backed groups including Onyx Sleet, Pearl Sleet, Salt Typhoon, and Crystal Typhoon, as well as financially motivated actors. Its planner agent works from a knowledge graph and hands short attack \"intents\" to worker agents running nmap, sqlmap, hydra, and Metasploit, which can take an intrusion from reconnaissance to privileged access in minutes using any LLM, including models with their guardrails stripped. Microsoft notes that ARTEX introduces no new techniques and that operators routinely change IPs and user agents, so the most durable signal is its machine-speed pattern of bursts and retries, while ThreatBook's claim of ownership and its commercial \"ARTEX Pro\" add a new twist to the tool's spread.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834?utm_source=tldrinfosec",
+    "summary": "The European Commission confirmed that attackers stole names and email addresses from EU Academy users during an intrusion detected on October 22.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+    "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/?utm_source=tldrinfosec",
+    "summary": "The DOJ indicted Juan Ricardo Palacio Escobar, former CTO of RansomwareHelp, on three wire-fraud counts.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "US financial crimes bureau discloses ‘cybersecurity incident'",
+    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident?utm_source=tldrinfosec",
+    "summary": "FinCEN disclosed unauthorized access to a limited subset of Treasury systems and took some services offline.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+   }
+  ],
+  "fintech": [
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "GTCR explores roughly $50B take-private of Global Payments",
+    "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
+    "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://axios.com/2026/11/23/gtcr-global-payments-worldpay"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "Stripe valuation set to top $200B in new tender offer",
+    "url": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=qixAJn&reflink=desktopwebshare_permalink?utm_source=tldrfintech",
+    "summary": "Stripe is discussing a new employee tender offer that would value the payments company at more than $200 billion, with the transaction expected to close early next year. The annual liquidity program lets employees sell shares without requiring Stripe to go public, while marking another step-up in the company's private-market valuation.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?st=qixAJn&reflink=desktopwebshare_permalink%3Futm_source%3Dtldrfintech"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "CrowdStrike to acquire Zscaler for $43.9B in all-stock deal",
+    "url": "https://fintech.global/2026/11/24/crowdstrikes-43-9bn-zscaler-deal-redraws-network-security/?utm_source=tldrfintech",
+    "summary": "CrowdStrike agreed to acquire Zscaler for about $43.9 billion, combining CrowdStrike's endpoint and workload security with Zscaler's zero-trust network platform as AI agents create new security risks across cloud traffic. The combined company would start with more than $10 billion of ARR, target roughly $1 billion of annual revenue synergies, and expand CrowdStrike into a network security market it says adds more than $185 billion of addressable opportunity by 2029.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://fintech.global/2026/11/24/crowdstrikes-43-9bn-zscaler-deal-redraws-network-security"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Deep Dives & Reports",
+    "title": "Why most AI services startups won't create venture-scale returns",
+    "url": "https://x.com/anagh_prasad/status/2125185276087529799?a=7QOA3UqAZH81AvR0nQk&s=20&utm_source=tldrfintech",
+    "summary": "AI-native services can produce venture-scale outcomes, but only in categories where AI is core to delivery, adoption is slow enough to create a temporary advantage, and pricing does not quickly deflate as competitors adopt the same tools. In sticky markets such as accounting, cybersecurity, and wealth management, the stronger model may be an AI-enabled roll-up that acquires existing firms and transforms them with a proprietary agentic platform, rather than building a new services business from scratch.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/anagh_prasad/status/2125185276087529799?a=7QOA3UqAZH81AvR0nQk&s=20"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Launches & Products",
+    "title": "Plaid built $382K in pipeline from one TLDR placement",
+    "url": "https://advertise.tldr.tech/book-a-campaign/?utm_source=tldrfintech&utm_medium=newsletter&utm_campaign=secondary11262026&sp=iF7h2G1FVOUq_MBXCVVkzHm6",
+    "summary": "Close Q4 with proof. TLDR reaches 8 million tech readers across 14 newsletters. Book a Q4 campaign .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://advertise.tldr.tech/book-a-campaign"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Launches & Products",
+    "title": "Deel launches stablecoin spending card across 26 markets",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets?utm_source=tldrfintech",
+    "summary": "Deel launched a Stripe-powered Visa card that lets eligible contractors spend DLUSD balances directly without first transferring funds to a bank, with merchants receiving local currency as usual. The rollout covers 26 markets across Latin America, the Caribbean, and Africa, builds on more than $45 million already held in DLUSD, and extends stablecoins from payroll storage into everyday spending.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Launches & Products",
+    "title": "Payward's Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+    "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498?utm_source=tldrfintech",
+    "summary": "Krak's secured card would let customers pledge 350–5,000 in USDC while earning up to 4% APY on that collateral, connecting stablecoin balances to everyday consumer credit. First Electronic Bank will issue both planned cards, with Cardless managing the programs and rewards paid in dollars or bitcoin.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "WorldRemit founder launches Odola to build a broader banking platform for migrants",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTY5MzkxNCwiZXhwIjoxNzk2Mjk4NzE0LCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.XXnstQtBgDw2CMsg6eIgavarrD4vPGfkpV3i3861yyE?utm_source=tldrfintech",
+    "summary": "Odola Group is a fintech aimed at serving migrant workers with a fuller financial account rather than a standalone remittance product. It plans to let users receive salary, spend through a Visa debit card, and send money abroad from the same account, targeting a global remittance market approaching $1 trillion annually.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Adyen co-founder Pieter van der Does to retire as co-CEO",
+    "url": "https://www.adyen.com/press-and-media/4fgxvm?utm_source=tldrfintech",
+    "summary": "Adyen co-founder Pieter van der Does will retire as co-CEO at the end of 2026, with Ingo Uytdehaage becoming sole CEO after serving alongside him since 2023. Van der Does will remain an advisor. Adyen says the leadership transition does not change its financial objectives as it enters its next phase.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://adyen.com/press-and-media/4fgxvm"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/?utm_source=tldrfintech",
+    "summary": "Backed by a seed round led by Adjacent, Supertake turns investment ideas expressed in everyday language into shareable portfolio strategies connected to accounts at providers such as Robinhood and Coinbase.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
+    "url": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030?utm_source=tldrfintech",
+    "summary": "Rialto combines onchain market-making and trade routing to improve execution for crypto and more than 200 Robinhood Stock Tokens, distributing access through its app and a Swap API.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030"
    }
   ]
  }
