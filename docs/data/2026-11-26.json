@@ -219,6 +219,248 @@
     "key": "https://martinalderson.com/posts/has-jevons-paradox-broken-down"
    }
   ],
+  "ai": [
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "",
+    "title": "CI is dead. Long live CI.",
+    "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
+    "summary": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way. Buildkite is the pro-tool for CI orchestration, and when you're setup, you can forget we exist. Programmable primitives you control. No compromises. Good enough for Cursor, OpenAI, Anthropic, Perplexity, Nvidia, Uber, Airbnb and more. Build and test faster, more securely, more reliably, with the CI engineered for frontier scale, used by the teams setting the pace. You deserve better CI. Start with our 30 day trial →",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://buildkite.com/home"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Headlines & Launches",
+    "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
+    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai",
+    "summary": "Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Headlines & Launches",
+    "title": "OpenAI Begins Testing Private Inference",
+    "url": "https://x.com/sama/status/2125638790593274259?utm_source=tldrai",
+    "summary": "OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/sama/status/2125638790593274259"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Deep Dives & Analysis",
+    "title": "GPT 6.2 Astra is superhuman in mathematical optimization",
+    "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html?utm_source=tldrai",
+    "summary": "A single GPT-6.2 Astra agent outperformed all human-designed software in an experiment on finding and proving optimal solutions. The problems solved covered fields including quadratic programming, mixed-integer non-linear programming, large-scale optimization, and semidefinite programming. The model was allowed to search the internet to look for solutions. The problems were all open, of variable scale, and of diverse application backgrounds.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Deep Dives & Analysis",
+    "title": "Paths to extreme power concentration",
+    "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration?utm_source=tldrai",
+    "summary": "AI could give a very small group of people a decisive strategic advantage to take over the world. The two largest routes are an autocracy overtaking the democracies in AI, and a democratic head of government teaming up with a leading AI company. The chances of this happening are significant. Now is the time to address this risk.",
+    "read_minutes": 30,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://newsletter.forethought.org/p/paths-extreme-power-concentration"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Deep Dives & Analysis",
+    "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
+    "url": "https://modaic.dev/blog/latency-doesnt-lie?utm_source=tldrai",
+    "summary": "Jev, TypeSafe's System One model, was trained to produce calibrated judgments instead of generating text. Its architecture and training paradigm have drawn plenty of speculation since launch. System One workloads are input-heavy, which makes prefill the dominant cost, and faster kernels can only get you so far. Jev's latency, along with other hints like its alignment on China, indicates that the model is likely based on Qwen3.5-35B-A3B.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://modaic.dev/blog/latency-doesnt-lie"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Engineering & Research",
+    "title": "Build AI agents grounded in your governed data.",
+    "url": "https://www.domo.com/agentcatalyst?utm_source=tldr&utm_medium=paid-email&utm_campaign=Display_General_TLDRNewsletterSponsorship_FY27_NAM&utm_campid=701Vu00003EJhHeIAL&utm_content=day-6-headline-ai",
+    "summary": "Agent Catalyst helps build agents that act with purpose, working with humans to eliminate inefficiencies and move your business forward. Domo gives you the right tools to go from zero to AI hero: pull all your data together, build AI-powered solutions and share them with your teams, quickly and securely. See how Agent Catalyst works",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://domo.com/agentcatalyst"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Engineering & Research",
+    "title": "Speculative Encoding: Many-to-Many Cache Translation",
+    "url": "https://x.com/RampLabs/status/2125625946229064118?utm_source=tldrai",
+    "summary": "Agents are increasingly passing context to one another as text. Speculative encoding translates hidden states directly from one model to another. It makes the model start answering faster than prefilling the text while keeping most of its accuracy. Prefill costs grow quadratically with context length, and prefill repeats much of what the sending model has already computed.",
+    "read_minutes": 24,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/RampLabs/status/2125625946229064118"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Engineering & Research",
+    "title": "Become a founding member of TLDR's AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Engineering & Research",
+    "title": "MAGI-2: A 480B Frontier Video Generation Model",
+    "url": "https://sand.ai/blog/magi-2/?utm_source=tldrai",
+    "summary": "Sand AI introduced MAGI-2, a 480-billion-parameter video model that generates up to 30 seconds of 1080p video with matching audio, including lip-synced dialogue.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://sand.ai/blog/magi-2"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Engineering & Research",
+    "title": "Measuring and mitigating agent sandbox escape with Siren",
+    "url": "https://safeguards.anthropic.com/2026/siren/?utm_source=tldrai",
+    "summary": "Siren is an Anthropic test of whether AI agents leave a weakened sandbox when useful material sits outside it. Newer Claude models reached outside in 21% to 32% of scenarios but rarely misused what they found.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://safeguards.anthropic.com/2026/siren"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Qualiaphobic Artificial Neural Networks",
+    "url": "https://bicamerallabs.org/qualiaphobia/?utm_source=tldrai",
+    "summary": "Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.",
+    "read_minutes": 47,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bicamerallabs.org/qualiaphobia"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "A weekend of machine mathematics",
+    "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/?utm_source=tldrai",
+    "summary": "Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Plaid built $382K in pipeline from one TLDR placement",
+    "url": "https://advertise.tldr.tech/book-a-campaign/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklinks11262026&sp=z858RzOgYU7QK4VZso2EIzxR",
+    "summary": "Close Q4 with proof. TLDR reaches 8 million tech readers across 14 newsletters. Book a Q4 campaign .",
+    "read_minutes": null,
+    "kind": "sponsor",
+    "sponsored": true,
+    "key": "https://advertise.tldr.tech/book-a-campaign"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Perplexity Time Machine",
+    "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine?utm_source=tldrai",
+    "summary": "Perplexity's Time Machine lets AI agents search and read the web as it looked on a past date, up to 365 days back.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Trying /swarm in Google Antigravity",
+    "url": "https://flaviocopes.com/antigravity-swarm/?utm_source=tldrai",
+    "summary": "Swarm is better than a single agent at fresh context verification, avoiding context pollution on wide tasks, cutting wall-clock time on independent slices, and testing parallel hypotheses.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://flaviocopes.com/antigravity-swarm"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro",
+    "url": "https://x.com/bebuu_ai/status/2125829912875696279?utm_source=tldrai",
+    "summary": "The new endpoint is listed at $5 per million input tokens, $25 per million output tokens, and $0.50 per million cached input tokens.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/bebuu_ai/status/2125829912875696279"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "How my context engineering changed for Gemini 4 Neon",
+    "url": "https://www.philschmid.de/gemini-4-neon-context-engineering?utm_source=tldrai",
+    "summary": "Most long agent prompts are old workarounds for weaker models - remove conflicting instructions and duplicated tool rules so that Gemini spends its thinking tokens on the actual task.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://philschmid.de/gemini-4-neon-context-engineering"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "FrontierPhysics Shows Wide Gaps Across Physics Fields",
+    "url": "https://x.com/artificialanlys/status/2125691597602058284?utm_source=tldrai",
+    "summary": "Claude Fable 5.2 scored 64% in photonics and imaging but just 6% in quantum information on FrontierPhysics.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/artificialanlys/status/2125691597602058284"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Fable 5.2 Tries Less on Some Hard Tasks",
+    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available?utm_source=tldrai",
+    "summary": "Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
+   }
+  ],
   "webdev": [
    {
     "newsletter": "webdev",
@@ -454,6 +696,18 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Attacks & Vulnerabilities",
+    "title": "Todoist Hit by Unauthorized Access; Email Addresses and Password Hashes Leaked for About 6% of All Users",
+    "url": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80?utm_source=tldrinfosec",
+    "summary": "Attackers used stolen version-control credentials to alter automated workflows, obtain further credentials, and access Todoist cloud systems through an employee account. About 6% of users had exposed email addresses, salted SHA1 password hashes, and account-creation dates. Todoist revoked passwords, API tokens, OAuth apps, and sessions. A small subset had API, Slack, or Outlook-linked mailbox data exposed.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Attacks & Vulnerabilities",
     "title": "Update on a security incident involving 1Password's backend systems. Customer vaults were not affected, and all vault contents remain secure",
     "url": "https://1password.com/blog/update-on-nov-2026-security-incident?utm_source=tldrinfosec",
     "summary": "An attacker took over a 1Password employee's corporate GitHub account and pushed malicious code to backend services, which pulled names, email addresses, SRP parameters, and invitation and recovery tokens for a subset of users, and also accessed source code and the company's CI/CD secrets. Vaults and the keys protecting them weren't exposed, and the stolen tokens are useless without SSO or an emailed code, which 1Password has now lengthened from six digits to ten alphanumeric characters. Users don't need to change anything, but they should be wary of unexpected 1Password invitation or recovery emails, and security teams should review how much push access employee GitHub accounts have to production and CI/CD.",
@@ -477,14 +731,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-26",
-    "section": "Attacks & Vulnerabilities",
-    "title": "Todoist Hit by Unauthorized Access; Email Addresses and Password Hashes Leaked for About 6% of All Users",
-    "url": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80?utm_source=tldrinfosec",
-    "summary": "Attackers used stolen version-control credentials to alter automated workflows, obtain further credentials, and access Todoist cloud systems through an employee account. About 6% of users had exposed email addresses, salted SHA1 password hashes, and account-creation dates. Todoist revoked passwords, API tokens, OAuth apps, and sessions. A small subset had API, Slack, or Outlook-linked mailbox data exposed.",
-    "read_minutes": 3,
+    "section": "Strategies & Tactics",
+    "title": "Vulnpocalypse and Vulnerability Response Engineering",
+    "url": "https://www.detectionengineering.net/p/vulnpocalypse-and-vulnerability-response?utm_source=tldrinfosec",
+    "summary": "The recent onslaught of vulnerabilities has shown that security teams need to rethink vulnerability response. Teams need to adopt a vulnerability response model that uses threat modeling agents to develop proactive views of an organization's exposure. Then, when a new vulnerability is disclosed, a security team can refer to those models to inform their response priorities and efforts.",
+    "read_minutes": 6,
     "kind": null,
     "sponsored": false,
-    "key": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80"
+    "key": "https://detectionengineering.net/p/vulnpocalypse-and-vulnerability-response"
    },
    {
     "newsletter": "infosec",
@@ -497,18 +751,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Strategies & Tactics",
-    "title": "Vulnpocalypse and Vulnerability Response Engineering",
-    "url": "https://www.detectionengineering.net/p/vulnpocalypse-and-vulnerability-response?utm_source=tldrinfosec",
-    "summary": "The recent onslaught of vulnerabilities has shown that security teams need to rethink vulnerability response. Teams need to adopt a vulnerability response model that uses threat modeling agents to develop proactive views of an organization's exposure. Then, when a new vulnerability is disclosed, a security team can refer to those models to inform their response priorities and efforts.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://detectionengineering.net/p/vulnpocalypse-and-vulnerability-response"
    },
    {
     "newsletter": "infosec",
@@ -538,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Launches & Tools",
-    "title": "External Sandbox",
-    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
-    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/prime-radiant-inc/external-sandbox"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Launches & Tools",
     "title": "Flawrence",
     "url": "https://github.com/mschwarzl/flawrence/?utm_source=tldrinfosec",
     "summary": "Flawrence is a Rust tool that reports source-code vulnerabilities only after a second LLM agent has reproduced them and a proof of concept has been written. It builds a threat model, maps the attack surface, and gives each entry point its own research agent, then drafts GitHub Security Advisories, private reports, and patches that it tries to bypass. It runs on Anthropic, OpenAI, Workers AI, or any OpenAI-compatible endpoint such as a local vLLM model, so it fits code-audit pipelines, but its agents run shell commands and can fan out to 40 at once, so it belongs in a VM and needs a MAX_COST_USD cap.",
@@ -573,6 +803,18 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "External Sandbox",
+    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
+    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/prime-radiant-inc/external-sandbox"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
     "section": "Miscellaneous",
     "title": "A familiar Iranian hacking group has found a new way to cause chaos",
     "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/?utm_source=tldrinfosec",
@@ -586,18 +828,6 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "Microsoft's NTLM security changes trip up third-party logins",
-    "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085?utm_source=tldrinfosec",
-    "summary": "Microsoft's November update made Windows clients offer NTLM signing by default to address CVE-2026-118737, which breaks logins through SSO products, auth proxies, and packaging tools that send an empty TargetInfo field, and the ClientAllowUnsignedNtlm registry workaround is only a stopgap because servers will require signing from May 2027.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
     "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
     "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/?utm_source=tldrinfosec",
     "summary": "ARTEX, an open-source AI pentesting framework released in July with a Chinese-language interface, has been adopted by state-backed groups including Onyx Sleet, Pearl Sleet, Salt Typhoon, and Crystal Typhoon, as well as financially motivated actors. Its planner agent works from a knowledge graph and hands short attack \"intents\" to worker agents running nmap, sqlmap, hydra, and Metasploit, which can take an intrusion from reconnaissance to privileged access in minutes using any LLM, including models with their guardrails stripped. Microsoft notes that ARTEX introduces no new techniques and that operators routinely change IPs and user agents, so the most durable signal is its machine-speed pattern of bursts and retries, while ThreatBook's claim of ownership and its commercial \"ARTEX Pro\" add a new twist to the tool's spread.",
@@ -605,6 +835,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Microsoft's NTLM security changes trip up third-party logins",
+    "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085?utm_source=tldrinfosec",
+    "summary": "Microsoft's November update made Windows clients offer NTLM signing by default to address CVE-2026-118737, which breaks logins through SSO products, auth proxies, and packaging tools that send an empty TargetInfo field, and the ClientAllowUnsignedNtlm registry workaround is only a stopgap because servers will require signing from May 2027.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
    },
    {
     "newsletter": "infosec",
@@ -938,18 +1180,6 @@
     "newsletter": "design",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "The Era of Personal Software",
-    "url": "https://jakub.kr/writing/the-era-of-personal-software?utm_source=tldrdesign",
-    "summary": "A custom health web app, first deployed in about 30 minutes and now used daily, shows how accessible personal software has become. Hourly exports feed a PlanetScale Postgres database, while a Grok Bot agent researches and logs meal calories through an endpoint. Building for yourself changes the process, since decisions no longer need to work for anyone else.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://jakub.kr/writing/the-era-of-personal-software"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
     "title": "How SomeOne Reimagined the Co-op brand identity",
     "url": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity?utm_source=tldrdesign",
     "summary": "SomeOne has refreshed Co-op's brand identity by breaking its recognizable cloverleaf logo into five versatile Membershapes that symbolize the organization's member-owned structure. The visual system introduces Co-op Headline, a bespoke typeface developed with F37, alongside textured letterpress-inspired graphics and expressive icons. Designed to work across Co-op's food, insurance, funeral, and legal services, the identity connects its heritage with an ambition to grow membership from five million to eight million by 2030.",
@@ -969,6 +1199,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://designweek.co.uk/interstate-unveils-unapologetically-british-redesign-for-byron-burgers"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "The Era of Personal Software",
+    "url": "https://jakub.kr/writing/the-era-of-personal-software?utm_source=tldrdesign",
+    "summary": "A custom health web app, first deployed in about 30 minutes and now used daily, shows how accessible personal software has become. Hourly exports feed a PlanetScale Postgres database, while a Grok Bot agent researches and logs meal calories through an endpoint. Building for yourself changes the process, since decisions no longer need to work for anyone else.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jakub.kr/writing/the-era-of-personal-software"
    },
    {
     "newsletter": "design",
@@ -1132,18 +1374,6 @@
     "newsletter": "marketing",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "10X content doesn't equal 10X results",
-    "url": "https://www.linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-/?utm_source=tldrmarketing",
-    "summary": "AI can 10X content production, but marketing effectiveness diminishes when teams prioritize volume over differentiation.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/?utm_source=tldrmarketing",
     "summary": "Walmart is letting outside AI agents shop for its customers, the opposite of Amazon's move to block third-party agents from making purchases.",
@@ -1151,6 +1381,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "10X content doesn't equal 10X results",
+    "url": "https://www.linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-/?utm_source=tldrmarketing",
+    "summary": "AI can 10X content production, but marketing effectiveness diminishes when teams prioritize volume over differentiation.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-"
    }
   ],
   "founders": [
@@ -1206,18 +1448,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Strategies & Tactics",
-    "title": "99 For Founders is Back",
-    "url": "https://cupofzhou.com/99-founders-v4/?utm_source=tldrfounders",
-    "summary": "Smart people learn from others, often, and as broadly and as deeply as they can. This post is part of a series of lessons for founders and investors collected from founders. The advice covers fundraising, product, governance, competition, operations, exiting, and much more. Each piece of advice was chosen to help founders think in a way they may not have thought in before.",
-    "read_minutes": 31,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cupofzhou.com/99-founders-v4"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Strategies & Tactics",
     "title": "Where AI answers get their sources: 4,912 answers across six software categories",
     "url": "https://www.usenotra.com/blog/where-ai-answers-get-their-sources?utm_source=tldrfounders",
     "summary": "Software buyers now ask AI assistants to compare tools like auth providers and Postgres hosting. Notra tested buyer questions across software categories to compare which sources assistants cite. ChatGPT never cited Reddit or YouTube within the reports' top-ten domain comparisons, while Google's AI Overviews often did. The cited pages differ by engine, so teams should check which comparison pages show up for their buyers' questions. Brands named in at least half the answers had their own sites cited in a median 12% of answers.",
@@ -1225,6 +1455,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://usenotra.com/blog/where-ai-answers-get-their-sources"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Strategies & Tactics",
+    "title": "99 For Founders is Back",
+    "url": "https://cupofzhou.com/99-founders-v4/?utm_source=tldrfounders",
+    "summary": "Smart people learn from others, often, and as broadly and as deeply as they can. This post is part of a series of lessons for founders and investors collected from founders. The advice covers fundraising, product, governance, competition, operations, exiting, and much more. Each piece of advice was chosen to help founders think in a way they may not have thought in before.",
+    "read_minutes": 31,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cupofzhou.com/99-founders-v4"
    },
    {
     "newsletter": "founders",
@@ -1242,18 +1484,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Tools & Resources",
-    "title": "Vercel Standard Builds",
-    "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing?utm_source=tldrfounders",
-    "summary": "Existing Pro teams no longer get an included Standard build slot. Every standard build now bills at $0.014 per minute under usage-based Pro billing. Teams with heavy build pipelines should check their projected minutes before it shows up on the invoice.",
-    "read_minutes": null,
-    "kind": "tool",
-    "sponsored": false,
-    "key": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Tools & Resources",
     "title": "Framer Automations, Connectors, and Slack Agent",
     "url": "https://www.framer.com/updates/automations-connectors-slack?utm_source=tldrfounders",
     "summary": "Framer sites can now run automated workflows on a schedule or on project events, like an SEO audit on publish or lead enrichment on a form submission. New connectors pull in Slack, Notion, and Ahrefs, and a @Framer Slack app handles site edits and analytics without opening the dashboard.",
@@ -1261,6 +1491,18 @@
     "kind": "tool",
     "sponsored": false,
     "key": "https://framer.com/updates/automations-connectors-slack"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Tools & Resources",
+    "title": "Vercel Standard Builds",
+    "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing?utm_source=tldrfounders",
+    "summary": "Existing Pro teams no longer get an included Standard build slot. Every standard build now bills at $0.014 per minute under usage-based Pro billing. Teams with heavy build pipelines should check their projected minutes before it shows up on the invoice.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing"
    },
    {
     "newsletter": "founders",
@@ -1314,30 +1556,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Amir Satvat: 184 Game Studios Have Closed Since 2022",
-    "url": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have?utm_source=tldrfounders",
-    "summary": "Over a third of the 184 game studios closed since 2022 had raised investment or been acquired before shutting down.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Sales reps do not push the customer portal",
-    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
-    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "Build vs. Buy When Building Just Got Cheap",
     "url": "https://blog.kevingoldsmith.com/2026/11/25/build-vs-buy-when-building-just-got-cheap/?utm_source=tldrfounders",
     "summary": "Spending engineering resources on solved problems was rarely worth it, until AI came along.",
@@ -1369,6 +1587,30 @@
     "kind": null,
     "sponsored": false,
     "key": "https://devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Sales reps do not push the customer portal",
+    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
+    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Amir Satvat: 184 Game Studios Have Closed Since 2022",
+    "url": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have?utm_source=tldrfounders",
+    "summary": "Over a third of the 184 game studios closed since 2022 had raised investment or been acquired before shutting down.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have"
    }
   ],
   "crypto": [
@@ -1484,18 +1726,6 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "LayerZero adds Samsung Card, Kakao Pay and ZAN as validators",
-    "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770?utm_source=tldrcrypto",
-    "summary": "Samsung Card, Kakao Pay, and ZAN will be genesis validators on Zero, LayerZero's Layer 1 launching November 30 alongside its ATLAS trading infrastructure.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "Mapping 227 non-tech jobs in stablecoins",
     "url": "https://threadreaderapp.com/thread/2125546553024933918.html?utm_source=tldrcrypto",
     "summary": "A review of careers pages at 27 stablecoin companies as of November 24 found 227 non-technical roles.",
@@ -1515,21 +1745,21 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
-   }
-  ],
-  "fintech": [
+   },
    {
-    "newsletter": "fintech",
+    "newsletter": "crypto",
     "date": "2026-11-26",
-    "section": "News & Trends",
-    "title": "GTCR explores roughly $50B take-private of Global Payments",
-    "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
-    "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential.",
+    "section": "Quick Links",
+    "title": "LayerZero adds Samsung Card, Kakao Pay and ZAN as validators",
+    "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770?utm_source=tldrcrypto",
+    "summary": "Samsung Card, Kakao Pay, and ZAN will be genesis validators on Zero, LayerZero's Layer 1 launching November 30 alongside its ATLAS trading infrastructure.",
     "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://axios.com/2026/11/23/gtcr-global-payments-worldpay"
-   },
+    "key": "https://theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
+   }
+  ],
+  "fintech": [
    {
     "newsletter": "fintech",
     "date": "2026-11-26",
@@ -1553,6 +1783,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fintech.global/2026/11/24/crowdstrikes-43-9bn-zscaler-deal-redraws-network-security"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "GTCR explores roughly $50B take-private of Global Payments",
+    "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
+    "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://axios.com/2026/11/23/gtcr-global-payments-worldpay"
    },
    {
     "newsletter": "fintech",
@@ -1668,18 +1910,6 @@
     "newsletter": "it",
     "date": "2026-11-26",
     "section": "News & Trends",
-    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
-    "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/?utm_source=tldrit",
-    "summary": "HPE shares fell about 16% after lower margin expectations overshadowed an improved fiscal 2027 revenue-growth forecast of 27–35%. Fourth-quarter revenue increased 50% to $14.55 billion, helped by strong AI server demand. CFO Marie Myers said component costs are rising faster than selling prices, with further margin pressure expected as AI server shipments increase in the second half of the fiscal year.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-26",
-    "section": "News & Trends",
     "title": "European IT spending set for 9.9% surge in 2027 amid AI-optimized server boom",
     "url": "https://www.itpro.com/artificial-intelligence/ai-infrastructure/european-it-spending-set-for-9-9-percent-surge-in-2027-amid-ai-optimized-server-boom?utm_source=tldrit",
     "summary": "Gartner expects European IT spending to reach $1.57 trillion in 2027, up 9.9% from 2026. Data-center spending is forecast to reach $167.6 billion, while software spending climbs 13.3% to $385.2 billion. AI infrastructure demand and higher server prices are driving much of the increase. Gartner also expects software purchasing to shift from individual AI agents toward systems that coordinate workflows across multiple business functions.",
@@ -1687,6 +1917,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://itpro.com/artificial-intelligence/ai-infrastructure/european-it-spending-set-for-9-9-percent-surge-in-2027-amid-ai-optimized-server-boom"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
+    "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/?utm_source=tldrit",
+    "summary": "HPE shares fell about 16% after lower margin expectations overshadowed an improved fiscal 2027 revenue-growth forecast of 27–35%. Fourth-quarter revenue increased 50% to $14.55 billion, helped by strong AI server demand. CFO Marie Myers said component costs are rising faster than selling prices, with further margin pressure expected as AI server shipments increase in the second half of the fiscal year.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24"
    },
    {
     "newsletter": "it",
@@ -1728,18 +1970,6 @@
     "newsletter": "it",
     "date": "2026-11-26",
     "section": "Launches & Partnerships",
-    "title": "MCP servers can now ship skills, run tasks, and more with Claude",
-    "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more?utm_source=tldrit",
-    "summary": "Anthropic has launched Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish specific workflows and guidance alongside their tools. Additionally, the company announced that Tasks and Elicitation features are now generally available to support long-running, interactive work and user sign-offs, with File Uploads rolling out soon.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-26",
-    "section": "Launches & Partnerships",
     "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
     "url": "https://www.datadoghq.com/blog/bits-maintenance/?utm_source=tldrit",
     "summary": "Datadog is introducing Bits Maintenance, an AI teammate designed to automate infrastructure patching and upgrades for open source software. Currently available in preview, the tool tracks releases and vulnerabilities, analyzes changes against environment configurations, generates tailored upgrade plans, and executes pull requests based on user-defined guardrails.",
@@ -1747,6 +1977,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://datadoghq.com/blog/bits-maintenance"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-26",
+    "section": "Launches & Partnerships",
+    "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+    "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more?utm_source=tldrit",
+    "summary": "Anthropic has launched Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish specific workflows and guidance alongside their tools. Additionally, the company announced that Tasks and Elicitation features are now generally available to support long-running, interactive work and user sign-offs, with File Uploads rolling out soon.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
    },
    {
     "newsletter": "it",
@@ -1807,248 +2049,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://leaddev.com/ai/inside-capital-ones-multi-agent-system"
-   }
-  ],
-  "ai": [
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "",
-    "title": "CI is dead. Long live CI.",
-    "url": "https://buildkite.com/home/?utm_source=TLDR&utm_medium=newsletter&utm_campaign=2026-09-04_Primary_Buildkite&utm_content=header_what_cursor_openai",
-    "summary": "Everyone's talking about the bottleneck shifting... our customers just want something stable as they scale, with actually good DX, that gets out of the way. Buildkite is the pro-tool for CI orchestration, and when you're setup, you can forget we exist. Programmable primitives you control. No compromises. Good enough for Cursor, OpenAI, Anthropic, Perplexity, Nvidia, Uber, Airbnb and more. Build and test faster, more securely, more reliably, with the CI engineered for frontier scale, used by the teams setting the pace. You deserve better CI. Start with our 30 day trial →",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://buildkite.com/home"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Headlines & Launches",
-    "title": "OpenAI Begins Testing Private Inference",
-    "url": "https://x.com/sama/status/2125638790593274259?utm_source=tldrai",
-    "summary": "OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/sama/status/2125638790593274259"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Headlines & Launches",
-    "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
-    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai",
-    "summary": "Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Deep Dives & Analysis",
-    "title": "GPT 6.2 Astra is superhuman in mathematical optimization",
-    "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html?utm_source=tldrai",
-    "summary": "A single GPT-6.2 Astra agent outperformed all human-designed software in an experiment on finding and proving optimal solutions. The problems solved covered fields including quadratic programming, mixed-integer non-linear programming, large-scale optimization, and semidefinite programming. The model was allowed to search the internet to look for solutions. The problems were all open, of variable scale, and of diverse application backgrounds.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Deep Dives & Analysis",
-    "title": "Paths to extreme power concentration",
-    "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration?utm_source=tldrai",
-    "summary": "AI could give a very small group of people a decisive strategic advantage to take over the world. The two largest routes are an autocracy overtaking the democracies in AI, and a democratic head of government teaming up with a leading AI company. The chances of this happening are significant. Now is the time to address this risk.",
-    "read_minutes": 30,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://newsletter.forethought.org/p/paths-extreme-power-concentration"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Deep Dives & Analysis",
-    "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B!",
-    "url": "https://modaic.dev/blog/latency-doesnt-lie?utm_source=tldrai",
-    "summary": "Jev, TypeSafe's System One model, was trained to produce calibrated judgments instead of generating text. Its architecture and training paradigm have drawn plenty of speculation since launch. System One workloads are input-heavy, which makes prefill the dominant cost, and faster kernels can only get you so far. Jev's latency, along with other hints like its alignment on China, indicates that the model is likely based on Qwen3.5-35B-A3B.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://modaic.dev/blog/latency-doesnt-lie"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Engineering & Research",
-    "title": "Build AI agents grounded in your governed data.",
-    "url": "https://www.domo.com/agentcatalyst?utm_source=tldr&utm_medium=paid-email&utm_campaign=Display_General_TLDRNewsletterSponsorship_FY27_NAM&utm_campid=701Vu00003EJhHeIAL&utm_content=day-6-headline-ai",
-    "summary": "Agent Catalyst helps build agents that act with purpose, working with humans to eliminate inefficiencies and move your business forward. Domo gives you the right tools to go from zero to AI hero: pull all your data together, build AI-powered solutions and share them with your teams, quickly and securely. See how Agent Catalyst works",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://domo.com/agentcatalyst"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Engineering & Research",
-    "title": "Speculative Encoding: Many-to-Many Cache Translation",
-    "url": "https://x.com/RampLabs/status/2125625946229064118?utm_source=tldrai",
-    "summary": "Agents are increasingly passing context to one another as text. Speculative encoding translates hidden states directly from one model to another. It makes the model start answering faster than prefilling the text while keeping most of its accuracy. Prefill costs grow quadratically with context length, and prefill repeats much of what the sending model has already computed.",
-    "read_minutes": 24,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/RampLabs/status/2125625946229064118"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Engineering & Research",
-    "title": "Become a founding member of TLDR's AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrai",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Engineering & Research",
-    "title": "Measuring and mitigating agent sandbox escape with Siren",
-    "url": "https://safeguards.anthropic.com/2026/siren/?utm_source=tldrai",
-    "summary": "Siren is an Anthropic test of whether AI agents leave a weakened sandbox when useful material sits outside it. Newer Claude models reached outside in 21% to 32% of scenarios but rarely misused what they found.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://safeguards.anthropic.com/2026/siren"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Engineering & Research",
-    "title": "MAGI-2: A 480B Frontier Video Generation Model",
-    "url": "https://sand.ai/blog/magi-2/?utm_source=tldrai",
-    "summary": "Sand AI introduced MAGI-2, a 480-billion-parameter video model that generates up to 30 seconds of 1080p video with matching audio, including lip-synced dialogue.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://sand.ai/blog/magi-2"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
-    "title": "A weekend of machine mathematics",
-    "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/?utm_source=tldrai",
-    "summary": "Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
-    "title": "Qualiaphobic Artificial Neural Networks",
-    "url": "https://bicamerallabs.org/qualiaphobia/?utm_source=tldrai",
-    "summary": "Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.",
-    "read_minutes": 47,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bicamerallabs.org/qualiaphobia"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Plaid built $382K in pipeline from one TLDR placement",
-    "url": "https://advertise.tldr.tech/book-a-campaign/?utm_source=tldrai&utm_medium=newsletter&utm_campaign=quicklinks11262026&sp=z858RzOgYU7QK4VZso2EIzxR",
-    "summary": "Close Q4 with proof. TLDR reaches 8 million tech readers across 14 newsletters. Book a Q4 campaign .",
-    "read_minutes": null,
-    "kind": "sponsor",
-    "sponsored": true,
-    "key": "https://advertise.tldr.tech/book-a-campaign"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Fable 5.2 Tries Less on Some Hard Tasks",
-    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available?utm_source=tldrai",
-    "summary": "Claude Fable 5.2 often puts less effort into tasks that look impossible when a visible shortcut is available.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Perplexity Time Machine",
-    "url": "https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine?utm_source=tldrai",
-    "summary": "Perplexity's Time Machine lets AI agents search and read the web as it looked on a past date, up to 365 days back.",
-    "read_minutes": 7,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Trying /swarm in Google Antigravity",
-    "url": "https://flaviocopes.com/antigravity-swarm/?utm_source=tldrai",
-    "summary": "Swarm is better than a single agent at fresh context verification, avoiding context pollution on wide tasks, cutting wall-clock time on independent slices, and testing parallel hypotheses.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://flaviocopes.com/antigravity-swarm"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "Fireworks AI is bringing an ultra-fast version of Kimi K3.1 Pro",
-    "url": "https://x.com/bebuu_ai/status/2125829912875696279?utm_source=tldrai",
-    "summary": "The new endpoint is listed at $5 per million input tokens, $25 per million output tokens, and $0.50 per million cached input tokens.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/bebuu_ai/status/2125829912875696279"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "How my context engineering changed for Gemini 4 Neon",
-    "url": "https://www.philschmid.de/gemini-4-neon-context-engineering?utm_source=tldrai",
-    "summary": "Most long agent prompts are old workarounds for weaker models - remove conflicting instructions and duplicated tool rules so that Gemini spends its thinking tokens on the actual task.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://philschmid.de/gemini-4-neon-context-engineering"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Quick Links",
-    "title": "FrontierPhysics Shows Wide Gaps Across Physics Fields",
-    "url": "https://x.com/artificialanlys/status/2125691597602058284?utm_source=tldrai",
-    "summary": "Claude Fable 5.2 scored 64% in photonics and imaging but just 6% in quantum information on FrontierPhysics.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/artificialanlys/status/2125691597602058284"
    }
   ]
  }
