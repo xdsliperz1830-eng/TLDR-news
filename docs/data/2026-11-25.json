@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-11-25",
     "section": "Miscellaneous",
-    "title": "Tech predictions for 2027 and beyond",
-    "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html?utm_source=tldrnewsletter",
-    "summary": "Neuroscience will increasingly influence how we design systems in the years to come as computing returns to biology. Adversarial testing will soon move into every phase of software development. Sovereignty will become a non-functional requirement. Collaboration between scientists and agents will lead to new cures and diagnostic technologies.",
-    "read_minutes": 24,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-25",
-    "section": "Miscellaneous",
     "title": "What new work habits have you picked up as you've started using AI more? (TLDR Community)",
     "url": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor?utm_source=tldrnewsletter",
     "summary": "10-minute walks when a coding agent starts going in circles, foot pedals to screenshot bugs, rambling voice notes that then get edited down. Add yours →",
@@ -133,6 +121,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://colossus.com/article/bret-taylor-founder-guy"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-25",
+    "section": "Miscellaneous",
+    "title": "Tech predictions for 2027 and beyond",
+    "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html?utm_source=tldrnewsletter",
+    "summary": "Neuroscience will increasingly influence how we design systems in the years to come as computing returns to biology. Adversarial testing will soon move into every phase of software development. Sovereignty will become a non-functional requirement. Collaboration between scientists and agents will lead to new cures and diagnostic technologies.",
+    "read_minutes": 24,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
    },
    {
     "newsletter": "tech",
