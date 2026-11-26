@@ -102,18 +102,6 @@
     "newsletter": "tech",
     "date": "2026-11-25",
     "section": "Miscellaneous",
-    "title": "What new work habits have you picked up as you've started using AI more? (TLDR Community)",
-    "url": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor?utm_source=tldrnewsletter",
-    "summary": "10-minute walks when a coding agent starts going in circles, foot pedals to screenshot bugs, rambling voice notes that then get edited down. Add yours →",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-25",
-    "section": "Miscellaneous",
     "title": "Tech predictions for 2027 and beyond",
     "url": "https://www.allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html?utm_source=tldrnewsletter",
     "summary": "Neuroscience will increasingly influence how we design systems in the years to come as computing returns to biology. Adversarial testing will soon move into every phase of software development. Sovereignty will become a non-functional requirement. Collaboration between scientists and agents will lead to new cures and diagnostic technologies.",
@@ -121,6 +109,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://allthingsdistributed.com/2026/11/tech-predictions-for-2027-and-beyond.html"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-25",
+    "section": "Miscellaneous",
+    "title": "What new work habits have you picked up as you've started using AI more? (TLDR Community)",
+    "url": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor?utm_source=tldrnewsletter",
+    "summary": "10-minute walks when a coding agent starts going in circles, foot pedals to screenshot bugs, rambling voice notes that then get edited down. Add yours →",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://community.tldr.tech/t/what-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor"
    },
    {
     "newsletter": "tech",
@@ -1618,18 +1618,6 @@
     "newsletter": "crypto",
     "date": "2026-11-25",
     "section": "Markets & Business",
-    "title": "CFTC Staff Advisory Permits Crypto Assets to Count Toward Financial Resources Requirements",
-    "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26?utm_source=tldrcrypto",
-    "summary": "The CFTC issued a staff advisory on permitting derivatives trading platforms and clearinghouses to count bitcoin, ether, and payment stablecoins toward the one-year operating cost coverage component of their financial resources requirements. Firms must still hold cash or highly liquid securities to satisfy a separate liquidity requirement, so crypto assets cannot fully replace traditional capital reserves under the framework. Prior CFTC rules were silent on whether crypto counted toward the operating cost threshold, leaving registered entities without clear guidance on how to treat native asset holdings on their balance sheets. The advisory, issued under Chairman Mike Selig, reflects the CFTC's approach of using staff guidance to extend crypto clarity in derivatives markets without full rulemaking cycles.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cftc.gov/PressRoom/PressReleases/9331-26"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-25",
-    "section": "Markets & Business",
     "title": "Kalshi halts Utah operations while avoiding immediate ban in New York",
     "url": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456?utm_source=tldrcrypto",
     "summary": "Kalshi paused operations in Utah, where it had 177,000 users, after a federal judge let the state enforce its gambling laws. It is waiting on a ruling on the CFTC's request to block Utah from enforcing against it. In New York, Justice Melissa Crane denied the Attorney General's request for a temporary restraining order, saying the questions around derivatives and preemption are complex. Kalshi had warned the order could shut it down nationwide. The CFTC and DOJ have also sued Utah, Arkansas, Louisiana, and New York over state enforcement against prediction markets.",
@@ -1637,6 +1625,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-25",
+    "section": "Markets & Business",
+    "title": "CFTC Staff Advisory Permits Crypto Assets to Count Toward Financial Resources Requirements",
+    "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26?utm_source=tldrcrypto",
+    "summary": "The CFTC issued a staff advisory on permitting derivatives trading platforms and clearinghouses to count bitcoin, ether, and payment stablecoins toward the one-year operating cost coverage component of their financial resources requirements. Firms must still hold cash or highly liquid securities to satisfy a separate liquidity requirement, so crypto assets cannot fully replace traditional capital reserves under the framework. Prior CFTC rules were silent on whether crypto counted toward the operating cost threshold, leaving registered entities without clear guidance on how to treat native asset holdings on their balance sheets. The advisory, issued under Chairman Mike Selig, reflects the CFTC's approach of using staff guidance to extend crypto clarity in derivatives markets without full rulemaking cycles.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cftc.gov/PressRoom/PressReleases/9331-26"
    },
    {
     "newsletter": "crypto",
