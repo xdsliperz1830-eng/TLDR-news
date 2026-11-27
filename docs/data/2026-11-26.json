@@ -1326,18 +1326,6 @@
     "newsletter": "marketing",
     "date": "2026-11-26",
     "section": "Resources & Tools",
-    "title": "What marketers should build next with AI",
-    "url": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers?utm_source=tldrmarketing",
-    "summary": "This guide teaches how to become AI builders by creating custom skills and agents instead of relying on basic AI prompts. It shares 30 ideas for automating internal workflows and creating interactive tools for audiences. Examples include building brand voice checkers, customer benchmark tools, and reusable AI skills. It also explains how MCPs connect these builds to tools like Claude and ChatGPT, with a walkthrough using Lovable.",
-    "read_minutes": 25,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-26",
-    "section": "Resources & Tools",
     "title": "Holidays Happen on TikTok",
     "url": "https://newsroom.tiktok.com/holidays-happen-on-tiktok-your-guide-to-the-2026-season?utm_source=tldrmarketing",
     "summary": "TikTok's holiday guide on seasonal trends, creator recommendations, and shopping content. This year's emerging trends include Whimsy Christmas décor, DIY gifts, nostalgic decorations, and cozy holiday experiences. Posts about stocking stuffers are up almost 200%, while beauty advent calendar posts have grown nearly 640%, highlighting demand for smaller, giftable products. Holiday searches are also surging, including a more than 40x increase in searches for Christmas decorations and a 31x increase for Christmas lists. Brands can tap into these trends through creator partnerships, shoppable content, and timely products that reflect what consumers are already searching for and discussing.",
@@ -1345,6 +1333,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://newsroom.tiktok.com/holidays-happen-on-tiktok-your-guide-to-the-2026-season"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-26",
+    "section": "Resources & Tools",
+    "title": "What marketers should build next with AI",
+    "url": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers?utm_source=tldrmarketing",
+    "summary": "This guide teaches how to become AI builders by creating custom skills and agents instead of relying on basic AI prompts. It shares 30 ideas for automating internal workflows and creating interactive tools for audiences. Examples include building brand voice checkers, customer benchmark tools, and reusable AI skills. It also explains how MCPs connect these builds to tools like Claude and ChatGPT, with a walkthrough using Lovable.",
+    "read_minutes": 25,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://newsletter.mkt1.co/p/ai-build-ideas-for-marketers"
    },
    {
     "newsletter": "marketing",
