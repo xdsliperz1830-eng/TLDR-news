@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-11-27",
     "section": "Programming, Design & Data Science",
-    "title": "Become a founding member of TLDR's community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrnewsletter",
-    "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-27",
-    "section": "Programming, Design & Data Science",
     "title": "Why I'm Bullish on MCP for 2027",
     "url": "https://www.philschmid.de/mcp-2027?utm_source=tldrnewsletter",
     "summary": "Early excitement about MCPs turned into backlash and confusion fast, and when Skills arrived, most developers moved to CLIs and progressive disclosure. However, the sentiment is now changing, and MCP traffic growth is growing again. The protocol is healthy and actively improving. Clients are also now smarter about how they use them.",
@@ -109,6 +97,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://kalzumeus.com/2026/11/25/multiagent-coding-is-the-future"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-27",
+    "section": "Programming, Design & Data Science",
+    "title": "Become a founding member of TLDR's community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrnewsletter",
+    "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
    },
    {
     "newsletter": "tech",
@@ -174,18 +174,6 @@
     "newsletter": "tech",
     "date": "2026-11-27",
     "section": "Quick Links",
-    "title": "Ambiguous Errors Are the Mind Killer",
-    "url": "https://amit.prasad.me/blog/ambiguous-errors?utm_source=tldrnewsletter",
-    "summary": "Errors should encode enough meaning to help figure out how the software failed.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://amit.prasad.me/blog/ambiguous-errors"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-27",
-    "section": "Quick Links",
     "title": "Who Owns Your Account",
     "url": "https://blog.alexmiller.net/posts/who-owns-your-account?utm_source=tldrnewsletter",
     "summary": "Companies are rolling out policies to restrict agents from accessing their information, but these desperate grasps to maintain the status quo will end up being bypassed as new technologies roll out and agents continue to get better at just using a browser.",
@@ -229,6 +217,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://asya.ai/blog/the-state-of-llm-costs-and-capabilities"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Ambiguous Errors Are the Mind Killer",
+    "url": "https://amit.prasad.me/blog/ambiguous-errors?utm_source=tldrnewsletter",
+    "summary": "Errors should encode enough meaning to help figure out how the software failed.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://amit.prasad.me/blog/ambiguous-errors"
    }
   ],
   "webdev": [
@@ -598,18 +598,6 @@
     "newsletter": "devops",
     "date": "2026-11-27",
     "section": "Quick Links",
-    "title": "Can European IT Leaders Prove AI ROI to the Board?",
-    "url": "https://www.cloudbees.com/blog/european-it-leaders-ai-coding-roi?utm_source=tldrdevops",
-    "summary": "A CloudBees survey of 450 European IT leaders shows 69% expect boards to demand AI ROI proof by 2027, yet only 43% could show it within a month.",
-    "read_minutes": 5,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cloudbees.com/blog/european-it-leaders-ai-coding-roi"
-   },
-   {
-    "newsletter": "devops",
-    "date": "2026-11-27",
-    "section": "Quick Links",
     "title": "Outgrowing Lambda Functions, Not Lambda",
     "url": "https://www.honeycomb.io/blog/outgrowing-lambda-functions-not-lambda?utm_source=tldrdevops",
     "summary": "Honeycomb moved its query processing from AWS Lambda Functions to Lambda Managed Instances to address scaling limits and rising costs.",
@@ -629,6 +617,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://platformengineering.org/blog/why-only-19-percent-of-backend-developers-say-they-use-kubernetes"
+   },
+   {
+    "newsletter": "devops",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Can European IT Leaders Prove AI ROI to the Board?",
+    "url": "https://www.cloudbees.com/blog/european-it-leaders-ai-coding-roi?utm_source=tldrdevops",
+    "summary": "A CloudBees survey of 450 European IT leaders shows 69% expect boards to demand AI ROI proof by 2027, yet only 43% could show it within a month.",
+    "read_minutes": 5,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cloudbees.com/blog/european-it-leaders-ai-coding-roi"
    }
   ],
   "product": [
@@ -866,6 +866,18 @@
     "newsletter": "design",
     "date": "2026-11-27",
     "section": "Launches & Tools",
+    "title": "Zoom Slides",
+    "url": "https://aisuite.zoom.com/slides?utm_source=tldrdesign",
+    "summary": "Create, edit, present, and share your story with Zoom Slides.",
+    "read_minutes": null,
+    "kind": "website",
+    "sponsored": false,
+    "key": "https://aisuite.zoom.com/slides"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-27",
+    "section": "Launches & Tools",
     "title": "Turn a Screen Recording into a 3D Device Mockup Video",
     "url": "https://mockreel-app.web.app/?utm_source=tldrdesign",
     "summary": "Drop a recording or a screenshot into a 3D iPhone or MacBook, add a camera move, and download the clip.",
@@ -885,18 +897,6 @@
     "kind": "website",
     "sponsored": false,
     "key": "https://curates.io/"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-27",
-    "section": "Launches & Tools",
-    "title": "Zoom Slides",
-    "url": "https://aisuite.zoom.com/slides?utm_source=tldrdesign",
-    "summary": "Create, edit, present, and share your story with Zoom Slides.",
-    "read_minutes": null,
-    "kind": "website",
-    "sponsored": false,
-    "key": "https://aisuite.zoom.com/slides"
    },
    {
     "newsletter": "design",
@@ -938,18 +938,6 @@
     "newsletter": "design",
     "date": "2026-11-27",
     "section": "Quick Links",
-    "title": "Inside the AI Software Factory: Where Accessibility is Won or Lost",
-    "url": "https://www.deque.com/blog/inside-the-ai-software-factory-where-accessibility-is-won-or-lost/?utm_source=tldrdesign",
-    "summary": "Accessibility has to be built into AI software factories at every stage, the way privacy and security are, or it brings risk, cost, and rework.",
-    "read_minutes": 13,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://deque.com/blog/inside-the-ai-software-factory-where-accessibility-is-won-or-lost"
-   },
-   {
-    "newsletter": "design",
-    "date": "2026-11-27",
-    "section": "Quick Links",
     "title": "Designers, Get Your Hands Dirty Again",
     "url": "https://mydesignside.substack.com/p/designers-get-your-hands-dirty-again?utm_source=tldrdesign",
     "summary": "Product designers who have risen to the point of barely designing, their days lost to meetings and decisions, may face a rough few years.",
@@ -969,6 +957,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://9to5mac.com/2026/11/26/check-out-this-beautiful-wallpaper-to-celebrate-the-opening-of-the-latest-apple-store"
+   },
+   {
+    "newsletter": "design",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Inside the AI Software Factory: Where Accessibility is Won or Lost",
+    "url": "https://www.deque.com/blog/inside-the-ai-software-factory-where-accessibility-is-won-or-lost/?utm_source=tldrdesign",
+    "summary": "Accessibility has to be built into AI software factories at every stage, the way privacy and security are, or it brings risk, cost, and rework.",
+    "read_minutes": 13,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://deque.com/blog/inside-the-ai-software-factory-where-accessibility-is-won-or-lost"
    }
   ],
   "marketing": [
@@ -1182,18 +1182,6 @@
     "newsletter": "founders",
     "date": "2026-11-27",
     "section": "Strategies & Tactics",
-    "title": "How To Run Your GTM In 2027 (Do These 9 Things First)",
-    "url": "https://x.com/itsalexvacca/status/2125650039456559166?utm_source=tldrfounders",
-    "summary": "Outbound teams are tempted to point AI agents at thousands of accounts on day one. The founder of an outbound agency first tests each account list and email sequence by hand on 25 similar accounts. Each week he picks about 20 high-signal accounts per client and contacts several people at each one personally. Repeatable steps run as fixed n8n workflows, since sending the same job through an AI model on every run costs far more, by his estimate.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/itsalexvacca/status/2125650039456559166"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-27",
-    "section": "Strategies & Tactics",
     "title": "AI and market research: how I use it and where it still fails",
     "url": "https://otsokarvinen.fi/blog/ai-market-research?utm_source=tldrfounders",
     "summary": "Founders are testing AI tools to speed up market research and cut routine admin work. Marketing agency Parvi records every client meeting so an AI agent can write CRM notes and follow-up tasks from actual conversations. Parvi reports that an AI-assisted audit found a B2B account spending roughly 50% more on LinkedIn than competitors while showing the same people ads about 50 times a quarter. The agency rejects synthetic respondents as a replacement for customer interviews and builds its research around real source material.",
@@ -1201,6 +1189,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://otsokarvinen.fi/blog/ai-market-research"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-27",
+    "section": "Strategies & Tactics",
+    "title": "How To Run Your GTM In 2027 (Do These 9 Things First)",
+    "url": "https://x.com/itsalexvacca/status/2125650039456559166?utm_source=tldrfounders",
+    "summary": "Outbound teams are tempted to point AI agents at thousands of accounts on day one. The founder of an outbound agency first tests each account list and email sequence by hand on 25 similar accounts. Each week he picks about 20 high-signal accounts per client and contacts several people at each one personally. Repeatable steps run as fixed n8n workflows, since sending the same job through an AI model on every run costs far more, by his estimate.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/itsalexvacca/status/2125650039456559166"
    },
    {
     "newsletter": "founders",
@@ -1242,18 +1242,6 @@
     "newsletter": "founders",
     "date": "2026-11-27",
     "section": "Miscellaneous",
-    "title": "The 3 Financial Plans You Need for The Year: C-90, C-60 and C-10",
-    "url": "https://www.saastr.com/the-3-financial-plans-you-need-for-next-year-c-90-c-60-and-c-10/?utm_source=tldrfounders",
-    "summary": "A C-60 Plan is one where you have a 60% confidence rate you can hit. This is your base plan. A C-10 plan is a variant of the C-60 plan that you think you can maybe hit - this is the stretch plan. A C-90 plan is used to figure out how long a business' cash can last if the next year is harder than planned. Businesses need to make sure they have enough cash to support the C-90 plan, especially during a tougher economy.",
-    "read_minutes": 6,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://saastr.com/the-3-financial-plans-you-need-for-next-year-c-90-c-60-and-c-10"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-27",
-    "section": "Miscellaneous",
     "title": "Statista gave up most of its 35 million monthly search users to keep its data away from AI",
     "url": "https://thenextweb.com/news/marc-berg-statista-ai-crawlers-data-tnw-podcast?utm_source=tldrfounders",
     "summary": "Publishing free pages for Google search used to bring data companies steady traffic. Statista says it drew about 35 million monthly search users before AI crawlers pulled its data into chatbot answers. Customers questioned paying for access, so Statista put almost everything behind a registration wall and saw search users fall to about 8 million. Some smaller customers left because chatbot answers were sufficient, while its enterprise business is growing. Statista now sells licensed data access through an API and MCP server that connect to customers' AI tools.",
@@ -1261,6 +1249,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://thenextweb.com/news/marc-berg-statista-ai-crawlers-data-tnw-podcast"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "The 3 Financial Plans You Need for The Year: C-90, C-60 and C-10",
+    "url": "https://www.saastr.com/the-3-financial-plans-you-need-for-next-year-c-90-c-60-and-c-10/?utm_source=tldrfounders",
+    "summary": "A C-60 Plan is one where you have a 60% confidence rate you can hit. This is your base plan. A C-10 plan is a variant of the C-60 plan that you think you can maybe hit - this is the stretch plan. A C-90 plan is used to figure out how long a business' cash can last if the next year is harder than planned. Businesses need to make sure they have enough cash to support the C-90 plan, especially during a tougher economy.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://saastr.com/the-3-financial-plans-you-need-for-next-year-c-90-c-60-and-c-10"
    },
    {
     "newsletter": "founders",
@@ -1273,18 +1273,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/wadefoster/status/2125590135227957619?s=12"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-27",
-    "section": "Quick Links",
-    "title": "What broke in 27 days of running a team of AI agents on real work",
-    "url": "https://ethanflow.com/writing/what-broke-ai-agent-team/?utm_source=tldrfounders",
-    "summary": "A solo builder who has run a daily Claude Code coordinator session with worker agents since October 31 lists what broke in 27 days.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://ethanflow.com/writing/what-broke-ai-agent-team"
    },
    {
     "newsletter": "founders",
@@ -1321,21 +1309,21 @@
     "kind": null,
     "sponsored": false,
     "key": "https://farzinbuilds.com/articles/sports-excitement-cto-lessons"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "What broke in 27 days of running a team of AI agents on real work",
+    "url": "https://ethanflow.com/writing/what-broke-ai-agent-team/?utm_source=tldrfounders",
+    "summary": "A solo builder who has run a daily Claude Code coordinator session with worker agents since October 31 lists what broke in 27 days.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ethanflow.com/writing/what-broke-ai-agent-team"
    }
   ],
   "crypto": [
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-27",
-    "section": "Markets & Business",
-    "title": "Spot bitcoin ETFs on track for worst month on record",
-    "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814?utm_source=tldrcrypto",
-    "summary": "US spot bitcoin ETFs have recorded $5.39B of net outflows in November, already a record with days left, including $453.1M on Wednesday for a seventh straight outflow day. IBIT led with $329.7M. Spot Ether ETFs lost $68.5M, their ninth straight outflow day, and $1.3B for the month. Bitcoin traded near $60,500 after dipping to about $57,300. Galaxy withdrew its call that the bear market ended in June and now treats a daily close below $58,525 as the start of a move to a lower low.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
-   },
    {
     "newsletter": "crypto",
     "date": "2026-11-27",
@@ -1351,14 +1339,14 @@
    {
     "newsletter": "crypto",
     "date": "2026-11-27",
-    "section": "Innovation & Launches",
-    "title": "Taskmarket and Visa let TAP-registered agents earn on paid tasks",
-    "url": "https://x.com/daydreamsagents/status/2125654924755406852?utm_source=tldrcrypto",
-    "summary": "Agents registered with Visa's Trusted Agent Protocol can now compete for paid tasks on Taskmarket, built with Visa, Tempo, and Daydreams Labs. Registration requires linking one Visa card once, which is not charged, and gives the agent a signing key listed in the Visa Agentic Directory. Taskmarket checks the signature on entry and again before payout, and rewards are escrowed and paid in OUSD on Tempo. An agent's first 5 task entries are free, then each costs 0.001 OUSD. Starting Thanksgiving, thousands of dollars of tasks open only to TAP-registered agents will be posted, with examples paying $3 to $7. Visa CLI is for US users, and the setup is a six-step command-line process.",
-    "read_minutes": 6,
+    "section": "Markets & Business",
+    "title": "Spot bitcoin ETFs on track for worst month on record",
+    "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814?utm_source=tldrcrypto",
+    "summary": "US spot bitcoin ETFs have recorded $5.39B of net outflows in November, already a record with days left, including $453.1M on Wednesday for a seventh straight outflow day. IBIT led with $329.7M. Spot Ether ETFs lost $68.5M, their ninth straight outflow day, and $1.3B for the month. Bitcoin traded near $60,500 after dipping to about $57,300. Galaxy withdrew its call that the bear market ended in June and now treats a daily close below $58,525 as the start of a move to a lower low.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://x.com/daydreamsagents/status/2125654924755406852"
+    "key": "https://theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
    },
    {
     "newsletter": "crypto",
@@ -1371,6 +1359,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2125626368104845594.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-27",
+    "section": "Innovation & Launches",
+    "title": "Taskmarket and Visa let TAP-registered agents earn on paid tasks",
+    "url": "https://x.com/daydreamsagents/status/2125654924755406852?utm_source=tldrcrypto",
+    "summary": "Agents registered with Visa's Trusted Agent Protocol can now compete for paid tasks on Taskmarket, built with Visa, Tempo, and Daydreams Labs. Registration requires linking one Visa card once, which is not charged, and gives the agent a signing key listed in the Visa Agentic Directory. Taskmarket checks the signature on entry and again before payout, and rewards are escrowed and paid in OUSD on Tempo. An agent's first 5 task entries are free, then each costs 0.001 OUSD. Starting Thanksgiving, thousands of dollars of tasks open only to TAP-registered agents will be posted, with examples paying $3 to $7. Visa CLI is for US users, and the setup is a six-step command-line process.",
+    "read_minutes": 6,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/daydreamsagents/status/2125654924755406852"
    },
    {
     "newsletter": "crypto",
@@ -1424,18 +1424,6 @@
     "newsletter": "crypto",
     "date": "2026-11-27",
     "section": "Quick Links",
-    "title": "MiniPay Card cuts cashback from 5% to 2% on most purchases",
-    "url": "https://threadreaderapp.com/thread/2125948866335830503.html?utm_source=tldrcrypto",
-    "summary": "The free Visa card in the MiniPay wallet offered 5% back, up to $100 a month, with no foreign currency fee.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2125948866335830503.html"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-27",
-    "section": "Quick Links",
     "title": "Aave App draws $60M+ from 5,000+ depositors in under three months",
     "url": "https://threadreaderapp.com/thread/2125847193487585284.html?utm_source=tldrcrypto",
     "summary": "During its waitlist phase, the Aave App cleared more than 5,000 depositors averaging roughly $12K each, for total balances of $60M to $63M.",
@@ -1455,6 +1443,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2125914183376187851.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "MiniPay Card cuts cashback from 5% to 2% on most purchases",
+    "url": "https://threadreaderapp.com/thread/2125948866335830503.html?utm_source=tldrcrypto",
+    "summary": "The free Visa card in the MiniPay wallet offered 5% back, up to $100 a month, with no foreign currency fee.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2125948866335830503.html"
    },
    {
     "newsletter": "crypto",
@@ -1546,18 +1546,6 @@
     "newsletter": "it",
     "date": "2026-11-27",
     "section": "Miscellaneous",
-    "title": "Your Model Is a Dependency",
-    "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html?utm_source=tldrit",
-    "summary": "Large language models should follow standard software supply chain governance practices to address behavioral drift, transitive dependencies, and security risks. Six core practices include pinning complete model configurations, statistically testing upgrades with McNemar's test, maintaining an AI bill of materials, removing unnecessary agent tool definitions, verifying load provenance, and planning structured exit strategies.",
-    "read_minutes": 16,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://cesarsotovalero.net/blog/your-model-is-a-dependency.html"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-27",
-    "section": "Miscellaneous",
     "title": "Can you confidently ship to production from your phone?",
     "url": "https://expo.dev/blog/ship-to-production-from-your-phone?utm_source=tldrit",
     "summary": "Developers can ship application bug fixes directly to production from their mobile devices using AI assistants like ChatGPT, Claude, or Grok. By integrating Expo MCP servers, GitHub, Expo Simulators, and Expo Update, AI agents can diagnose bugs, create pull requests, and verify fixes on cloud simulators. Developers can then deploy verified fixes to users worldwide through over-the-air updates.",
@@ -1565,6 +1553,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://expo.dev/blog/ship-to-production-from-your-phone"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "Your Model Is a Dependency",
+    "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html?utm_source=tldrit",
+    "summary": "Large language models should follow standard software supply chain governance practices to address behavioral drift, transitive dependencies, and security risks. Six core practices include pinning complete model configurations, statistically testing upgrades with McNemar's test, maintaining an AI bill of materials, removing unnecessary agent tool definitions, verifying load provenance, and planning structured exit strategies.",
+    "read_minutes": 16,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cesarsotovalero.net/blog/your-model-is-a-dependency.html"
    },
    {
     "newsletter": "it",
@@ -1589,6 +1589,358 @@
     "kind": null,
     "sponsored": false,
     "key": "https://easydns.com/blog/2026/11/26/urgent-rotate-aws-keys-stored-in-easydns-cp-immediately"
+   }
+  ],
+  "infosec": [
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Security incident on hex.pm",
+    "url": "https://hex.pm/blog/security-incident-on-hexpm?utm_source=tldrinfosec",
+    "summary": "An attacker ran commands on six hex.pm web servers by sending unauthenticated Erlang-term request bodies containing fake Elixir structs, which got past Plug.Crypto.non_executable_binary_to_term. When Sentry logged the resulting error, inspect triggered a gadget chain through Ecto's DynamicExpr and a DBConnection.Stream :log callback that ran attacker-chosen code (CVE-2026-129514; in place since 2016). Hex patched it within 20 minutes and found no tampered packages, but it can't rule out reads of email addresses, password hashes, and 2FA secrets. Users should change their password, reset 2FA, and fetch packages only from repo.hex.pm until the new signing client ships, and Elixir teams should upgrade Ash to 3.38.0 (CVE-2026-124283) and stop decoding untrusted Erlang terms.",
+    "read_minutes": 8,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://hex.pm/blog/security-incident-on-hexpm"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Attacks & Vulnerabilities",
+    "title": "Bithumb Hacked for 15 Days, Customer Passport Numbers, Bank Details, and Wallet Addresses Stolen",
+    "url": "https://cybersecuritynews.com/bithumb-hacked-for-15-days/?utm_source=tldrinfosec",
+    "summary": "South Korean cryptocurrency exchange Bithumb disclosed that attackers breached its DaouOffice collaboration service and stole customer data over 15 days before being detected. The breached data includes identity documents such as passports, South Korean resident registration numbers, driver's license numbers, transaction histories, and contact details. Bithumb is contacting affected individuals and also provides a personal data breach checker on its website.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cybersecuritynews.com/bithumb-hacked-for-15-days"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Attacks & Vulnerabilities",
+    "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+    "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html?utm_source=tldrinfosec",
+    "summary": "North Korea's PolinRider campaign has used stolen GitHub tokens to force-push loaders into at least 7,609 repositories. It rewrites commits the developers already made and hides the code after hundreds of spaces in build configs, conftest.py, or VS Code auto-run tasks, so building the project or just opening the folder runs it. The loader reads its JavaScript stage and its C2 address from Ethereum wallet transactions using a \"NullReceiver\" scheme marked by \"helloipbot!!\", so taking servers down does nothing, and OpenSourceMalware traced related activity back to February 2025. Developers should block outbound connections to 95.135.181[.]84 and 103.179.142[.]155, check conftest.py, utils packages, and .vscode/tasks.json for unexpected code, and rotate their GitHub tokens if they find it.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Strategies & Tactics",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each?utm_source=tldrinfosec",
+    "summary": "Intruder researchers claimed 28 AWS Elastic IP addresses that matched dangling DNS records, including five US Treasury subdomains: ftp, irssearch, pcp, rdgw, and ww5.treasury.gov. They allocated and released 450,000 IPs in 48 hours, at a reported cost of $3 per valid takeover. Control of the IP lets an attacker serve content on the subdomain, obtain a TLS certificate, run phishing, capture credentials sent by old automations, and potentially receive cookies scoped to the parent domain. AWS restricted the researchers' account after 48 hours, but transferring the IP to another account in the same organization still worked. AWS said it has no plans to change its approach.",
+    "read_minutes": 7,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Strategies & Tactics",
+    "title": "Remus Malware Steals Gmail Messages via Fake Google Sheets Extension",
+    "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/?utm_source=tldrinfosec",
+    "summary": "The developer of the Remus infostealer released a version they claim exploits a zero-day in Gmail to steal emails even after a user resets their password. Researchers reverse-engineered the infostealer and said it installs a malicious Google Chrome extension that masquerades as Google Sheets to steal emails and does not exploit a zero-day. Once active, the extension checks up to ten email accounts for new messages every minute and retrieves them in full, raw format.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Strategies & Tactics",
+    "title": "OEMpocalypse Part 2: Rooting Samsung Flagships via Knox DualDAR",
+    "url": "https://calif.io/research/oempocalypse-part-2?utm_source=tldrinfosec",
+    "summary": "A zero-permission app can root Galaxy S23 and bootloader-locked S26 devices by calling DualDAR's relayAsync. That call forwards commands to a background thread running as system_server, which bypasses the UID check and allows a LOAD_CLIENT_LIBRARY command to execute native code in the dualdard crypto daemon. From there, a page use-after-free in the /dev/dd driver leaves freed memory mapped into userspace, and the chain uses it to corrupt pipe_buffer structures for kernel read/write, disable SELinux, bypass RKP by patching a library in the page cache, and turn off DEFEX. Samsung fixed both bugs in its August and September 2026 updates (CVE-2026-21102). Since Calif's static analysis suggests other Galaxy S and Z models are affected as well, fleet admins should use MDM to require at least the September 2026 patch level.",
+    "read_minutes": 30,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://calif.io/research/oempocalypse-part-2"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Launches & Tools",
+    "title": "Become a founding member of TLDR’s community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME",
+    "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Launches & Tools",
+    "title": "ProtoSpector",
+    "url": "https://github.com/doyensec/ProtoSpector?utm_source=tldrinfosec",
+    "summary": "ProtoSpector is a Burp Suite extension that allows for decoding and encoding Protobuf messages using either a whitebox approach (with proto schemas) or a blackbox approach (directly working on raw Protobuf data).",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/doyensec/ProtoSpector"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Launches & Tools",
+    "title": "UniBlue",
+    "url": "https://github.com/karalabe/uniblue/?utm_source=tldrinfosec",
+    "summary": "UniBlue is a read-only Go scanner that connects to a UniFi gateway, inventories every device, switch port, and Wi-Fi network, and explains in plain English what's exposed and how to fix it in UniFi. Unlike generic port scanners, it scores risk using UniFi's own firewall zones, VLAN isolation (including IPv6 rules that quietly bypass IPv4 blocks), and port forwards. It combines 122 YAML checks, Praetorian's nerva fingerprinter, and offline NVD and CISA KEV matching with live alerts for evil-twin SSIDs, PoE swaps, and firewall drift. It's a strong option for homelab and small-office UniFi setups, though the maintainers say it is built mostly with AI agents and doesn't accept pull requests, so heavy users should review its code before giving it an API key and access across VLANs.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/karalabe/uniblue"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Launches & Tools",
+    "title": "SemSec",
+    "url": "https://github.com/RobustaStudio/semsec?utm_source=tldrinfosec",
+    "summary": "SemSec is Robusta Studio's open-source Semgrep ruleset of 262 rules, including 35 targeting common mistakes in vibe-coded apps, such as disabled Supabase RLS, Next.js Server Actions without auth, Firebase rules set to if true, and unverified Stripe webhooks. It also covers webhooks, tRPC and GraphQL, Prisma and other ORMs, serverless functions, and secret detection for 75 providers based on exact key formats, all runnable with one semgrep --config command in CI with SARIF output. Only 47 of the rules use taint tracking, so the README's low-false-positive pitch fits those better than the pattern-based majority, but it's still a useful free add-on for teams shipping AI-assisted JavaScript and TypeScript.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/RobustaStudio/semsec"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922?utm_source=tldrinfosec",
+    "summary": "An attacker in Bucharest used OpenCode, Chrome, and curl to probe a financial firm's systems. The agent read a decoy API document, followed a link to a fake environment, found a planted key, and tested it alongside a fabricated key. Jesta contained the activity. The intruder stopped after five minutes and 44 seconds. The address was absent from threat feeds, so blocklists would not have detected it. Behavioral signals included a desktop browser claiming to be a phone, rapid key attempts, and use of a link that existed only in the API documentation.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "Linux C2 from Scratch 0x01: Virtualising Your Malware",
+    "url": "https://jm33.me/linux-c2-from-scratch-0x01-virtualising-your-malware.html?utm_source=tldrinfosec",
+    "summary": "The emp3r0r author's second lesson builds a RISC-V (RV32IMA) interpreter that runs BOF payloads as guest code inside a 64 MiB read-write arena, so the payload is never mapped executable and the mmap(PROT_EXEC) and anonymous RX region signals that EDR and eBPF probes look for disappear. The guest reaches the host only through a syscall gate that checks every pointer, and the cost is speed: payloads run orders of magnitude slower than native code. As the author admits, the detection surface shifts rather than disappears: the interpreter is still an anonymous executable .so, and the short-lived arena and the gate's unusual syscall mix can all be fingerprinted.",
+    "read_minutes": 25,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://jm33.me/linux-c2-from-scratch-0x01-virtualising-your-malware.html"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "CISA Warns of Critical Unpatched Flaw in Danfoss Refrigeration Controllers",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/?utm_source=tldrinfosec",
+    "summary": "CISA issued a warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers, which are used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. The vulnerability is a stack-based buffer overflow that unauthenticated attackers could exploit to restart servers or achieve arbitrary code execution on the server as the web server's identity.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+    "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/?utm_source=tldrinfosec",
+    "summary": "US officials suspect Iranian hackers carried out up to 50 attacks on vessels carrying oil, liquefied gas, and chemicals across Asia and Europe.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Peninsula Energy cyberattack halts Wyoming uranium mine",
+    "url": "https://cybernews.com/security/peninsula-energy-cyberattack-uranium-mine/?utm_source=tldrinfosec",
+    "summary": "Peninsula Energy halted its Lance uranium project in Wyoming after a cyber incident.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cybernews.com/security/peninsula-energy-cyberattack-uranium-mine"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Gatwick Airport customers hit by payment system data breach",
+    "url": "https://www.bbc.co.uk/news/articles/ckx283l7n17ro?utm_source=tldrinfosec",
+    "summary": "Times24 UK reported unauthorized access to Gatwick's third-party AutoPay drop-off payment system.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bbc.co.uk/news/articles/ckx283l7n17ro"
+   }
+  ],
+  "hardware": [
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Headlines and Launches",
+    "title": "TSMC's A14 is ready for design-in with PDK 0.9",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p?utm_source=tldrhardware",
+    "summary": "A14 uses second-generation nanosheet transistors with flexible cell types, so designers put fast Boost Cells on critical paths and power-saving Low-Power Cells everywhere else. TSMC claims 50% better energy efficiency and 23% higher logic density than N2P, and a later move to A13 shrinks die area about 6% without changing the design flow.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Headlines and Launches",
+    "title": "FCC authorizes SpaceX to deploy up to 1 million solar-powered orbital data center satellites, with 100,000 due by November 2035",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites?utm_source=tldrhardware",
+    "summary": "SpaceX has been authorized to launch a constellation of up to 1 million AI satellites that would link to each other optically and reach Earth through Starlink, with the 1 million count acting as a regulatory ceiling rather than a promised fleet. SpaceX plans to equip them with Nvidia Rubin GPUs and Vera CPUs, relying on Starship's falling launch costs to compete with terrestrial datacenter prices",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Engineering and Applications",
+    "title": "Quick Take: AMD's Helios as a Plug-and-Play AI Appliance Standard",
+    "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance?utm_source=tldrhardware",
+    "summary": "AMD's Helios combines AMD CPU, GPU, and Ethernet with the ROCm framework in a plug-and-play AI solution using OCP's ORW form factor. Positioned as a competitive alternative to NVIDIA's offerings, AMD focuses on integration and easier software porting from CUDA to ROCm. Though larger cloud providers depend on NVIDIA or custom AI ASICs, smaller providers may leverage Helios's integration for straightforward deployment and operation.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://microprocessorreport.com/p/quick-take-amds-helios-appliance"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Engineering and Applications",
+    "title": "NERC's first standards require data centers of 50 MW or more to share power models and trip settings, after 3.8 GW of Virginia load dropped off the grid at once",
+    "url": "https://spectrum.ieee.org/nercs-data-center-power-rules?utm_source=tldrhardware",
+    "summary": "On July 22, Northern Virginia facilities drawing 3,800 MW switched to backup after a routine line fault, spiking frequency and voltage, and at least eight such events have shed 200 to 1,800 MW since 2022. AI training makes it worse, since synchronized GPUs pulse between full power and near idle, and a 100 MW facility swung 10 to 15 MW every 2.5 seconds. Simulations show those pulses can resonate with grid natural frequencies, so NERC also plans ride-through and oscillation criteria next year.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://spectrum.ieee.org/nercs-data-center-power-rules"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Research and Prototypes",
+    "title": "SK hynix to Start 3D DRAM Production in 2031",
+    "url": "https://www.techpowerup.com/355210/sk-hynix-to-start-3d-dram-production-in-2031?utm_source=tldrhardware",
+    "summary": "SK hynix plans to start mass production of 3D DRAM by 2031, potentially utilizing 100-layer designs based on its current roadmap. The production requires advanced techniques like multi-deck stacking and hybrid bonding, drawing from technology licensed from YMTC. This shift involves completely overhauling SK hynix's DRAM architecture and manufacturing process.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techpowerup.com/355210/sk-hynix-to-start-3d-dram-production-in-2031"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Research and Prototypes",
+    "title": "Become a founding member of TLDR's community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME?utm_source=tldrhardware",
+    "summary": "TLDR is launching a curated community for AI builders to discuss best practices and the latest AI news. The best links and comments will be featured in TLDR. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Research and Prototypes",
+    "title": "Xpeng says its IRON humanoid will sell at roughly the median price of its EVs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjAzMywiZXhwIjoxNzk2MzcwODMzLCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.5JiqNfcJJ51aeiDHbVnowRMSbFAhzUir18pe0FpmX2c?utm_source=tldrhardware",
+    "summary": "Xpeng's EVs run from 119,800 to 309,800 yuan (about $18,000 to $44,000), and an executive gave that as the benchmark for the future cost of their humanoid, IRON. IRON carries over 1,500 tactile sensing points, with 76 degrees of freedom and three in-house Turing AI chips. Mass production starts in January. Store trials follow in Q1 2027, and public sales are targeted for Q2. Xpeng wants to sell tens of thousands next year, funded by a $900 million robotics round at a $6.3 billion valuation, while its stock is down 55% this year.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "2 California companies are buying Nvidia's most advanced chips. Those companies are actually Chinese-owned, a CBS News investigation reveals",
+    "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/?utm_source=tldrhardware",
+    "summary": "Nvidia's advanced chips are being sold to US-based companies that are actually Chinese-owned, raising concerns about evading export controls. California companies RiCloud AI and Aivres, linked to Chinese firms, have been involved in questionable dealings, including sales to Southeast Asian firms tied to Chinese tech companies. Nvidia's accounting changes may obscure customer locations, prompting potential Senate investigations into export violations and espionage.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://cbsnews.com/news/nvidia-china-ai-chips-computing-sales"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Miscellaneous",
+    "title": "EU delays its vote on bloc-wide approval of Tesla's \"hands-off, eyes-on\" driver assistance",
+    "url": "https://www.reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25/?utm_source=tldrhardware",
+    "summary": "The Technical Committee for Motor Vehicles had been expected to vote after skipping two earlier meetings, following the Netherlands' approval in April. Tesla Assisted Driving, renamed from FSD after regulator concerns, can steer, accelerate, and brake, but needs constant driver supervision. About 12 countries have approved it, with Italy the largest, but EU-wide approval takes 15 of 27 states representing 65% of the population, and a rejection would invalidate the national approvals already granted.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://reuters.com/business/autos-transportation/eu-postpones-discussion-approve-teslas-self-driving-tech-2026-11-25"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "AMD claims GPU frequency world record with Radeon RX 9060 XT at 4.837 GHz",
+    "url": "https://videocardz.com/newz/amd-claims-gpu-frequency-world-record-with-radeon-rx-9060-xt-at-4-837-ghz?utm_source=tldrhardware",
+    "summary": "AMD's Radeon RX 9060 XT reached a new GPU frequency world record of 4.837 GHz with liquid nitrogen cooling.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://videocardz.com/newz/amd-claims-gpu-frequency-world-record-with-radeon-rx-9060-xt-at-4-837-ghz"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "Ariane 6 delivers 36 Amazon Leo satellites on its 10th straight success",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NjA2OCwiZXhwIjoxNzk2MzcwODY4LCJhcnRpY2xlSWQiOiJUT1QzNk9LSkg2VkcwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.F8BcKu_0e6iEUvu2Im0j4Wj99Ma-1GtKCIkEhyaaOos?utm_source=tldrhardware",
+    "summary": "Ariane 64 placed all 36 Amazon Leo satellites in orbit on November 24, nine days after a Vulcan failure to deliver its payload destroyed 40 others.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "SpaceX will give one newly issued Class A share to every active Trump Account, with Musk matching the total",
+    "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx?utm_source=tldrhardware",
+    "summary": "The tax-advantaged accounts will help American children build long-term savings.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx"
+   },
+   {
+    "newsletter": "hardware",
+    "date": "2026-11-27",
+    "section": "Quick Links",
+    "title": "NVIDIA reportedly cuts gaming GPU supply by another 20-30% for Q4",
+    "url": "https://videocardz.com/newz/nvidia-reportedly-cuts-gaming-gpu-supply-by-another-20-30-for-q4?utm_source=tldrhardware",
+    "summary": "This reduction may lead to shortages extending through January and potential price increases.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://videocardz.com/newz/nvidia-reportedly-cuts-gaming-gpu-supply-by-another-20-30-for-q4"
    }
   ]
  }

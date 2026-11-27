@@ -78,13 +78,13 @@
     "newsletter": "tech",
     "date": "2026-11-26",
     "section": "Programming, Design & Data Science",
-    "title": "Late Mid-Game Software Engineering",
-    "url": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering/?utm_source=tldrnewsletter",
-    "summary": "There is a growing frontier of work that can be fully black-box automated. There is still some work that seems resistant to being automated, but once you have a reasonably verifiable target, then the work to get to that target largely falls to agent teams/swarms/factories. Agents' ability to do problem selection, intent, and taste is improving. This means a continuous rediscovery of what pieces require human input, and what can be fully given over, is required.",
-    "read_minutes": 7,
+    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
     "kind": null,
     "sponsored": false,
-    "key": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering"
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
    },
    {
     "newsletter": "tech",
@@ -102,13 +102,13 @@
     "newsletter": "tech",
     "date": "2026-11-26",
     "section": "Programming, Design & Data Science",
-    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
+    "title": "Late Mid-Game Software Engineering",
+    "url": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering/?utm_source=tldrnewsletter",
+    "summary": "There is a growing frontier of work that can be fully black-box automated. There is still some work that seems resistant to being automated, but once you have a reasonably verifiable target, then the work to get to that target largely falls to agent teams/swarms/factories. Agents' ability to do problem selection, intent, and taste is improving. This means a continuous rediscovery of what pieces require human input, and what can be fully given over, is required.",
+    "read_minutes": 7,
     "kind": null,
     "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
+    "key": "https://benjamincongdon.me/blog/2026/11/25/Late-Mid-Game-Software-Engineering"
    },
    {
     "newsletter": "tech",
@@ -162,13 +162,13 @@
     "newsletter": "tech",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "A shallow dive into open-source chip design",
-    "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html?utm_source=tldrnewsletter",
-    "summary": "This post, aimed at those used to a more 'pure-software' view of the computing world, provides an introduction to the open-source chip design stack.",
-    "read_minutes": 4,
+    "title": "The beauty of CSS mixins",
+    "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/?utm_source=tldrnewsletter",
+    "summary": "A CSS mixin is a named piece of CSS code that developers can define once and reuse elsewhere in a style sheet.",
+    "read_minutes": 13,
     "kind": null,
     "sponsored": false,
-    "key": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html"
+    "key": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins"
    },
    {
     "newsletter": "tech",
@@ -186,13 +186,13 @@
     "newsletter": "tech",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "The beauty of CSS mixins",
-    "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/?utm_source=tldrnewsletter",
-    "summary": "A CSS mixin is a named piece of CSS code that developers can define once and reuse elsewhere in a style sheet.",
-    "read_minutes": 13,
+    "title": "A shallow dive into open-source chip design",
+    "url": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html?utm_source=tldrnewsletter",
+    "summary": "This post, aimed at those used to a more 'pure-software' view of the computing world, provides an introduction to the open-source chip design stack.",
+    "read_minutes": 4,
     "kind": null,
     "sponsored": false,
-    "key": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins"
+    "key": "https://vitalik.eth.limo/general/2026/11/26/a_shallow_dive_into_open-source_chip_design.html"
    },
    {
     "newsletter": "tech",
@@ -574,18 +574,6 @@
     "newsletter": "webdev",
     "date": "2026-11-26",
     "section": "Launches & Tools",
-    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "webdev",
-    "date": "2026-11-26",
-    "section": "Launches & Tools",
     "title": "EdgeEver",
     "url": "https://github.com/tianma-if/edgeever?utm_source=tldrdev",
     "summary": "EdgeEver is a self-hosted note-taking and knowledge base app with cross-device sync, a browser clipper that saves articles as Markdown, and an MCP endpoint for AI agents. It can run on Cloudflare Workers or in Docker.",
@@ -593,6 +581,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/tianma-if/edgeever"
+   },
+   {
+    "newsletter": "webdev",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
    },
    {
     "newsletter": "webdev",
@@ -780,18 +780,6 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Launches & Tools",
-    "title": "External Sandbox",
-    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
-    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/prime-radiant-inc/external-sandbox"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Launches & Tools",
     "title": "Flawrence",
     "url": "https://github.com/mschwarzl/flawrence/?utm_source=tldrinfosec",
     "summary": "Flawrence is a Rust tool that reports source-code vulnerabilities only after a second LLM agent has reproduced them and a proof of concept has been written. It builds a threat model, maps the attack surface, and gives each entry point its own research agent, then drafts GitHub Security Advisories, private reports, and patches that it tries to bypass. It runs on Anthropic, OpenAI, Workers AI, or any OpenAI-compatible endpoint such as a local vLLM model, so it fits code-audit pipelines, but its agents run shell commands and can fan out to 40 at once, so it belongs in a VM and needs a MAX_COST_USD cap.",
@@ -811,6 +799,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/prepaid-host/hvpatch"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "External Sandbox",
+    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
+    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/prime-radiant-inc/external-sandbox"
    },
    {
     "newsletter": "infosec",
@@ -998,18 +998,6 @@
     "newsletter": "data",
     "date": "2026-11-26",
     "section": "Launches & Tools",
-    "title": "Polars 2.2 Brings Out-of-Core Joins and SQL-Native Iceberg Operations",
-    "url": "https://pola.rs/posts/polars-2-2/?utm_source=tldrdata",
-    "summary": "Polars 2.2 extends its streaming engine with disk-spilling equi-joins, allowing datasets larger than available RAM to be processed without exhausting memory. SQL gains INSERT, UPDATE, DELETE, and COPY, alongside native Iceberg table writes and maintenance operations. A new scan_database API and over 100 performance improvements further strengthen Polars as a single-node analytical engine for production data pipelines.",
-    "read_minutes": 9,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://pola.rs/posts/polars-2-2"
-   },
-   {
-    "newsletter": "data",
-    "date": "2026-11-26",
-    "section": "Launches & Tools",
     "title": "Orderbook-lakehouse",
     "url": "https://github.com/vanalex/orderbook-lakehouse?utm_source=tldrdata",
     "summary": "Orderbook Lakehouse is a fully local, Docker-based reference architecture for incremental market-data processing using Apache Iceberg, Apache Polaris, Spark (Scala), Redpanda Connect, and SeaweedFS. HTTP events flow through Bronze, Silver, and Gold Iceberg tables to produce order-book state and trading analytics. Iceberg snapshots enable incremental processing and idempotent recovery, while Polaris coordinates atomic metadata commits. The architecture demonstrates reliable, restartable lakehouse pipelines without managed cloud infrastructure.",
@@ -1017,6 +1005,18 @@
     "kind": "github repo",
     "sponsored": false,
     "key": "https://github.com/vanalex/orderbook-lakehouse"
+   },
+   {
+    "newsletter": "data",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
+    "title": "Polars 2.2 Brings Out-of-Core Joins and SQL-Native Iceberg Operations",
+    "url": "https://pola.rs/posts/polars-2-2/?utm_source=tldrdata",
+    "summary": "Polars 2.2 extends its streaming engine with disk-spilling equi-joins, allowing datasets larger than available RAM to be processed without exhausting memory. SQL gains INSERT, UPDATE, DELETE, and COPY, alongside native Iceberg table writes and maintenance operations. A new scan_database API and over 100 performance improvements further strengthen Polars as a single-node analytical engine for production data pipelines.",
+    "read_minutes": 9,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://pola.rs/posts/polars-2-2"
    },
    {
     "newsletter": "data",
@@ -1568,18 +1568,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Are AI-native roll-ups destined to stay small?",
-    "url": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to?utm_source=tldrfounders",
-    "summary": "Most AI-native services roll-ups still pitch as if equity will fund every acquisition.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant",
     "url": "https://www.devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/?utm_source=tldrfounders",
     "summary": "Claude reads scanned receipts and renames them, and a separate agent browser downloads receipts from websites using 1Password's command-line tool.",
@@ -1611,6 +1599,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Are AI-native roll-ups destined to stay small?",
+    "url": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to?utm_source=tldrfounders",
+    "summary": "Most AI-native services roll-ups still pitch as if equity will fund every acquisition.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://readonpaper.substack.com/p/are-ai-native-roll-ups-destined-to"
    }
   ],
   "crypto": [
