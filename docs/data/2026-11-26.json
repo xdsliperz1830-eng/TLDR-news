@@ -78,18 +78,6 @@
     "newsletter": "tech",
     "date": "2026-11-26",
     "section": "Programming, Design & Data Science",
-    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
-    "url": "https://danni763618.typeform.com/to/H1tYViME",
-    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
-    "read_minutes": null,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://danni763618.typeform.com/to/H1tYViME"
-   },
-   {
-    "newsletter": "tech",
-    "date": "2026-11-26",
-    "section": "Programming, Design & Data Science",
     "title": "Smart People Who Give a Shit Use Tools",
     "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools?utm_source=tldrnewsletter",
     "summary": "Lumping AI-using engineers in with the executives hollowing out their companies does real harm. Companies lose smart people who give a shit when they strip away ownership, punish dissent, and reward shipping volume over reliability. Give those same people real stakes, and a good model, and they won't check out. They will build the guardrails, proofs, and fixes they never had the hours to build before.",
@@ -97,6 +85,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"
+   },
+   {
+    "newsletter": "tech",
+    "date": "2026-11-26",
+    "section": "Programming, Design & Data Science",
+    "title": "Become a founding member of TLDR’s AI community (2 minute form)",
+    "url": "https://danni763618.typeform.com/to/H1tYViME",
+    "summary": "TLDR is launching a curated community for AI builders to discuss major news and launches. The best links and comments will be featured in TLDR AI. Apply here to join .",
+    "read_minutes": null,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://danni763618.typeform.com/to/H1tYViME"
    },
    {
     "newsletter": "tech",
