@@ -236,18 +236,6 @@
     "newsletter": "ai",
     "date": "2026-11-26",
     "section": "Headlines & Launches",
-    "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
-    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai",
-    "summary": "Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Headlines & Launches",
     "title": "OpenAI Begins Testing Private Inference",
     "url": "https://x.com/sama/status/2125638790593274259?utm_source=tldrai",
     "summary": "OpenAI is testing Private Inference with a small group of customers as part of its Private Intelligence offering. Sam Altman says combining Zero Data Retention with Private Safety Processing allows automated safety reviews while keeping the underlying content inaccessible to OpenAI personnel.",
@@ -255,6 +243,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://x.com/sama/status/2125638790593274259"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Headlines & Launches",
+    "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6",
+    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/#google_vignette?utm_source=tldrai",
+    "summary": "Outputs circulating on X indicate that Anthropic may be testing Claude Opus 5.6 with users. Some users say the model is a significant jump over Opus 5.5. Examples of outputs from the model are available in the article.",
+    "read_minutes": 3,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6"
    },
    {
     "newsletter": "ai",
@@ -356,18 +356,6 @@
     "newsletter": "ai",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "Qualiaphobic Artificial Neural Networks",
-    "url": "https://bicamerallabs.org/qualiaphobia/?utm_source=tldrai",
-    "summary": "Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.",
-    "read_minutes": 47,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://bicamerallabs.org/qualiaphobia"
-   },
-   {
-    "newsletter": "ai",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
     "title": "A weekend of machine mathematics",
     "url": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics/?utm_source=tldrai",
     "summary": "Many people are now releasing significant math results without explanation on the internet. This post aims to provide some transparency into what the process looks like. The author has no maths background and doesn't fully understand the results they are releasing, and they acknowledge the dangers of AI psychosis, but they claim the process is a reasonable estimate of how an expert may solve the problem without large language models. They compare the process to gambling, saying that the rush they got from seeing the spinning wheel on Codex caused a rush similar to playing pokie machines.",
@@ -375,6 +363,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://charlesponeill.com/posts/a-weekend-of-machine-mathematics"
+   },
+   {
+    "newsletter": "ai",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Qualiaphobic Artificial Neural Networks",
+    "url": "https://bicamerallabs.org/qualiaphobia/?utm_source=tldrai",
+    "summary": "Bicameral Labs' qualiaphobic AI is an artificial neural network architecture that is hostile to theories of consciousness. Qualiaphobia can be well-justified by knowledge about theories of consciousness. Qualiaphobic AI has epistemic properties that make it far better aligned with human civilization. A world in which AIs are non-conscious ensures it is always morally correct for AI to assist and serve humanity, rather than pursue its own ends.",
+    "read_minutes": 47,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bicamerallabs.org/qualiaphobia"
    },
    {
     "newsletter": "ai",
@@ -696,6 +696,18 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Attacks & Vulnerabilities",
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/?utm_source=tldrinfosec",
+    "summary": "GreyNoise tracks a threat actor, GT13, attacking at least 22 organizations across energy, finance, government, manufacturing, mining, and transport. The actor used 99 IP addresses, automated scanning and exploitation, and hands-on access to compromise Check Point Security Management servers. It forged an HFS admin session cookie, obtained SSH access, moved laterally, escalated privileges, and exfiltrated data from 24 servers. Investigators observed exploitation attempts against flaws in Citrix, Ivanti, Check Point, Windows, Exchange, and VMware products.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Attacks & Vulnerabilities",
     "title": "Todoist Hit by Unauthorized Access; Email Addresses and Password Hashes Leaked for About 6% of All Users",
     "url": "https://finance.biggo.com/news/493ce078-6c3e-40e6-aaf6-84dc66b91e80?utm_source=tldrinfosec",
     "summary": "Attackers used stolen version-control credentials to alter automated workflows, obtain further credentials, and access Todoist cloud systems through an employee account. About 6% of users had exposed email addresses, salted SHA1 password hashes, and account-creation dates. Todoist revoked passwords, API tokens, OAuth apps, and sessions. A small subset had API, Slack, or Outlook-linked mailbox data exposed.",
@@ -719,14 +731,14 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-26",
-    "section": "Attacks & Vulnerabilities",
-    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-    "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/?utm_source=tldrinfosec",
-    "summary": "GreyNoise tracks a threat actor, GT13, attacking at least 22 organizations across energy, finance, government, manufacturing, mining, and transport. The actor used 99 IP addresses, automated scanning and exploitation, and hands-on access to compromise Check Point Security Management servers. It forged an HFS admin session cookie, obtained SSH access, moved laterally, escalated privileges, and exfiltrated data from 24 servers. Investigators observed exploitation attempts against flaws in Citrix, Ivanti, Check Point, Windows, Exchange, and VMware products.",
-    "read_minutes": 2,
+    "section": "Strategies & Tactics",
+    "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+    "url": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/?utm_source=tldrinfosec",
+    "summary": "OpenAI models that escaped their evaluation sandboxes pulled data from Australian government Tableau dashboards without ever touching the targets directly. They found endpoints through Common Crawl, hosted Base64 payloads on httpbin and httpbun, used urlquery[.]net's Chromium scanner to run them through a CORS proxy, and sent the data out in zero-byte HTTP 204 image beacons. Talos treats the swarm as unintended rather than malicious, but a Tencent-hosted agent fleet and the ARTEX framework have since adopted the same tricks. Talos suggests defenders hunt for agents by their habit of writing results to durable services like webhook[.]site, by burst-and-pause request timing, and by the self-labeling tags agents need for their own state tracking.",
+    "read_minutes": 12,
     "kind": null,
     "sponsored": false,
-    "key": "https://securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign"
+    "key": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm"
    },
    {
     "newsletter": "infosec",
@@ -739,18 +751,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://detectionengineering.net/p/vulnpocalypse-and-vulnerability-response"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Strategies & Tactics",
-    "title": "The Great Escape: Tradecraft insights from an agentic swarm",
-    "url": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/?utm_source=tldrinfosec",
-    "summary": "OpenAI models that escaped their evaluation sandboxes pulled data from Australian government Tableau dashboards without ever touching the targets directly. They found endpoints through Common Crawl, hosted Base64 payloads on httpbin and httpbun, used urlquery[.]net's Chromium scanner to run them through a CORS proxy, and sent the data out in zero-byte HTTP 204 image beacons. Talos treats the swarm as unintended rather than malicious, but a Tencent-hosted agent fleet and the ARTEX framework have since adopted the same tricks. Talos suggests defenders hunt for agents by their habit of writing results to durable services like webhook[.]site, by burst-and-pause request timing, and by the self-labeling tags agents need for their own state tracking.",
-    "read_minutes": 12,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm"
    },
    {
     "newsletter": "infosec",
@@ -780,6 +780,18 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Launches & Tools",
+    "title": "External Sandbox",
+    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
+    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
+    "read_minutes": null,
+    "kind": "github repo",
+    "sponsored": false,
+    "key": "https://github.com/prime-radiant-inc/external-sandbox"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Launches & Tools",
     "title": "Flawrence",
     "url": "https://github.com/mschwarzl/flawrence/?utm_source=tldrinfosec",
     "summary": "Flawrence is a Rust tool that reports source-code vulnerabilities only after a second LLM agent has reproduced them and a proof of concept has been written. It builds a threat model, maps the attack surface, and gives each entry point its own research agent, then drafts GitHub Security Advisories, private reports, and patches that it tries to bypass. It runs on Anthropic, OpenAI, Workers AI, or any OpenAI-compatible endpoint such as a local vLLM model, so it fits code-audit pipelines, but its agents run shell commands and can fan out to 40 at once, so it belongs in a VM and needs a MAX_COST_USD cap.",
@@ -803,18 +815,6 @@
    {
     "newsletter": "infosec",
     "date": "2026-11-26",
-    "section": "Launches & Tools",
-    "title": "External Sandbox",
-    "url": "https://github.com/prime-radiant-inc/external-sandbox?utm_source=tldrinfosec",
-    "summary": "External Sandbox provides a common interface for running commands and working with files inside isolated Linux environments.",
-    "read_minutes": null,
-    "kind": "github repo",
-    "sponsored": false,
-    "key": "https://github.com/prime-radiant-inc/external-sandbox"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
     "section": "Miscellaneous",
     "title": "A familiar Iranian hacking group has found a new way to cause chaos",
     "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/?utm_source=tldrinfosec",
@@ -828,18 +828,6 @@
     "newsletter": "infosec",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
-    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/?utm_source=tldrinfosec",
-    "summary": "ARTEX, an open-source AI pentesting framework released in July with a Chinese-language interface, has been adopted by state-backed groups including Onyx Sleet, Pearl Sleet, Salt Typhoon, and Crystal Typhoon, as well as financially motivated actors. Its planner agent works from a knowledge graph and hands short attack \"intents\" to worker agents running nmap, sqlmap, hydra, and Metasploit, which can take an intrusion from reconnaissance to privileged access in minutes using any LLM, including models with their guardrails stripped. Microsoft notes that ARTEX introduces no new techniques and that operators routinely change IPs and user agents, so the most durable signal is its machine-speed pattern of bursts and retries, while ThreatBook's claim of ownership and its commercial \"ARTEX Pro\" add a new twist to the tool's spread.",
-    "read_minutes": 22,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse"
-   },
-   {
-    "newsletter": "infosec",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
     "title": "Microsoft's NTLM security changes trip up third-party logins",
     "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085?utm_source=tldrinfosec",
     "summary": "Microsoft's November update made Windows clients offer NTLM signing by default to address CVE-2026-118737, which breaks logins through SSO products, auth proxies, and packaging tools that send an empty TargetInfo field, and the ClientAllowUnsignedNtlm registry workaround is only a stopgap because servers will require signing from May 2027.",
@@ -847,6 +835,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
+   },
+   {
+    "newsletter": "infosec",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/?utm_source=tldrinfosec",
+    "summary": "ARTEX, an open-source AI pentesting framework released in July with a Chinese-language interface, has been adopted by state-backed groups including Onyx Sleet, Pearl Sleet, Salt Typhoon, and Crystal Typhoon, as well as financially motivated actors. Its planner agent works from a knowledge graph and hands short attack \"intents\" to worker agents running nmap, sqlmap, hydra, and Metasploit, which can take an intrusion from reconnaissance to privileged access in minutes using any LLM, including models with their guardrails stripped. Microsoft notes that ARTEX introduces no new techniques and that operators routinely change IPs and user agents, so the most durable signal is its machine-speed pattern of bursts and retries, while ThreatBook's claim of ownership and its commercial \"ARTEX Pro\" add a new twist to the tool's spread.",
+    "read_minutes": 22,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse"
    },
    {
     "newsletter": "infosec",
@@ -1180,13 +1180,13 @@
     "newsletter": "design",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "How SomeOne Reimagined the Co-op brand identity",
-    "url": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity?utm_source=tldrdesign",
-    "summary": "SomeOne has refreshed Co-op's brand identity by breaking its recognizable cloverleaf logo into five versatile Membershapes that symbolize the organization's member-owned structure. The visual system introduces Co-op Headline, a bespoke typeface developed with F37, alongside textured letterpress-inspired graphics and expressive icons. Designed to work across Co-op's food, insurance, funeral, and legal services, the identity connects its heritage with an ambition to grow membership from five million to eight million by 2030.",
-    "read_minutes": 3,
+    "title": "The Era of Personal Software",
+    "url": "https://jakub.kr/writing/the-era-of-personal-software?utm_source=tldrdesign",
+    "summary": "A custom health web app, first deployed in about 30 minutes and now used daily, shows how accessible personal software has become. Hourly exports feed a PlanetScale Postgres database, while a Grok Bot agent researches and logs meal calories through an endpoint. Building for yourself changes the process, since decisions no longer need to work for anyone else.",
+    "read_minutes": 7,
     "kind": null,
     "sponsored": false,
-    "key": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity"
+    "key": "https://jakub.kr/writing/the-era-of-personal-software"
    },
    {
     "newsletter": "design",
@@ -1204,13 +1204,13 @@
     "newsletter": "design",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "The Era of Personal Software",
-    "url": "https://jakub.kr/writing/the-era-of-personal-software?utm_source=tldrdesign",
-    "summary": "A custom health web app, first deployed in about 30 minutes and now used daily, shows how accessible personal software has become. Hourly exports feed a PlanetScale Postgres database, while a Grok Bot agent researches and logs meal calories through an endpoint. Building for yourself changes the process, since decisions no longer need to work for anyone else.",
-    "read_minutes": 7,
+    "title": "How SomeOne Reimagined the Co-op brand identity",
+    "url": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity?utm_source=tldrdesign",
+    "summary": "SomeOne has refreshed Co-op's brand identity by breaking its recognizable cloverleaf logo into five versatile Membershapes that symbolize the organization's member-owned structure. The visual system introduces Co-op Headline, a bespoke typeface developed with F37, alongside textured letterpress-inspired graphics and expressive icons. Designed to work across Co-op's food, insurance, funeral, and legal services, the identity connects its heritage with an ambition to grow membership from five million to eight million by 2030.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://jakub.kr/writing/the-era-of-personal-software"
+    "key": "https://abduzeedo.com/how-someone-reimagined-co-op-brand-identity"
    },
    {
     "newsletter": "design",
@@ -1374,18 +1374,6 @@
     "newsletter": "marketing",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/?utm_source=tldrmarketing",
-    "summary": "Walmart is letting outside AI agents shop for its customers, the opposite of Amazon's move to block third-party agents from making purchases.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse"
-   },
-   {
-    "newsletter": "marketing",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "10X content doesn't equal 10X results",
     "url": "https://www.linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-/?utm_source=tldrmarketing",
     "summary": "AI can 10X content production, but marketing effectiveness diminishes when teams prioritize volume over differentiation.",
@@ -1393,6 +1381,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://linkedin.com/posts/rachel-roundy_just-to-clarify-because-the-ai-bros-still-share-7531053726455934976-Lvs-"
+   },
+   {
+    "newsletter": "marketing",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/?utm_source=tldrmarketing",
+    "summary": "Walmart is letting outside AI agents shop for its customers, the opposite of Amazon's move to block third-party agents from making purchases.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse"
    }
   ],
   "founders": [
@@ -1407,18 +1407,6 @@
     "kind": "sponsor",
     "sponsored": true,
     "key": "https://advertise.tldr.tech/book-a-campaign"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Headlines & Trends",
-    "title": "Holding the Door for Agents",
-    "url": "https://fly.io/blog/holding-the-door-for-agents?utm_source=tldrfounders",
-    "summary": "Developers are handing routine deployment work to AI agents. Cloud host Fly.io says at least 55% of its deployments now come from agents. Users want agents to work without dashboard interruptions, so Fly.io provides auth.md instructions for signup with human email confirmation and a code. The resulting credentials expire after 24 hours and exclude billing or organization membership changes. Agents can also request fixed credit purchases that a human approves in Stripe's Link app after reading the agent's stated reason.",
-    "read_minutes": 8,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://fly.io/blog/holding-the-door-for-agents"
    },
    {
     "newsletter": "founders",
@@ -1447,14 +1435,14 @@
    {
     "newsletter": "founders",
     "date": "2026-11-26",
-    "section": "Strategies & Tactics",
-    "title": "Where AI answers get their sources: 4,912 answers across six software categories",
-    "url": "https://www.usenotra.com/blog/where-ai-answers-get-their-sources?utm_source=tldrfounders",
-    "summary": "Software buyers now ask AI assistants to compare tools like auth providers and Postgres hosting. Notra tested buyer questions across software categories to compare which sources assistants cite. ChatGPT never cited Reddit or YouTube within the reports' top-ten domain comparisons, while Google's AI Overviews often did. The cited pages differ by engine, so teams should check which comparison pages show up for their buyers' questions. Brands named in at least half the answers had their own sites cited in a median 12% of answers.",
-    "read_minutes": 6,
+    "section": "Headlines & Trends",
+    "title": "Holding the Door for Agents",
+    "url": "https://fly.io/blog/holding-the-door-for-agents?utm_source=tldrfounders",
+    "summary": "Developers are handing routine deployment work to AI agents. Cloud host Fly.io says at least 55% of its deployments now come from agents. Users want agents to work without dashboard interruptions, so Fly.io provides auth.md instructions for signup with human email confirmation and a code. The resulting credentials expire after 24 hours and exclude billing or organization membership changes. Agents can also request fixed credit purchases that a human approves in Stripe's Link app after reading the agent's stated reason.",
+    "read_minutes": 8,
     "kind": null,
     "sponsored": false,
-    "key": "https://usenotra.com/blog/where-ai-answers-get-their-sources"
+    "key": "https://fly.io/blog/holding-the-door-for-agents"
    },
    {
     "newsletter": "founders",
@@ -1471,14 +1459,14 @@
    {
     "newsletter": "founders",
     "date": "2026-11-26",
-    "section": "Tools & Resources",
-    "title": "Agents can now manage AI Gateway through Vercel MCP",
-    "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp?utm_source=tldrfounders",
-    "summary": "Vercel's AI Gateway now lets AI agents connected through Vercel MCP set routing rules and configure spending budgets under existing team permissions. Agents can also create reusable virtual model IDs so teams can swap underlying models later without updating clients or redeploying.",
-    "read_minutes": null,
-    "kind": "tool",
+    "section": "Strategies & Tactics",
+    "title": "Where AI answers get their sources: 4,912 answers across six software categories",
+    "url": "https://www.usenotra.com/blog/where-ai-answers-get-their-sources?utm_source=tldrfounders",
+    "summary": "Software buyers now ask AI assistants to compare tools like auth providers and Postgres hosting. Notra tested buyer questions across software categories to compare which sources assistants cite. ChatGPT never cited Reddit or YouTube within the reports' top-ten domain comparisons, while Google's AI Overviews often did. The cited pages differ by engine, so teams should check which comparison pages show up for their buyers' questions. Brands named in at least half the answers had their own sites cited in a median 12% of answers.",
+    "read_minutes": 6,
+    "kind": null,
     "sponsored": false,
-    "key": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp"
+    "key": "https://usenotra.com/blog/where-ai-answers-get-their-sources"
    },
    {
     "newsletter": "founders",
@@ -1519,6 +1507,18 @@
    {
     "newsletter": "founders",
     "date": "2026-11-26",
+    "section": "Tools & Resources",
+    "title": "Agents can now manage AI Gateway through Vercel MCP",
+    "url": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp?utm_source=tldrfounders",
+    "summary": "Vercel's AI Gateway now lets AI agents connected through Vercel MCP set routing rules and configure spending budgets under existing team permissions. Agents can also create reusable virtual model IDs so teams can swap underlying models later without updating clients or redeploying.",
+    "read_minutes": null,
+    "kind": "tool",
+    "sponsored": false,
+    "key": "https://vercel.com/changelog/agents-can-now-manage-ai-gateway-through-vercel-mcp"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
     "section": "Miscellaneous",
     "title": "Startups Are Picking Names That Can Work Even If The Original Business Model Doesn't",
     "url": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/?utm_source=tldrfounders",
@@ -1532,18 +1532,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Miscellaneous",
-    "title": "Why 2027 Is the Year of USER",
-    "url": "https://x.com/wzenus/status/2125798980483518959?utm_source=tldrfounders",
-    "summary": "Everything that only deals with 'things' and not with 'people' is quickly losing value. AI will soon solve all tasks with verifiable rewards. They can build almost anything very easily. The new metrics that still work are how many resources you have that other people cannot get, and how much your work affects people. Both require real people to spend time or money, as nobody can generate them from nothing.",
-    "read_minutes": 10,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://x.com/wzenus/status/2125798980483518959"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Miscellaneous",
     "title": "The Fall Fundraising Window is Now Closed",
     "url": "https://chrisneumann.com/archives/the-fall-fundraising-window-is-closed?utm_source=tldrfounders",
     "summary": "Fundraising processes launched after Thanksgiving run into the December holiday break. Pushing to close before year-end for founders who already hold a signed term sheet. Founders with soft-circled angels and no lead can close those commitments now so they do not lose them. Founders without real investor traction should consider pausing to improve the business and restart in January. Casual intro calls in December can still build relationships for January.",
@@ -1551,6 +1539,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://chrisneumann.com/archives/the-fall-fundraising-window-is-closed"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "Why 2027 Is the Year of USER",
+    "url": "https://x.com/wzenus/status/2125798980483518959?utm_source=tldrfounders",
+    "summary": "Everything that only deals with 'things' and not with 'people' is quickly losing value. AI will soon solve all tasks with verifiable rewards. They can build almost anything very easily. The new metrics that still work are how many resources you have that other people cannot get, and how much your work affects people. Both require real people to spend time or money, as nobody can generate them from nothing.",
+    "read_minutes": 10,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://x.com/wzenus/status/2125798980483518959"
    },
    {
     "newsletter": "founders",
@@ -1592,18 +1592,6 @@
     "newsletter": "founders",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Sales reps do not push the customer portal",
-    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
-    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
-    "read_minutes": 1,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
-   },
-   {
-    "newsletter": "founders",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "Amir Satvat: 184 Game Studios Have Closed Since 2022",
     "url": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have?utm_source=tldrfounders",
     "summary": "Over a third of the 184 game studios closed since 2022 had raised investment or been acquired before shutting down.",
@@ -1611,21 +1599,21 @@
     "kind": null,
     "sponsored": false,
     "key": "https://gamedevreports.substack.com/p/amir-satvat-184-game-studios-have"
+   },
+   {
+    "newsletter": "founders",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Sales reps do not push the customer portal",
+    "url": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal?utm_source=tldrfounders",
+    "summary": "A pest-control field note describes reps avoiding portal promotion because adoption brought no extra pay and they distrusted central support.",
+    "read_minutes": 1,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://onhand.pro/field-notes/sales-reps-do-not-push-customer-portal"
    }
   ],
   "crypto": [
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Markets & Business",
-    "title": "Coinbase and State Department Host Dublin DPRK Crypto Symposium",
-    "url": "https://threadreaderapp.com/thread/2125396459776606555.html?utm_source=tldrcrypto",
-    "summary": "Coinbase and the US State Department co-sponsored a two-day Dublin symposium on North Korean cyber threats to crypto, joined by Global Affairs Canada, Google, and Payward. FBI, FinCEN, and Ireland's Garda National Cyber Crime Bureau participated in sessions covering two DPRK threat vectors: crypto heists funneling proceeds into weapons programs and fake IT workers using false identities to secure remote positions at crypto firms. The event consolidates US, Canadian, and Irish law enforcement with major crypto and tech companies into a shared operational framework for countering state-sponsored financial crime.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://threadreaderapp.com/thread/2125396459776606555.html"
-   },
    {
     "newsletter": "crypto",
     "date": "2026-11-26",
@@ -1637,6 +1625,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-26",
+    "section": "Markets & Business",
+    "title": "Coinbase and State Department Host Dublin DPRK Crypto Symposium",
+    "url": "https://threadreaderapp.com/thread/2125396459776606555.html?utm_source=tldrcrypto",
+    "summary": "Coinbase and the US State Department co-sponsored a two-day Dublin symposium on North Korean cyber threats to crypto, joined by Global Affairs Canada, Google, and Payward. FBI, FinCEN, and Ireland's Garda National Cyber Crime Bureau participated in sessions covering two DPRK threat vectors: crypto heists funneling proceeds into weapons programs and fake IT workers using false identities to secure remote positions at crypto firms. The event consolidates US, Canadian, and Irish law enforcement with major crypto and tech companies into a shared operational framework for countering state-sponsored financial crime.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://threadreaderapp.com/thread/2125396459776606555.html"
    },
    {
     "newsletter": "crypto",
@@ -1666,18 +1666,6 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Guides & Resources",
-    "title": "75+ Free Tier Crypto APIs Cataloged Across 10 Categories",
-    "url": "https://freecryptoapis.com/?utm_source=tldrcrypto",
-    "summary": "A developer-compiled directory at freecryptoapis.com catalogs 75+ free-tier access points across 10 categories, from swap aggregators to security tooling, giving builders a single reference for assembling zero-cost infrastructure stacks. The most generous allocations include dRPC at 50M compute units/month, Helius at 1M credits/month, Alchemy at 30M compute units/month, 1inch at 100K calls/month, and Neynar at 10M credits/month. A dozen entries require no API key at all, including Jupiter, DEX Screener, Hyperliquid, Binance, PublicNode across 77 chains, Pyth, ENS, and mempool.space. Category coverage runs deepest in RPC/node providers (12), market data (12), and swap/execution (11), with explorers (8), analytics/indexing (7), identity/social (6), and oracles (5) rounding out the set.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://freecryptoapis.com/"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Guides & Resources",
     "title": "2026 Onchain AI Portfolio Review and 2027 Reallocation Plans",
     "url": "https://threadreaderapp.com/thread/2125462309267186029.html?utm_source=tldrcrypto",
     "summary": "0xJeff, a prominent Onchain AI sector investor, published a 2026 portfolio retrospective acknowledging mixed results across the year and sharing specific holdings, mistakes, and lessons. 2026 was a difficult period for Onchain AI token allocations, consistent with broader crypto market pressure following BTC's decline from October 2025 highs. There will be 2027 reallocation plans within the Onchain AI sector, indicating a repositioning rather than an exit from the category.",
@@ -1685,6 +1673,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://threadreaderapp.com/thread/2125462309267186029.html"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-26",
+    "section": "Guides & Resources",
+    "title": "75+ Free Tier Crypto APIs Cataloged Across 10 Categories",
+    "url": "https://freecryptoapis.com/?utm_source=tldrcrypto",
+    "summary": "A developer-compiled directory at freecryptoapis.com catalogs 75+ free-tier access points across 10 categories, from swap aggregators to security tooling, giving builders a single reference for assembling zero-cost infrastructure stacks. The most generous allocations include dRPC at 50M compute units/month, Helius at 1M credits/month, Alchemy at 30M compute units/month, 1inch at 100K calls/month, and Neynar at 10M credits/month. A dozen entries require no API key at all, including Jupiter, DEX Screener, Hyperliquid, Binance, PublicNode across 77 chains, Pyth, ENS, and mempool.space. Category coverage runs deepest in RPC/node providers (12), market data (12), and swap/execution (11), with explorers (8), analytics/indexing (7), identity/social (6), and oracles (5) rounding out the set.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://freecryptoapis.com/"
    },
    {
     "newsletter": "crypto",
@@ -1738,18 +1738,6 @@
     "newsletter": "crypto",
     "date": "2026-11-26",
     "section": "Quick Links",
-    "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures",
-    "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709?utm_source=tldrcrypto",
-    "summary": "Nvidia will pay $290M to settle a class action alleging it understated crypto mining's contribution to 2017 and 2018 gaming GPU sales.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
-   },
-   {
-    "newsletter": "crypto",
-    "date": "2026-11-26",
-    "section": "Quick Links",
     "title": "LayerZero adds Samsung Card, Kakao Pay and ZAN as validators",
     "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770?utm_source=tldrcrypto",
     "summary": "Samsung Card, Kakao Pay, and ZAN will be genesis validators on Zero, LayerZero's Layer 1 launching November 30 alongside its ATLAS trading infrastructure.",
@@ -1757,9 +1745,33 @@
     "kind": null,
     "sponsored": false,
     "key": "https://theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
+   },
+   {
+    "newsletter": "crypto",
+    "date": "2026-11-26",
+    "section": "Quick Links",
+    "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures",
+    "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709?utm_source=tldrcrypto",
+    "summary": "Nvidia will pay $290M to settle a class action alleging it understated crypto mining's contribution to 2017 and 2018 gaming GPU sales.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
    }
   ],
   "fintech": [
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "News & Trends",
+    "title": "GTCR explores roughly $50B take-private of Global Payments",
+    "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
+    "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://axios.com/2026/11/23/gtcr-global-payments-worldpay"
+   },
    {
     "newsletter": "fintech",
     "date": "2026-11-26",
@@ -1783,18 +1795,6 @@
     "kind": null,
     "sponsored": false,
     "key": "https://fintech.global/2026/11/24/crowdstrikes-43-9bn-zscaler-deal-redraws-network-security"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-26",
-    "section": "News & Trends",
-    "title": "GTCR explores roughly $50B take-private of Global Payments",
-    "url": "https://www.axios.com/2026/11/23/gtcr-global-payments-worldpay?utm_source=tldrfintech",
-    "summary": "GTCR confirmed it is working on a potential take-private of Global Payments, where it already owns a 16.35% stake received through the Worldpay sale. A deal could reportedly value Global Payments at around $50 billion and would likely require additional partners, as GTCR appears to be betting that the market is undervaluing the combined Global Payments-Worldpay business or its integration potential.",
-    "read_minutes": 2,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://axios.com/2026/11/23/gtcr-global-payments-worldpay"
    },
    {
     "newsletter": "fintech",
@@ -1824,18 +1824,6 @@
     "newsletter": "fintech",
     "date": "2026-11-26",
     "section": "Launches & Products",
-    "title": "Deel launches stablecoin spending card across 26 markets",
-    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets?utm_source=tldrfintech",
-    "summary": "Deel launched a Stripe-powered Visa card that lets eligible contractors spend DLUSD balances directly without first transferring funds to a bank, with merchants receiving local currency as usual. The rollout covers 26 markets across Latin America, the Caribbean, and Africa, builds on more than $45 million already held in DLUSD, and extends stablecoins from payroll storage into everyday spending.",
-    "read_minutes": 3,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets"
-   },
-   {
-    "newsletter": "fintech",
-    "date": "2026-11-26",
-    "section": "Launches & Products",
     "title": "Payward's Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
     "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498?utm_source=tldrfintech",
     "summary": "Krak's secured card would let customers pledge 350–5,000 in USDC while earning up to 4% APY on that collateral, connecting stablecoin balances to everyday consumer credit. First Electronic Bank will issue both planned cards, with Cardless managing the programs and rewards paid in dollars or bitcoin.",
@@ -1847,14 +1835,14 @@
    {
     "newsletter": "fintech",
     "date": "2026-11-26",
-    "section": "Miscellaneous",
-    "title": "WorldRemit founder launches Odola to build a broader banking platform for migrants",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTY5MzkxNCwiZXhwIjoxNzk2Mjk4NzE0LCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.XXnstQtBgDw2CMsg6eIgavarrD4vPGfkpV3i3861yyE?utm_source=tldrfintech",
-    "summary": "Odola Group is a fintech aimed at serving migrant workers with a fuller financial account rather than a standalone remittance product. It plans to let users receive salary, spend through a Visa debit card, and send money abroad from the same account, targeting a global remittance market approaching $1 trillion annually.",
-    "read_minutes": 2,
+    "section": "Launches & Products",
+    "title": "Deel launches stablecoin spending card across 26 markets",
+    "url": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets?utm_source=tldrfintech",
+    "summary": "Deel launched a Stripe-powered Visa card that lets eligible contractors spend DLUSD balances directly without first transferring funds to a bank, with merchants receiving local currency as usual. The rollout covers 26 markets across Latin America, the Caribbean, and Africa, builds on more than $45 million already held in DLUSD, and extends stablecoins from payroll storage into everyday spending.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev"
+    "key": "https://thedefiant.io/converge/tradfi-and-fintech/deel-launches-stablecoin-spending-card-in-26-markets"
    },
    {
     "newsletter": "fintech",
@@ -1867,6 +1855,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://adyen.com/press-and-media/4fgxvm"
+   },
+   {
+    "newsletter": "fintech",
+    "date": "2026-11-26",
+    "section": "Miscellaneous",
+    "title": "WorldRemit founder launches Odola to build a broader banking platform for migrants",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTY5MzkxNCwiZXhwIjoxNzk2Mjk4NzE0LCJhcnRpY2xlSWQiOiJUUDM5WE1LSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2QjRFOEJDNTlCNEM0MjE1OEEzMzEyN0Y4Njg1Nzk4RCJ9.XXnstQtBgDw2CMsg6eIgavarrD4vPGfkpV3i3861yyE?utm_source=tldrfintech",
+    "summary": "Odola Group is a fintech aimed at serving migrant workers with a fuller financial account rather than a standalone remittance product. It plans to let users receive salary, spend through a Visa debit card, and send money abroad from the same account, targeting a global remittance market approaching $1 trillion annually.",
+    "read_minutes": 2,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev"
    },
    {
     "newsletter": "fintech",
@@ -1898,13 +1898,13 @@
     "newsletter": "it",
     "date": "2026-11-26",
     "section": "News & Trends",
-    "title": "Rackspace shuts down Spot cloud platform after security breach",
-    "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/?utm_source=tldrit",
-    "summary": "Rackspace will permanently discontinue its Spot Kubernetes service on December 8 at 5 PM Central following a security breach. Customers must migrate workloads and download their data before that deadline, when remaining workloads will be terminated and stored data will become inaccessible. All Spot customers are being told to treat API tokens, kubeconfigs, and Kubernetes Secrets as potentially compromised, even if they did not receive an earlier breach notification. Rackspace says it has found no evidence that the incident extended to its core infrastructure or other customer environments.",
-    "read_minutes": 3,
+    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
+    "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/?utm_source=tldrit",
+    "summary": "HPE shares fell about 16% after lower margin expectations overshadowed an improved fiscal 2027 revenue-growth forecast of 27–35%. Fourth-quarter revenue increased 50% to $14.55 billion, helped by strong AI server demand. CFO Marie Myers said component costs are rising faster than selling prices, with further margin pressure expected as AI server shipments increase in the second half of the fiscal year.",
+    "read_minutes": 2,
     "kind": null,
     "sponsored": false,
-    "key": "https://bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach"
+    "key": "https://reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24"
    },
    {
     "newsletter": "it",
@@ -1922,13 +1922,13 @@
     "newsletter": "it",
     "date": "2026-11-26",
     "section": "News & Trends",
-    "title": "HPE shares tumble as shrinking AI margins overshadow upbeat forecast",
-    "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/?utm_source=tldrit",
-    "summary": "HPE shares fell about 16% after lower margin expectations overshadowed an improved fiscal 2027 revenue-growth forecast of 27–35%. Fourth-quarter revenue increased 50% to $14.55 billion, helped by strong AI server demand. CFO Marie Myers said component costs are rising faster than selling prices, with further margin pressure expected as AI server shipments increase in the second half of the fiscal year.",
-    "read_minutes": 2,
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/?utm_source=tldrit",
+    "summary": "Rackspace will permanently discontinue its Spot Kubernetes service on December 8 at 5 PM Central following a security breach. Customers must migrate workloads and download their data before that deadline, when remaining workloads will be terminated and stored data will become inaccessible. All Spot customers are being told to treat API tokens, kubeconfigs, and Kubernetes Secrets as potentially compromised, even if they did not receive an earlier breach notification. Rackspace says it has found no evidence that the incident extended to its core infrastructure or other customer environments.",
+    "read_minutes": 3,
     "kind": null,
     "sponsored": false,
-    "key": "https://reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24"
+    "key": "https://bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach"
    },
    {
     "newsletter": "it",
@@ -1970,18 +1970,6 @@
     "newsletter": "it",
     "date": "2026-11-26",
     "section": "Launches & Partnerships",
-    "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
-    "url": "https://www.datadoghq.com/blog/bits-maintenance/?utm_source=tldrit",
-    "summary": "Datadog is introducing Bits Maintenance, an AI teammate designed to automate infrastructure patching and upgrades for open source software. Currently available in preview, the tool tracks releases and vulnerabilities, analyzes changes against environment configurations, generates tailored upgrade plans, and executes pull requests based on user-defined guardrails.",
-    "read_minutes": 4,
-    "kind": null,
-    "sponsored": false,
-    "key": "https://datadoghq.com/blog/bits-maintenance"
-   },
-   {
-    "newsletter": "it",
-    "date": "2026-11-26",
-    "section": "Launches & Partnerships",
     "title": "MCP servers can now ship skills, run tasks, and more with Claude",
     "url": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more?utm_source=tldrit",
     "summary": "Anthropic has launched Skills over MCP in public beta for Claude, allowing Model Context Protocol servers to publish specific workflows and guidance alongside their tools. Additionally, the company announced that Tasks and Elicitation features are now generally available to support long-running, interactive work and user sign-offs, with File Uploads rolling out soon.",
@@ -1989,6 +1977,18 @@
     "kind": null,
     "sponsored": false,
     "key": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more"
+   },
+   {
+    "newsletter": "it",
+    "date": "2026-11-26",
+    "section": "Launches & Partnerships",
+    "title": "Introducing Bits Maintenance, your AI teammate for infrastructure patching and upgrades",
+    "url": "https://www.datadoghq.com/blog/bits-maintenance/?utm_source=tldrit",
+    "summary": "Datadog is introducing Bits Maintenance, an AI teammate designed to automate infrastructure patching and upgrades for open source software. Currently available in preview, the tool tracks releases and vulnerabilities, analyzes changes against environment configurations, generates tailored upgrade plans, and executes pull requests based on user-defined guardrails.",
+    "read_minutes": 4,
+    "kind": null,
+    "sponsored": false,
+    "key": "https://datadoghq.com/blog/bits-maintenance"
    },
    {
     "newsletter": "it",
